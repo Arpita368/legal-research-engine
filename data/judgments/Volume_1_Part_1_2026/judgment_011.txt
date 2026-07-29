@@ -1,0 +1,875 @@
+[2026] 1 S.C.R. 206 : 2026 INSC 32
+Regenta Hotels Private Limited 
+v.
+M/s Hotel Grand Centre Point and Others 
+(Civil Appeal No. 90 of 2026)
+07 January 2026
+[Dipankar Datta and Augustine George Masih,* JJ.]
+Issue for Consideration
+Whether the High Court was correct in holding that the Appellant 
+has initiated arbitral proceedings after the expiry of 90 days period 
+as prescribed u/s.9(2) of the Arbitration and Conciliation Act, 1996, 
+thereby resulting in automatic vacation of ad-interim injunction in 
+terms of r.9(4) of the Arbitration (Proceedings Before the Courts) 
+Rules, 2001.
+Headnotes†
+Arbitration and Conciliation Act, 1996 – ss.21, 9(2) – 
+Arbitration (Proceedings Before the Courts) Rules, 2001 – 
+r.9 – “Commencement of arbitral proceedings” under the 
+Act – Parties entered into a Franchise Agreement in 2019 – 
+Disputes arose, Appellant filed application u/s.9 and certain 
+IAs before the Trial Court seeking injunctive reliefs against 
+the Respondent No.2 – Trial Court vide Order dtd.17.02.2024 
+granted ad-interim injunction against Respondent No.2 – 
+On 11.04.2024, appellant issued notice to the Respondents 
+invoking arbitration – Respondent No.2 sent a reply on 
+23.04.2024 refusing to concur with the nomination of the 
+Arbitrator – Appellant filed petition u/s.11(6) before the High 
+Court on 28.06.2024 seeking appointment of sole Arbitrator 
+and for referring the parties to arbitration – IAs filed by the 
+Appellant dismissed by Trial Court – Appeal filed by the 
+Appellant, dismissed by High Court – Whether the High Court 
+was correct in holding that the Appellant has initiated arbitral 
+proceedings after the expiry of 90 days period as prescribed 
+u/s.9(2), resulting in automatic vacation of ad-interim injunction 
+in terms of r.9(4), 2001 Rules:
+Held: No – Arbitral proceedings, as commenced by the Appellant, 
+are well within the statutory time frame provided u/s.9(2) and the 
+* Author
+
+[2026] 1 S.C.R. 
+207
+Regenta Hotels Private Limited v.  
+M/s Hotel Grand Centre Point and Others
+rigor of r.9(4), 2001 Rules is not applicable to the Appellant – 
+The date on which the respondent receives a notice or request 
+invoking arbitration is the moment at which the arbitral proceedings 
+commence u/s.21 – A valid invocation requires the notice to 
+articulate the dispute sought to be referred but once such notice 
+is received, commencement is complete and effective for all legal 
+purposes including limitation, maintainability of the s.11 Petition 
+and the legal efficacy of any pre-arbitral measures – Trial Court 
+passed the Order dtd.17.02.2024 granting ad-interim injunction to 
+the Appellant – Period of ninety days as provided u/s.9(2) would 
+end on 17.05.2024 – Appellant served a notice invoking arbitration 
+on 11.04.2024 – Reply of Respondent No.2 dtd.23.04.2024 refusing 
+to join in the appointment of an arbitrator entails that notice had 
+indeed been received and understood as an invocation of the 
+arbitral process by the Respondent No.2 – Even if 23.04.2024, the 
+date on which the reply sent by the Respondent No.2, is taken to 
+calculate the period of ninety days, as stipulated u/s.9(2) and the 
+consequences thereof provided u/r.9(4), 2001 Rules, the arbitral 
+proceedings have commenced well within the time and way before 
+expiry of such periods – High Court treated the date of filing of 
+the s.11 petition i.e. 28.06.2024 as the date of commencement of 
+the arbitral proceedings resulting into the finding that ad-interim 
+stay stood vacated and proceedings commenced after the expiry 
+of ninety days period provided u/s.9(2) – This finding is not 
+sustainable as it is contrary to the objective and purpose of the Act – 
+Impugned Judgment of the High Court unsustainable, set aside – 
+Order of the Trial Court dtd.01.10.2024 vacating the ad-interim 
+injunction also set aside, restoring the earlier Order dtd.17.02.2024
+[Paras 22, 28, 31 ]
+Arbitration and Conciliation Act, 1996 – s.21:
+Held: The commencement of arbitral proceedings is a statutory 
+event defined exclusively u/s.21, wherein the respondent’s receipt 
+of a request to refer the dispute to arbitration sets the arbitral 
+proceedings in motion and no judicial application i.e. whether 
+u/s.9 or s.11 petition, constitutes commencement – Therefore, 
+the statutory consequences tied to commencement, including the 
+mandate u/s.9(2), must be assessed solely with reference to the 
+date of receipt of request invoking arbitration u/s.21. [Para 23]
+Arbitration and Conciliation Act, 1996 – s.21 – Purpose of, 
+explained. [Para 29]
+
+208
+[2026] 1 S.C.R.
+Supreme Court Reports
+Arbitration and Conciliation Act, 1996 – s.21 – Conscious 
+delinking of the commencement of arbitral proceedings from 
+any judicial proceedings based on the UNCITRAL framework:
+Held: The very frame of s.21 provides that the Legislature has 
+consciously delinked the commencement of arbitral proceedings 
+from any judicial proceedings – This is a deliberate legislative choice 
+modelled on the UNCITRAL framework, meant to ensure that the 
+commencement of arbitral proceedings is clear and independent of 
+procedural contingencies – The objective of this statutory scheme 
+would be defeated if a court is permitted to substitute the date of 
+commencement u/s.21 with the date of filing a s.11 petition – Resort 
+to the proceedings u/s.11 would be necessitated only in case 
+there is refusal or no response to the notice u/s.21 – High Court 
+proceeded on the premise that since the petition u/s.11 was filed on 
+28.06.2024, beyond three months from the date of ad-interim Order 
+dtd.17.02.2024, the arbitral proceedings had not commenced within 
+time – This view rests on a misconception regarding the statutory 
+scheme – Article 21 of the Model Law of UNCITRAL. [Para 28]
+Arbitration and Conciliation Act, 1996 – ss.9(2), 21 – Rationale 
+underlying s.9(2), discussed – If the commencement is to be 
+construed from the date of filing of the petition u/s.11, the 
+statutory scheme insisting on expedition in commencing 
+arbitration after the grant of interim protection u/s.9 would 
+be rendered incoherent – The applicant could serve notice 
+u/s.21 but still be held non-compliant until a s.11 petition is 
+filed, an interpretation which would be directly in contrast 
+with the object and purpose of the Act – Permitting such an 
+interpretation would mean that the parties would paradoxically 
+be required to file the s.11 petition to prevent the lapse of 
+interim measures granted u/s.9 even when the respondent 
+is cooperating, the contractual appointment procedure is 
+underway, or even when the s.21 notice has only recently been 
+served – This is antithetical to the flexibility and autonomy 
+provided in the Act. [Para 30] 
+Arbitration and Conciliation Act, 1996 – ss.21, 9(2) – In absence 
+of any other provision providing for the date of commencement 
+of the arbitral proceedings, s.21 is to apply to all the provisions 
+of the Act unless specifically provided otherwise – Plea of the 
+Respondent No.2 that the commencement u/s.21 is only for 
+the purpose of calculating limitation u/s.43(2):
+
+[2026] 1 S.C.R. 
+209
+Regenta Hotels Private Limited v.  
+M/s Hotel Grand Centre Point and Others
+Held: Not accepted – s.21 explicitly provides that arbitral proceedings 
+commence on the date on which a request for dispute to be referred 
+to arbitration is received by the respondent – In absence of any other 
+provision providing for the date of commencement of the arbitral 
+proceedings, s.21 is to be construed to apply to all the provisions 
+of the Act unless specifically provided as not applicable – The 
+only exception that is carved out in s.21 pertains to the arbitral 
+agreement itself, providing that unless otherwise agreed by the 
+parties, the date of commencement of arbitral proceedings must 
+be from the date when notice or request invoking arbitration is 
+received by the respondent – Therefore, as per the mandate of 
+s.9(2), the arbitration proceedings shall commence within a period 
+of ninety days from the date of such interim order or within such 
+further time as the court may determine, and such commencement 
+will be the date on which notice invoking arbitration is received by 
+the respondent in consonance of s.21. [Para 23]
+Case Law Cited
+Sundaram Finance Ltd. v. NEPC India Ltd. [1999] 1 SCR 89 : 
+(1999) 2 SCC 479; Arif Azim Company Limited v. Aptech Limited 
+[2024] 3 SCR 73 : (2024) 5 SCC 313; Milkfood Ltd. v. GMC Ice 
+Cream (P) Ltd. [2004] 3 SCR 854 : (2004) 7 SCC 288; Geo Miller 
+and Company Private Limited v. Chairman, Rajasthan Vidyut 
+Utpadan Nigam Limited [2019] 11 SCR 1108 : (2020) 14 SCC 
+643 – relied on.
+State of Goa v. Praveen Enterprises [2011] 10 SCR 1026 : (2012) 
+12 SCC 581 – referred to.
+List of Acts
+Arbitration and Conciliation Act, 1996; Code of Civil Procedure, 
+1908; Arbitration (Proceedings Before the Courts) Rules, 2001.
+List of Keywords
+Section 9 (2), Arbitration and Conciliation Act, 1996; Section 21, 
+Arbitration and Conciliation Act, 1996; Commencement of arbitral 
+proceedings” ; Rule 9(4), Arbitration (Proceedings Before the 
+Courts) Rules, 2001; Date on which the respondent receives a 
+notice or request invoking arbitration is the moment at which the 
+arbitral proceedings commence; Arbitral proceedings initiated 
+after the expiry of 90 days period prescribed under Section 9 (2), 
+
+210
+[2026] 1 S.C.R.
+Supreme Court Reports
+Arbitration and Conciliation Act, 1996; Franchise Agreement; Arbitral 
+proceedings as commenced is well within the statutory time frame; 
+Notice under Section 21, Arbitration and Conciliation Act, 1996; 
+UNCITRAL Model Law’s formulation; Model Law of UNCITRAL; 
+Interim measures.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 90 of 2026
+With
+Contempt Petition (Civil) No. 189 of 2025
+From the Judgment and Order dated 14.11.2024 of the High Court 
+of Karnataka at Bengaluru in MFA No. 7168 of 2024
+Appearances for Parties
+Advs. for the Appellant(s):
+Pranjal Kishore.
+Advs. for the Respondent(s):
+M/S. Ahmadi Law Offices, Vivek Jain, Ms. Suchitra Kumbhat, Sadiq 
+Noor, Ms. Benila B M, Rohit H Nair, Ms. Baani Khanna, Robin 
+Singh, Kapil Balwani, Shrikant Thokchom, Atul Shankar Vinod.
+Judgment / Order of the Supreme Court
+Judgment
+Augustine George Masih, J.
+Leave granted.
+2.	
+The instant Civil Appeal assails the Judgment dated 14.11.2024 
+(“Impugned Judgment”) passed by the High Court of Karnataka at 
+Bengaluru (“High Court”), whereby it dismissed the Miscellaneous 
+First Appeal No. 7168 of 2024 (AA) filed by the Appellant herein 
+against the Order dated 01.10.2024 of the IXth  Additional City Civil 
+and Sessions Judge, Bengaluru (“Trial Court”) in I.A. Nos. 5 to 7 in 
+AA No. 4 of 2024 which has been filed under Order XXXIX Rules 1 
+and 2 read with Section 151 of the Code of Civil Procedure, 1908 
+(“CPC 1908”) and Section 9 of the Arbitration and Conciliation Act, 
+1996 (“Act”) read with Rule 9 of the Arbitration (Proceedings Before 
+
+[2026] 1 S.C.R. 
+211
+Regenta Hotels Private Limited v.  
+M/s Hotel Grand Centre Point and Others
+the Courts) Rules, 2001 (“2001 Rules”). The Trial Court vide Order 
+dated 01.10.2024 dismissed the application seeking temporary 
+injunction restraining Respondent No.2.
+3.	
+The Appellant herein is Regenta Hotels Private Limited, a company 
+registered under the Companies Act, 1956, engaged in carrying 
+business, inter alia, of operating hotels and providing hospitality 
+services in India and abroad. The Respondent No. 1 is M/s Hotel 
+Grand Centre Point, a partnership firm registered under the 
+Partnership Act, 1932. Respondents No.2 to 5 are brothers and 
+partners of Respondent No.1 vide partnership agreement entered on 
+01.04.2012, with each brother having 25% share in the partnership. 
+Respondent No.1 is owner of a hotel premises located near Hatrick 
+Restaurant, Raj Bagh, Srinagar, Jammu and Kashmir (“Hotel”).
+4.	
+The abovementioned parties i.e., the Appellant and Respondent 
+No.1 entered into a Franchise Agreement dated 23.03.2019. The 
+terms of the agreement were such that the Appellant would aid and 
+facilitate the business of Respondent No.1 by contributing through 
+its brand reputation, technical know-how, training and expertise in 
+running premium quality hotel businesses. In furtherance thereto, 
+the management and operations of Respondent No.1 were being 
+carried out as per the said agreement.
+5.	
+Interregnum, the Respondents No. 2 to 5 were involved in a family 
+dispute over rights on properties resulting into a settlement deed dated 
+20.04.2022 providing that Respondent No. 5 will be responsible for 
+operations of the Hotel for a period of two years and after the expiry 
+of said period, the Hotel operation shall be conducted by such party 
+who shall be nominated by the parties by voting.  Profits of the Hotel 
+were decided to be shared by Respondent No. 2 in the ratio of 25% 
+and Respondent No. 5 in the ratio of 33.50% as also to include every 
+month consideration for his responsibility to operate the Hotel. The 
+remaining share was to be divided among Respondent No. 3 and 4 
+in the ratio of 21.50% and 20% respectively. 
+6.	
+As transpires from the material on record, it is alleged that Respondent 
+No.2 started to interfere in the functioning of the Hotel by shouting 
+at staff and threatening to cancel bookings and taking away the 
+records if not paid exorbitant sums separately over and above the 
+agreed amount under the Franchise Agreement dated 23.03.2019. 
+As a consequence to the alleged conduct of Respondent No. 2, 
+
+212
+[2026] 1 S.C.R.
+Supreme Court Reports
+the Appellant on 16.02.2024 approached the Trial Court by way of 
+an application under Section 9 of the Act being AA No.4 of 2024 
+seeking various injunctive reliefs to restrain the Respondent No.2 
+from interfering with the smooth functioning of the Hotel claiming that 
+Clause 5.1 of the Franchise Agreement stipulates that Respondent 
+No.1 will maintain a high moral and ethical standard and atmosphere 
+at the Hotel premises. The Appellant also filed three applications 
+being IA No.5 to 7 seeking interim reliefs to restrain Respondent 
+No.2 from obstructing or impeding in smooth functioning, operations 
+and management of the Hotel pending disposal of AA No.4 of 2024.
+7.	
+The Trial Court vide Order dated 17.02.2024 granted ad-interim 
+injunction against the Respondent No.2 as prayed for in IA No.5 to 
+7 till next date of the hearing and issued notice to the Respondents.
+8.	
+Thereafter, the Appellant on 11.04.2024 issued an Arbitration notice 
+to the Respondents invoking arbitration in terms of Clause 19.1 of the 
+Franchise Agreement for the adjudication of the disputes that have 
+arisen between the parties. The Respondent No. 2, in response to the 
+said notice dated 11.04.2024, sent a reply on 23.04.2024 refusing to 
+concur with the nomination of the Arbitrator claiming that he has not 
+signed any Franchise Agreement with the Appellant. The Appellant, 
+on 28.06.2024 filed CMP No.314 of 2024 under Section 11(6) of Act 
+before the High Court seeking appointment of sole Arbitrator and for 
+referring the parties to arbitration under the Franchise Agreement 
+dated 23.03.2019.
+9.	
+The Respondent No.2 has filed written statement before Trial Court in 
+AA No. 4 of 2024 denying allegations and contended that the suit itself 
+is not maintainable claiming that Respondent No.2 is not a signatory 
+to the Franchise Agreement. He contested that Respondent No.5 
+is not allowing Respondent No.2 to inspect the books of accounts, 
+ledgers or bills etc.
+10.	 The Trial Court vide Order dated 01.10.2024 dismissed IA Nos.5 
+to 7 filed by the Appellant with the observation that the Appellant 
+failed to produce any document demonstrating that Respondent No.2 
+granted consent for the contested Franchise Agreement, thereby 
+failing to establish a prima facie case or the balance of convenience 
+in its favour. It was further stated that AA No.4 of 2024 was filed 
+on 16.02.2024, and more than six and a half months had elapsed 
+without the Appellant producing any document except for the notice 
+
+[2026] 1 S.C.R. 
+213
+Regenta Hotels Private Limited v.  
+M/s Hotel Grand Centre Point and Others
+and reply for initiation of arbitral proceedings as mandated after filing 
+an application under Section 9 of the Act nor was any substantive 
+material produced to satisfy the requirements under Section 21 of the 
+said Act, as Respondent No.2 had not agreed to refer the dispute to 
+arbitration. The Trial Court also observed that all partners held equal 
+rights under the partnership deed and must obtain mutual written 
+consent for any substantive decision or agreement.
+11.	 This Order dated 01.10.2024 was challenged by the Appellant in 
+Miscellaneous First Appeal No. 7168 of 2024 (AA) before the High 
+Court. The High Court vide Impugned Judgment dismissed the 
+appeal holding that Section 9(2) of the Act read with Rule 9(4) of 
+the 2001 Rules mandate that arbitral proceedings must commence 
+within 90 days or three months from the date of an interim order 
+or presentation of the Section 9 application, failing which any 
+interim relief granted stands vacated automatically. The High Court 
+reiterated that arbitral proceedings commence only when a request 
+for reference to arbitration is received by the respondent, and mere 
+issuance of notice does not constitute such commencement. The 
+petition under Section 11 of Act was filed on 28.06.2024 which was 
+beyond the permissible period, as arbitral proceedings ought to have 
+been initiated by 17.05.2024. The High Court, however, rejected 
+the contention of the Respondent No. 2 that he is not a signatory 
+to Franchise Agreement and noted that the Trial Court erred in 
+relying upon clauses of the partnership deed to conclude absence 
+of a prima facie case or existence of Franchise Agreement dated 
+23.03.2019 as the same evidenced consent among partners and 
+was acted upon as the Hotel kept running as per agreement and the 
+partners kept quiet from 2019 to 2023. The High Court nevertheless 
+upheld the dismissal of the Appellant’s application, holding that 
+failure to initiate arbitration within 90 days rendered the interim order 
+unsustainable, and issuance of notice alone could not be construed 
+as commencement of arbitration.
+12.	 It would not be out of way to mention here that the above finding of 
+High Court with respect to the existence of the Franchise Agreement 
+dated 23.03.2019 has not been challenged by the Respondent 
+No.2. It is only the Appellant being aggrieved by the dismissal of the 
+Appeal by the High Court on the ground of arbitration proceedings 
+having not commenced within 90 days from the date of ad-interim 
+injunction, is before this Court.
+
+214
+[2026] 1 S.C.R.
+Supreme Court Reports
+13.	 This Court, on 17.12.2024, while issuing notice to the Respondents 
+had granted interim injunction in terms of Order dated 17.02.2024 
+of the Trial Court and continued it till the disposal of the Appeal.
+14.	 The learned counsel for the Appellant submits that the arbitration 
+proceedings commence on the date of receipt of notice given under 
+Section 21 of the Act unless parties agree otherwise. The phrase 
+commencement is defined under Section 21 of the Act, and it is 
+also used in Section 9, 43(2) and 85(2) of the Act. In all these 
+contexts, this Court has held that it is the date of receipt of notice 
+under Section 21 that is determinative of the commencement of 
+arbitration proceedings. Reliance is placed on Sundaram Finance 
+Ltd. v. NEPC India Ltd.1, Arif Azim Company Limited v. Aptech 
+Limited2, Milkfood Ltd. v. GMC Ice Cream (P) Ltd.3, Geo Miller 
+and Company Private Limited v. Chairman, Rajasthan Vidyut 
+Utpadan Nigam Limited4. He submits that the dispute between 
+the brothers, who are partners of the Respondent No.1, have no 
+bearing on the Franchise Agreement and in any case, it has been 
+decided in favour of the Appellant by the High Court by the Impugned 
+Judgment which has not been challenged by the Respondents either 
+by filing an appeal or by cross-objections. The learned counsel further 
+submits that the Respondent No.2 and other partners suppressed an 
+agreement dated 09.10.2025 entered into between them by which 
+they have decided to close the hotel in violation of this Court’s interim 
+order dated 17.12.2024.
+15.	 The learned counsel for the Respondent No.2 submits that the 
+Appellant’s right in the management of the Hotel is limited to getting 
+royalty payment of 5% each month along with taxes, while the 
+Respondent No.1 retains and exercises direct management and 
+control over the day-to-day operations of the Hotel, which was the duty 
+Respondent No.5 has undertaken and despite completion of two years 
+has not stepped down. The Respondent No.5 has not taken written 
+consent of all the partners while signing the Franchise Agreement 
+on behalf of the Respondent No.1. He submits that Section 21 of 
+1	
+(1999) 2 SCC 479
+2	
+(2024) 5 SCC 313
+3	
+(2004) 7 SCC 288
+4	
+(2020) 14 SCC 643
+
+[2026] 1 S.C.R. 
+215
+Regenta Hotels Private Limited v.  
+M/s Hotel Grand Centre Point and Others
+the Act is a deeming provision whereby the date of commencement 
+of arbitral proceedings relates back to the date on which the notice 
+invoking arbitration was received. Section 43(2) of the Act provides 
+that an arbitration is deemed to have commenced from the date 
+referred in Section 21 of the Act. Reliance is placed on State of 
+Goa v. Praveen Enterprises5, contending that the primary object 
+of Section 21 of the Act is to determine the date of commencement 
+of the arbitral proceedings to decide if claims were ex-facie time 
+barred. The learned counsel further submits that “commencement” 
+in Section 21 is not for the purpose of Section 9(2) of the Act but 
+for Section 43, which explicitly mentions Section 21.
+16.	
+Having heard the learned counsels for the parties and upon perusal 
+of material on record, it emerges that the finding as returned by the 
+High Court with regard to the existence of Franchise Agreement 
+dated 23.03.2019 is not challenged by the Respondent No.2 by 
+way of cross-objection in this appeal nor is there any material on 
+record to show that any other petition is filed in this regard. The 
+said finding has thus attained finality to the effect that the consent 
+of Respondent No.2 was there to the Franchise Agreement. 
+16(A).	The only issue which concerns the present Appeal is whether 
+the High Court was correct in holding that the Appellant has 
+initiated arbitral proceedings after the expiry of 90 days period 
+as prescribed under Section 9(2) of the Act, thereby resulting in 
+automatic vacation of ad-interim injunction in terms of Rule 9(4) 
+of the 2001 Rules.
+17.	
+Before delving into the jurisprudential foundation governing the 
+commencement of the arbitral proceedings under the Act, let us 
+reproduce the relevant provisions of the Act for convenience.
+18.	
+Sections 9, 21 and 43(2) of Act read as follows:
+“9. Interim measures, etc., by Court.––(1) A party may, 
+before or during arbitral proceedings or at any time after 
+the making of the arbitral award but before it is enforced 
+in accordance with section 36, apply to a court—
+5	
+(2012) 12 SCC 581
+
+216
+[2026] 1 S.C.R.
+Supreme Court Reports
+(i)	
+for the appointment of a guardian for a minor or a 
+person of unsound mind for the purposes of arbitral 
+proceedings; or
+(ii)	
+for an interim measure of protection in respect of any 
+of the following matters, namely:—
+(a)	 the preservation, interim custody or sale of 
+any goods which are the subject-matter of the 
+arbitration agreement;
+(b)	 securing the amount in dispute in the arbitration;
+(c)	
+the detention, preservation or inspection of any 
+property or thing which is the subject-matter of 
+the dispute in arbitration, or as to which any 
+question may arise therein and authorising for 
+any of the aforesaid purposes any person to 
+enter upon any land or building in the possession 
+of any party, or authorising any samples to 
+be taken or any observation to be made, or 
+experiment to be tried, which may be necessary 
+or expedient for the purpose of obtaining full 
+information or evidence;
+(d)	 interim injunction or the appointment of a 
+receiver;
+(e)	 such other interim measure of protection as may 
+appear to the Court to be just and convenient,
+and the Court shall have the same power for making 
+orders as it has for the purpose of, and in relation to, any 
+proceedings before it.
+(2) Where, before the commencement of the arbitral 
+proceedings, a Court passes an order for any interim 
+measure of protection under sub-section (1), the arbitral 
+proceedings shall be commenced within a period of ninety 
+days from the date of such order or within such further 
+time as the Court may determine.
+(3) Once the arbitral tribunal has been constituted, the Court 
+shall not entertain an application under sub-section (1), 
+unless the Court finds that circumstances exist which 
+
+[2026] 1 S.C.R. 
+217
+Regenta Hotels Private Limited v.  
+M/s Hotel Grand Centre Point and Others
+may not render the remedy provided under section 17 
+efficacious.
+21. Commencement of arbitral proceedings.––Unless 
+otherwise agreed by the parties, the arbitral proceedings in 
+respect of a particular dispute commence on the date on 
+which a request for that dispute to be referred to arbitration 
+is received by the respondent.
+43. Limitations.––(1) . . .
+(2) For the purposes of this section and the Limitation Act, 
+1963 (36 of 1963), an arbitration shall be deemed to have 
+commenced on the date referred in section 21.”
+19.	 The jurisprudential foundation governing the commencement of 
+arbitral proceedings under the Act stands on a principled and 
+consistent line of authority emanating from this Court. In Sundaram 
+Finance Ltd. (supra), this Court, while dealing with the issue as to 
+whether a court has jurisdiction to pass interim orders under Section 
+9 of the Act even before the arbitral proceedings commence, has 
+observed that reading of Section 21 of the Act clearly shows that the 
+arbitral proceedings commence on the date on which a request for 
+a dispute to be referred to arbitration is received by the respondent.
+20.	 The contours of this principle were later given sharper precision in 
+Milkfood Ltd. (supra), wherein a three-Judge Bench of this Court 
+held that the Legislature has deliberately adopted the UNCITRAL 
+Model Law’s formulation, whereby the arbitral proceedings commence 
+upon respondent’s receipt of a request or notice that the dispute be 
+referred to arbitration. The provisions under Section 21 of the Act 
+are consistent with Article 21 of the Model Law of UNCITRAL. The 
+Court further observed that the issuance of notice under Section 
+21 is required to be interpreted broadly and not for the purpose of 
+limitation only but for other purposes also.
+21.	 In Geo Miller (supra), this Court reaffirmed the principles of Milkfood 
+Ltd. (supra), holding that for the purpose of determining which law 
+applies or for computing limitation, the date of commencement is 
+invariably the date on which the notice invoking arbitration is received 
+by the respondent. The Court clarified that the procedural route 
+adopted thereafter i.e., whether the parties agree on an arbitrator 
+or whether a Section 11 petition becomes necessary, is irrelevant 
+
+218
+[2026] 1 S.C.R.
+Supreme Court Reports
+to the date of commencement, which remains tethered exclusively 
+to Section 21 of the Act.
+22.	 In Arif Azim (supra), a three-Judge Bench of this Court has 
+consolidated and restated what is being held in Milkfood Ltd. 
+(supra) and Geo Miller (supra). The Court re-emphasized that 
+the date on which the respondent receives a notice or request 
+invoking arbitration is the moment at which the arbitral proceedings 
+commence under Section 21 of the Act. It further clarified that a 
+valid invocation requires the notice to articulate the dispute sought 
+to be referred but once such notice is received, commencement is 
+complete and effective for all legal purposes including limitation, 
+maintainability of the Section 11 Petition and the legal efficacy of 
+any pre-arbitral measures. The relevant portion in paras 88 to 91, 
+are reproduced herein:
+“88. Section 21 of the 1996 Act provides that the arbitral 
+proceedings in relation to a dispute commence when a 
+notice invoking arbitration is sent by the claimant to the 
+other party:
+‘21. Commencement of arbitral proceedings.—
+Unless otherwise agreed by the parties, the arbitral 
+proceedings in respect of a particular dispute 
+commence on the date on which a request for that 
+dispute to be referred to arbitration is received by 
+the respondent.’
+89. In Milkfood Ltd. v. GMC Ice Cream (P) Ltd. [(2004) 7 
+SCC 288] , it was observed thus : (SCC pp. 301-302 & 
+307, paras 26-27, 29 & 49)
+‘26. The commencement of an arbitration proceeding 
+for the purpose of applicability of the provisions of 
+the Indian Limitation Act is of great significance. 
+Even Section 43(1) of the 1996 Act provides that 
+the Limitation Act, 1963 shall apply to the arbitration 
+as it applies to proceedings in court. Sub-section 
+(2) thereof provides that for the purpose of the said 
+section and the Limitation Act, 1963, an arbitration 
+shall be deemed to have commenced on the date 
+referred to in Section 21.
+
+[2026] 1 S.C.R. 
+219
+Regenta Hotels Private Limited v.  
+M/s Hotel Grand Centre Point and Others
+27. Article 21 of the Model Law which was modelled 
+on Article 3 of the Uncitral Arbitration Rules had been 
+adopted for the purpose of drafting Section 21 of the 
+1996 Act. Section 3 of the 1996 Act provides for as 
+to when a request can be said to have been received 
+by the respondent. Thus, whether for the purpose 
+of applying the provisions of Chapter II of the 1940 
+Act or for the purpose of Section 21 of the 1996 Act, 
+what is necessary is to issue/serve a request/notice 
+to the respondent indicating that the claimant seeks 
+arbitration of the dispute.
+***
+29. For the purpose of the Limitation Act an arbitration 
+is deemed to have commenced when one party to 
+the arbitration agreement serves on the other a 
+notice requiring the appointment of an arbitrator. 
+This indeed is relatable to the other purposes also, 
+as, for example, see Section 29(2) of the (English) 
+Arbitration Act, 1950.
+***
+49. Section 21 of the 1996 Act, as noticed hereinbefore, 
+provides as to when the arbitral proceedings would 
+be deemed to have commenced. Section 21 although 
+may be construed to be laying down a provision for 
+the purpose of the said Act but the same must be 
+given its full effect having regard to the fact that the 
+repeal and saving clause is also contained therein. 
+Section 21 of the Act must, therefore, be construed 
+having regard to Section 85(2)(a) of the 1996 Act. 
+Once it is so construed, indisputably the service of 
+notice and/or issuance of request for appointment of 
+an arbitrator in terms of the arbitration agreement must 
+be held to be determinative of the commencement 
+of the arbitral proceeding.’
+90. Similarly, in BSNL v. Nortel Networks (India) (P) Ltd. 
+[(2021) 5 SCC 738], it was held by this Court thus: (SCC 
+p. 766, para 51)
+
+220
+[2026] 1 S.C.R.
+Supreme Court Reports
+‘51. The period of limitation for issuing notice of 
+arbitration would not get extended by mere exchange 
+of letters, [S.S. Rathore v. State of M.P., (1989) 4 SCC 
+582 : 1990 SCC (L&S) 50; Union of India v. Har Dayal, 
+(2010) 1 SCC 394; CLP (India) (P) Ltd. v. Gujarat 
+Urja Vikas Nigam Ltd., (2020) 5 SCC 185] or mere 
+settlement discussions, where a final bill is rejected 
+by making deductions or otherwise. Sections 5 to 20 
+of the Limitation Act do not exclude the time taken on 
+account of settlement discussions. Section 9 of the 
+Limitation Act makes it clear that: ‘where once the 
+time has begun to run, no subsequent disability or 
+inability to institute a suit or make an application stops 
+it’. There must be a clear notice invoking arbitration 
+setting out the “particular dispute” [ Section 21 of 
+the Arbitration and Conciliation Act, 1996.] (including 
+claims/amounts) which must be received by the other 
+party within a period of 3 years from the rejection of 
+a final bill, failing which, the time bar would prevail.’
+91. In the present case, the notice invoking arbitration was 
+received by the respondent on 29-11-2022, which is within 
+the three-year period from the date on which the cause 
+of action for the claim had arisen. Thus, it cannot be said 
+that the claims sought to be raised by the petitioner are 
+ex facie time-barred or dead claims on the date of the 
+commencement of arbitration.”
+23.	 Upon perusal of the binding decisions of this Court and provisions 
+of the Act, there is no doubt left with regard to the correct 
+conceptualization of “commencement of arbitral proceedings” under 
+the Act. The settled position as emerged is that the commencement 
+of arbitral proceedings is a statutory event defined exclusively under 
+Section 21 of the Act, wherein the respondent’s receipt of a request 
+to refer the dispute to arbitration sets the arbitral proceedings in 
+motion and no judicial application i.e. whether under Section 9 or 
+Section 11 petition, constitutes commencement. Therefore, the 
+statutory consequences tied to commencement, including the 
+mandate under Section 9(2) of the Act, must be assessed solely 
+with reference to the date of receipt of request invoking arbitration 
+under Section 21 of the Act.
+
+[2026] 1 S.C.R. 
+221
+Regenta Hotels Private Limited v.  
+M/s Hotel Grand Centre Point and Others
+24.	 The contention of the Respondent No.2 that the commencement 
+under Section 21 of the Act is only for the purpose of calculating 
+limitation under Section 43(2) of the Act does not find force with us. 
+Section 21 explicitly provides that arbitral proceedings commence on 
+the date on which a request for dispute to be referred to arbitration 
+is received by the respondent. In absence of any other provision 
+providing for the date of commencement of the arbitral proceedings, 
+Section 21 is to be construed to apply to all the provisions of the Act 
+unless specifically provided as not applicable. The only exception 
+that is carved out in Section 21 pertains to the arbitral agreement 
+itself, providing that unless otherwise agreed by the parties, the 
+date of commencement of arbitral proceedings must be from the 
+date when notice or request invoking arbitration is received by the 
+respondent. Therefore, as per the mandate of Section 9(2) of the 
+Act, the arbitration proceedings shall commence within a period 
+of ninety days from the date of such interim order or within such 
+further time as the court may determine, and such commencement 
+will be the date on which notice invoking arbitration is received by 
+the respondent in consonance of Section 21 of the Act.
+25.	 At this stage, it requires to be mentioned that the consequences 
+flowing from the non-compliance of mandate under Section 9(2) 
+of the Act are not provided for in the said Act. To fill in this gap 
+reference is required to be made at this juncture to Rule 9 of 2001 
+Rules framed by the High Court as per the powers conferred on it 
+under Section 82 of the Act, which reads as follows:
+“Rule 9. Application for interim measure, etc.–– 
+(1) When an application is made for an interim measure, 
+under Section 9 of the Act, the Court shall in all cases, 
+except where it appears that the object of granting the 
+interim measure would be defeated by the delay, before 
+passing the interim order, direct notice of the application 
+to be given to the opposite party:
+Provided that, where it is proposed to make an order 
+by way of interim measure without giving notice of the 
+application to the opposite party, the Court shall record 
+the reasons for its opinion that the object of granting the 
+interim measure would be defeated by delay, and require 
+applicant.––
+
+222
+[2026] 1 S.C.R.
+Supreme Court Reports
+(a)	 to deliver to the opposite party, or to sent to him by 
+registered post, immediately after the order granting 
+the interim measure has been made, a copy of the 
+Application for interim order together with:
+(i)	
+a copy of affidavit filed in support of the 
+application;
+(ii)	
+copies of documents on which the applicant 
+relies;
+(b)	 to file, on the day on which such interim order is 
+granted or on the day immediately following that day, 
+an affidavit stating that the copies aforesaid have 
+been so delivered or sent.
+(2) Where an interim order has been granted without 
+giving notice to the opposite party, the Court shall make 
+endeavours to finally dispose of the Application within 
+thirty days from the date on which the interim order was 
+granted and where it is unable so to do, it shall record its 
+reasons for such inability.
+(3) In an application for interim measure filed under Section 
+9, before the commencement of the arbitral proceedings, 
+the applicant shall specifically refer to the steps, if any, 
+already taken to seek arbitration and that he is willing and 
+prepared to take necessary steps with utmost expedition 
+to seek reference to arbitration in terms of the Arbitration 
+Agreement/Clause.
+(4) In the case of an application for interim measure 
+made before initiating arbitral proceedings, if the arbitral 
+proceedings are not initiated within three months from the 
+date of the presentation of the Application under Section 9, 
+any interim order granted shall stand vacated without any 
+specific order being passed by the Court to that effect.”
+26.	 Upon the reading of Section 9 of the Act, it is evident that the said 
+section does not provide for the consequences of non-compliance 
+with its mandate of commencing arbitral proceedings within ninety 
+days, however, the said vacuum stands statutorily filled through 
+Rule 9(4) of the 2001 Rules. According to this Rule where an interim 
+order has been granted on an application made under Section 9 of 
+
+[2026] 1 S.C.R. 
+223
+Regenta Hotels Private Limited v.  
+M/s Hotel Grand Centre Point and Others
+the Act but no arbitral proceedings are initiated within three months 
+from the date of presentation of the application, the interim order 
+shall stand vacated automatically.
+27.	 It requires to be noted and mentioned here that Rule 9(4) employs 
+the expression “initiated” whereas Section 9(2) uses the expression 
+“commenced” in the context of arbitral proceedings. As per Concise 
+Oxford English Dictionary (Eleventh Edition, Revised), the term 
+“initiation” connotes the act of causing something to begin or taking 
+the first step towards beginning a process, whereas “commencement” 
+denotes the actual beginning of the process itself, which is a step 
+further than mere initiation. Thus, linguistically, initiation precedes 
+commencement and as per Rule 9(4) the initiation shall be within three 
+months from the date of presentation of such application, which would 
+be before the commencement as per Section 21 of Act and would 
+ideally be the date on which the notice invoking arbitration is sent by a 
+party.  However, the expression “initiated” occurring in Rule 9(4) cannot 
+be interpreted in isolation or in a manner divorced from the statutory 
+context in which it appears. Rule 9 has been framed in aid of, and 
+to give procedural effect to, Section 9 of the Act, and therefore the 
+terminology employed therein must be construed harmoniously with 
+the parent provision. If “initiation” in Rule 9(4) were to be understood 
+as something short of “commencement” as contemplated under 
+Section 21 of the Act, the mandate under Section 9(2) prescribing 
+a strict timeline for commencement of arbitral proceedings would be 
+rendered otiose and susceptible to circumvention. Consequently, for 
+the purposes of Rule 9(4), the expression “initiated” has necessarily 
+to be read as “commenced” within the meaning of Section 21 of the 
+Act. It follows that upon failure to commence arbitral proceedings 
+within three months, the period stipulated under Rule 9(4) of 2001 
+Rules attracts the consequence as provided therein, namely, the 
+interim order shall stand vacated automatically.
+28.	 In the case at hand, the High Court proceeded on the premise that 
+since the petition under Section 11 was filed on 28.06.2024, beyond 
+three months from the date of ad-interim Order dated 17.02.2024, 
+the arbitral proceedings had not commenced within time. This view 
+of the High Court rests on a misconception regarding the statutory 
+scheme. The very frame of Section 21 provides that the Legislature 
+has consciously delinked the commencement of arbitral proceedings 
+from any judicial proceedings. This Court, in Milkfood Ltd. (supra) 
+
+224
+[2026] 1 S.C.R.
+Supreme Court Reports
+described this as a deliberate legislative choice modelled on the 
+UNCITRAL framework, meant to ensure that the commencement 
+of arbitral proceedings is clear and independent of procedural 
+contingencies. The objective of this statutory scheme would be 
+defeated if a court is permitted to substitute the date of commencement 
+under Section 21 with the date of filing a Section 11 petition. Resort 
+to the proceedings under Section 11 would be necessitated only in 
+case there is refusal or no response to the notice under Section 21 
+of the Act.
+29.	 The High Court in the Impugned Judgment conflates the trigger 
+for arbitral proceedings with remedial mechanism made available 
+when the respondent obstructs or declines to participate. The 
+purpose of Section 21 is to specify the date of commencement of 
+arbitral proceedings in order to determine whether a claim is barred 
+by limitation and whether a party has complied with the requisite 
+statutory or contractual time limit for initiation of arbitration. If the 
+date of filing of the Section 11 petition is to be treated as the date 
+of commencement of arbitral proceedings, as has been observed by 
+the High Court in the Impugned Judgment, that would result into the 
+displacement of commencement of arbitral proceedings as provided 
+under Section 21 and would be contrary to the text and purpose of 
+the Act. Such a position is impermissible as has been consistently 
+held in the dicta of this Court from the decision in Sundaram Finance 
+Ltd. (supra) to that in Arif Azim (supra). 
+30.	 The rationale underlying Section 9(2) of the Act is that the arbitral 
+proceedings shall be commenced within ninety days from the grant 
+of interim protection. This prevents a party from abusing Section 9 to 
+obtain interim protection without submitting to the arbitral forum and 
+it also ensures that interim measures remain tied to the arbitration 
+they are meant to support. If this safeguard is interpreted in a manner 
+that contradicts the statutory definition of the commencement, to 
+do so would allow courts to rewrite Section 21 sub silentio. If the 
+commencement is to be construed from the date of filing of the 
+petition under Section 11 of the Act, the statutory scheme insisting 
+on expedition in commencing arbitration after the grant of interim 
+protection under Section 9 would be rendered incoherent. The 
+applicant could serve notice under Section 21 but still be held non-
+compliant until a Section 11 petition is filed, an interpretation which 
+would be directly in contrast with the object and purpose of the Act. 
+
+[2026] 1 S.C.R. 
+225
+Regenta Hotels Private Limited v.  
+M/s Hotel Grand Centre Point and Others
+Permitting such an interpretation would mean that the parties would 
+paradoxically be required to file the Section 11 petition to prevent the 
+lapse of interim measures granted under Section 9 of the Act even 
+when the respondent is cooperating, the contractual appointment 
+procedure is underway, or even when the Section 21 notice has 
+only recently been served. This is antithetical to the flexibility and 
+autonomy provided in the Act.
+31.	 The legal position as settled when applied to the present factual 
+matrix yields a clear conclusion. The Trial Court passed the Order 
+dated 17.02.2024 granting ad-interim injunction to the Appellant. The 
+period of ninety days as provided under Section 9(2) of the Act would 
+end on 17.05.2024. The Appellant served a notice invoking arbitration 
+on 11.04.2024. The reply of Respondent No. 2 dated 23.04.2024 
+refusing to join in the appointment of an arbitrator entails that notice 
+had indeed been received and understood as an invocation of the 
+arbitral process by the Respondent No.2. Under Section 21 of the 
+Act, the date of receipt of the notice is the date of commencement 
+of arbitral proceedings. Even if 23.04.2024, the date on which the 
+reply sent by the Respondent No.2, is taken to calculate the period 
+of ninety days, as stipulated under Section 9(2) of the Act and the 
+consequences thereof provided under Rule 9(4) of the 2001 Rules, 
+the arbitral proceedings have commenced well within the time and 
+way before expiry of such periods. The High Court, however, in 
+the Impugned Judgment treated the date of filing of the Section 11 
+petition i.e. 28.06.2024 as the date of commencement of the arbitral 
+proceedings resulting into the finding that ad-interim stay stood 
+vacated and proceedings commenced after the expiry of ninety 
+days period provided under Section 9(2) of the Act. This finding of 
+the High Court cannot sustain as it is contrary to the objective and 
+purpose of the Act. The arbitral proceedings, as commenced by 
+the Appellant, is well within the statutory time frame provided under 
+Section 9(2) of the Act and the rigor of Rule 9(4) of the 2001 Rules 
+cannot be attracted to the Appellant.
+32.	 Therefore, in the light of the above discussion and perusal of material 
+on record, the Impugned Judgment of the High Court is set aside 
+for being unsustainable in law. As a consequence thereof, the 
+Order dated 01.10.2024 of the Trial Court vacating the ad-interim 
+injunction also stands set aside, restoring the earlier Order dated 
+17.02.2024.
+
+226
+[2026] 1 S.C.R.
+Supreme Court Reports
+33.	 Before parting, it is essential that we request the High Court to 
+expeditiously decide the Section 11 petition filed by the Appellant for 
+appointment of the arbitrator on its own merits and in accordance 
+with law, if already not decided. Nothing stated in this judgment will 
+influence or prejudice the arbitral process in any manner.
+34.	 The appeal is allowed in the above terms.
+35.	 As the appeal stands allowed, we would not like to proceed as of 
+now with the Contempt Petition (C) No.189 of 2025 as filed by the 
+appellant and the same is disposed of at this stage.
+36.	 There shall be no order as to costs.
+37.	 Pending application(s), if any, stand disposed of.
+Result of the case: Appeal allowed, Contempt Petition disposed of.
+†Headnotes prepared by: Divya Pandey

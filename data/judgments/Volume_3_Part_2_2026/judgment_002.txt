@@ -1,0 +1,843 @@
+[2026] 3 S.C.R. 314 : 2026 INSC 217
+Pooranmal
+v.
+The State of Rajasthan & Anr.
+(Criminal Appeal No. 1266 of 2026)
+10 March 2026
+[Vikram Nath, Sandeep Mehta* and N.V. Anjaria, JJ.]
+Issue for Consideration
+Whether the conviction of the appellant-P based solely on 
+circumstantial evidence as convicted by the trial court and upheld by 
+the High Court could be sustained in law. Whether the incriminating 
+evidence are proved by cogent and admissible evidence, forming 
+an unbroken chain pointing unequivocally towards the guilt of the 
+appellant.
+Headnotes†
+Penal Code, 1860 – ss.302/34, 201 – Bhartatiya Nyaya 
+Sanhita, 2023 – ss.103(1)/3(5) – Circumstantial evidence – 
+Recoveries – Appellant-P along with one L, committed murder 
+of wife of L – Appellant-P and L were convicted by the trial 
+Court for the offence punishable u/ss.302/34 and s.201 of 
+the Penal Code, 1860 – The common appeal preferred by the 
+accused persons against their conviction was rejected by the 
+High Court – SLP filed by L was dismissed by this Court in 
+limine – The appellant-P who was unable to prefer an appeal 
+owing to poverty and lack of access to legal assistance, has 
+now filed the present appeal through legal aid – Interference 
+warranted or not:
+Held: As emerging from the impugned judgments of the trial 
+Court and the High Court, the case of the prosecution pertaining 
+to the murder is based purely on circumstantial evidence viz. call 
+detail records, recovery of blood-stained shirt and the recovery of 
+currency notes – The law governing cases resting on circumstantial 
+evidence is no longer res integra – Mere recovery of currency 
+notes, in the absence of any cogent evidence establishing a clear 
+nexus between the said amount and the crime, would not by itself 
+constitute an incriminating circumstance against the appellant – The 
+said circumstance was wrongly treated to be incriminating by the 
+* Author
+
+[2026] 3 S.C.R. 
+315
+Pooranmal v. The State of Rajasthan & Anr.
+trial Court as the recovery itself is doubtful and additionally, the 
+mere recovery of currency notes cannot constitute incriminating 
+evidence in absence of corroborative evidence – The second 
+incriminating article recovered was blood-stained shirt – Even if 
+the FSL report shows that the blood found on the shirt allegedly 
+recovered at the instance of the appellant matches that of the 
+deceased, such finding would by itself not be incriminating in the 
+absence of other cogent and corroborative evidence completing the 
+chain of circumstances – The last and final piece of circumstantial 
+evidence is call details records – In the present case, the certificate 
+u/s.65-B of the Evidence Act [s.63 of the BSA] was not proved by 
+the prosecution – In the absence of the certificate, mandatorily 
+required u/s.65-B of the Evidence Act [s.63 of the BSA], the call 
+detail records become inadmissible in evidence and cannot be 
+relied upon to support the prosecution’s case – The prosecution 
+has miserably failed to establish a complete and coherent chain 
+of incriminating circumstances so as to bring home the guilt of the 
+appellant – Thus, the conviction of the appellant as recorded by the 
+trial Court and affirmed by the High Court cannot be sustained – The 
+impugned judgments are hereby set aside. [Paras 26, 27, 33, 52-55]
+Case Law Cited
+Sharad Birdhichand Sarda v. State of Maharashtra [1985] 1 SCR 
+88 : (1984) 4 SCC 116; Karandeep Sharma alias Razia alias Raju v. 
+State of Uttarakhand [2025] 3 SCR 1482 : 2025 SCC OnLine 
+SC 773; Allarakha Habib Memon v. State of Gujarat [2024] 8 
+SCR 345 : (2024) 9 SCC 546; Anvar P.V. v. P.K. Basheer [2014] 
+11 SCR 399 : (2014) 10 SCC 473; Arjun Panditrao Khotkar v. 
+Kailash Kushanrao Gorantyal [2020] 7 SCR 180 : (2020) 7 
+SCC 1 – relied on.
+List of Acts
+Penal Code 1860; Evidence Act, 1872; Bharatiya Sakshya 
+Adhiniyam, 2023; Code of Criminal Procedure, 1973; Bharatiya 
+Nagarik Suraksha Sanhita, 2023; Bhartatiya Nyaya Sanhita, 2023.
+List of Keywords
+Circumstantial evidence; Chain of custody; Corroborative 
+evidence; Unbroken chain of custody; Call details records; 
+Recovery of blood-stained cloth; Recovery of currency notes; 
+
+316
+[2026] 3 S.C.R.
+Supreme Court Reports
+Electronic evidence; Requirement of certificate u/s.65-B of 
+Evidence Act; Admissibility of electronic evidence; Coherent chain 
+of incriminating circumstances.
+Case Arising From
+CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 
+1266 of 2026
+From the Judgment and Order dated 16.03.2018 of the High Court 
+of Judicature for Rajasthan at Jodhpur in DBCRA No. 238 of 2012
+Appearances for Parties
+Advs. for the Appellant(s):
+Yuvraj Kashyap, Ms. Vijetha J., Ms. Ranjeeta Rohatgi.
+Advs. for the Respondent(s):
+Kartikeya Asthana, Ms. Nidhi Jaswal.
+Judgment / Order of the Supreme Court
+Judgment
+Mehta, J.
+1.	
+Heard.
+2.	
+Leave granted.
+3.	
+The appellant, Pooranmal1, along with one Ladu Lal faced trial in 
+Sessions Case No. 33 of 2010 before the Court of the Additional 
+Sessions Judge, (Women Atrocities Cases), Bhilwara, Rajasthan2. 
+Both the accused were convicted by the trial Court vide judgment 
+and order dated 8th February, 2012, for the offence punishable under 
+Sections 302/34 of the Indian Penal Code, 18603 [Sections 103 
+(1)/3(5) of the Bhartatiya Nyaya Sanhita, 20234] and were sentenced 
+to undergo life imprisonment and fine of Rs. 5,000/- with default 
+stipulation. Both the accused were also convicted for the offence 
+1	
+Hereinafter, referred to as “appellant-Pooranmal”.
+2	
+Hereinafter, referred to as “trial Court”.
+3	
+Hereinafter, referred to as ‘IPC’.
+4	
+Hereinafter, referred to as ‘BNS’.
+
+[2026] 3 S.C.R. 
+317
+Pooranmal v. The State of Rajasthan & Anr.
+punishable under Section 201 of the IPC [Section 238 of the BNS] 
+and sentenced to undergo seven years rigorous imprisonment and 
+fine of Rs. 5,000/- with default stipulation. Both the sentences were 
+ordered to run concurrently.
+4.	
+The common appeal being DB Criminal Appeal No. 238 of 2012 
+preferred by the accused persons against their conviction stands 
+rejected by the High Court of Judicature for Rajasthan at Jodhpur5 
+vide judgment and order dated 16th March, 2018. It may may be 
+mentioned here that Ladu Lal assailed the said judgment of the 
+High Court by preferring Special Leave Petition (Crl.) No. 1071 of 
+2022, which has been dismissed by this Court in limine vide order 
+dated 7th February, 2022.
+5.	
+The appellant-Pooranmal who was unable to prefer an appeal owing 
+to poverty and lack of access to legal assistance, has now filed the 
+present appeal through legal aid.
+6.	
+Vide order dated 28th January, 2026, we took note of the distinguishing 
+features inter se between the case of the appellant-Pooranmal and 
+that of the co-convict Ladu Lal and issued notice in the present 
+appeal. The case of the prosecution as against the co-convict Ladu 
+Lal was based on recoveries as well as the reverse burden of proof 
+as provided under Section 106 of the Indian Evidence Act, 18726 
+(Section 109 of the Bharatiya Sakshya Adhiniyam, 20237). In contrast, 
+insofar as the appellant-Pooranmal is concerned, the prosecution’s 
+case rests purely on recoveries and call detail records. It was in 
+these circumstances and remaining conscious of the dismissal of the 
+special leave petition preferred by the co-convict Ladu Lal, that we 
+deemed it appropriate to entertain the special leave petition filed on 
+behalf of the appellant-Pooranmal through legal aid, notwithstanding 
+the significant delay of 2749 days, which stands condoned by the 
+aforesaid order.
+BRIEF FACTS
+7.	
+Succinctly stated, the facts relevant and essential for disposal of this 
+appeal are noted hereinbelow.
+5	
+Hereinafter, referred to as ‘High Court’.
+6	
+Hereinafter, referred to as ‘Evidence Act’.
+7	
+Hereinafter, referred to as ‘BSA’. 
+
+318
+[2026] 3 S.C.R.
+Supreme Court Reports
+8.	
+The case as set up by the prosecution is that the appellant-Pooranmal 
+along with the co-convict Ladu Lal, committed murder of Aruna, wife 
+of Ladu Lal, in the latter’s house on the night intervening 2nd March, 
+2010 and 3rd March, 2010. 
+9.	
+The written report of the incident (Ex. P-40) was lodged by none 
+other than Ladu Lal before the Station House Officer, Police Station 
+Bijolia alleging inter alia that he was sleeping in the drawing room 
+of his house with his son Devender. His wife, Smt. Aruna, was 
+sleeping in the adjacent room. At about 1:30 am, he got up to attend 
+the call of nature and found that his room was bolted from outside. 
+He tried calling Smt. Aruna on her mobile number, but she did not 
+respond. On this, he called his brother, Satyanarayan (PW.2), and 
+upon receiving no response, he called his acquaintance Shankar 
+Singh Rathore, posted as constable at the Police Station Bijolia. 
+Thereafter, some people gathered at the spot and opened his room 
+from outside. Upon proceeding to the adjoining room, they found 
+Smt. Aruna lying on the bed with visible injuries, including a wound 
+on her left temple, along with signs of struggle. On checking closely, 
+they realised that Smt. Aruna was dead. The almirah situated near 
+the dead body was lying open, and a sum of approximately Rs. 
+4 lakh was missing therefrom. Ladu Lal alleged in the report that 
+some unknown persons had murdered his wife by inflicting injuries 
+on her head and requested the police to take action. On the basis of 
+said report, FIR No. 28 of 2010 came to be registered at the Police 
+Station Bijolia under Section 460 of the IPC (Section 331(8) of the 
+BNS). The usual investigation was undertaken. The dead body was 
+subjected to inquest proceedings and subsequently forwarded to the 
+Medical Jurist for postmortem examination. 
+10.	 During the course of investigation, Ladu Lal was interrogated and 
+looking to his evasive response, the needle of suspicion turned 
+towards him and he was accordingly arrested. Ladu Lal made a 
+confession/disclosure statement (Ex. P-42) and based thereupon, 
+the appellant-Pooranmal was also apprehended in the present case. 
+The Investigating Officer, Dalpat Singh (PW.22)8, thereafter effected 
+recoveries of a blood-stained shirt and a sum of Rs.46,000/-, in 
+furtherance of the disclosure statements made by the appellant-
+Pooranmal.
+8	
+Hereinafter, referred to as ‘Investigating Officer (PW.22)’.
+
+[2026] 3 S.C.R. 
+319
+Pooranmal v. The State of Rajasthan & Anr.
+11.	 The Investigating Officer (PW.22) collected the call details of mobile 
+Nos. 978****222 and 977****299 belonging to the accused persons, 
+which led to the conclusion that the appellant-Pooranmal and Ladu 
+Lal were continuously in contact with each other, proximate to the 
+probable time of the incident. 
+12.	 Upon conclusion of investigation, chargesheet came to filed against 
+two accused persons i.e. the appellant-Pooranmal and Ladu Lal 
+for the offences punishable under Sections 302/34 and 201 of the 
+IPC [Sections 103 (1)/3(5) and 238 of the BNS]. Since the offence 
+punishable under Section 302 of the IPC [103 (1) of the BNS] was 
+exclusively triable by the Court of Sessions, the case was committed 
+and made over to the Court of the Additional Sessions Judge, (Women 
+Atrocities Cases), Bhilwara, Rajasthan for trial. The trial Court framed 
+charges against both the accused who pleaded not guilty and claimed 
+trial. The prosecution examined twenty-four witnesses (PW.1 to 
+PW.24) and exhibited fifty-five documents (Ex. P-1 to P-55) along 
+with seven articles (Ex. A-1 to A-7) to prove its case.
+13.	 The accused, upon being questioned under Section 313 of the Code 
+of Criminal Procedure, 1973 [Section 351 of the Bharatiya Nagarik 
+Suraksha Sanhita, 2023] denied the prosecution allegations and 
+claimed to be innocent. Three witnesses (DW.1 to DW.3), and eight 
+documents (Ex. D-1 to D-8) were exhibited in defence. 
+14.	 As stated above, the trial Court vide judgment and order dated 8th 
+February, 2012 convicted and sentenced the appellant-Pooranmal 
+and the co-accused for the offences mentioned above.9
+15.	 The appeal preferred by the appellant-Pooranmal against his 
+conviction has been rejected by the High Court vide judgment and 
+order dated 16th March, 2018 and hence, this appeal by special leave.
+SUBMISSIONS ON BEHALF OF THE APPELLANT
+16.	 Learned counsel appearing for the appellant-Pooranmal, vehemently 
+and fervently contended that the conviction of the appellant-Pooranmal 
+recorded by the trial Court, and affirmed by the High Court, is 
+based purely on conjectures and surmises. It was submitted that 
+9	
+Supra para 3.
+
+320
+[2026] 3 S.C.R.
+Supreme Court Reports
+the prosecution’s case rests entirely on circumstantial evidence and 
+that there is no credible or reliable evidence on record of the case 
+so as to connect the appellant-Pooranmal with the alleged crime. 
+17.	 The learned counsel urged that the recovery of the blood-stained 
+shirt allegedly made at the instance of the appellant-Pooranmal does 
+not inspire confidence. The call detail records cannot be admitted in 
+evidence because the mandatory certificate under Section 65-B of 
+the Evidence Act [Section 63 of the BSA] was never proved.
+18.	 The learned counsel further contended that the recovery of the 
+currency notes cannot be treated to be incriminating because there 
+is no credible evidence to show that these currency notes had, 
+as a matter of fact, been given to the appellant-Pooranmal by the 
+co-convict Ladu Lal for committing the murder of Smt. Aruna.
+SUBMISSIONS ON BEHALF OF THE RESPONDENT
+19.	 Per contra, learned counsel representing the State opposed the 
+submissions advanced by the appellant’s counsel. It was submitted 
+that the special leave petition filed by the co-convict against the 
+self-same impugned judgment, having been rejected by this Court, 
+there is no reason for this Court to take a different view in the case 
+of the appellant-Pooranmal.
+20.	 It was further submitted that the Investigating Officer (PW.22) has 
+given unimpeachable evidence proving the grave incriminating 
+recoveries of the blood-stained shirt and the currency notes made 
+at the instance of the appellant-Pooranmal. The shirt upon being 
+examined at the serological department of the Forensic Science 
+Laboratory10 tested positive (FSL Report Ex. P-49) for the presence 
+of the same blood group (O) as that of the deceased-Aruna. The 
+appellant-Pooranmal failed to offer any explanation as to how the 
+shirt worn by him at the time of the incident was bearing stains of 
+the same blood group as that of the deceased-Aruna. The failure 
+of the appellant-Pooranmal to offer any explanation to this gravely 
+incriminating circumstance requires drawing of adverse inference.
+21.	 It was further submitted that the call detail records are gravely 
+incriminating. The appellant-Pooranmal failed to offer any explanation 
+10	
+Hereinafter, referred to as ‘FSL’. 
+
+[2026] 3 S.C.R. 
+321
+Pooranmal v. The State of Rajasthan & Anr.
+for the extensive contact with the main accused Ladu Lal proximate 
+to the time of the occurrence. Thus, these incriminating call detail 
+records were rightly relied upon by the trial Court and the High Court 
+for drawing the inference of guilt against the appellant-Pooranmal. 
+22.	 It was further contended that the call detail records were proved 
+by the nodal officers of the service providers, i.e. Vibhor Rastogi 
+(PW.23) and Saurabh Kumar (PW.24) and hence, non-production 
+of the certificate under Section 65-B of the Evidence Act [Section 63 
+of the BSA] pales into insignificance. Mere non-production of the 
+certificate under Section 65-B of the Evidence Act [Section 63 of the 
+BSA] in this case cannot be treated to be fatal to the prosecution’s 
+case, particularly, when the call detail records have been duly proved 
+by examining the employees of the service providers i.e., Vodafone 
+and Bharati Hexacom Ltd./Bharati Heckjakom Ltd.
+23.	 The learned counsel also urged that the appellant-Pooranmal hails 
+from a poor family and as such, his being in possession of such a 
+large sum of money soon after the incident is a gravely incriminating 
+circumstance for which the appellant-Pooranmal could not offer 
+any explanation. Thus, by virtue of Section 106 of the Evidence Act 
+[Section 109 of the BSA], the burden shifted on to the appellant-
+Pooranmal to explain as to how he came into possession of the huge 
+sum of money recovered from his house pursuant to the disclosure 
+made by him under Section 27 of the Evidence Act [Proviso to 
+Section 23 of the BSA].
+24.	 On the aforesaid grounds, learned counsel submitted that the 
+concurrent and well-reasoned findings recorded against the accused 
+by the trial Court and affirmed by the High Court, i.e. convicting the 
+appellant-Pooranmal and upholding his conviction do not warrant 
+interference. He thus implored the Court to dismiss the appeal.
+ANALYSIS AND DISCUSSION
+25.	 We have heard and considered the submissions advanced by 
+learned counsel for the appellant-Pooranmal and learned standing 
+counsel appearing for the State. We have also carefully perused the 
+impugned judgments and sifted the evidence available on record.
+26.	 Suffice it to say that, as emerging from the impugned judgments of the 
+trial Court and the High Court, the case of the prosecution pertaining to 
+
+322
+[2026] 3 S.C.R.
+Supreme Court Reports
+the murder of Smt. Aruna is based purely on circumstantial evidence. 
+Insofar as the appellant-Pooranmal is concerned, the prosecution’s 
+case rests upon following three incriminating circumstances: -
+i.	
+Call detail records indicating continuous and frequent 
+conversation between the appellant-Pooranmal and co-convict 
+Ladu Lal corresponding to the time of the incident.
+ii.	
+The recovery of blood-stained shirt, having same blood group 
+as that of Smt. Aruna, in furtherance of the disclosure made 
+by the appellant-Pooranmal under Section 27 of the Evidence 
+Act [Proviso to Section 23 of the BSA].
+iii.	
+The recovery of currency notes totalling Rs.46,000/-, purportedly 
+paid by co-convict Ladu Lal to the appellant-Pooranmal for 
+committing murder of Smt. Aruna.
+27.	 The law governing cases resting on circumstantial evidence is no 
+longer res integra. It would, therefore, be apposite to advert to the 
+salient principles enunciated by this Court in Sharad Birdhichand 
+Sarda v. State of Maharashtra11, wherein the parameters for 
+appreciation of circumstantial evidence have been authoritatively 
+and succinctly laid down:-
+“153. A close analysis of this decision would show that 
+the following conditions must be fulfilled before a case 
+against an accused can be said to be fully established:
+(1) the circumstances from which the 
+conclusion of guilt is to be drawn should 
+be fully established.
+It may be noted here that this Court indicated that 
+the circumstances concerned “must or should” 
+and not “may be” established. There is not only a 
+grammatical but a legal distinction between “may 
+be proved” and “must be or should be proved” 
+as was held by this Court in Shivaji Sahabrao 
+Bobade v. State of Maharashtra [(1973) 2 SCC 
+793] where the observations were made: [SCC 
+para 19, p. 807]
+11	
+(1984) 4 SCC 116.
+
+[2026] 3 S.C.R. 
+323
+Pooranmal v. The State of Rajasthan & Anr.
+“Certainly, it is a primary principle that the 
+accused must be and not merely may be guilty 
+before a court can convict and the mental 
+distance between ‘may be’ and ‘must be’ is 
+long and divides vague conjectures from sure 
+conclusions.”
+(2) the facts so established should be 
+consistent only with the hypothesis of the 
+guilt of the accused, that is to say, they 
+should not be explainable on any other 
+hypothesis except that the accused is guilty,
+(3) the circumstances should be of a 
+conclusive nature and tendency,
+(4) they should exclude every possible 
+hypothesis except the one to be proved, and
+(5) there must be a chain of evidence so 
+complete as not to leave any reasonable 
+ground for the conclusion consistent with 
+the innocence of the accused and must show 
+that in all human probability the act must 
+have been done by the accused.”
+(Emphasis Supplied)
+28.	 Bearing the aforesaid principles in mind, we shall now proceed to 
+examine and analyse the evidence led by the prosecution to prove 
+the circumstances relied upon by it for bringing home the guilt of 
+the appellant-Pooranmal. 
+I.	
+RECOVERY OF CURRENCY NOTES
+29.	 At the outset, we may take note of the fact that there is a grave 
+discrepancy regarding the exact amount of currency notes recovered 
+by the Investigating Officer (PW.22) purportedly in furtherance of the 
+disclosure statement made by the appellant-Pooranmal.
+30.	 Whilst in the examination-in-chief, the Investigating Officer (PW.22) 
+deposed that the appellant-Pooranmal furnished an information under 
+Section 27 of the Evidence Act [Proviso to Section 23 of the BSA] 
+
+324
+[2026] 3 S.C.R.
+Supreme Court Reports
+regarding receipt of the amount of Rs.46,000/- (Ex. P-44) from Ladu 
+Lal pursuant to a plan to commit the murder of Smt. Aruna. 
+31.	 The Investigating Officer (PW.22) further stated that in consequence 
+of the said disclosure, as also another disclosure pertaining to 
+the shirt allegedly worn at the time of the incident, the appellant-
+Pooranmal led the police party to his residence and got recovered 
+a shirt (suspected to be blood-stained) kept in an iron box. The said 
+recovery was reduced into writing vide memo (Ex. P-9), and the shirt 
+was sealed at the spot. Further as per the information given by the 
+appellant-Pooranmal, a sum of Rs.46,000/- was recovered from his 
+house and was seized vide memo (Ex. P-13). The said amount was 
+also sealed at the spot.
+32.	 In cross-examination, the Investigating Officer (PW.22) admitted 
+that though on the chit of material exhibit (Ex. P-52), the currency 
+notes were mentioned as Rs.46,000/-, but when the notes were 
+counted in Court, it was noticed that the amount was Rs.46,145/-. 
+The Investigating Officer (PW.22) admitted that there was no mention 
+of these extra Rs.145 on the packet marked as (Ex. P-52). 
+33.	 Thus, the very factum of recovery of the currency notes comes under 
+a grave cloud of doubt. That apart, mere recovery of currency notes, 
+in the absence of any cogent evidence establishing a clear nexus 
+between the said amount and the crime, would not by itself constitute 
+an incriminating circumstance against the appellant-Pooranmal. Thus, 
+the said circumstance was wrongly treated to be incriminating by the 
+trial Court as the recovery itself is doubtful and additionally, the mere 
+recovery of currency notes cannot constitute incriminating evidence 
+in absence of corroborative evidence.
+II.	
+RECOVERY OF BLOOD-STAINED SHIRT
+34.	 The second incriminating article recovered at the instance of the 
+appellant-Pooranmal was the blood-stained shirt which upon being 
+analysed at the FSL purportedly gave a positive test for the presence 
+of the same blood group (O) as that of the deceased-Aruna. From 
+the evidence of the Investigating Officer (PW.22), it transpires that 
+the recovery of the shirt was effected in furtherance of the disclosure 
+statement of the appellant-Pooranmal (Ex. P-43). The recovery memo 
+of the shirt was proved as (Ex. P-9). 
+
+[2026] 3 S.C.R. 
+325
+Pooranmal v. The State of Rajasthan & Anr.
+35.	 We may observe that the appellant-Pooranmal herein was a free 
+bird since the day of incident i.e. from intervening night of 2nd and 
+3rd March, 2010 until 4th March, 2010, when he came to be formally 
+arrested in connection with the present case, after being implicated 
+by the co-convict Ladu Lal. The recovery memo (Ex. P-9) indicates 
+that the appellant-Pooranmal had meticulously concealed the shirt 
+in an iron box and when the same was recovered, it was bearing 
+blood stains. To our mind, it is highly improbable and unnatural that 
+the appellant-Pooranmal, who was a free bird, would have taken 
+such great pains to conceal the shirt so meticulously rather than 
+simply destroying it by burning. Furthermore, even if the appellant-
+Pooranmal was desirous of preserving the shirt, all that was required 
+to obliterate the blood stains was to wash the same. Hence, we are 
+of the firm view that the recovery of the shirt is totally unreliable. 
+36.	 The recovery of the shirt was held to be incriminating based on the 
+FSL report (Ex. P-49) as per which the blood stains on the shirt 
+tested positive for the presence of O blood group being the same as 
+that of the deceased-Aruna. For treating the FSL report (Ex. P-49) 
+to be admissible, the prosecution would have to prove the complete 
+chain of custody establishing the sanctity of the sealed articles right 
+from the time of the seizure till the time they reached the FSL. In 
+this regard, we would like to refer to the evidence of the following 
+witnesses:-
+a.	
+Mathura Singh (P.W.19)
+37.	 Mathura Singh (PW.19), the Head Constable in-charge of the 
+malkhana at Police Station Bijolia, stated that on 6th March, 2010 
+the Investigating Officer (PW.22) deposited blood-stained tissues 
+and shirt in a sealed cloth bag. An entry to this effect was made in 
+the malkhana register at Serial No. 227. On 7th March, 2010, the 
+Investigating Officer (PW.22) deposited a sealed bag containing 46 
+notes of Rs.1,000/- each, totalling Rs. 46,000/-. The witness (PW.19) 
+stated that these articles, which also included the articles/samples 
+recovered from the crime scene and the t-shirt recovered at the 
+instance of the co-convict Ladu Lal, bearing marks A, B, C, L, M 
+(totalling five), were forwarded with constable Surender Singh (PW.16) 
+to SP office Bhilwara on 15th March, 2010 for being deposited at the 
+FSL accompanied by requisite documents. However, because the 
+FSL forwarding letter was not yet prepared, the said articles were 
+
+326
+[2026] 3 S.C.R.
+Supreme Court Reports
+returned and handed back to said witness (PW.19) who redeposited 
+the same in the malkhana with an endorsement made in the malkhana 
+register (Ex. P-37).
+38.	 These very articles were again taken out from the malkhana on 
+18th March, 2010 and handed over to Surender Singh (PW.16) for 
+delivery to FSL. Surender Singh (PW.16) proceeded to Udaipur 
+and deposited the samples at the FSL on 19th March, 2010. He 
+thereafter returned on 20th March, 2010 along with the receipt 
+evidencing such deposit.
+39.	 The witness (PW.19) was confronted with the malkhana entry in his 
+cross-examination and stated as below: -
+“It is wrong to say that I had given the material to Surendra 
+Singh on 12.3.10 for taking to F.S.L. and that due to some 
+shortage in it, the material were returned on 15.3.l0. Ex.D.3 
+The copy of the Malkhana which was attached with the 
+challan in the file, in the C-D part of which it is written that 
+the material were sent on 12.3.10 is wrong.”
+b.	
+Surendra Singh (P.W.16)
+40.	 The Carrier Constable, Surender Singh (PW.16), emphatically stated 
+that he carried the malkhana articles to the FSL on 18th March, 2010, 
+deposited them at the FSL, Udaipur on 19th March, 2010 and brought 
+back the receipt. In his cross-examination, the witness (PW.16) stated 
+that he did not recollect taking the same articles to the S.P. office on 
+12th March, 2010. He was confronted with the malkhana register (Ex. 
+D-3), which records that he had been handed the samples on 12th 
+March, 2010 and had attempted to deposit them at the S.P. Office 
+on 15th March, 2010. However, he feigned ignorance as to the said 
+entry recorded in the official document (Ex.D-3). 
+41.	 On a holistic appreciation of the evidence of these two witnesses, 
+it becomes clear that there is a grave discrepancy regarding the 
+safe-keeping/chain of custody of the muddamal articles. It is clearly 
+discernible from the evidence of Mathura Singh (PW.19) that the 
+muddamal articles were sent out of the police station prior to 18th 
+March, 2010, to be precise on 15th March, 2010, but the same 
+were returned from the FSL because of some defects. The precise 
+reason for return of the muddamal articles is not forthcoming in the 
+
+[2026] 3 S.C.R. 
+327
+Pooranmal v. The State of Rajasthan & Anr.
+evidence of the prosecution witnesses. The Carrier Constable (PW.16) 
+categorically denied having carried the samples on any date prior 
+to 18th March, 2010. 
+42.	 The entry made in the malkhana register (Ex. D-3) with which both 
+the witnesses were confronted, completely demolishes the versions 
+of PW.19 and PW.16. In this entry, it is clearly recorded that the 
+muddamal articles were forwarded to the FSL on 12th March, 2010. 
+Utter failure of the prosecution to disclose as to the reasons for which 
+the samples were returned from the FSL breaches the unbroken 
+chain of custody mandatorily required to prove the safe keeping of 
+the muddamal articles.
+43.	 In Karandeep Sharma alias Razia alias Raju v. State of 
+Uttarakhand12, this Court emphasised that for a DNA/FSL report to be 
+acceptable and reliable, the prosecution must establish an unbroken 
+chain of custody and demonstrate that the samples remained duly 
+sealed and untampered throughout, and held as follows:-
+“54. In order to make the DNA report acceptable, reliable 
+and admissible, the prosecution would first be required to 
+prove the sanctity and chain of custody of the samples/
+articles right from the time of their preparation/collection 
+till the time they reached the FSL. For this purpose, the 
+link evidence would have to be established by examining 
+the concerned witness.
+55. Evidently, there is not even a semblance of evidence 
+on record to satisfy the Court that the samples/articles 
+collected from the dead body of the child-victim and those 
+collected from the appellant which were later forwarded to 
+the FSL were properly sealed or that the same remained 
+in a self-same condition right from the time of the seizure 
+till they reached the FSL. No witness from the FSL was 
+examined by the prosecution to prove that the samples/
+articles were received in a sealed condition. Hence, 
+there is every possibility of the samples being tampered/
+manipulated by the police officers so as to achieve a 
+favourable result from the FSL, thereby, inculpating the 
+appellant in the crime.”
+12	
+2025 SCC OnLine SC 773.
+
+328
+[2026] 3 S.C.R.
+Supreme Court Reports
+44.	 In view of the analysis of evidence made above, we are of the firm view 
+that the requisite link evidence essential to prove the safe-keeping 
+and sanctity of the muddamal articles is lacking and the chain of 
+custody has been breached beyond reprieve, thereby, making the 
+FSL report (Ex. P-49) redundant and a worthless piece of paper.
+45.	 Moreover, this Court in Allarakha Habib Memon v. State of 
+Gujarat13, expounded that even if the FSL report establishes that 
+the blood group detected on the article recovered at the instance of 
+the accused matches that of the deceased, such circumstance by 
+itself is not sufficient to link the said accused with the crime. This 
+Court observed as follows:- 
+“42. The trial court as well as the High Court heavily 
+relied upon the FSL reports (Exts. 111-115) for finding 
+corroboration to the evidence of the eyewitnesses and in 
+drawing a conclusion regarding culpability of the appellants 
+for the crime. We may reiterate that the testimony of the 
+so-called eyewitnesses has already been discarded above 
+by holding the same to be doubtful. Thus, even presuming 
+that the FSL reports (Exts. 111-115) conclude that the 
+blood group found on the weapons recovered at the 
+instance of the accused matched with the blood group 
+of the deceased, this circumstance in isolation, cannot 
+be considered sufficient so as to link the accused 
+with the crime.
+43. In this regard, reliance can be placed on the judgment 
+of Mustkeem v. State of Rajasthan [Mustkeem v. State 
+of Rajasthan, (2011) 11 SCC 724 : (2011) 3 SCC (Cri) 
+473] , wherein this Court held that sole circumstance of 
+recovery of bloodstained weapon cannot form the basis 
+of conviction unless the same was connected with the 
+murder of the deceased by the accused. The relevant 
+portion is extracted hereinbelow : (SCC p. 730, para 19) 
+“19. The AB blood group which was found 
+on the clothes of the deceased does not by 
+itself establish the guilt of the appellant unless 
+13	
+(2024) 9 SCC 546.
+
+[2026] 3 S.C.R. 
+329
+Pooranmal v. The State of Rajasthan & Anr.
+the same was connected with the murder of 
+the deceased by the appellants. None of the 
+witnesses examined by the prosecution could 
+establish that fact. The blood found on the 
+sword recovered at the instance of Mustkeem 
+was not sufficient for test as the same had 
+already disintegrated. At any rate, due to the 
+reasons elaborated in the following paragraphs, 
+the fact that the traces of blood found on the 
+deceased matched those found on the recovered 
+weapons cannot ipso facto enable us to arrive 
+at the conclusion that the latter were used for 
+the murder.”
+(Emphasis Supplied)
+46.	 Thus, even if the FSL report (Ex. P-49) shows that the blood found 
+on the shirt allegedly recovered at the instance of the appellant-
+Pooranmal matches that of the deceased-Aruna, such finding would 
+by itself not be incriminating in the absence of other cogent and 
+corroborative evidence completing the chain of circumstances.
+47.	 Thus, neither the recovery of the currency notes is reliable, nor the 
+recovery of the shirt inspires confidence. In addition thereto, the link 
+evidence having not been proved, the FSL report (Ex. P-49) pales 
+into insignificance.
+III.	
+CALL DETAIL RECORDS
+48.	 The last and final piece of circumstantial evidence relied upon by 
+the prosecution to bring home the charges against the appellant-
+Pooranmal pertains to the call detail records. 
+49.	 Section 65-B of the Evidence Act [Section 63 of the BSA] mandates 
+that electronic evidence in form of a computer output (call detail 
+records) can only be admitted in evidence upon satisfaction of the 
+mandatory conditions prescribed under Section 65-B (4) of the 
+Evidence Act [Section 63(4) of the BSA], which reads as follows: -
+“(4) In any proceedings where it is desired to give a 
+statement in evidence by virtue of this section, a certificate 
+doing any of the following things, that is to say, --
+
+330
+[2026] 3 S.C.R.
+Supreme Court Reports
+(a) identifying the electronic record containing 
+the statement and describing the manner in 
+which it was produced;
+(b) giving such particulars of any device involved 
+in the production of that electronic record as 
+may be appropriate for the purpose of showing 
+that the electronic record was produced by a 
+computer;
+(c) dealing with any of the matters to which 
+the conditions mentioned in sub-section (2) 
+relate, and purporting to be signed by a person 
+occupying a responsible official position in 
+relation to the operation of the relevant device 
+or the management of the relevant activities 
+(whichever is appropriate) shall be evidence of 
+any matter stated in the certificate; and for the 
+purposes of this subsection it shall be sufficient 
+for a matter to be stated to the best of the 
+knowledge and belief of the person stating it.
+(Emphasis supplied)
+50.	 This position of law was cemented by this Court in the case of Anvar 
+P.V. v. P.K. Basheer14, wherein it was held as follows: -
+“14. Any documentary evidence by way of an electronic 
+record under the Evidence Act, in view of Sections 59 
+and 65-A, can be proved only in accordance with the 
+procedure prescribed under Section 65-B. Section 65-B 
+deals with the admissibility of the electronic record. The 
+purpose of these provisions is to sanctify secondary 
+evidence in electronic form, generated by a computer. It 
+may be noted that the section starts with a non obstante 
+clause. Thus, notwithstanding anything contained in the 
+Evidence Act, any information contained in an electronic 
+record which is printed on a paper, stored, recorded 
+or copied in optical or magnetic media produced by a 
+14	
+(2014) 10 SCC 473.
+
+[2026] 3 S.C.R. 
+331
+Pooranmal v. The State of Rajasthan & Anr.
+computer shall be deemed to be a document only if the 
+conditions mentioned under sub-section (2) are satisfied, 
+without further proof or production of the original. The very 
+admissibility of such a document i.e. electronic record which 
+is called as computer output, depends on the satisfaction 
+of the four conditions under Section 65-B(2). Following 
+are the specified conditions under Section 65-B(2) of the 
+Evidence Act:
+(i) The electronic record containing the 
+information should have been produced by 
+the computer during the period over which the 
+same was regularly used to store or process 
+information for the purpose of any activity 
+regularly carried on over that period by the 
+person having lawful control over the use of 
+that computer;
+(ii) The information of the kind contained in 
+electronic record or of the kind from which the 
+information is derived was regularly fed into 
+the computer in the ordinary course of the said 
+activity;
+(iii) During the material part of the said period, 
+the computer was operating properly and that 
+even if it was not operating properly for some 
+time, the break or breaks had not affected either 
+the record or the accuracy of its contents; and
+(iv) The information contained in the record 
+should be a reproduction or derivation from the 
+information fed into the computer in the ordinary 
+course of the said activity.
+15. Under Section 65-B(4) of the Evidence Act, if it is 
+desired to give a statement in any proceedings pertaining 
+to an electronic record, it is permissible provided the 
+following conditions are satisfied:
+(a) There must be a certificate which identifies 
+the electronic record containing the statement;
+
+332
+[2026] 3 S.C.R.
+Supreme Court Reports
+(b) The certificate must describe the manner 
+in which the electronic record was produced;
+(c) The certificate must furnish the particulars 
+of the device involved in the production of that 
+record;
+(d) The certificate must deal with the applicable 
+conditions mentioned under Section 65-B(2) of 
+the Evidence Act; and
+(e) The certificate must be signed by a person 
+occupying a responsible official position in 
+relation to the operation of the relevant device.
+16. It is further clarified that the person need only to state in 
+the certificate that the same is to the best of his knowledge 
+and belief. Most importantly, such a certificate must 
+accompany the electronic record like computer printout, 
+compact disc (CD), video compact disc (VCD), pen drive, 
+etc., pertaining to which a statement is sought to be given 
+in evidence, when the same is produced in evidence. All 
+these safeguards are taken to ensure the source and 
+authenticity, which are the two hallmarks pertaining to 
+electronic record sought to be used as evidence. Electronic 
+records being more susceptible to tampering, alteration, 
+transposition, excision, etc. without such safeguards, the 
+whole trial based on proof of electronic records can lead 
+to travesty of justice.
+17. Only if the electronic record is duly produced in terms 
+of Section 65-B of the Evidence Act, would the question 
+arise as to the genuineness thereof and in that situation, 
+resort can be made to Section 45-A—opinion of Examiner 
+of Electronic Evidence.
+18. The Evidence Act does not contemplate or permit 
+the proof of an electronic record by oral evidence if 
+requirements under Section 65-B of the Evidence Act 
+are not complied with, as the law now stands in India.” 
+(Emphasis Supplied)
+
+[2026] 3 S.C.R. 
+333
+Pooranmal v. The State of Rajasthan & Anr.
+51.	 Subsequently, this Court in Arjun Panditrao Khotkar v. Kailash 
+Kushanrao Gorantyal15, reaffirmed and clarified the position laid 
+down in Anvar P.V. (supra), observing that the requirement of a 
+certificate under Section 65-B of the Evidence Act [Section 63 of 
+the BSA] for admissibility of electronic evidence is mandatory and 
+cannot be dispensed with, and held as follows:- 
+“61. We may reiterate, therefore, that the certificate required 
+under Section 65-B(4) is a condition precedent to the 
+admissibility of evidence by way of electronic record, as 
+correctly held in Anvar P.V. [Anvar P.V. v. P.K. Basheer, 
+(2014) 10 SCC 473 : (2015) 1 SCC (Civ) 27 : (2015) 1 
+SCC (Cri) 24 : (2015) 1 SCC (L&S) 108], and incorrectly 
+“clarified” in Shafhi Mohammad [Shafhi Mohammad v. 
+State of H.P., (2018) 2 SCC 801 : (2018) 2 SCC 807 : 
+(2018) 2 SCC (Civ) 346 : (2018) 2 SCC (Civ) 351 : (2018) 
+1 SCC (Cri) 860 : (2018) 1 SCC (Cri) 865] . Oral evidence 
+in the place of such certificate cannot possibly suffice as 
+Section 65-B(4) is a mandatory requirement of the law. 
+Indeed, the hallowed principle in Taylor v. Taylor [Taylor v. 
+Taylor, (1875) LR 1 Ch D 426] , which has been followed 
+in a number of the judgments of this Court, can also be 
+applied. Section 65-B(4) of the Evidence Act clearly states 
+that secondary evidence is admissible only if led in the 
+manner stated and not otherwise. To hold otherwise would 
+render Section 65-B(4) otiose.”
+52.	 Admittedly, in the present case, the certificate under Section 65-B 
+of the Evidence Act [Section 63 of the BSA] was not proved by the 
+prosecution. In the absence of the certificate, mandatorily required 
+under Section 65-B of the Evidence Act [Section 63 of the BSA], 
+the call detail records become inadmissible in evidence and cannot 
+be relied upon to support the prosecution’s case.
+CONCLUSION
+53.	 In view of the discussion made above, we are of the opinion that the 
+prosecution has miserably failed to establish a complete and coherent 
+chain of incriminating circumstances so as to bring home the guilt 
+15	
+(2020) 7 SCC 1.
+
+334
+[2026] 3 S.C.R.
+Supreme Court Reports
+of the appellant-Pooranmal. Neither were the so-called incriminating 
+circumstances proved by cogent and admissible evidence, nor do 
+they form an unbroken chain pointing unequivocally towards the guilt 
+of the appellant-Pooranmal.
+54.	 As an upshot of the above discussion, we have no hesitation in 
+concluding that the prosecution has failed to bring home the charges 
+against the appellant-Pooranmal and the impugned judgments do 
+not stand to scrutiny. 
+55.	 Consequently, conviction of the appellant-Pooranmal as recorded by 
+the trial Court and affirmed by the High Court cannot be sustained. 
+Hence, the impugned judgments are hereby set aside. The appellant-
+Pooranmal is acquitted of the charges. He is in custody and shall 
+be released forthwith, if not wanted in any other case.
+56.	 The appeal is accordingly allowed in the above terms.
+57.	 Pending application(s), if any, shall stand disposed of. 
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Ankit Gyan

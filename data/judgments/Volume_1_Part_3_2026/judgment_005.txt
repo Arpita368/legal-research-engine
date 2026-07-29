@@ -1,0 +1,2302 @@
+[2026] 1 S.C.R. 850 : 2026 INSC 58
+Elegna Co-op. Housing and Commercial Society Ltd.
+v.
+Edelweiss Asset Reconstruction Company Limited & Anr.
+(Civil Appeal No. 10261 of 2025)
+15 January 2026
+[J.B. Pardiwala and R. Mahadevan,* JJ.]
+Issue for Consideration
+Issue arose whether the NCLAT was correct in admitting Corporate 
+Debtor into the Corporate Insolvency Resolution Process; and 
+whether the NCLAT was correct in rejecting the Intervention 
+application filed by the Society.
+Headnotes†
+Insolvency and Bankruptcy Code, 2016 – ss.5(8)(f), 7, 
+7(5)(a) – Corporate Insolvency Resolution Process (CIRP) – 
+Admission of the Corporate Debtor into CIRP – Locus standi 
+to intervene in proceedings u/s.7 – Appellant-Corporate 
+debtor availed financial assistance of Rs.70 crores from ECL-
+Original Lender for the development of the residential-cum-
+commercial project – Appellant failed to pay loan installments, 
+and thereafter the accounts were declared NPA – Original 
+Lender transferred all its rights, title, and interest in the said 
+loan to EARCL-Financial Creditor – Appellant failed in making 
+the payment despite entering into One Time Settlement 
+Agreement – Financial Creditor initiated CIRP u/s.7, in order 
+to recover the loan amount – NCLT dismissed the petition 
+holding that the facts did not warrant initiation of the CIRP as 
+IBC was being invoked as a recovery mechanism rather than 
+as a tool for insolvency resolution; and that the project was 
+viable and substantially complete and CIRP process would 
+adversely affect the interests of the homebuyers – NCLAT 
+set aside the order of NCLT and directed admission of the 
+application u/s.7 – ECHCS (Society)-association of homebuyers 
+moved intervention application before the NCLAT, which was 
+dismissed for want of locus – Correctness:
+* Author
+
+[2026] 1 S.C.R. 
+851
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+Held: Once the Adjudicating Authority is satisfied that a financial 
+debt exists and a default has occurred, it must admit the application 
+unless it is incomplete – Inquiry u/s.7(5)(a) is confined strictly to the 
+determination of debt and default, leaving no scope for equitable 
+or discretionary considerations – Corporate Debtor admittedly 
+possesses no adjudicated or realisable claim exceeding the amount 
+in default – Its reliance on business viability, unsold inventory, 
+project status, or anticipated receivables does not constitute “good 
+reasons” in law to defer or deny admission of CIRP – Existence 
+of a financial debt owed to EARCL is undisputed – Persistent 
+defaults stand admitted and are conclusively established on 
+record, including breach of the restructuring agreement and 
+failure to pay instalments within the stipulated cure period – 
+Restructuring arrangement failed due to non-payment by the 
+Corporate Debtor, thereby triggering an express event of default 
+under its terms – NCLAT correctly held that considerations such 
+as ongoing operations, partial project completion, or anticipated 
+receivables are extraneous to the statutory mandate u/s.7 – It 
+cannot be said that EARCL misused the Code as a recovery 
+tool – Allegations of mala fide invocation neither pleaded or 
+established – Circumstances, taken cumulatively, substantiated 
+EARCL’s request for initiation of CIRP – Thus, impugned judgment 
+admitting the Corporate Debtor into the CIRP does not suffer from 
+any legal infirmity – As regards the rejection of the intervention 
+application filed by the society, the appellant Society neither a 
+financial nor an operational creditor – It is a maintenance society 
+not constituted for insolvency representation – No documentary 
+proof of registration, collective authorisation, or general body 
+resolution produced – Membership is automatic and mandatory, 
+negating consensual representation – Intervention application filed 
+only at the appellate stage and not before the NCLT – Society 
+not a party to the financial transaction forming the substratum of 
+the s.7 application, hence, no statutory right of appeal inheres 
+in the appellant – Right to initiate or participate in insolvency 
+proceedings is statutory, not equitable – Society or Resident 
+Welfare Association, not being a creditor in its own right and not 
+recognised as an authorised representative of allottees under 
+the IBC, has no locus standi to intervene in proceedings arising 
+out of a s.7 petition – NCLAT justified in rejecting the Society’s 
+intervention application – No prejudice caused to homebuyers, 
+
+852
+[2026] 1 S.C.R.
+Supreme Court Reports
+whose interests are adequately safeguarded under the Code – 
+Upon commencement of CIRP, any aggrieved stakeholder may 
+avail remedies strictly in accordance with the Code. [Paras 12.3, 
+12.8-12.12, 12.18, 12.21, 12.22, 13.7, 13.8, 13.17, 13.22, 15]
+Insolvency and Bankruptcy Code, 2016 – Cases of insolvency 
+against the project developers – Safeguarding the interests 
+of homebuyers – Issuance of directions to the Committee of 
+Creditors: 
+Held: While the commercial wisdom of the Committee of Creditors-
+CoC is paramount and is not ordinarily amenable to judicial 
+review, the width of powers vested in the CoC carries with it a 
+corresponding duty of responsibility – Any extraordinary or non-
+routine decision taken by the CoC must, thus, be supported by 
+cogent reasons duly recorded in writing – With a view to advancing 
+transparency, ensuring accountability, and safeguarding the 
+interests of homebuyers, issuance of directions – Information 
+Memorandum to mandatorily disclose comprehensive and complete 
+details of all allottees – Where the CoC, upon due consideration, 
+finds it not viable to approve handover of possession in terms 
+of the CIRP Regulations, it shall mandatorily record cogent and 
+specific reasons in writing for such decision – Any recommendation 
+for liquidation by the Committee of Creditors to be accompanied 
+by a reasoned justification recorded in writing evidencing proper 
+application of mind and due consideration of all viable alternatives, 
+in consonance with the objective of the Code – These directions 
+to operate prospectively and to be complied with forthwith. 
+[Para 15.1]
+Case Law Cited
+Innoventive Industries Ltd v. ICICI Bank [2017] 8 SCR 33 : (2018) 
+1 SCC 407; ES. Krishnamurthy v. Bharath Hi- Tech Builders Pvt. 
+Ltd [2021] 12 SCR 28 : (2022) 3 SCC 161; Swiss Ribbons (P) 
+Ltd. v. Union of India [2019] 3 SCR 535 : (2019) 4 SCC 17; Indus 
+Biotech Private Ltd. v. Kotak India Venture (Offshore) Fund and 
+Others [2021] 7 SCR 112 : (2021) 6 SCC 436; GLAS Trust Co. 
+LLC v. BYJU Raveendran, 2024 INSC 811 : [2024] 10 SCR 1802 : 
+(2025) 3 SCC 625 – relied on.
+Vidarbha Industries Power Ltd v. Axis Bank Ltd [2022] 12 SCR 
+139 : (2022) 8 SCC 352 – distinguished.
+
+[2026] 1 S.C.R. 
+853
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+Pioneer Urban Land and Infrastructure Ltd v. Union of India [2019] 
+10 SCR 381 : (2019) 8 SCC 416; Chitra Sharma v. Union of India 
+[2018] 12 SCR 1044 : (2018) 18 SCC 575; Mobilox Innovations 
+Pvt. Ltd. v. Kirusa Software Pvt. Ltd [2017] 10 SCR 1006 : 
+(2018) 1 SCC 353; State Bank of India v. Hubtown Bus Terminal 
+(Vadodara) Pvt. Ltd., R/LPA No. 1 of 2022 in R/Special Civil 
+Application No. 10985 of 2021 etc. cases dated 18.10.2022; M. 
+Suresh Kumar Reddy v. Canara Bank and Others [2023] 5 SCR 
+387 : 2023 SCC OnLine SC 608; Kotak Mahindra Bank Ltd. v. A. 
+Balakrishnan and Another [2022] 5 SCR 1072 : (2022) 9 SCC 186; 
+Tottempudi Salalith v. SBI [2023] 14 SCR 492 : (2024) 1 SCC 24; 
+Haldiram Incorporation (P) Ltd. v. Amrit Hatcheries (P) Ltd, 2023 
+SCC OnLine SC 1706; Karad Urban Cooperative Bank Limited v. 
+Swwapnil Bhingardevay and Others [2020] 13 SCR 465 : (2020) 9 
+SCC 729; Independent Sugar Corpn. Ltd. v. Girish Sriram Juneja 
+& Ors., 2025 INSC 124 : [2025] 1 SCR 1782 : (2025) 5 SCC 209; 
+Phoenix ARC Pvt. Ltd v. Spade Financial Services Ltd [2021] 
+15 SCR 1079 : (2021) 3 SCC 475; Bishambhar Prasad v. Arfat 
+Petrochemicals Pvt. Ltd. and Others [2023] 7 SCR 230 : 2023 
+SCC OnLine SC 458; Mansi Brar Fernandes v. Shubha Sharma 
+and Another, 2025 INSC 1110 : [2025] 10 SCR 169 – referred to.
+List of Acts
+SARFAESI Act, 2002; Real Estate (Regulation and Development) 
+Act, 2016; Companies Act, 2013; Consumer Protection Act, 2019; 
+Insolvency and Bankruptcy Code, 2016; Code of Civil Procedure, 
+1908; Security Interest (Enforcement) Rules, 2002; IBBI (Insolvency 
+Resolution Process for Corporate Persons) Regulations, 2016; 
+NCLAT Rules, 2016; Constitution of India.
+List of Keywords
+Corporate Insolvency Resolution Process (CIRP); Admission of 
+the Corporate Debtor into CIRP; Initiation of CIRP; Locus standi 
+of society; One time settlement agreement; Recovery mechanism; 
+Residential project; Home buyers’ society; Interests of homebuyers; 
+Financial debt exists; Default; Determination of debt; No discretion 
+survives once default is established; Concept of revival; Financial 
+distress; Safeguarding the interests of homebuyers; Issuance of 
+directions to the Committee of Creditors.
+
+854
+[2026] 1 S.C.R.
+Supreme Court Reports
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 10261 of 2025
+From the Judgment and Order dated 01.07.2025 of the National 
+Company Law Appellate Tribunal in CAAT No. 2261 of 2024
+With
+Civil Appeal No. 10012 of 2025
+Appearances for Parties
+Advs. for the Appellant(s):
+Ms. Madhavi Diwan, Nikhil Goel, Sr. Advs., Ms. Purti Gupta, Arjun 
+Sheth, Rishabh Shah, Ms. Pooja Aggarwal, Ms. Henna George, 
+Ms. Sunidhi Sah.
+Advs. for the Respondent(s):
+P Nagesh, Nikhil Goel, Sr. Advs., Abhishek Agarwal, Atul Sharma, 
+Ms. Renuka Iyer, Aditya Vashith, Anmol Bansal, Ms. Henna George, 
+Ms. Sunidhi Sah.
+Judgment / Order of the Supreme Court
+Judgment
+R. Mahadevan, J.
+1.	
+The present appeals are directed against the final judgment and order 
+dated 01.07.2025 passed by the National Company Law Appellate 
+Tribunal1, Principal Bench, New Delhi, in Company Appeal (AT) 
+(Insolvency) No. 2261 of 2024.
+2.	
+By the impugned judgment, the NCLAT set aside the order dated 
+06.11.2024 passed by the Adjudicating Authority, National Company 
+Law Tribunal2, Ahmedabad Bench, in CP (IB) No. 140 (AHM) / 2024, 
+and directed admission of the application filed under Section 7 of 
+the Insolvency and Bankruptcy Code, 20163, thereby initiating the 
+1	
+For short, “NCLAT”
+2	
+For short, “NCLT”
+3	
+For short, “IBC”
+
+[2026] 1 S.C.R. 
+855
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+Corporate Insolvency Resolution Process4 against the appellant in 
+C.A. No. 10012 of 2025 – Takshashila Heights India Private Limited. 
+The NCLAT further rejected the intervention application filed by the 
+appellant in C.A. No. 10261 of 2025 – Elegna Co-operative Housing 
+and Commercial Society Ltd.5 on the ground that it lacked locus 
+standi to intervene in the aforesaid company appeal.
+3.	
+For the sake of convenience, the parties to the present appeals are 
+arrayed as under:
+Name of the 
+Party
+Before NCLT
+[CP (IB) No. 
+104(AHM)/2024]
+Before NCLAT
+[CA (AT) (Ins.) 
+No. 2261 of 
+2024]
+Before this 
+Court
+[CA No. 10261 
+of 2025 / CA 
+No. 10012 of 
+2025]
+Elegna Co-
+operative Housing 
+and Commercial 
+Society Ltd. 
+Not a party
+Intervenor
+Appellant / -
+Takshashila 
+Heights India 
+Private Ltd. 
+(Corporate 
+Debtor)
+Respondent
+Respondent
+Respondent 
+No. 2 / 
+Appellant
+Edelweiss Asset 
+Reconstruction 
+Company Ltd. 
+(Financial 
+Creditor)
+Applicant
+Appellant
+Respondent 
+No. 1 / 
+Respondent
+Brief facts
+4.	
+The necessary facts leading to the filing of the present appeals are 
+as follows:
+4.1.	 The appellant in C.A. No. 10012 of 2025 (Corporate Debtor) 
+availed financial assistance of Rs. 70 crores from ECL Finance 
+Ltd. (Original Lender), on 19.07.2018 under two term loan 
+4	
+For short, “CIRP”
+5	
+For short, “Society”
+
+856
+[2026] 1 S.C.R.
+Supreme Court Reports
+facilities, for the purpose of developing a residential -cum- 
+commercial project titled “Takshashila Elegna”. To secure 
+the said facilities, the Corporate Debtor and its promoters 
+executed loan agreements, promissory notes, and other security 
+documents on 25.07.2018 (for Term Loan – I of Rs. 40 crores) 
+and 26.09.2018 (for Term Loan – II of Rs.30 crores). An Indenture 
+of Mortgage was subsequently executed on 04.09.2020 in favour 
+of the Original Lender to secure repayment of the said loans. 
+There was delay in repayment of the loan instalments and the 
+Corporate Debtor made its last payment on 30.09.2021, after 
+which the loan accounts were classified as Non-Performing 
+Assets (NPA) on 30.12.2021.
+4.2.	 On 09.05.2022, the Original Lender executed an Assignment 
+Agreement transferring all its rights, title, and interest in the said 
+loan to Edelweiss Asset Reconstruction Company Ltd.6 (Financial 
+Creditor). Following the same, the Financial Creditor issued a 
+recall and invocation of guarantee notice dated 31.05.2022, 
+demanding a sum of Rs. 53,03,18,487/- from the Corporate 
+Debtor and its personal guarantors against Term Loans I and 
+II. They also initiated recovery proceedings by filing of O.A. No. 
+367 of 2022 before the Debts Recovery Tribunal, Ahmedabad, 
+and issued a demand notice dated 21.07.2022 under Section 
+13(2) of the SARFAESI Act, 2002 for Rs. 57,24,96,064/- as on 
+30.06.2022.
+4.3.	 Pursuant to commercial discussions, the Corporate Debtor and 
+the Financial Debtor entered into a Restructuring – cum – One 
+Time Settlement Agreement on 23.05.2023, under which the 
+Corporate Debtor agreed to discharge its outstanding liability 
+of Rs. 55 crores in a phased manner. The Corporate Debtor 
+made payment of Rs. 5.5 crores towards the first instalment 
+on 30.06.2023. The Corporate Debtor vide communication 
+dated 25.09.2023, requested the Financial Creditor to issue 
+a provisional No Objection Certificate to facilitate the sale of 
+unsold secured units in the project. However, the Financial 
+Creditor declined to issue NOC and subsequently revoked 
+the restructuring arrangement on 29.12.2023 citing default in 
+payment of instalments.
+6	
+For short, “EARCL”
+
+[2026] 1 S.C.R. 
+857
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+4.4.	 Thereafter, the EARCL – Financial Creditor filed a petition under 
+Section 7 of the IBC before the NCLT, seeking initiation of the 
+CIRP against the Corporate Debtor. During pendency of the 
+said proceedings, the Financial Creditor issued a sale notice 
+dated 10.04.2024 under Rule 8(6) read with Rule 9(1) of the 
+Security Interest (Enforcement) Rules, 20027 and the notice 
+was published in newspapers on 18.05.2024. 
+4.5.	 By a detailed and reasoned order dated 06.11.2024, the NCLT 
+dismissed the Section 7 petition, holding that the facts of the 
+case did not warrant initiation of the CIRP as the IBC was being 
+invoked as a recovery mechanism rather than as a tool for 
+insolvency resolution. The NCLT further noted that the project 
+was viable and substantially complete, and that insolvency 
+proceedings would adversely affect the interests of homebuyers 
+and other stakeholders. 
+4.6.	 Challenging the order of the NCLT, the Financial Creditor 
+preferred Company Appeal (AT)(Ins.) No. 2261 of 2024 before 
+the NCLAT. The Society filed an intervention application under 
+Rule 11 of the NCLAT Rules, 2016, on the ground that the 
+outcome of the appeal would directly affect the proprietary and 
+contractual rights of its members.
+4.7.	 The NCLAT, by its judgment dated 01.07.2025, allowed the 
+appeal filed by the Financial Creditor, set aside the order of 
+the NCLT, and directed admission of the Section 7 petition, 
+thereby initiating CIRP against the Corporate Debtor. The 
+NCLAT, however, rejected the intervention application, holding 
+that the Society lacked locus standi as it was not a party to the 
+financial transaction forming the subject matter of the appeal.
+4.8.	 Aggrieved thereby, the Society as well as the Corporate Debtor 
+have preferred the present Civil Appeals independently.
+Contentions of the Parties
+5.	
+The learned senior counsel for the appellant in C.A. No. 10261 of 
+2025 – Society at the outset, submitted that the impugned judgment 
+7	
+For short, “Securitisation Rules”
+
+858
+[2026] 1 S.C.R.
+Supreme Court Reports
+suffers from procedural impropriety and has been passed in undue 
+haste, without affording a fair and reasonable opportunity of hearing 
+to the appellant. 
+5.1.	
+It was submitted by the learned senior counsel that 
+the appellant Society is a registered co-operative body 
+representing more than 189 confirmed unit holders of the 
+real estate project “Takshashila Elegna”, developed by the 
+Corporate Debtor. The rights and interests of its members are 
+directly and substantially affected by the outcome of the appeal 
+arising under Section 7 of the IBC. The Society’s intervention 
+application was based on its status as a collective body of 
+homebuyers, who are recognised as “financial creditors” under 
+Explanation (i) to Section 5(8)(f) of the IBC, as affirmed by 
+this Court in Pioneer Urban Land and Infrastructure Ltd v. 
+Union of India8 which held that allottees in a real estate 
+project are to be treated as financial creditors and are entitled 
+to participate in the CIRP. 
+5.2.	
+The learned senior counsel further submitted that the 
+appellant is neither a stranger nor an intermeddler, but a 
+directly interested stakeholder whose members’ proprietary 
+and contractual rights stand imperilled by the initiation of the 
+CIRP of the corporate debtor. However, the NCLAT erred in 
+holding that the appellant had no locus standi to intervene on 
+the ground that it was not a party to the underlying financial 
+transaction.
+5.3.	
+It was further contended by the learned senior counsel that 
+the NCLAT misdirected itself in treating the appellant as an 
+“unrelated third party” merely because its members belong to 
+a completed tower of the same project. The creation of such 
+an artificial distinction between unit holders of completed and 
+uncompleted towers within a single real estate development 
+is arbitrary, lacks intelligible differentia, and bears no rational 
+nexus to the object sought to be achieved. Such sub-
+classification within a homogeneous class of allotees offends 
+Article 14 of the Constitution of India.
+8	
+(2019) 8 SCC 416
+
+[2026] 1 S.C.R. 
+859
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+5.4.	
+The learned senior counsel pointed out that upon 
+commencement of CIRP, the contractual right of allottees to 
+seek specific performance of their agreements to sell stands 
+extinguished by virtue of Regulation 4E of IBBI (Insolvency 
+Resolution Process for Corporate Persons) Regulations, 
+20169, which mandates that any registration or possession 
+of units shall be subject to the approval of the Committee 
+of Creditors (CoC). The NCLAT failed to take this statutory 
+consequence into account. 
+5.5.	
+It was emphasised by the learned senior counsel that 
+initiation of CIRP suspends the operation of the Real Estate 
+(Regulation and Development) Act, 2016 (RERA), thereby 
+depriving homebuyers of their statutory remedies under RERA. 
+Simultaneously, their participation before the CoC remains 
+uncertain and disproportionately weak owing to their limited 
+voting share as unsecured financial creditors.
+5.6.	
+Reliance was placed on Chitra Sharma v. Union of India10, 
+wherein this Court underscored the need to afford special 
+protection to the interests of homebuyers in real estate 
+insolvencies. Denying the appellant a hearing in such 
+circumstances constitutes a violation of the principle of audi 
+alteram partem and results in a grave miscarriage of justice.
+5.7.	
+It was further urged by the learned senior counsel that the 
+NCLAT failed to exercise its inherent powers under Rule 11 
+of the NCLAT Rules, 2016, which empower it to pass such 
+orders as may be necessary to meet the ends of justice. The 
+rejection of the intervention application was mechanical and 
+devoid of due consideration of the equities involved, thereby 
+defeating the participatory and transparent process envisaged 
+under the IBC.
+5.8.	
+The learned senior counsel also pointed out that the 
+intervention application was neither properly registered 
+nor reflected in the cause title of the impugned judgment, 
+evidencing procedural irregularity and lack of due process. 
+9	
+For short, “CIRP Regulations”
+10	
+(2018) 18 SCC 575
+
+860
+[2026] 1 S.C.R.
+Supreme Court Reports
+The omission to adjudicate upon the same in a reasoned 
+manner renders the impugned judgment unsustainable in law.
+5.9.	
+It was next submitted that the initiation of CIRP in real estate 
+cases often extends far beyond statutory timelines, leaving 
+homebuyers in prolonged uncertainty. During this period, 
+allottees continue to pay EMIs on their home loans without 
+possession of their units, causing serious financial hardship. 
+5.10.	 The learned senior counsel contended that exclusion of the 
+appellant from the appellate proceedings causes procedural 
+unfairness and violates Article 14 by denying similarly placed 
+financial creditors the opportunity to be heard. The question 
+of intervention is not merely procedural but concerns the 
+substantive rights of the allottees, who risk losing their 
+proprietary interest and right to possession in the event of 
+liquidation under Section 53 of the IBC.
+5.11.	 It was further submitted by the learned senior counsel that 
+the participation of the appellant would not have prejudiced 
+the appellate proceedings. On the contrary, it would have 
+advanced the cause of justice by ensuring that all affected 
+stakeholders are heard before any order impacting their 
+rights is passed. The rejection of the appellant’s intervention 
+application, therefore, results in manifest injustice and warrants 
+interference by this Court under Section 62 of the IBC.
+5.12.	 The learned senior counsel submitted that the conduct of 
+the financial creditor in simultaneously pursing CIRP, while 
+also attempting to sell units and recover amounts under the 
+Securitisation Rules, is clearly mala fide and squarely attracts 
+Section 65 of the IBC. In this regard, reliance was placed on the 
+judgment of this Court in Innoventive Industries Ltd v. ICICI 
+Bank11, wherein it was held that once an order of admission 
+is passed, the CIRP commences and the moratorium comes 
+into effect, thereby imposing a freeze on, inter alia, the sale 
+or alienation of assets. 
+5.13.	 It was further submitted by the learned senior counsel that 
+in Swiss Ribbons (P) Ltd. v. Union of India12, this Court 
+11	
+(2018) 1 SCC 407
+12	
+(2019) 4 SCC 17
+
+[2026] 1 S.C.R. 
+861
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+underlined the defining qualities of a financial creditor, who 
+is required to have the long-term interests of the Corporate 
+Debtor at heart and not be merely interested in quick recovery 
+regardless of the future of the Corporate Debtor. Whereas, in 
+the present case, the Respondent – Financial Creditor, being 
+in the business of acquiring debts and instituting Section 7 
+proceedings on the strength of such debts, is purely in the 
+business of recovery, at the cost of the real estate project as 
+a whole. They have shown no regard for the interest of the 
+other financial creditors, who are deeply invested in the project, 
+having sunk their hard-earned savings into the purchase of 
+flats in the real estate project. According to the learned senior 
+counsel, the project is 90% complete. However, the Financial 
+Creditor is intent upon taking the Corporate Debtor into CIRP, 
+thereby creating a situation of instability and uncertainty, apart 
+from bringing the project to a standstill and depleting the value 
+of the units, both sold and unsold. Such conduct, far from 
+protecting the interests of the corporate debtor imperils them. 
+5.14.	 In light of the foregoing, it was submitted by the learned senior 
+counsel that the impugned judgment rejecting the appellant’s 
+intervention application is arbitrary, procedurally irregular, and 
+violative of Articles 14 and 21 of the Constitution, as well as the 
+principles of natural justice and the same therefore, deserves 
+to be set aside, and the appellant ought to be permitted to 
+intervene in the proceedings initiated against the Corporate 
+Debtor to safeguard the legitimate interests of homebuyers, 
+who are the end users of the project “Takshashila Elegna”.
+6.	
+Continuing further, the learned senior counsel for the appellant in 
+C.A. No. 10012 of 2025 – Takshashila Heights India Private Limited 
+submitted that the NCLAT has mechanically applied Section 7(5)(a) of 
+the IBC without considering the bona fide commercial viability of the 
+project, the recovery-oriented conduct of the respondent – Financial 
+Creditor, and the grave prejudice caused to hundreds of homebuyers 
+whose interests the IBC is designed to safeguard. 
+6.1.	 According to the learned senior counsel, the appellant is a real 
+estate developer engaged in the construction of a residential – 
+cum – commercial project titled “Takshashila Elegna” situated at 
+Ahmedabad, Gujarat, comprising four towers and 279 units (259 
+
+862
+[2026] 1 S.C.R.
+Supreme Court Reports
+residential + 20 commercial). The project is duly registered under 
+Gujarat RERA and has achieved substantial completion, with 
+Building Use Certificates issued by the Ahmedabad Municipal 
+Corporation for all towers. Out of 279 units, 189 have been 
+sold, 80 allottees have taken possession, and an amount of Rs. 
+103 crores has been realised from homebuyers. The remaining 
+unsold inventory constitutes a ready and monetizable asset pool 
+sufficient to discharge all outstanding liabilities. To finance the 
+project, the corporate debtor availed two term loans aggregating 
+to Rs. 70 crores from ECL Finance Limited on 19.07.2018, 
+secured by mortgage of project assets and personal guarantees. 
+Due to Covid-19 disruptions and delays in statutory approvals, 
+repayment timelines were adversely affected, and the accounts 
+were classified as NPA on 30.12.2021. Subsequently, on 
+31.12.2021 (as amended on 09.05.2022), ECL Finance assigned 
+the debt to EARCL, acting as Trustee of EARC Trust SC 444. 
+EARCL issued a recall notice dated 31.05.2022 demanding Rs. 
+53.03 crores, followed by a SARFAESI notice dated 21.07.2022 
+for Rs. 57.24 crores and filed OA No. 367 of 2022 before the 
+DRT, Ahmedabad – clearly reflecting a recovery driven approach.
+6.2.	 The learned senior counsel further submitted that after 
+negotiations, the parties entered into a Restructuring – cum – 
+One Time Settlement (OTS) on 23.05.2023, fixing the liability at 
+Rs. 55 crores (Rs. 39 crores by the corporate debtor and Rs. 16 
+crores by Raghav Conpro LLP), payable in eight instalments. 
+The OTS obligated EARCL to issue provisional NOCs for sale 
+of secured units to enable repayment. The corporate debtor 
+paid Rs. 5.5 crores towards the first instalment and Rs. 0.86 
+crores towards the second. However, EARCL refused to issue 
+NOCs, thereby obstructing monetisation of unsold units and 
+directly preventing further payments. Despite being in breach 
+of its own obligation, EARCL unilaterally revoked the OTS on 
+29.12.2023 alleging default. This default, being the result of 
+EARCL’s own non-performance, is a manufactured and self-
+induced default. Thereafter, EARCL filed a Section 7 petition 
+on 23.02.2024 claiming Rs. 93.54 crores (as on 31.01.2024) – 
+an inflated figure nearly Rs. 40 crores higher than the OTS 
+amount, primarily due to arbitrary penal interest. Simultaneously, 
+EARCL pursued the proceedings under the SARFAESI Act 
+
+[2026] 1 S.C.R. 
+863
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+through a sale notice dated 10.04.2024 and a public notice 
+dated 18.05.2024, amounting to forum shopping and parallel 
+recovery in contravention of the IBC framework. 
+6.3.	 The learned senior counsel submitted that the NCLT after 
+detailed consideration, dismissed the Section 7 petition holding 
+that (a)the project was substantially complete; (b)initiation of 
+CIRP would gravely prejudice homebuyers; and (c)EARCL’s 
+actions amounted to abuse of the IBC for recovery. The NCLAT, 
+however, reversed the order solely on the ground that “proof of 
+debt and default” was sufficient for admission and that Vidarbha 
+Industries Power Ltd v. Axis Bank Ltd13 was inapplicable. 
+Such a conclusion ignores the discretionary nature of Section 
+7(5)(a) and is contrary to settled law. 
+6.4.	 The learned senior counsel submitted that the sequence of 
+actions – recall notice, SARFAESI proceedings, DRT filing, OTS, 
+revocation, and Section 7 filing – demonstrates that EARCL 
+has invoked every recovery mechanism, treating the IBC as 
+an additional coercive tool. In Swiss Ribbons, this Court held 
+that the IBC is a beneficial legislation aimed at revival of the 
+corporate debtor and not a mere debt recovery instrument. In 
+Mobilox Innovations Pvt. Ltd. v. Kirusa Software Pvt. Ltd.14 
+adopting the UNCITRAL Legislative Guide, it was recognised 
+that insolvency proceedings may be denied where their purpose 
+is improper or coercive. Recently, in GLAS Trust Co. LLC v. 
+BYJU Raveendran15, this Court reaffirmed that IBC must not be 
+misused by individual creditors as a tool for coercion or recovery, 
+especially where the corporate debtor is viable and operation. 
+EARCL, being an Asset Reconstruction Company, inherently 
+seeks debt recovery. While such a pursuit is permissible under 
+SARFAESI Act, it cannot justify recourse to IBC when the project 
+is commercially viable, substantially complete, and capable of 
+generating sufficient cash flow. 
+6.5.	 It was also submitted by the learned senior counsel that 
+EARCL’s own records disclose inconsistent and inflated demand 
+13	
+(2022) 8 SCC 352
+14	
+(2018) 1 SCC 353
+15	
+2024 INSC 811 : (2025) 3 SCC 625
+
+864
+[2026] 1 S.C.R.
+Supreme Court Reports
+figures. The demand escalation of nearly Rs. 40 crores within 
+18 months, driven by penal interest and arbitrary charges, is 
+commercially unreasonable and evidences mala fide intent to 
+create a façade of default.
+6.6.	 It was also pointed out that this Court in Vidarbha Industries 
+held that the Adjudicating Authority “may” admit a petition under 
+Section 7, thereby conferring discretion to assess the expedience 
+and necessity of CIRP based on the corporate debtor’s financial 
+position and overall circumstances. The NCLT rightly exercised 
+such discretion, noting that the project was substantially 
+complete, receivables were assured, and CIRP would harm 
+homebuyers. The NCLAT erred in reducing the process to a 
+mechanical admission test, disregarding Vidarbha Industries, 
+which remains binding and unaltered in law. Discretion under 
+Section 7(5)(a) serves as a vital safeguard against abuse of 
+process, ensuring that viable enterprises are not forced into 
+insolvency due to tactical defaults or recovery motives.
+6.7.	 It was submitted by the learned senior counsel that the 
+appellant’s project is substantially complete with 189 units sold 
+and 80 possessions delivered. Admission of CIRP would freeze 
+conveyances and registrations, suspend ongoing possession 
+and maintenance, deprive homebuyers of their contractual 
+and statutory rights under RERA, and destroy the viability of a 
+function project. Such outcomes defeat the IBC’s twin objectives 
+of value maximisation and continuation of viable enterprises. 
+As recognised in Chitra Sharma, the rights of homebuyers 
+warrant special protection in real estate insolvencies. The 
+Gujarat High Court in State Bank of India v. Hubtown Bus 
+Terminal (Vadodara) Pvt. Ltd.16 similarly recognized that 
+settlement through sale of inventory and escrow appropriation 
+is a legitimate alternative to CIRP, aligning with the IBC’s 
+revival- oriented scheme.
+6.8.	 It was submitted by the learned senior counsel that the corporate 
+debtor has already proposed a renewed repayment plan and 
+sought a meeting with EARCL vide email dated 13.08.2025, 
+indicating continued willingness to repay. If EARCL issues the 
+16	
+R/LPA No. 1 of 2022 in R/Special Civil Application No. 10985 of 2021 etc cases dated 18.10.2022
+
+[2026] 1 S.C.R. 
+865
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+required NOC and facilities sales of unsold units, the entire 
+outstanding liability can be liquidated without recourse to CIRP.
+6.9.	 Therefore, it was submitted by the learned senior counsel that 
+the Section 7 petition filed by EARCL constitutes a misuse of the 
+IBC for coercive recovery. The alleged default is manufactured, 
+the project is viable and substantially complete, and there 
+exists sufficient receivable to discharge all dues. The NCLT 
+correctly exercised discretion under Section 7(5)(a) in dismissing 
+the petition. The NCLAT, in reversing it without considering 
+expedience, viability, or stakeholder impact, committed an error 
+apparent on the face of record. Therefore, the learned senior 
+counsel prayed that this court may be pleased to allow the 
+appeal, set aside the impugned judgment of the NCLAT dated 
+01.07.2025, and restore the reasoned order of the NCLT dated 
+06.11.2024 dismissing the Section 7 petition. 
+7.	
+The learned senior counsel appearing on behalf of Respondent 
+No.1, EARCL – Financial Creditor made the following submissions:
+Lack of locus standi of the appellant Society
+(i)	
+The appellant is merely a maintenance society constituted for 
+upkeep and administration of the project premises and not a 
+representative body formed by allottees for protection of their 
+collective interests. Consequently, it cannot be regarded either 
+as a “financial creditor” under Section 5(7) or as an “operational 
+creditor” under Section 5(20) of the IBC. It therefore lacks locus 
+standi to intervene in or object to proceedings under Section 
+7 of the Code.
+(ii)	
+The appellant is not a party to any loan agreements, debenture 
+subscription agreements, or restructuring arrangements 
+executed between Respondent No. 1 and the Corporate Debtor. 
+Any grievance on behalf of homebuyers could only have been 
+raised through a duly recognized association or by a sufficient 
+number of allottees jointly, and before the Adjudicating Authority 
+(NCLT) not belatedly before the NCLAT in appeal.
+(iii)	 The appeal itself suffers from procedural infirmities: the Appellant 
+failed to annex its registration certificate; the supporting affidavit 
+is sworn by one Mr. Vishal Parmar, who is neither an allottee 
+
+866
+[2026] 1 S.C.R.
+Supreme Court Reports
+nor a unit holder; and no resolution or collective authorization 
+from the allottees empowering him to act on their behalf has 
+been produced.
+Necessity and urgency of admitting the Corporate Debtor into CIRP
+(i)	
+The Corporate Debtor’s liability is not confined to Respondent No. 
+1 alone. Multiple creditors, including IDBI Trusteeship Services 
+Ltd., have independently initiated proceedings under Section 
+7 (Company Petition (IB) No, 190/AHM / 2025), establishing 
+persistent defaults across creditors. This demonstrates systemic 
+financial stress and underscores the necessity of admitting 
+CIRP to preserve value, prevent asset dissipation, and ensure 
+equitable treatment of all stakeholders. 
+(ii)	
+In E.S. Krishnamurthy v. Bharath Hi- Tech Builders Pvt. 
+Ltd17, this Court reiterated that the enquiry under Section 7 
+of the IBC is confined to the existence of a financial debt and 
+the occurrence of default. Once these twin conditions are 
+established, admission of the petition is mandatory.
+(iii)	 Reliance on Vidarbha Industries is wholly misplaced. In M. 
+Suresh Kumar Reddy v. Canara Bank and others18, this 
+Court clarified that Vidarbha Industries turned on its peculiar 
+facts and does not dilute or override the binding principles laid 
+down in Innoventive Industries and E.S. Krishnamurthy. 
+Any interpretation of Vidarbha Industries as conferring broad 
+discretion upon the Adjudicating Authority to refuse admission 
+despite an undisputed debt and default would defeat the scheme 
+and objective of the IBC.
+(iv)	 The IBC framework incorporates comprehensive safeguards 
+to protect homebuyers’ interests. Homebuyers are statutorily 
+recognized as financial creditors and are represented in 
+the Committee of Creditors (CoC) through an Authorised 
+Representative under Section 21(6A) read with Regulation 16A 
+of the CIRP Regulations.
+(v)	
+Regulation 4E of the CIRP Regulations pertains to post-
+admission procedures and cannot be invoked to resist initiation 
+17	
+(2022) 3 SCC 161
+18	
+2023 SCC OnLine SC 608
+
+[2026] 1 S.C.R. 
+867
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+of CIRP. It casts mandatory obligations on the Resolution 
+Professional, upon CoC approval, to deliver possession and 
+facilitate registration of units. This provision strengthens, rather 
+than restricts, the protection available to homebuyers.
+(vi)	 Even in liquidation, allottees in possession remain protected, 
+as such units are expressly excluded from the liquidation 
+estate under Regulation 46A of the IBBI (Liquidation Process) 
+Regulations, 2016. Further, Pioneer Urban Land affirms the 
+harmonious coexistence of homebuyers’ rights under RERA 
+with the IBC framework.
+(vii)	 Admission of CIRP does not extinguish the contractual or 
+proprietary rights of allottees. On the contrary, it facilitates project 
+completion, enables infusion of new capital, and maximises 
+value for all stakeholders. Several real estate insolvency cases 
+demonstrate that CIRP has expedited delivery of possession and 
+improved project viability as compared to fragmented individual 
+enforcement or recovery proceedings.
+(viii)	 The corporate debtor defaulted on the very second instalment, 
+paying only Rs.86 lakhs against the agreed Rs. 3 crores. Despite 
+repeated reminders and a contractual cure period, it failed to 
+rectify the default. Extensive email correspondence evidences 
+repeated indulgence by the financial creditor and sustained 
+non-compliance by the corporate debtor. Consequently, the 
+Respondent lawfully revoked the restructuring arrangement 
+and recalled the outstanding liability on 29.12.2023.
+(ix)	 Initiation or continuation of recovery proceedings prior to 
+admission of CIRP is legally permissible and does not bar 
+initiation of insolvency proceedings under section 7. The NCLAT 
+has consistently held that pendency of recovery proceedings 
+before the DRT or enforcement under the SARFAESI Act does 
+not preclude a financial creditor from invoking the IBC.
+With these submissions, the learned senior counsel prayed for 
+dismissal of the appeals by affirming the judgment of the NCLAT.
+Analysis
+8.	
+We have considered the submissions made by the learned counsel 
+appearing for the parties and perusal of the materials available on 
+record carefully and meticulously.
+
+868
+[2026] 1 S.C.R.
+Supreme Court Reports
+9.	
+By order dated 06.08.2025, this Court stayed the operation of 
+the impugned judgment and order passed by the NCLAT till the 
+pronouncement of the judgment, and further directed all parties 
+to maintain status quo with regard to the nature, character and 
+possession of the property.
+10.	 This Court has, time and again, been called upon to protect the 
+rights of homebuyers navigating the turbulent waters of India’s real 
+estate sector. Conscious of its constitutional and statutory duty, this 
+Court has made sustained efforts, within the four corners of the law, 
+to safeguard the legitimate interests of homebuyers.
+10.1.	 In theory, the Insolvency and Bankruptcy Code, 2016 presents 
+an effective solution to their woes: a distressed project is 
+rescued through the corporate insolvency resolution process, 
+construction is completed, and the allotted units are ultimately 
+delivered. On paper, the framework appears straightforward. In 
+practice, however, homebuyers are often gripped with anxiety 
+when a project enters CIRP. Caught between the developer on 
+one hand and institutional lenders on the other, their interests 
+are particularly vulnerable.
+10.2.	 While homebuyers seek completion of the project they have 
+invested in, lenders, who ordinarily command a dominant 
+position in the Committee of Creditors, may prefer to accept 
+a haircut and press for liquidation, rather than undertake 
+the complexities and commercial risks involved in reviving a 
+struggling real estate project. It is at such junctures that this 
+Court must reiterate, and indeed remind, that the fundamental 
+object of the IBC is resolution and revival, and not mere 
+recovery. 
+10.3.	 If creditors elect to invoke the provisions of the Code, they 
+must do so with a genuine willingness to pursue revival of the 
+corporate debtor. Should revival not be their objective, the 
+Code cannot be converted into a tool for expedient recovery; 
+alternative statutory remedies, including under SARFAESI or 
+other applicable laws, remain available in accordance with law.
+10.4.	 The interests of homebuyers are undoubtedly of paramount 
+importance. However, such interests must be protected strictly 
+
+[2026] 1 S.C.R. 
+869
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+within the legal framework. The resolution mechanism under 
+the IBC contains adequate safeguards for homebuyers, which 
+have been repeatedly strengthened by judicial interpretation. 
+The appropriate course lies in constructive engagement with the 
+Committee of Creditors, with a view to completing the project 
+and advancing the collective good, rather than fragmenting 
+the process through individual self-interest. 
+10.5.	 In light of the above, we proceed to examine the issues involved 
+in the present case, mindful of the delicate task of balancing 
+genuine yet competing interests. 
+11.	 In these appeals arising out of a common judgment, the two questions 
+that arise for consideration, are as follows:
+1)	
+Whether the NCLAT was correct in admitting Corporate Debtor 
+into the Corporate Insolvency Resolution Process?
+2)	
+Whether the NCLAT was correct in rejecting the Intervention 
+application filed by the Society.
+12.	 Question No. 1 – Admission of the Corporate Debtor into CIRP
+12.1.	 The Corporate Debtor contends that the initiation of CIRP 
+by the respondent – EARCL lacked bona fides and was 
+intended to operate as a recovery mechanism rather than a 
+resolution process. It is urged that the Corporate Debtor was 
+a going concern; that the real estate project was substantially 
+completed; and that adequate receivables from unsold 
+inventory were available to service the debt. The default, 
+according to the Corporate Debtor, was not wilful but occurred 
+due to EARCL’s refusal to issue provisional No Objection 
+Certificate, which allegedly frustrated further sale of remaining 
+units. Such conduct, it is contended, disentitles EARCL from 
+invoking Section 7 of the Code. 
+12.2.	 Per contra, EARCL submits that admission under Section 7 
+is governed exclusively by the existence of a financial debt 
+and the occurrence of default. Once these twin conditions 
+are satisfied, admission is mandatory. Considerations such 
+as project viability, stage of completion, alleged conduct of 
+the creditor, or perceived prejudice to homebuyers are wholly 
+irrelevant at the admission stage. 
+
+870
+[2026] 1 S.C.R.
+Supreme Court Reports
+12.3.	 The legal position is now well settled. In Innoventive Industries, 
+this Court held that once the Adjudicating Authority is satisfied 
+that a financial debt exists and a default has occurred, it must 
+admit the application unless it is incomplete. The inquiry under 
+Section 7(5)(a) is confined strictly to the determination of debt 
+and default, leaving no scope for equitable or discretionary 
+considerations.
+12.4.	 This principle was reiterated in E.S. Krishnamurthy, wherein 
+this Court clarified that no discretion survives once default is 
+established. Similarly, in Swiss Ribbons, this Court reaffirmed 
+that the trigger for CIRP is default, and the object of the Code 
+is to ensure timely resolution to preserve enterprise value.
+12.5.	 The reliance placed by the Corporate Debtor on Vidarbha 
+Industries is wholly misconceived. That decision has 
+consistently been recognised as a narrow exception confined to 
+its peculiar facts, namely the existence of an adjudicated and 
+realisable claim in favour of the corporate debtor exceeding 
+the debt owed.
+12.6.	 This position now stands authoritatively clarified in M. Suresh 
+Kumar Reddy, wherein this Court held that Vidarbha 
+Industries does not dilute the binding ratio of Innoventive 
+Industries and E.S. Krishnamurthy. Admission under 
+Section 7 thus remains mandatory once debt and default 
+are established, with Vidarbha Industries operating only in 
+exceptional circumstances.
+12.7.	 In any event, the scope of the Adjudicating Authority’s powers 
+stands elaborately discussed by a three-Judge Bench of this 
+Court in Indus Biotech Private Ltd. v. Kotak India Venture 
+(Offshore) Fund and others19. While recognising that the 
+NCLT is not expected to act mechanically and is empowered 
+to examine the material on record to satisfy itself that a default 
+has in fact occurred, this Court unequivocally held that once 
+the ingredients of Section 7, most importantly, default, are 
+satisfied, admission must follow. The relevant passages from 
+Indus Biotech are extracted below for ready reference:
+19	
+(2021) 6 SCC 436
+
+[2026] 1 S.C.R. 
+871
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+“14. In order to arrive at a conclusion on the 
+correctness or otherwise of the impugned order 
+[Indus Biotech (P) Ltd. v. Kotak India Venture Fund 
+(1), 2020 SCC OnLine NCLT 1430], at the outset 
+it is necessary for us to take note of the scope of 
+the proceedings under Section 7 of the IB Code to 
+which detailed reference is made with reference to 
+the definitions in Sections 3(6), 3(8), 3(11), 3(12) and 
+5(7) of the Code. It provides for the “financial creditor” 
+to file an application for initiating corporate insolvency 
+resolution process against a “corporate debtor” before 
+the adjudicating authority when “default” has occurred. 
+The provision, therefore, contemplates that in 
+order to trigger an application there should be in 
+existence four factors: (i) there should be a “debt” 
+(ii) “default” should have occurred (iii) debt should 
+be due to “financial creditor” and (iv) such default 
+which has occurred should be by a “corporate 
+debtor”. On such application being filed with the 
+compliance required under sub-sections (1) to 
+(3) of Section 7 of IB Code, a duty is cast on the 
+adjudicating authority to ascertain the existence 
+of a default if shown from the records or on the 
+basis of other evidence furnished by the financial 
+creditor, as contemplated under sub-section (4) 
+to Section 7 of IB Code.
+15. This Court had the occasion to consider 
+exhaustively the scheme and working of the IB 
+Code in Innoventive Industries Ltd. v. ICICI Bank 
+[Innoventive Industries Ltd. v. ICICI Bank, (2018) 1 
+SCC 407 : (2018) 1 SCC (Civ) 356]. The proceeding 
+under Section 7 of the IB Code and the scope thereof 
+is articulated in paras 27 to 30 which read hereunder: 
+(SCC pp. 437-39)
+“27. The scheme of the Code is to ensure 
+that when a default takes place, in the 
+sense that a debt becomes due and is 
+not paid, the insolvency resolution process 
+begins. Default is defined in Section 3(12) 
+
+872
+[2026] 1 S.C.R.
+Supreme Court Reports
+in very wide terms as meaning non-
+payment of a debt once it becomes due and 
+payable, which includes non-payment of 
+even part thereof or an instalment amount. 
+For the meaning of “debt”, we have to go 
+to Section 3(11), which in turn tells us that 
+a debt means a liability of obligation in 
+respect of a “claim” and for the meaning 
+of “claim”, we have to go back to Section 
+3(6) which defines “claim” to mean a right 
+to payment even if it is disputed. The Code 
+gets triggered the moment default is of 
+rupees one lakh or more (Section 4). The 
+corporate insolvency resolution process 
+may be triggered by the corporate debtor 
+itself or a financial creditor or operational 
+creditor. A distinction is made by the Code 
+between debts owed to financial creditors 
+and operational creditors. A financial 
+creditor has been defined under Section 
+5(7) as a person to whom a financial debt 
+is owed and a financial debt is defined 
+in Section 5(8) to mean a debt which is 
+disbursed against consideration for the 
+time value of money. As opposed to this, 
+an operational creditor means a person 
+to whom an operational debt is owed and 
+an operational debt under Section 5(21) 
+means a claim in respect of provision of 
+goods or services.
+28. When it comes to a financial creditor 
+triggering the process, Section 7 becomes 
+relevant. Under the Explanation to Section 
+7(1), a default is in respect of a financial 
+debt owed to any financial creditor of the 
+corporate debtor—it need not be a debt 
+owed to the applicant financial creditor. 
+Under Section 7(2), an application is to 
+be made under sub-section (1) in such 
+
+[2026] 1 S.C.R. 
+873
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+form and manner as is prescribed, which 
+takes us to the Insolvency and Bankruptcy 
+(Application to adjudicating authority) 
+Rules, 2016. Under Rule 4, the application 
+is made by a financial creditor in Form 1 
+accompanied by documents and records 
+required therein. Form 1 is a detailed form 
+in 5 parts, which requires particulars of 
+the applicant in Part I, particulars of the 
+corporate debtor in Part II, particulars of the 
+proposed interim resolution professional 
+in Part III, particulars of the financial debt 
+in Part IV and documents, records and 
+evidence of default in Part V. Under Rule 
+4(3), the applicant is to dispatch a copy of 
+the application filed with the adjudicating 
+authority by registered post or speed post to 
+the registered office of the corporate debtor. 
+The speed, within which the adjudicating 
+authority is to ascertain the existence of a 
+default from the records of the information 
+utility or on the basis of evidence furnished 
+by the financial creditor, is important. This 
+it must do within 14 days of the receipt of 
+the application. It is at the stage of Section 
+7(5), where the adjudicating authority is to 
+be satisfied that a default has occurred, that 
+the corporate debtor is entitled to point out 
+that a default has not occurred in the sense 
+that the “debt”, which may also include a 
+disputed claim, is not due. A debt may not 
+be due if it is not payable in law or in fact. 
+The moment the adjudicating authority is 
+satisfied that a default has occurred, the 
+application must be admitted unless it 
+is incomplete, in which case it may give 
+notice to the applicant to rectify the defect 
+within 7 days of receipt of a notice from the 
+adjudicating authority. Under sub-section 
+
+874
+[2026] 1 S.C.R.
+Supreme Court Reports
+(7), the adjudicating authority shall then 
+communicate the order passed to the 
+financial creditor and corporate debtor 
+within 7 days of admission or rejection 
+of such application, as the case may be.
+29. The scheme of Section 7 stands in 
+contrast with the scheme under Section 
+8 where an operational creditor is, on the 
+occurrence of a default, to first deliver a 
+demand notice of the unpaid debt to the 
+operational debtor in the manner provided 
+in Section 8(1) of the Code. Under Section 
+8(2), the corporate debtor can, within a 
+period of 10 days of receipt of the demand 
+notice or copy of the invoice mentioned 
+in sub-section (1), bring to the notice of 
+the operational creditor the existence of 
+a dispute or the record of the pendency 
+of a suit or arbitration proceedings, which 
+is pre-existing i.e. before such notice or 
+invoice was received by the corporate 
+debtor. The moment there is existence of 
+such a dispute, the operational creditor 
+gets out of the clutches of the Code.
+30. On the other hand, as we have seen, 
+in the case of a corporate debtor who 
+commits a default of a financial debt, the 
+adjudicating authority has merely to see 
+the records of the information utility or 
+other evidence produced by the financial 
+creditor to satisfy itself that a default has 
+occurred. It is of no matter that the debt 
+is disputed so long as the debt is “due” 
+i.e. payable unless interdicted by some law 
+or has not yet become due in the sense that 
+it is payable at some future date. It is only 
+when this is proved to the satisfaction 
+of the adjudicating authority that the 
+
+[2026] 1 S.C.R. 
+875
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+adjudicating authority may reject an 
+application and not otherwise.”
+(emphasis supplied)
+16. Dr Singhvi, learned Senior Counsel while 
+seeking to repel the contention put forth on behalf 
+of Indus Biotech Pvt. Ltd. seeks to emphasise that 
+a proceeding under Section 7 of IB Code is to be 
+considered in a stringent manner. Referring to the 
+Preamble to the IB Code, it is contended that the 
+same has evolved after all the earlier processes like 
+civil suit, winding-up petition, Sarfaesi proceeding and 
+SICA have failed to secure the desired result. The 
+provision under the IB Code is with the intention of 
+making a debtor to seek the creditor. In that regard, Dr 
+Singhvi has referred to the decisions in Swiss Ribbons 
+(P) Ltd. v. Union of India [Swiss Ribbons (P) Ltd. v. 
+Union of India, (2019) 4 SCC 17] and Booz Allen & 
+Hamilton Inc. v. SBI Home Finance Ltd. [Booz Allen 
+& Hamilton Inc. v. SBI Home Finance Ltd., (2011) 5 
+SCC 532 : (2011) 2 SCC (Civ) 781] to contend that the 
+proceeding under Section 7 of IB Code is an action 
+in rem. As such insolvency and winding-up matters 
+are non-arbitrable. In that background, the nature of 
+transaction under the SS and SA was referred. It is 
+in that regard contended that the agreement provides 
+for the manner of redemption as also the redemption 
+value. The date of redemption is fixed as 31-12-2018. 
+The OCRPS when redeemed is payable within 15 
+days from the date of redemption. In such situation, 
+there is no other issue which requires resolution by 
+arbitration. Further, it is contended that Clauses 5.1 
+and 5.2 in Schedule J to the agreement provided 
+that the redemption value shall constitute a debt 
+outstanding by the Company to the holder. Hence 
+the amount being debt on the redemption date, if not 
+paid within 15 days of redemption constituted default. 
+In that background, when the petition under Section 
+7 of IB Code was filed the adjudicating authority 
+
+876
+[2026] 1 S.C.R.
+Supreme Court Reports
+ought to have looked into that aspect alone and the 
+consideration of an application filed under Section 8 
+of the 1996 Act is without jurisdiction is the contention.
+17. The procedure contemplated will indicate that 
+before the adjudicating authority is satisfied as to 
+whether the default has occurred or not, in addition 
+to the material placed by the financial creditor, the 
+corporate debtor is entitled to point out that the 
+default has not occurred and that the debt is not 
+due, consequently to satisfy the adjudicating 
+authority that there is no default. In such exercise 
+undertaken by the adjudicating authority if it is found 
+that there is default, the process as contemplated 
+under sub-section (5) of Section 7 of IB Code is to 
+be followed as provided under sub-section (5)(a); or 
+if there is no default the adjudicating authority shall 
+reject the application as provided under sub-section 
+(5)(b) to Section 7 of IB Code. In that circumstance if 
+the finding of default is recorded and the adjudicating 
+authority proceeds to admit the application the 
+corporate insolvency resolution process commences 
+as provided under sub-section (6) and is required 
+to be processed further. In such event, it becomes 
+a proceeding in rem on the date of admission and 
+from that point onwards the matter would not be 
+arbitrable. The only course to be followed thereafter 
+is the resolution process under IB Code. Therefore, 
+the trigger point is not the filing of the application 
+under Section 7 of IB Code but admission of the 
+same on determining default.
+18. In that circumstance, though Dr Singhvi has 
+referred to the evolution of IB Code after all earlier 
+legal process had failed to give the rightful place to 
+the creditor; which is sought to be achieved by the 
+IB Code, it cannot be said that by the procedure 
+prescribed under the IB Code it means that 
+the claim of the creditor if made before NCLT, 
+more particularly under Section 7 of IB Code is 
+
+[2026] 1 S.C.R. 
+877
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+sacrosanct and the corporate debtor is denuded 
+of putting forth its version or the contention to 
+show to the adjudicating authority that the default 
+has not occurred and explain the circumstance 
+for contending so. In fact, in the very decision relied 
+on by both the parties in Innoventive Industries Ltd. 
+[Innoventive Industries Ltd. v. ICICI Bank, (2018) 
+1 SCC 407 : (2018) 1 SCC (Civ) 356] , this Court 
+while considering the scope of the various provisions 
+under the Act and while referring to the procedure 
+contemplated in a petition under Section 7 of the 
+IB Code, which is also extracted supra reads thus : 
+(SCC p. 438, para 28)
+“28. … It is at the stage of Section 7(5), 
+where the adjudicating authority is to 
+be satisfied that a default has occurred, 
+that the corporate debtor is entitled to 
+point out that a default has not occurred 
+in the sense that the “debt”, which may 
+also include a disputed claim, is not 
+due. A debt may not be due if it is not 
+payable in law or in fact.”
+19…
+20. Therefore, in a fact situation of the present nature 
+when the process of conversion had commenced 
+and certain steps were taken in that direction, even 
+if the redemption date is kept in view and the clause 
+in Schedule J indicating that redemption value shall 
+constitute a debt outstanding is taken note of; when 
+certain transactions were discussed between the 
+parties and had not concluded since the point as 
+to whether it was 30% of the equity shares in the 
+company or 10% by applying proper formula had 
+not reached a conclusion and thereafter agreed or 
+disagreed, it would not have been appropriate to hold 
+that there is default and admit the petition merely 
+because a claim was made by Kotak Venture as per 
+the originally agreed date and a petition was filed. 
+
+878
+[2026] 1 S.C.R.
+Supreme Court Reports
+In the process of consideration to be made by the 
+adjudicating authority the facts in the particular case 
+are to be taken into consideration before arriving at 
+a conclusion as to whether a default has occurred 
+even if there is a debt in strict sense of the term, 
+which exercise in the present case has been done 
+by the adjudicating authority.
+21. In such circumstance if the adjudicating authority 
+finds from the material available on record that 
+the situation is not yet ripe to call it a default, 
+that too if it is satisfied that it is profit making 
+company and certain other factors which need 
+consideration, appropriate orders in that regard 
+would be made; the consequence of which could 
+be the dismissal of the petition under Section 7 
+of IB Code on taking note of the stance of the 
+corporate debtor. As otherwise if in every case 
+where there is debt, if default is also assumed and 
+the process becomes automatic, a company which 
+is ably running its administration and discharging 
+its debts in planned manner may also be pushed to 
+the corporate insolvency resolution process and get 
+entangled in a proceeding with no point of return. 
+Therefore, the adjudicating authority certainly would 
+make an objective assessment of the whole situation 
+before coming to a conclusion as to whether the 
+petition under Section 7 of IB Code is to be admitted 
+in the factual background. Dr Singhvi, however 
+contended, that when it is shown the debt is due 
+and the same has not been paid the adjudicating 
+authority should record default and admit the petition. 
+He contends that even in such situation the interest 
+of the corporate debtor is not jeopardised inasmuch 
+as the admission orders made by the adjudicating 
+authority are appealable to NCLAT and thereafter 
+to the Supreme Court where the correctness of the 
+order in any case would be tested. We note, it cannot 
+be in dispute that so would be the case even if the 
+adjudicating authority takes a view that the petition 
+
+[2026] 1 S.C.R. 
+879
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+is not ripe to be entertained or does not constitute 
+all the ingredients, more particularly default, to admit 
+the petition, since even such order would remain 
+appealable to NCLAT and the Supreme Court where 
+the correctness in that regard also will be examined.”
+12.8.	 Applying the aforesaid principles to the present case, the 
+Corporate Debtor admittedly possesses no adjudicated or 
+realisable claim exceeding the amount in default. Its reliance 
+on business viability, unsold inventory, project status, or 
+anticipated receivables does not constitute “good reasons” 
+in law to defer or deny admission of CIRP. 
+12.9.	 The existence of a financial debt owed to EARCL is undisputed. 
+Persistent defaults stand admitted and are conclusively 
+established on record, including breach of the restructuring 
+agreement and failure to pay instalments within the stipulated 
+cure period. The restructuring arrangement failed due to 
+non-payment by the Corporate Debtor, thereby triggering an 
+express event of default under its terms.
+12.10.	Any alleged non-cooperation by EARCL occurred subsequent 
+to the default and cannot absolve the Corporate Debtor of 
+its admitted failure to comply with its payment obligations. 
+The NCLAT correctly held that considerations such as 
+ongoing operations, partial project completion, or anticipated 
+receivables are extraneous to the statutory mandate under 
+Section 7.
+12.11.	 The contention that EARCL misused the Code as a recovery 
+tool is equally untenable. The Code does not prohibit a 
+financial creditor from invoking CIRP merely because recovery 
+proceedings under the SARFAESI Act or before the DRT are 
+pending or have been initiated. Section 238 accords overriding 
+effect to the Code, and upon admission, the moratorium under 
+Section 14 stays all such proceedings. 
+12.12.	Allegations of mala fide invocation can be examined only 
+within the framework of Section 65 of the Code, which 
+requires specific pleadings and proof of abuse of process 
+by the Corporate Debtor. No such case has been pleaded 
+or established on the facts of the present case. 
+
+880
+[2026] 1 S.C.R.
+Supreme Court Reports
+12.13.	In Kotak Mahindra Bank Ltd. v. A. Balakrishnan and 
+another20, this Court held that the trigger point for CIRP is 
+default, and that even a recovery certificate constitutes a 
+fresh cause of action for initiation of insolvency proceedings. 
+The mere pendency of parallel recovery proceedings does 
+not establish mala fides unless abuse under Section 65 is 
+demonstrated. The following paragraphs are apposite in this 
+context:
+“40. From the scheme of the IBC, it could be seen 
+that where any corporate debtor commits a default, 
+a financial creditor, an operational creditor or the 
+corporate debtor itself is entitled to initiate CIRP in 
+respect of such corporate debtor in the manner as 
+provided under the said Chapter. The default has 
+been defined to mean non-payment of debt. The 
+debt has been defined to mean a liability or obligation 
+in respect of a claim which is due from any person 
+and includes a financial debt and operational debt. 
+A claim means a right to payment, whether or not 
+such right is reduced to judgment, fixed, disputed, 
+etc. It is more than settled that the trigger point 
+to initiate CIRP is when a default takes place. A 
+default would take place when a debt in respect 
+of a claim is due and not paid. A claim would 
+include a right to payment whether or not such 
+a right is reduced to judgment.”
+“54. In any case, we have already discussed 
+hereinabove that the trigger point for initiation of 
+CIRP is default of claim. “Default” is non-payment 
+of debt by the debtor or the corporate debtor, which 
+has become due and payable, as the case may be, 
+a “debt” is a liability or obligation in respect of a 
+claim which is due from any person, and a “claim” 
+means a right to payment, whether such a right is 
+reduced to judgment or not. It could thus be seen that 
+unless there is a “claim”, which may or may not be 
+20	
+(2022) 9 SCC 186
+
+[2026] 1 S.C.R. 
+881
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+reduced to any judgment, there would be no “debt” 
+and consequently no “default” on non-payment of 
+such a “debt”. When the “claim” itself means a right 
+to payment, whether such a right is reduced to a 
+judgment or not, we find that if the contention of the 
+respondents, that merely on a “claim” being fructified 
+in a decree, the same would be outside the ambit 
+of clause (8) of Section 5 IBC, is accepted, then it 
+would be inconsistent with the plain language used 
+in the IBC. As already discussed hereinabove, the 
+definition is inclusive and not exhaustive. Taking 
+into consideration the object and purpose of the 
+IBC, the legislature could never have intended 
+to keep a debt, which is crystallised in the form 
+of a decree, outside the ambit of clause (8) of 
+Section 5 IBC.
+55. Having held that a liability in respect of a claim 
+arising out of a recovery certificate would be a 
+“financial debt” within the ambit of its definition under 
+clause (8) of Section 5 IBC, as a natural corollary 
+thereof, the holder of such recovery certificate would 
+be a financial creditor within the meaning of clause 
+(7) of Section 5 IBC. As such, such a “person” would 
+be a “person” as provided under Section 6 IBC who 
+would be entitled to initiate the CIRP.
+56. Insofar as the contention of the respondents with 
+regard to clause (a) of sub-section (1) of Section 14 
+IBC is concerned, we do not find that the words used 
+in clause (a) of sub-section (1) of Section 14 IBC 
+could be read to mean that the decree-holder is not 
+entitled to invoke the provisions of the IBC for initiation 
+of CIRP. A plain reading of the said Section would 
+clearly provide that once CIRP is initiated, there shall 
+be prohibition for institution of suits or continuation of 
+pending suits or proceedings against the corporate 
+debtor including execution of any judgment, decree or 
+order in any court of law, tribunal, arbitration panel or 
+other authority. The prohibition to institution of suit 
+or continuation of pending suits or proceedings 
+
+882
+[2026] 1 S.C.R.
+Supreme Court Reports
+including execution of decree would not mean 
+that a decree-holder is also prohibited from 
+initiating CIRP, if he is otherwise entitled to in 
+law. The effect would be that the applicant, who 
+is a decree-holder, would himself be prohibited 
+from executing the decree in his favour.”
+12.14.	The above position was reiterated in Tottempudi Salalith v. 
+SBI21. Relying upon Kotak Mahindra, this Court held as 
+follows: 
+“20. On behalf of the appellant, submissions have 
+been made that the banks having approached the 
+DRT, were barred under the doctrine of election 
+from approaching NCLT for recovery of same set 
+of debts. This is a doctrine embodied in the law of 
+evidence, which bars prosecution of the same right 
+in two different fora based on the same cause of 
+action. But so far as the present appeal is concerned, 
+the recovery proceedings before the DRT had 
+commenced in the year 2014. At that point of time, 
+IBC had not come into existence. Moreover, it has 
+been held by this Court in Kotak Mahindra-1 [Kotak 
+Mahindra Bank Ltd. v. A. Balakrishnan, (2022) 9 SCC 
+186 : (2022) 4 SCC (Civ) 548] that the recovery 
+certificate itself would give rise to a fresh cause 
+of action entitling a financial creditor to initiate 
+Corporate Insolvency Resolution Process (CIRP). 
+By this judgment, the right of the financial creditor 
+to invoke the mechanism under IBC after issue 
+of recovery certificate stood acknowledged as 
+a valid legal course. This Court, in that case also 
+dealt with the question of instituting a CIRP on the 
+strength of recovery certificate. Needless to add, 
+such recovery certificate arose out of a proceeding 
+from the DRT. The enforcement mechanism for a 
+recovery certificate is an independent course, which 
+a financial creditor may opt for realisation of its dues 
+21	
+(2024) 1 SCC 24
+
+[2026] 1 S.C.R. 
+883
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+crystalised under the 1993 Act, instead of chasing 
+the mechanism under the 1993 Act.
+21. IBC itself is not really a debt recovery 
+mechanism but a mechanism for revival of 
+a company fallen in debt, but the procedure 
+envisaged in IBC substantially relates to ensuring 
+recovery of debts in the process of applying such 
+mechanism. The question of election between the 
+fora for enforcement of debt under the 1993 Act 
+and initiation of CIRP under IBC arises only after a 
+recovery certificate is issued. The reliefs under the 
+two statutes are different and once CIRP results 
+in declaration of moratorium, the enforcement 
+mechanism under the 1993 Act or the SARFAESI Act 
+gets suspended. In such circumstances, after issue 
+of recovery certificate, the financial creditor ought 
+to have option for enforcing recovery through a new 
+forum instead of sticking on to the mechanism through 
+which recovery certificate was issued. In Transcore v. 
+Union of India [Transcore v. Union of India, (2008) 
+1 SCC 125 : (2008) 1 SCC (Civ) 116], application of 
+SARFAESI mechanism was held permissible even 
+though the subject-proceeding was instituted under 
+the 1993 Act.
+22. Thus, the doctrine of election cannot be applied 
+to prevent the financial creditors from approaching 
+NCLT for initiation of CIRP.”
+12.15.	Further, in Haldiram Incorporation (P) Ltd. v. Amrit 
+Hatcheries (P) Ltd.22, this Court upheld proceedings under 
+the SARFAESI Act even where sale concluded shortly before 
+the moratorium. While we express our strong disapproval of 
+lenders pursuing parallel proceedings after having approached 
+the NCLT, such conduct, though deprecated, is not illegal per 
+se. What is prohibited is malicious recovery within the meaning 
+of Section 65, and not recovery in the traditional sense.
+22	
+2023 SCC OnLine SC 1706
+
+884
+[2026] 1 S.C.R.
+Supreme Court Reports
+12.16.	The concept of revival under the IBC does not exclude 
+recovery altogether; it excludes abuse of insolvency as a 
+pressure tactic. The Adjudicating Authority retains a crucial 
+gatekeeping role at later stages, particularly at the time of 
+approval of the resolution plan, to ensure compliance with the 
+Code while respecting the primacy of the commercial wisdom 
+of the Committee of Creditors.
+12.17.	In Karad Urban Cooperative Bank Limited v. Swwapnil 
+Bhingardevay and others23, this Court reiterated that 
+questions relating to feasibility and viability fall squarely 
+within the domain of the CoC, and cannot be examined at 
+the threshold stage. The following paragraphs are relevant 
+in this regard:
+“12. We have carefully considered the rival 
+submissions. On the first question regarding the 
+viability and feasibility of a resolution plan, the law is 
+now wellsettled. In K. Sashidhar v. Indian Overseas 
+Bank, (2019) 12 SCC 150, it was held as follows:
+“52…There is an intrinsic assumption 
+that financial creditors are fully informed 
+about the viability of the corporate debtor 
+and feasibility of the proposed resolution 
+plan…The opinion on the subject matter 
+expressed by them after due deliberations 
+in the CoC meetings through voting, as 
+per voting shares, is a collective business 
+decision. The legislature, consciously, has 
+not provided any ground to challenge the 
+“commercial wisdom” of the individual 
+financial creditors or their collective 
+decision before the adjudicating authority. 
+That is made non-justiciable.
+…
+57…The provisions investing jurisdiction 
+and authority in NCLT or NCLAT as noticed 
+23	
+(2020) 9 SCC 729
+
+[2026] 1 S.C.R. 
+885
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+earlier, have not made the commercial 
+decision exercised by CoC of not approving 
+the resolution plan or rejecting the same, 
+justiciable. This position is reinforced 
+from the limited grounds specified for 
+instituting an appeal that too against an 
+order “approving a resolution plan” under 
+Section 31.
+58…Further, the jurisdiction bestowed 
+upon the appellate authority (NCLAT) 
+is also expressly circumscribed. It can 
+examine the challenge only in relation to 
+the grounds specified in Section 61(3) of 
+the I&B Code, which is limited to matters 
+“other than” enquiry into the autonomy 
+or commercial wisdom of the dissenting 
+financial creditors.
+…
+64…At best, the adjudicating authority 
+(NCLT) may cause an enquiry into the 
+“approved” resolution plan on limited 
+grounds referred to in Section 30(2) 
+read with Section 31(1) of the I&B Code. 
+It cannot make any other inquiry nor 
+is competent to issue any direction in 
+relation to the exercise of commercial 
+wisdom of the financial creditors — be it 
+for approving, rejecting or abstaining, as 
+the case may be. Even the inquiry before 
+the appellate authority (NCLAT) is limited 
+to the grounds under Section 61(3) of the 
+I&B Code. It does not postulate jurisdiction 
+to undertake scrutiny of the justness of the 
+opinion expressed by financial creditors at 
+the time of voting.” 
+13. Thereafter, in Essar Steel (India) Ltd. Committee 
+of Creditors v. Satish Kumar Gupta, (2020) 8 SCC 
+531, this Court held:
+
+886
+[2026] 1 S.C.R.
+Supreme Court Reports
+“67…Thus, it is clear that the limited 
+judicial review available, which can in no 
+circumstance trespass upon a business 
+decision of the majority of the Committee of 
+Creditors, has to be within the four corners 
+of Section 30(2) of the Code, insofar as 
+the Adjudicating Authority is concerned, 
+and Section 32 read with Section 61(3) of 
+the Code, insofar as the Appellate Tribunal 
+is concerned. 
+…
+73…Thus, while the Adjudicating 
+Authority cannot interfere on merits 
+with the commercial decision taken by 
+the Committee of Creditors, the limited 
+judicial review available is to see that 
+the Committee of Creditors has taken 
+into account the fact that the corporate 
+debtor needs to keep going as a going 
+concern during the insolvency resolution 
+process; that it needs to maximise the 
+value of its assets; and that the interests 
+of all stakeholders including operational 
+creditors has been taken care of.”
+14. The principles laid down in the aforesaid decisions, 
+make one thing very clear. If all the factors that need 
+to be taken into account for determining whether 
+or not the corporate debtor can be kept running 
+as a going concern have been placed before the 
+Committee of Creditors and the CoC has taken a 
+conscious decision to approve the resolution plan, 
+then the adjudicating authority will have to switch 
+over to the hands off mode. It is not the case of the 
+corporate debtor or its promoter/Director or anyone 
+else that some of the factors which are crucial for 
+taking a decision regarding the viability and feasibility, 
+were not placed before the CoC or the Resolution 
+Professional. The only basis for the corporate debtor 
+
+[2026] 1 S.C.R. 
+887
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+to raise the issue of viability and feasibility is that the 
+ownership and possession of the ethanol plant and 
+machinery is the subject matter of another dispute 
+and that the resolution plan does not take care of 
+the contingency where the said plant and machinery 
+may not eventually be available to the Successful 
+Resolution Applicant.”
+Thus, if the CoC approves a resolution plan in derogation of the 
+objectives, scheme, and ethos of the Code, the NCLT is not rendered 
+powerless at the stage of approval. The contention of the Corporate 
+Debtor that the respondent – Financial Creditor is merely seeking 
+recovery is, therefore, wholly untenable in law. 
+12.18.	The NCLAT, upon a detailed examination of the material 
+on record, found that the Corporate Debtor had persistently 
+acknowledged defaults under both the sanction letters and the 
+restructuring agreement. It further noted that the Corporate 
+Debtor was facing acute financial distress, had failed to comply 
+with regulatory requirements, was unable to obtain mandatory 
+compliance certificates, and could not sell units at prevailing 
+market rates despite multiple attempts. Even according to 
+another creditor, SBI, which had advanced money under the 
+SWAMIH Fund, a public fund sponsored by taxpayers for 
+the completion of stalled projects, the Corporate Debtor had 
+refused to cooperate in relation to completion of the project 
+as well as adherence to the repayment schedule. These 
+circumstances, taken cumulatively, substantiated EARCL’s 
+request for initiation of CIRP.
+12.19.	The NCLAT further held that EARCL’s revocation of the 
+restructuring arrangement was contractually justified owing 
+to the Corporate Debtor’s failure to pay instalments. The 
+breach of the restructuring terms triggered express events of 
+default under the relevant clauses, thereby entitling EARCL 
+to recall the entire outstanding liability. Despite repeated 
+reminders, the Corporate Debtor failed to cure the defaults 
+within the stipulated cure period, and EARCL was under no 
+legal or contractual obligation to reopen or renegotiate the 
+restructuring. 
+
+888
+[2026] 1 S.C.R.
+Supreme Court Reports
+12.20.	The NCLAT rejected the plea of mala fide invocation, observing 
+that acceptance of such argument would render lenders 
+effectively remediless. It also rejected the contention that the 
+Corporate Debtor’s alleged viability could excuse non-payment 
+of admitted dues, noting that financial distress was manifest 
+from the continuing and acknowledged defaults. 
+12.21.	The debt and default having been conclusively established, 
+and the narrow exception carved out in Vidarbha Industries 
+being clearly inapplicable, the NCLAT was fully justified in 
+admitting the Corporate Debtor into the CIRP. The NCLT’s 
+refusal was contrary to the settled law and the statutory 
+mandate of Section 7.
+12.22.	Accordingly, the impugned judgment admitting the Corporate 
+Debtor into the CIRP does not suffer from any legal infirmity.
+13.	 Question No. 2 – Rejection of the Intervention Application filed 
+by the Society 
+13.1.	 While it is undisputed that individual homebuyers are financial 
+creditors within the meaning of the IBC, the core question that 
+arises for determination is whether a society or association of 
+homebuyers possesses locus standi to intervene in proceedings 
+under Section 7 of the Code, either at the admission stage or 
+at the appellate stage. 
+13.2.	 The appellant Society contends that it represents the collective 
+interest of the allottees, membership being mandatory under 
+its bye-laws. It is urged that the summary rejection of its 
+intervention application by the NCLAT violates the principles 
+of natural justice and leaves homebuyers, particularly minority 
+financial creditors, remediless in the CIRP. It is further argued 
+that the distinction drawn by the NCLAT between completed and 
+uncompleted towers is artificial, arbitrary, and unsustainable. 
+13.3.	 Per contra, EARCL submits that the Society lacks locus 
+standi, it being neither a financial creditor under Section 5(7) 
+nor an operational creditor under Section 5(20) of the Code. 
+The Society is not a party to any transaction documents, has 
+no privity of contract with EARCL, and does not qualify as 
+a recognised stakeholder under the statutory framework of 
+the IBC. 
+
+[2026] 1 S.C.R. 
+889
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+13.4.	 It is further submitted that the Society is a promoter-controlled 
+maintenance entity constituted for the upkeep of a completed 
+tower, and not a representative body of all homebuyers in the 
+project. No registration certificate, general body resolution, 
+minutes, or document evidencing collective authorisation has 
+been produced to substantiate any representative capacity.
+13.5.	 The issue of locus at the Section 7 stage is no longer res 
+integra. In GLAS Trust Company, this Court held that while 
+there is no rigid requirement restricting the right to appeal 
+only to the applicant creditor and the corporate debtor, such 
+latitude applies when proceedings are in rem post-admission of 
+CIRP. At the pre-admission stage, proceedings under Section 
+7 remain in personam, and neither the Adjudicating Authority 
+nor the Appellate Authority is required to hear other creditors, 
+much less unrelated third parties. When proceedings are in 
+personam, no right of audience inheres in persons who are 
+strangers to the debt and default forming the basis of the 
+application. The relevant paragraphs are reproduced below:
+“(b) Insights from the evolution of the legal 
+framework
+63. In essence, after a series of deliberations by the 
+legislature, the executive and nudges by this Court, 
+the framework created by Rule 8 of the NCLT Rules 
+and Section 12-A IBC read with Rule 30-A of the CIRP 
+Regulations lays down an exhaustive procedure for 
+the withdrawal of an application filed by creditors 
+under Sections 7, 9, or 10 IBC. Withdrawal may be 
+sought at four stages, all of which have a procedure 
+prescribed under the existing framework. These may 
+be summarised as follows:
+63.1. Before the application under Sections 7, 9 or 
+10 is admitted by NCLT: Such cases are squarely 
+covered by Rule 8 of the NCLT Rules, which requires 
+that the applicant approach NCLT directly. NCLT may 
+then pass an order permitting the withdrawal of the 
+application. At this stage, as CIRP process has 
+not been initiated, the proceedings are still in 
+personam, as between the applicant creditor and 
+
+890
+[2026] 1 S.C.R.
+Supreme Court Reports
+the corporate debtor. Therefore, while approving 
+the withdrawal at this stage, NCLT may restrict its 
+enquiry to only hear the applicant creditor and 
+corporate debtor, and other potential creditors 
+are not stakeholders at this stage.
+63.2.……
+75. The provision stipulates that “any person” who is 
+aggrieved by the order of NCLAT may file an appeal 
+before the Supreme Court within the prescribed 
+limitation period. Similar language is used in Section 
+61 IBC, which provides for appeals to NCLAT from 
+orders of NCLT.24 The use of the phrase “any person 
+aggrieved” indicates that there is no rigid locus 
+requirement to institute an appeal challenging an order 
+of NCLT, before NCLAT or an order of NCLAT, before 
+this Court. Any person who is aggrieved by the order 
+may institute an appeal, and nothing in the provision 
+restricts the phrase to only the applicant creditor and 
+the corporate debtor. As noted above, once CIRP is 
+initiated, the proceedings are no longer restricted to 
+the individual applicant creditor and the corporate 
+debtor but rather become collective proceedings (in 
+rem), where all creditors, such as the appellant, are 
+necessary stakeholders. The appellant is not an 
+unrelated party to CIRP, but is in fact, an entity 
+whose claims had been verified by the IRP vide 
+letter dated 19-8-2024. The appellant who claims to 
+be a financial creditor, has expressed reasonable 
+apprehensions about the prejudice it would face 
+if there were roundtripping of the funds, and the 
+prioritisation of the debts of the second respondent, 
+an operational creditor.”
+13.6.	 This position was reiterated in Independent Sugar Corpn. 
+Ltd. v. Hindustan National Gas & Industries Ltd. (Resolution 
+24	
+“61. Appeals and appellate authority.—(1) Notwithstanding anything to the contrary contained under 
+the Companies Act, 2013 (18 of 2013), any person aggrieved by the order of the adjudicating authority 
+under this part may prefer an appeal to the National Company Law Appellate Tribunal.” (emphasis 
+supplied) 
+
+[2026] 1 S.C.R. 
+891
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+Professional)25. Though the said case concerned the locus 
+of a failed resolution applicant, the Court reaffirmed that 
+participatory rights depend upon the stage of the proceedings 
+and that, even otherwise, a party must demonstrate legally 
+cognizable prejudice and cannot be a complete stranger to 
+the insolvency process. The relevant paragraph is extracted 
+for reference:
+“24. Once the CIRP is initiated, the nature of 
+proceedings are no longer in personam but 
+rather become in rem. In light of the same, the 
+expression “any person aggrieved” in the context of 
+IBC has been held to be indicative of there being 
+no rigid locus requirements to institute an appeal 
+challenging an order of NCLT before NCLAT or an 
+order of NCLAT before this Court. [GLAS Trust Co. 
+LLC v. Byju Raveendran, (2025) 3 SCC 625 : (2024) 
+247 Comp Cas 687] Similarly, in the context of the 
+Competition Act, even those persons that bring to 
+CCI information of practices that are contrary to the 
+provisions of the Competition Act, could be said to be 
+“aggrieved”. [Samir Agrawal v. CCI (Cab Aggregators 
+Case), (2021) 3 SCC 136] Therefore, the term “any 
+person aggrieved” appearing in Section 62 IBC 
+and Section 53-T of the Competition Act must be 
+understood widely and not in a restricted fashion.
+25. In the present case, the appellant as an 
+unsuccessful resolution applicant whose resolution 
+plan could have otherwise been approved by CoC, 
+satisfies the requirement of being aggrieved. This 
+preliminary locus standi objection vis-à-vis the 
+appellant, therefore, does not merit acceptance.”
+13.7.	 The IBC is a self-contained code which confers participatory 
+rights only on persons falling within statutorily defined 
+categories. A financial creditor under Section 5(7) must 
+be a person to whom a financial debt is owed. While the 
+Explanation to Section 5(8)(f) deems individual allottees 
+25	
+(2025) 5 SCC 209
+
+892
+[2026] 1 S.C.R.
+Supreme Court Reports
+to be financial creditors, it does not extend such status to 
+societies or associations unless the entity is itself a creditor 
+in its own right, or is statutorily recognised as an authorised 
+representative under the Code.
+13.8.	 A society is a distinct juristic entity separate from its members. 
+Unless it has itself advanced funds, executed allotment 
+agreements, or received allotments, it cannot claim financial 
+creditor status. The right to initiate or participate in CIRP flows 
+from the debt transaction and the statute, not from associative 
+or representational interest.
+13.9.	 Homebuyers’ societies or welfare associations are ordinarily 
+constituted for maintenance and management of common 
+facilities. Their office-bearers cannot litigate on behalf of 
+allottees or claim representative status before adjudicatory 
+fora absent explicit statutory recognition or legally valid 
+authorisation.
+13.10.	Any contrary interpretation would impermissibly enlarge the 
+statutory definition of “financial creditor”, encroach upon 
+individual rights of allottees, and create an extra-statutory 
+layer of representation. It would also enable errant corporate 
+debtors to obstruct and delay insolvency proceedings under 
+the guise of purported collective interests – an abuse expressly 
+cautioned against in Pioneer Urban Land.
+13.11.	 Proceedings under Section 7 are essentially bipartite at the 
+admission stage, involving only the financial creditor and 
+the corporate debtor. Unrelated third parties including other 
+creditors, have no independent right of audience at this stage, 
+a principle consistently affirmed by this Court.
+13.12.	Collective representation of homebuyers is statutorily regulated 
+and arises only after admission of CIRP through the authorised 
+representative mechanism under Section 21(6A) read with 
+Regulation 16A of the CIRP Regulations. The Code does not 
+contemplate ad hoc or self-appointed representation at the 
+pre-admission or appellate stage. In the context of real estate 
+allottees, Section 7 itself mandates that an application must 
+be filed jointly by the prescribed number of allottees and not 
+through any authorised representative, much less through a 
+non-party housing society formed for maintenance purposes.
+
+[2026] 1 S.C.R. 
+893
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+13.13.	In Phoenix ARC Pvt. Ltd v. Spade Financial Services 
+Ltd.26, this Court reiterated that financial creditor status 
+must be determined strictly with reference to the nature of 
+the transaction and cannot be conferred by implication or 
+association. 
+13.14.	Though in Chitra Sharma, homebuyer associations were 
+permitted to participate, such intervention was exceptional, 
+grounded in Article 142 of the Constitution, and cannot be 
+treated as a precedent conferring general locus on societies 
+in statutory insolvency proceedings.
+13.15.	Rule 11 of the NCLAT Rules preserves inherent powers to 
+meet the ends of justice. However, such powers are residual 
+and cannot override the statutory structure of the Code or 
+create substantive participatory rights where the statute 
+deliberately excludes them. In this context, reference was 
+made to the decision in GLAS Trust Company, wherein, it 
+was held as follows: 
+“(iii) Scope of “inherent powers” under Rule 11
+67. Section 151 of the Code of Civil Procedure (“CPC”) 
+reads as follows:
+“151. Saving of inherent powers of 
+Court.—Nothing in this Code shall be 
+deemed to limit or otherwise affect the 
+inherent power of the Court to make such 
+orders as may be necessary for the ends of 
+justice or to prevent abuse of the process 
+of the Court.”
+68. Rule 11 of the NCLT Rules, 2016 and Rule 11 of 
+the NCLAT Rules, 2016, which preserve the inherent 
+powers of NCLT and NCLAT, respectively, mirror 
+Section 151CPC and read as follows:
+“11. Inherent powers.—Nothing in these 
+Rules shall be deemed to limit or otherwise 
+affect the inherent powers of the Appellate 
+Tribunal to make such orders or give such 
+26	
+(2021) 3 SCC 475
+
+894
+[2026] 1 S.C.R.
+Supreme Court Reports
+directions as may be necessary for meeting 
+the ends of justice or to prevent abuse of 
+the process of the Appellate Tribunal.”
+69. In a consistent line of precedent, this Court has 
+held that “inherent powers” may be exercised in 
+cases where there is no express provision under 
+the legal framework. However, such powers cannot 
+be exercised in contravention of, conflict with or in 
+ignorance of express provisions of law. We may 
+helpfully refer to the observations of a two-Judge 
+Bench of this Court in one such case. In Ram Chand 
+& Sons Sugar Mills (P) Ltd. v. Kanhayalal Bhargava 
+[Ram Chand & Sons Sugar Mills (P) Ltd. v. Kanhayalal 
+Bhargava, (1967) 37 Comp Cas 42 : 1966 SCC 
+OnLine SC 215] a two-Judge Bench of this Court, 
+speaking through K. Subba Rao, J. (as the learned 
+Chief Justice then was), opined : (SCC OnLine SC 
+para 5)
+“5. … Having regard to the said decisions, 
+the scope of the inherent power of a court 
+under Section 151 of the Code may be 
+defined thus: The inherent power of a court 
+is in addition to and complementary to 
+the powers expressly conferred under the 
+Code. But that power will not be exercised 
+if its exercise is inconsistent with, or 
+comes into conflict with, any of the powers 
+expressly or by necessary implication 
+conferred by the other provisions of the 
+Code. If there are express provisions 
+exhaustively covering a particular topic, 
+they give rise to a necessary implication 
+that no power shall be exercised in respect 
+of the said topic otherwise than in the 
+manner prescribed by the said provisions. 
+Whatever limitations are imposed by 
+construction on the provisions of Section 
+151 of the Code, they do not control the 
+undoubted power of the Court conferred 
+
+[2026] 1 S.C.R. 
+895
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+under Section 151 of the Code to make a 
+suitable order to prevent the abuse of 
+the process of the Court.”
+(emphasis supplied)
+70. When a procedure has been prescribed for 
+a particular purpose exhaustively, no power 
+shall be exercised otherwise than in the manner 
+prescribed by the said provisions. In such cases, 
+the court must be circumspect in invoking its 
+“inherent powers” to deviate from the prescribed 
+procedure. If such deviation is made, the court 
+must justify why this was necessary to “prevent 
+the abuse of the process of the Court”.
+71. The need to be circumspect while invoking 
+“inherent powers”, when there is an exhaustive legal 
+framework is amplified in the context of a legislation 
+like the IBC. In Ebix Singapore (P) Ltd. v. Educomp 
+Solutions Ltd. (CoC) [Ebix Singapore (P) Ltd. v. 
+Educomp Solutions Ltd. (CoC), (2022) 2 SCC 401 : 
+(2022) 1 SCC (Civ) 586 : (2022) 231 Comp Cas 110], 
+a two-Judge Bench of this Court, speaking through 
+one of us (D.Y. Chandrachud, J.), affirmed this position 
+and observed as follows: (SCC p. 481, para 101)
+“101. Any claim seeking an exercise of 
+the adjudicating authority’s residuary 
+powers under Section 60(5)(c) IBC, 
+NCLT’s inherent powers under Rule 11 
+of the NCLT Rules, 2016 or even the 
+powers of this Court under Article 142 
+of the Constitution must be closely 
+scrutinised for broader compliance 
+with the insolvency framework and its 
+underlying objective. The adjudicating 
+mechanisms which have been 
+specifically created by the statute, 
+have a narrowly defined role in the 
+process and must be circumspect in 
+granting reliefs that may run counter 
+
+896
+[2026] 1 S.C.R.
+Supreme Court Reports
+to the timeliness and predictability that 
+is central to IBC. Any judicial creation of 
+a procedural or substantive remedy that 
+is not envisaged by the statute would not 
+only violate the principle of separation of 
+powers, but also run the risk of altering the 
+delicate coordination that is designed by 
+IBC framework and have grave implications 
+on the outcome of CIRP, the economy of 
+the country and the lives of the workers 
+and other allied parties who are statutorily 
+bound by the impact of a resolution or 
+liquidation of a corporate debtor.”
+13.16.	As clarified in GLAS Trust Company, invocation of Rule 11 
+to oppose admission of a Section 7 petition is impermissible 
+once debt and default are established. The inherent power 
+preserved under Rule 11 does not confer a substantive 
+right of participation where the statute has consciously and 
+deliberately excluded it.
+13.17.	In the present case, the appellant Society is neither a financial 
+nor an operational creditor. It is a maintenance society not 
+constituted for insolvency representation. No documentary 
+proof of registration, collective authorisation, or general body 
+resolution has been produced. Membership is automatic and 
+mandatory, negating consensual representation. Reliance on 
+compulsory membership to claim representational authority on 
+behalf of allottees is nothing but a brutm fulmen. Notably, the 
+intervention application was filed only at the appellate stage 
+and not before the NCLT. The Society is not a party to the 
+financial transaction forming the substratum of the Section 
+7 application. Hence, no statutory right of appeal inheres in 
+the appellant.
+13.18.	While the NCLAT’s distinction between completed and 
+uncompleted towers may be overbroad and untenable, the 
+ultimate conclusion on absence of locus standi rests on sound 
+legal footing. Permitting such intervention would undermine the 
+expeditious and structured insolvency framework envisaged 
+under the Code.
+
+[2026] 1 S.C.R. 
+897
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+13.19.	The plea of violation of principles of natural justice is equally 
+untenable. It is settled that such violation cannot be alleged 
+in the absence of demonstrable prejudice, particularly where 
+no foundational right of participation exists. Reference may 
+be made to Bishambhar Prasad v. Arfat Petrochemicals 
+Pvt. Ltd. and others27, the relevant paragraphs of which are 
+usefully extracted below:
+“77. The importance of Principles of Natural Justice, 
+among which we are concerned with audi alterem 
+partem in this case, have been deliberated upon by 
+this Court numerous times in the past. As far back 
+as in Union of India v. P.K. Roy (1968) 2 SCR 186, 
+the Court held:
+“12…But the extent and application of 
+the doctrine of natural justice cannot 
+be imprisoned within the strait-jacket 
+of a rigid formula. The application of 
+the doctrine depends upon the nature 
+of the jurisdiction conferred on the 
+administrative authority, upon the 
+character of the rights of the persons 
+affected, the scheme and policy of the 
+statute and other relevant circumstances 
+disclosed in the particular case…”
+78. Further, in A.K. Kraipak v. Union of India (1969) 2 
+SCC 262, the nature of an administrative power and 
+the obligations reposed upon the State to function in 
+a just and fair manner was explained:
+“13. The dividing line between an 
+administrative power and a quasi-judicial 
+power is quite thin and is being gradually 
+obliterated. For determining whether a 
+power is an administrative power or a 
+quasi-judicial power one has to look to 
+the nature of the power conferred, the 
+27	
+2023 SCC OnLine SC 458
+
+898
+[2026] 1 S.C.R.
+Supreme Court Reports
+person or persons on whom it is conferred, 
+the framework of the law conferring that 
+power, the consequences ensuing from the 
+exercise of that power and the manner 
+in which that power is expected to be 
+exercised. Under our Constitution the rule 
+of law pervades over the entire field of 
+administration. Every organ of the State 
+under our Constitution is regulated and 
+controlled by the rule of law. In a welfare 
+State like ours it is inevitable that the 
+jurisdiction of the administrative bodies 
+is increasing at a rapid rate. The concept 
+of rule of law would lose its vitality if 
+the instrumentalities of the State are not 
+charged with the duty of discharging 
+their functions in a fair and just manner. 
+The requirement of acting judicially in 
+essence is nothing but a requirement to 
+act justly and fairly and not arbitrarily or 
+capriciously. The procedures which are 
+considered inherent in the exercise of 
+a judicial power are merely to facilitate 
+if not ensure a just and fair decision. 
+In recent years the concept of quasi-
+judicial power has been undergoing a 
+radical change. What was considered 
+as an administrative power some years 
+back is now being considered as a 
+quasi-judicial power…”
+79. In this context, it may be true that the Principles 
+of Natural Justice entailed giving Respondent No. 
+1 an opportunity to defend its rights. However, the 
+most decisive and crucial factor is whether any 
+legally vested ‘right’ ever accrued in favour of 
+Respondent No. 1, which the State Government 
+could not have despoiled behind its back. It has 
+already been held by us categorically that RIICO 
+had no authority whatsoever to accord permission 
+
+[2026] 1 S.C.R. 
+899
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+for conversion and sub-division of the industrial land 
+allotted to Respondent No. 1. We have further opined 
+that the State Government has always retained its 
+authority as lessor and was the only competent 
+authority to grant such permissions to Respondent 
+No. 1 within the framework of the 1959 Rules. The 
+irresistible conclusion would be that the self-
+styled power exercised by RIICO, was without 
+any sanction in law; it lacked inherent competence 
+and RIICO acted beyond its jurisdiction in respect 
+of LIA, Kota. The permissions accorded by RIICO 
+in favour of Respondent No. 1 did not confer any 
+rights whatsoever, much less any enforceable right 
+in the eyes of law. RIICO usurped the powers vested 
+in the State Government and passed palpably illegal 
+orders in favour of Respondent No. 1. The agreements 
+between RIICO and Respondent No. 1 are nothing 
+but brutum fulmen.”
+13.20.	Accordingly, in the instant case, in the absence of any 
+foundational right to participate in the proceedings before 
+NCLT or NCLAT, the appellant society cannot claim a vested 
+right to be heard at the appellate stage, for such right flows 
+from the statute and is not a matter of right.
+13.21.	Even otherwise, no prejudice is demonstrated:
+	•
+Homebuyers already in possession stand outside the 
+insolvency estate.
+	•
+Pending allottees are recognised financial creditors who 
+are entitled to file claims and participate in the CoC 
+through authorised representatives.
+	•
+Regulation 4E protects possession subject to 66% CoC 
+approval.
+	•
+Any approved resolution plan binds all stakeholders and 
+ensures equitable treatment.
+	•
+RERA rights stand harmonized with the IBC, as held 
+by this Court in Pioneer Urban Land and Mansi Brar 
+Fernandez. 
+
+900
+[2026] 1 S.C.R.
+Supreme Court Reports
+13.22.	Accordingly, we hold that 
+	•
+The right to initiate or participate in insolvency proceedings 
+is statutory, not equitable. 
+	•
+A society or Resident Welfare Association, not being 
+a creditor in its own right and not recognised as an 
+authorised representative of allottees under the IBC, 
+has no locus standi to intervene in proceedings arising 
+out a Section 7 petition. 
+	•
+The NCLAT was justified in rejecting the Society’s 
+intervention application. 
+	•
+No prejudice has been caused to homebuyers, whose 
+interests are adequately safeguarded under the Code. 
+14.	 At this juncture, we may aptly refer to the decision in Mansi Brar 
+Fernandes v. Shubha Sharma and another28, wherein while dealing 
+with the growing misuse of the insolvency framework by speculative 
+investors in real estate projects, this Bench revisited, reiterated, 
+and consolidated the settled principles governing the interplay 
+between RERA, the Consumer Protection Act, and the IBC. In the 
+said decision, the Court not only underscored the primacy of sector-
+specific remedies in real estate disputes but also issued a series 
+of consequential directions, recognising the right to shelter as an 
+integral facet of the right to life under Article 21 of the Constitution. 
+The following paragraphs are apposite and merit extraction:
+“15.2. In this necessary in this backdrop to reiterate certain 
+settled principles: 
+	•
+RERA remains the primary forum for redressal of 
+homebuyers’ grievances; 
+	•
+The IBC is a forum of last resort, intended to secure 
+revival and completion of viable projects, not to serve 
+as a debt recovery mechanism; and
+	•
+Consumer forums should confine themselves to 
+adjudicating individual service deficiencies, thereby 
+avoiding conflicting or overlapping orders across 
+multiple fora.
+28	
+2025 INSC 1110
+
+[2026] 1 S.C.R. 
+901
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+15.4. Strict adherence to IBC timelines and settled 
+precedent is imperative to realise two complementary 
+objectives: 
+(i)ensuring revival and completion of stalled projects for 
+the benefit of genuine homebuyers; and 
+(ii)curbing speculative activity which has functioned as a 
+“slow poison” for the residential real estate sector and, by 
+extension, the Indian middle class.
+18.3.1. The Court further noted that remedies under RERA 
+and the Consumer Protection Act are additional, not 
+exclusive. Both statutes operate alongside the IBC, but 
+with distinct purposes: RERA protects individual investors 
+by enforcing compliance with project obligations, while the 
+IBC operates in rem to revive the corporate debtor and 
+maximise value for all stakeholders. 
+18.3.2. Importantly, Pioneer Urban held that once a prima 
+facie default is established under Section 7 of the Code, 
+the burden shifts onto the developer to demonstrate 
+that the applicant is a defaulter, or that the process has 
+been invoked fraudulently, with malicious intent, or by a 
+speculative investor. These safeguards were intended to 
+prevent “trigger-happy” investors from destabilising projects 
+or prematurely driving developers into insolvency.
+21.2. In exercise of this Court’s jurisdiction, and to advance 
+the constitutional and statutory objectives, the following 
+directions are issued to the concerned authorities, in the 
+larger interests of bona fide homebuyers and the stability 
+of the real estate sector, which demand coordinated action 
+by all stakeholders:
+…
+(6) Resolution of real estate insolvency should, as a 
+rule, proceed on a project specific basis rather than the 
+entire corporate debtor, unless circumstances justify 
+otherwise. This would protect solvent projects and genuine 
+homebuyers from collateral prejudice. IBBI shall also 
+devise a mechanism to enable handover of possession 
+
+902
+[2026] 1 S.C.R.
+Supreme Court Reports
+to willing allottees where substantial units in a project 
+are complete. 
+(8) Regulations shall ensure meaningful representation of 
+allottees in the CoC through authorized representatives, 
+with safeguards against conflicts of interest.” 
+Conclusion
+15.	 For the foregoing reasons, 
+	•
+The appeal challenging admission of the Corporate Debtor into 
+CIRP is dismissed.
+	•
+The appeal challenging rejection of the intervention application 
+is also dismissed, subject to the clarification on the limited scope 
+of locus standi and inherent powers.
+It is clarified that upon commencement of CIRP, any aggrieved 
+stakeholder may avail remedies strictly in accordance with the Code.
+15.1.	 While the commercial wisdom of the Committee of Creditors 
+is paramount and is not ordinarily amenable to judicial 
+review, the width of powers vested in the CoC carries with 
+it a corresponding duty of responsibility. Any extraordinary 
+or non-routine decision taken by the CoC must, therefore, 
+be supported by cogent reasons duly recorded in writing. 
+Accordingly, with a view to advancing transparency, ensuring 
+accountability, and safeguarding the interests of homebuyers, 
+we issue the following directions:
+i)	
+The Information Memorandum shall mandatorily disclose 
+comprehensive and complete details of all allottees; and
+ii)	
+Where the Committee of Creditors, upon due consideration, 
+finds it not viable to approve handover of possession in 
+terms of Regulation 4E of the CIRP Regulations, it shall 
+mandatorily record cogent and specific reasons in writing 
+for such decision.
+iii)	
+Any recommendation for liquidation by the Committee of 
+Creditors shall be accompanied by a reasoned justification 
+recorded in writing, evidencing proper application of 
+mind and due consideration of all viable alternatives, in 
+consonance with the objective of the Code. 
+
+[2026] 1 S.C.R. 
+903
+Elegna Co-op. Housing and Commercial Society Ltd. v. 
+Edelweiss Asset Reconstruction Company Limited & Anr.
+These directions shall operate prospectively and shall be complied 
+with forthwith.
+16.	 There is no order as to costs. Pending application(s), if any, shall 
+stand disposed of in the above terms. 
+Result of the case: Appeals dismissed.
+†Headnotes prepared by: Nidhi Jain

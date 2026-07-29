@@ -1,0 +1,818 @@
+[2026] 3 S.C.R. 125 : 2026 INSC 151
+Zubair. P
+v.
+State of Kerala & Ors.
+(Civil Appeal No. 1620 of 2026)
+13 February 2026
+[K.V. Viswanathan and Vipul M. Pancholi,* JJ.]
+Issue for Consideration
+Issue arose for consideration whether r.6(2)(24)(iii) of Chapter 
+XXXII of the Kerala Education Rules mandates that the State 
+Eligibility Test-SET qualification must be in the concerned subject 
+only for appointment as Higher Secondary School Teachers-HSST 
+or in any subject would suffice for eligibility, and if so, whether the 
+appellant satisfies the said requirement or qualifies for exemption 
+u/r.10(4) of Chapter XXXII of the Rules.
+Headnotes†
+Kerala Education Rules – Chapter XXXII, r.6(2)(24)(iii) – 
+Interpretation – Essential qualifications for appointment as 
+Higher Secondary School Teachers-HSST – Appellant having 
+Bachelor’s degree and Master’s degree in Economics, B.Ed. 
+in Social Sciences and State Eligibility Test-SET qualification 
+in Malayalam appointed as Higher Secondary School Teacher-
+HSST (Economics) by competent authority– Respondent-
+authorities declined to approve the appointment of the appellant 
+as HSST (Economics) on the ground that the appellant neither 
+had the requisite SET qualification in Economics nor had ten 
+years of experience as a High School Teacher to avail the 
+exemption of mandatory SET qualification in the concerned 
+subject – Writ petition by the appellant seeking quashing of 
+the order and direction to respondent-authorities to approve 
+his appointment as HSST – Single Judge dismissed the 
+petition and declared that the appellant was not qualified for 
+appointment to the post of HSST (Economics) and directed 
+the authorities to consider the claim of respondent no. 4 for 
+appointment as HSST (Economics) if found entitled – Upheld 
+by the Division Bench – Correctness:
+* Author
+
+126
+[2026] 3 S.C.R.
+Supreme Court Reports
+Held: When r.6.2(24)(iii) is read with the prospectus of the SET 
+examination, particularly Clause 2 of the prospectus, it can be 
+safely said that the candidate is required to pass SET in the 
+concerned subject to qualify for the appointment to the post of 
+HSST in the said concerned subject – Even though in r.6.2(24)
+(iii), the words “in the concerned subject” are missing, the said 
+Rule cannot be interpreted in isolation and the textual omission 
+has to be inferred from context, purpose and scheme of the 
+provision – Thus, the said clause is required to be interpreted in 
+the said manner and possession of SET qualification in any other 
+subject unrelated to the teaching post, does not suffice the statutory 
+eligibility criteria – Concerned candidate is required to pass SET 
+in the concerned subject – Appellant, though having Bachelor’s 
+Degree as well as Master’s Degree in Economics, passed SET 
+in Malayalam, whereas, respondent no. 4 is having the degrees 
+of Bachelor’s and Master’s in Economics as well as the SET 
+qualification in Economics – Thus, respondent no. 4 is fulfilling all 
+the required eligibility criteria including the SET qualification in the 
+concerned subject – Also, the appellant has completed 09 years 
+10 months and 14 days service, i.e., less than ten years which is 
+the minimum prescribed by the Rules and, thus, the appellant not 
+entitled to seek an exemption u/r.10(4) of Chapter XXXII – Thus, 
+the High Court did not commit any error in affirming the decision 
+of the Single Judge, wherein it was declared that the appellant 
+is not qualified for appointment to the post of HSST (Economics) 
+in a vacancy that arose in the concerned school and respondent 
+no. 4 is eligible for appointment as HSST (Economics) in the 
+school w.e.f. 01.06.2021, with all consequential benefits, if found 
+entitled. [Paras 25-27]
+Case Law Cited
+Union of India v. Pushpa Rani [2008] 11 SCR 440 : (2008) 9 SCC 
+242; Kunjunjamma v. State of Kerala (2015) 11 SCC 440; Reserve 
+Bank of India v. Peerless General Finance and Investment Co. 
+Ltd. [1987] 2 SCR 1 : (1987) 1 SCC 424 – referred to.
+Geetha v. State of Kerala, 2012 (1) KLT 829; Manager, MPVHS 
+School v. Girija (2003) 1 KLT 935 – referred to.
+List of Acts
+Kerala Education Rules, 1959; Constitution of India.
+
+[2026] 3 S.C.R. 
+127
+Zubair. P v. State of Kerala & Ors.
+List of Keywords
+State Eligibility Test-SET qualification; Appointment as Higher 
+Secondary School Teacher-HSST(Economics); Essential 
+qualifications for appointment as Higher Secondary School 
+Teachers-HSST; Bachelor’s degree in Economics; Master’s degree 
+in Economics; B.Ed. in Social Sciences; State Eligibility Test-SET 
+qualification in Malayalam; High School Teacher; Mandatory SET 
+qualification; Purposive and harmonious interpretation of the statute.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 1620 
+of 2026
+From the Judgment and Order dated 18.07.2024 of the High Court 
+of Kerala at Ernakulam in WA No. 733 of 2024
+With
+Civil Appeal No. 1621 of 2026
+Appearances for Parties
+Advs. for the Appellant(s):
+Nikhil Goel, Sr. Adv., Haris Beeran, Azhar Assees, Anand B. Menon, 
+Ms. Rizwana R. Raj, Shaswat Jena, Radha Shyam Jena.
+Advs. for the Respondent(s):
+Harshad V. Hameed, Dileep Poolakkot, Ms. Ashly Harshad, Mahabir 
+Singh, Dr. Arunender Thakur, Anshul Saharan, Zulfiker Ali P.S., 
+Augustine Peter, Faisal M. Aboobacker, Shifaz R. Dheen, Ms. 
+Lebina Baby, Ms. Anne Mathew, P.S. Sudheer, Rishi Maheshwari, 
+Bharat Sood, Jai Govind M.J., Jashan Vir Singh.
+Judgment / Order of the Supreme Court
+Judgment
+Vipul M. Pancholi, J.
+1.	
+Leave granted.
+2.	
+Both these appeals are preferred by the appellant, challenging the 
+common impugned judgment and order dated 18.07.2024 passed 
+by the Division Bench of the High Court of Kerala in Writ Appeal No. 
+
+128
+[2026] 3 S.C.R.
+Supreme Court Reports
+733 of 2024 and Writ Appeal No. 769 of 2024, whereby the High 
+Court affirmed the rejection of approval to the appointment of the 
+appellant as Higher Secondary School Teacher (Economics) on the 
+ground that he did not possess the requisite State Eligibility Test 
+qualification in the concerned subject.
+3.	
+As the issue in both these appeals is the same and as the Division 
+Bench of High Court has passed a common judgment and order, both 
+these appeals are being disposed of together by the present order.
+FACTUAL MATRIX
+4.	
+The brief facts of the case are as under:
+4.1.	
+The appellant had entered the service as an Upper Primary 
+School Teacher on 01.11.2002 and was promoted as High 
+School Teacher on 15.07.2004. Thereafter, on 15.07.2021, 
+he was appointed as a Higher Secondary School Teacher 
+(hereinafter referred as “HSST”) (Economics) by the competent 
+authority. At the time of his appointment as HSST, the appellant 
+was having a Bachelor’s degree in Economics, a Master’s 
+degree in Economics and a B.Ed. in Social Sciences and State 
+Eligibility Test (hereinafter referred as “SET”) qualification in 
+Malayalam.
+4.2.	
+On the other hand, respondent no. 4, entered the service as 
+an Upper Primary School Assistant on 01.11.1997 and was 
+promoted as High School Assistant (English) from 16.07.2005 
+onwards. She was having a degree in B.A. (Economics), M.A. 
+(Economics) and B. Ed. (Social Sciences) and SET qualification 
+in Economics. 
+4.3.	
+Aggrieved by the appointment of the appellant, respondent 
+no. 4 raised objections alleging that the appellant neither had 
+mandatory SET qualification in Economics as prescribed under 
+Rule 6.2(24) of Chapter XXXII of the Kerala Education Rules 
+(hereinafter referred as “the Rules”) nor he had ten years of 
+high school teaching experience to fall within the exemption 
+of mandatory SET under under Rule 10(4) of Chapter XXXII 
+of the Rules.
+4.4.	
+Acting upon the objections, respondent-authorities vide its order 
+dated 18.06.2022 declined to approve the appointment of the 
+
+[2026] 3 S.C.R. 
+129
+Zubair. P v. State of Kerala & Ors.
+appellant on the ground that the appellant neither had SET 
+qualification in Economics nor he had ten years of experience 
+as a High School Teacher to avail the exemption of mandatory 
+SET qualification in the concerned subject. Reliance was placed 
+on the Government Order dated 18.01.2021 which clarified 
+that it is mandatory to pass the SET exam in the concerned 
+subject to become a Higher Secondary school teacher.
+4.5.	
+Being aggrieved by the decision of the respondent-authorities, 
+the appellant preferred a Writ Petition (C.) No. 20130/2022 
+seeking quashing of order dated 18.06.2022 and direction to 
+respondent-authorities to approve his appointment as HSST 
+with effect from 15.07.2021.
+4.6.	
+On the other hand, respondent no. 4 also preferred a Writ 
+Petition (C.) No. 11190/2023 seeking direction to respondent-
+authorities to consider her claim for appointment as HSST 
+(Economics).
+4.7.	
+Learned Single Judge vide common judgment and order 
+dated 14.05.2024 dismissed the petition preferred by the 
+appellant and allowed the petition preferred by the respondent 
+no. 4. Accordingly, it was declared that the appellant is not 
+qualified for appointment to the post of HSST (Economics) 
+in a vacancy that arose on 01.06.2021 in the concerned 
+school. Further, the learned Single Judge gave direction to the 
+respondent-authorities to consider the claim of respondent no. 
+4 for appointment as HSST (Economics) in the school w.e.f. 
+01.06.2021 with all consequential benefits, if respondent no. 
+4 is found entitled.
+4.8.	
+Appellant, being aggrieved and dissatisfied with the order 
+passed by the learned Single Judge, preferred Writ Appeal 
+No(s). 733 of 2024 and 769 of 2024.
+4.9.	
+Vide the impugned judgment, the Division Bench of the High 
+Court dismissed both the appeals filed by the appellant and 
+thereby confirmed the judgment and order rendered by the 
+learned Single Judge.
+4.10.	 Aggrieved by the impugned judgment, the appellant has 
+preferred the present appeals.
+
+130
+[2026] 3 S.C.R.
+Supreme Court Reports
+SUBMISSIONS ON BEHALF OF THE APPELLANT
+5.	
+Mr. Nikhil Goel, learned Senior Counsel and Mr. Haris Beeran, 
+learned counsel appearing on behalf of the appellant, challenged the 
+impugned judgment, which upheld the rejection of the appointment 
+of the appellant as HSST (Economics) on the ground that he did 
+not possess a SET qualification in Economics and made multifold 
+submissions as under:
+5.1.	 It is submitted that the appellant is qualified for the post of 
+HSST (Economics) under the Rules. The appellant holds the 
+Bachelor’s Degree in Economics, Master’s Degree in Economics 
+and B.Ed. in Social Sciences. Further, the appellant is having 
+SET qualification in Malayalam.
+5.2.	 Learned Counsel referred to Rule 6.2(24) of Chapter XXXII of 
+the Rules which expressly requires the postgraduate degree 
+and B.Ed. to be in the concerned subject. However, so far as 
+SET is concerned, it is provided that the concerned candidate 
+must have passed SET for the post of HSST conducted by the 
+Government of Kerala or by an agency authorized by the State 
+Government. Thus, it is submitted that the said rule does not 
+specify any subject requirement for the SET qualification and 
+the deliberate omission of subject-specific language in the SET 
+qualification demonstrates the intent of the legislature that the 
+SET qualification need not be subject-specific.
+5.3.	 Learned Counsel, therefore, contended that the High Court in 
+the impugned judgment erroneously interpreted Rule 6.2(24)
+(iii) of Chapter XXXII of the Rules and erred in reading into 
+the Rule a condition which the Rule itself does not contain, 
+thereby impermissibly adding words to a statutory provision and 
+such an approach is contrary to settled principles of statutory 
+interpretation. It is further submitted that the High Court wrongly 
+relied on Government orders and circulars prescribing subject-
+specific SET, as executive instructions cannot amend, override 
+or supplement statutory rules.
+5.4.	 It is also contended that the interpretation adopted by the High 
+Court contradicts the long understanding and the application 
+of Rule 6.2(24) of the Rules across educational institutions in 
+Kerala.
+
+[2026] 3 S.C.R. 
+131
+Zubair. P v. State of Kerala & Ors.
+5.5.	 Learned Counsel further submitted that Rule 10(4) of Chapter 
+XXXII of the Rules provides exemption from SET for certain 
+candidates based on other qualifications like NET, Ph.D., M.Phil., 
+without requiring these qualifications in any specific subject. 
+This reinforces that SET is intended as a general eligibility 
+benchmark, not a subject-exclusive qualification. In addition, 
+teachers with ten years of approved teaching certificates are 
+also exempted from SET, regardless of the subject of their 
+experience. It is submitted that the appellant was appointed as 
+Upper Primary School Assistant on 01.11.2002 and promoted 
+as High School Assistant (English) on 15.07.2004, whereas, 
+the respondent no. 4 was promoted as High School Assistant 
+(English) from 16.07.2005.
+5.6.	 Learned Counsel for the appellant, therefore, urged that though 
+the appellant was qualified to be appointed as HSST, his 
+appointment was not approved by the authority and, therefore, 
+the appellant had preferred the captioned writ petition. Learned 
+Counsel submitted that the learned Single Judge as well as the 
+Division Bench of the High court have committed serious error 
+by interpreting provisions contained in Rule 6.2(24) of Chapter 
+XXXII of the Rules.
+5.7.	 Learned Counsel, therefore, urged that the impugned judgment 
+passed by the High Court is liable to be set aside, and appropriate 
+direction be issued to the respondent-authorities to appoint the 
+appellant on the post in question by granting necessary approval.
+SUBMISSIONS ON BEHALF OF RESPONDENT NO. 1 (State of 
+Kerala)
+6.	
+Mr. Dileep Poolakkot, learned counsel appearing on behalf of the 
+State, submitted that the impugned judgment is legal, valid and based 
+on correct appreciation of facts and law, warranting no interference 
+under Article 136 of the Constitution. Following submissions were 
+made on behalf of respondent no. 1:
+6.1.	 It is submitted that the appellant was appointed by transfer as 
+HSST (Economics) on 15.07.2021. Accordingly, the Manager of 
+the respondent-school submitted a proposal for the approval of 
+the appointment of the appellant before the competent authority. 
+Thereafter, the respondent no. 4 submitted a complaint in the 
+
+132
+[2026] 3 S.C.R.
+Supreme Court Reports
+office of Regional Deputy Director regarding the appointment 
+and qualification of the appellant. It was pointed out by the 
+respondent no. 4 that the appellant was not qualified for the 
+post of HSST (Economics), as the appellant does not have 
+SET in the relevant subject or ten years of high school teaching 
+experience.
+6.2.	 It is submitted that the appellant admittedly possesses BA and 
+MA in Economics, B.Ed. in Social Studies and SET qualification 
+in Malayalam, not in Economics and Rule 6(2)(24)(iii) of Chapter 
+XXXII of the Rules requires SET in the concerned subject, 
+namely Economics, for appointment as HSST (Economics). The 
+appellant further does not possess ten years of approved High 
+School teaching service, having only 9 years, 10 months and 
+14 days of such service after excluding periods of deputation 
+and leave without allowance, and therefore, was not entitled for 
+the exemption under Rule 10(4) of Chapter XXXII of the Rules.
+6.3.	 The State submitted that the Government Order dated 
+18.06.2022 (G.O.(Rt) No. 3672/2022/G.Edn) rejecting approval 
+of the appointment of the appellant was passed strictly in 
+accordance with the Rules and pursuant to directions issued 
+by the High Court. The subsequent grant of lower scale salary 
+to the appellant was only an interim arrangement in compliance 
+with court directions and does not confer any right of approval 
+or regular appointment.
+6.4.	 It is therefore submitted that the appellant lacks the essential 
+statutory qualifications, the High Court has correctly interpreted 
+Rules 6 and 10 of Chapter XXXII of the Rules.
+6.5.	 Learned counsel therefore urged that the High Court has not 
+committed any error while passing the impugned judgment and 
+order. Thus, it is submitted that the present appeals are liable 
+to be dismissed. 
+SUBMISSIONS ON BEHALF OF RESPONDENT NO. 3 (Manager, 
+PTM Higher Secondary School)
+7.	
+Mr. Zulfiker Ali P.S., learned counsel appearing for respondent no. 
+3, submitted that under the Kerala Education Act and the Rules, 
+the Manager is the statutorily recognised appointing authority and 
+has exclusive control over staff management. The Manager has the 
+
+[2026] 3 S.C.R. 
+133
+Zubair. P v. State of Kerala & Ors.
+inherent right to appoint teachers by transfer from the feeder category 
+of High School Assistants (HSA) on a seniority-cum-suitability basis. 
+Following submissions were made on behalf of respondent no. 3:
+7.1.	 It is submitted that upon the vacancy of HSST (Economics) on 
+01.06.2021, the Manager validly appointed the appellant, who 
+was the senior-most qualified teacher in the school, strictly in 
+accordance with the Rules.
+7.2.	 Learned Counsel submitted that a literal and harmonious 
+reading of Rule 6 of Chapter XXXII of the Rules would reveal a 
+deliberate distinction regarding qualifications. While the Master’s 
+and B.Ed. degrees must be in the concerned subject, the rule 
+merely mandates a pass in the SET without any subject-specific 
+restriction. It is further submitted that the omission of subject-
+specific language for SET is intentional and indicates that the 
+rule-making authority did not intend SET to be confined to the 
+subject of appointment.
+7.3.	 It is submitted that the appellant holds a Post Graduation 
+in Economics and a B.Ed. in Social Science and an SET 
+in Malayalam, satisfies the statutory eligibility for HSST 
+(Economics) because the SET is intended as an assessment 
+of general teaching aptitude rather than a repetitive assessment 
+of subject expertise, which is already verified by the post-
+graduate degree. 
+7.4.	 Learned Counsel further submitted that respondent no. 4 
+possessing SET in Economics would not supersede the 
+appellant’s seniority and valid qualifications as per the statutory 
+rules.
+7.5.	 Reliance is placed on Geetha v. State of Kerala, (2012 (1) 
+KLT 829), wherein it was held that general teaching service is 
+the criteria for exemption under Rule 10(4) of the Rules and 
+that the Rules should not be re-written to insert subject-specific 
+restrictions where none exist. It is asserted that across Kerala, 
+numerous HSSTs appointed with SET in subjects different from 
+their teaching subject are presently in service, reflecting a 
+consistent administrative interpretation of Rule 6. It is submitted 
+that disturbing this settled understanding would jeopardise 
+the careers of countless teachers and unsettle long-standing 
+appointments.
+
+134
+[2026] 3 S.C.R.
+Supreme Court Reports
+7.6.	 Reliance is placed on the Full Bench judgment of the High Court 
+of Kerala in Manager, MPVHS School v. Girija, (2003) 1 KLT 
+935, to contend that executive orders or circulars, including 
+the Government letter dated 18.01.2021, cannot override or 
+supplement the statutory provisions of the Rules.
+7.7.	 It is therefore submitted that the respondent no. 3 acted strictly 
+within the four corners of the Rules in appointing the appellant 
+and the impugned judgment, by importing a subject-specific 
+requirement for SET, rewrites the statutory rule and is legally 
+unsustainable.
+7.8.	 It is therefore urged that the impugned judgement and order is 
+liable to be set-aside and it is prayed that the appointment of 
+the appellant made by the Management to be upheld.
+SUBMISSIONS ON BEHALF OF RESPONDENT NO. 4 (Competing 
+candidate for HSST (Economics))
+8.	
+Ms. Anne Mathew, learned counsel appearing for respondent no. 4, 
+supported the interpretation adopted by the High Court that Rule 6(2)
+(24)(iii) of Chapter XXXII of the Rules mandates passing of SET in 
+the concerned subject for appointment as HSST and made multifold 
+submissions as under:
+8.1.	 Learned Counsel submitted that to ensure maintenance 
+of academic standards at the Higher Secondary level, the 
+legislature decided to conduct SET examination for the post 
+of HSST for the concerned subject as mandated in Rule 6 of 
+Chapter XXXII of the Rules. Thus, the interpretation placed by 
+the High Court is purposive, contextual and consistent with the 
+scheme of the Rules and does not amount to adding words to 
+the statute. Reliance is placed on Union of India v. Pushpa 
+Rani, (2008) 9 SCC 242, to argue that insisting on SET in 
+the concerned subject is a policy choice aimed at maintaining 
+academic standards and the courts should not dilute or re-
+interpret qualification requirements contrary to the understanding 
+of the rule-making authority.
+8.2.	 It is contended that the Government Letter dated 18.01.2021 
+clarifying the requirement of SET in the concerned subject 
+is legal, valid and within the competence of the rule-making 
+authority. Reliance is placed on Kunjunjamma v. State of 
+
+[2026] 3 S.C.R. 
+135
+Zubair. P v. State of Kerala & Ors.
+Kerala, (2015) 11 SCC 440, to support the validity of Government 
+action and clarifications relating to SET qualification requirements 
+and to contend that the Government’s interpretation of Rule 6 
+of Chapter XXXII of the Rules is within its competence and 
+cannot be lightly interfered with. It is further submitted that the 
+appellant never challenged the validity of the said Government 
+Letter before the High Court and therefore cannot dispute its 
+applicability in the present proceedings.
+8.3.	 It is further submitted that the appellant possesses SET only in 
+Malayalam, not in Economics and further, the appellant does not 
+have ten years of approved High School teaching service, having 
+only 9 years, 10 months and 14 days of eligible service after 
+excluding periods of deputation and leave without allowance. 
+Consequently, the appellant is ineligible both under Rule 6(2)
+(24)(iii) (absence of SET in Economics) and under Rule 10(4) 
+of Chapter XXXII (failure to satisfy service-based exemption) 
+of the Rules.
+8.4.	 It is submitted that respondent no. 4 is fully qualified under the 
+statutory rules, possessing BA and MA in Economics, B.Ed. in 
+Social Science and SET qualification in Economics. Respondent 
+no. 4 attended the interview, produced all requisite documents 
+and was wrongfully overlooked when the Manager appointed 
+the appellant, despite her superior statutory eligibility.
+8.5.	 Learned Counsel referred to the prospectus issued for conducting 
+the SET examination in July 2021, a copy of which is placed 
+on record at Page 162 of the Counter Affidavit filed on behalf of 
+respondent no. 4. Clause 2 of the said prospectus provides for 
+the scheme of the test which includes two papers and further 
+provides that Paper II shall be a test based on the subject of 
+specialisation of the candidate at the Post Graduate (PG Level).
+8.6.	 The Full Bench decision of the Kerala High Court in Girija 
+(supra), is distinguished by learned counsel, arguing that 
+the said decision dealt with Chapter XXXI of the Rules (High 
+School Assistants), not Chapter XXXII of the Rules (Higher 
+Secondary Teachers) and the interpretative issue in the said 
+decision concerned B.Ed. subject requirement, whereas, the 
+present case concerns SET for HSST, a distinct cadre with 
+higher academic standards.
+
+136
+[2026] 3 S.C.R.
+Supreme Court Reports
+8.7.	 It is submitted that accepting the interpretation of the appellant 
+would undermine academic standards in Higher Secondary 
+education, permit appointment of teachers lacking subject-
+specific eligibility, unsettle settled appointments and encourage 
+avoidable litigation.
+8.8.	 Learned Counsel, therefore, urged that the High Court has 
+correctly interpreted the Rules, the appellant is statutorily 
+ineligible and the directions to consider respondent no. 4 for 
+appointment are lawful and just under Rule 6.2(24) of Chapter 
+XXXII of the Rules. The present appeals are therefore liable to 
+be dismissed and the impugned judgment deserves to be upheld.
+ANALYSIS AND FINDINGS
+9.	
+Having heard learned counsel for the parties at length and having 
+carefully perused the material on record, the Rules as well as the 
+prospectus of the SET examination, it would emerge that the appellant 
+had entered the service as an Upper Primary School Teacher on 
+01.11.2002 and was promoted as High School Teacher on 15.07.2004 
+and, thereafter, on 15.07.2021, the appellant was appointed as HSST 
+(Economics) by the competent authority. It would further reveal that 
+respondent no. 4 entered the service as an Upper Primary School 
+Assistant on 01.11.1997 and was promoted as High School Assistant 
+(English) from 16.07.2005 onwards.
+10.	 Now, it is not in dispute that the appellant possesses the Bachelor’s 
+Degree in Economics, Master’s Degree in Economics, B.Ed. in Social 
+Sciences and passed SET in Malayalam. It is also not in dispute 
+that respondent no. 4 possesses a degree in B.A. (Economics), 
+M.A. (Economics), B.Ed. (Social Sciences) and passed the SET 
+examination in Economics.
+11.	 Keeping in view the aforesaid factual aspects, the question which is 
+posed for our consideration is whether Rule 6(2)(24)(iii) of Chapter 
+XXXII of the Rules mandates that the SET qualification must be 
+in the concerned subject only for appointment as HSST or in any 
+subject would suffice for eligibility, and if so, whether the appellant 
+satisfies the said requirement or qualifies for exemption under Rule 
+10(4) of Chapter XXXII of the Rules.
+12.	 The facts being undisputed, the controversy turns entirely on the 
+correct interpretation of the statutory rules governing eligibility. 
+
+[2026] 3 S.C.R. 
+137
+Zubair. P v. State of Kerala & Ors.
+Chapter XXXII of the Rules governs appointment to the cadre of 
+Higher Secondary School Teachers, a cadre distinct from High 
+School Assistants and governed by a separate statutory framework.
+13.	 The answer of the question posed before us will depend on the 
+interpretation of Rule 6 of Chapter XXXII of the Rules which prescribes 
+the essential qualifications for appointment as HSST. The said Rule 
+is reproduced as under:
+“6. Qualifications:- No person shall be eligible for 
+appointment to the category in column (2) in the table 
+below under the method specified in column (3) unless 
+he possesses the qualifications prescribed in the 
+corresponding entry in column (4) there of. 
+Sl. No.
+Category
+Method of 
+Appointment
+Qualifications
+(1)
+(2)
+(3)
+(4)
+(21)
+xxxxxxx
+By Transfer 
+and by direct 
+recruitment
+(i) Master’s Degree in the 
+concerned subject will not less 
+than 50% marks from any 
+of the Universities in Kerala 
+or a qualification recognised 
+as equivalent thereto in 
+the respective subject by a 
+University in Kerala.
+(ii) (1) B.Ed. in the concerned 
+subject acquired after a regular 
+course of study from any of 
+the Universities in Kerala or 
+a qualification recognised 
+as equivalent thereto by a 
+University in Kerala.
+(2) In the absence of persons 
+with B.Ed. Degree in the 
+concerned subject, B.Ed. 
+Degree acquired in anyone of 
+the subject under the concerned 
+Faculty as specified in the 
+Acts/Statutes of any of the 
+Universities in Kerala.
+(22)
+xxxxxxx
+(23)
+xxxxxxx
+(24)
+Economics
+(25)
+xxxxxxx
+(26)
+xxxxxxx
+(27)
+xxxxxxx
+
+138
+[2026] 3 S.C.R.
+Supreme Court Reports
+(3) In the absence of persons 
+with B.Ed. degree as specified 
+in terms (1) and (2) above, 
+persons with B.Ed. Degree in 
+any subject acquired after a 
+regular course of study from 
+any of the Universities in Kerala 
+or a qualification recognised as 
+equivalent thereto by any of the 
+Universities in Kerala.
+(iii) Pass in the State Eligibility 
+Test for the post of Higher 
+Secondary School Teacher 
+conducted by Government 
+of Kerala or by the Agency 
+authorized by the State 
+Government.
+(emphasis supplied)
+14.	 Thus, from the perusal of Rule 6, it transpires that the said Rule 
+provides for qualification for appointment as HSST. Clause 24 deals 
+with the subject ‘Economics’. The Rule provides that the post in 
+question requires a Master’s Degree in the concerned subject with a 
+particular percentage of marks and a B.Ed. qualification. Sub-clause 
+(iii) provides that the candidate shall “pass in the State Eligibility 
+Test (SET) for the post of Higher Secondary School Teacher (HSST) 
+conducted by the Government of Kerala or by the agency authorized 
+by the State Government.”
+15.	 The argument advanced on behalf of the appellant and respondent 
+no. 3 rests on the absence of the words “in the concerned subject” 
+in clause (iii). However, we are of the view that a statutory provision 
+cannot be interpreted in isolation or by placing undue emphasis on 
+textual omission divorced from context, purpose and scheme.
+16.	 In Reserve Bank of India v. Peerless General Finance and 
+Investment Co. Ltd., (1987) 1 SCC 424, this Court authoritatively 
+held that interpretation must depend on the text and the context 
+and that the statute must be read as a whole so as to advance its 
+object and suppress the mischief. It was observed that a construction 
+which leads to absurdity or defeats the purpose of the enactment 
+
+[2026] 3 S.C.R. 
+139
+Zubair. P v. State of Kerala & Ors.
+must be avoided. The relevant paragraph of the said decision is 
+reproduced as under:
+“33. Interpretation must depend on the text and the context. 
+They are the bases of interpretation. One may well say if the 
+text is the texture, context is what gives the colour. Neither 
+can be ignored. Both are important. That interpretation 
+is best which makes the textual interpretation match the 
+contextual. A statute is best interpreted when we know why 
+it was enacted. With this knowledge, the statute must be 
+read, first as a whole and then section by section, clause by 
+clause, phrase by phrase and word by word. If a statute is 
+looked at, in the context of its enactment, with the glasses 
+of the statute-maker, provided by such context, its scheme, 
+the sections, clauses, phrases and words may take colour 
+and appear different than when the statute is looked at 
+without the glasses provided by the context. With these 
+glasses we must look at the Act as a whole and discover 
+what each section, each clause, each phrase and each 
+word is meant and designed to say as to fit into the scheme 
+of the entire Act. No part of a statute and no word of a 
+statute can be construed in isolation. Statutes have to be 
+construed so that every word has a place and everything 
+is in its place. It is by looking at the definition as a whole 
+in the setting of the entire Act and by reference to what 
+preceded the enactment and the reasonsfor it that the Court 
+construed the expression “Prize Chit” in Srinivasa [(1980) 
+4 SCC 507 : (1981) 1 SCR 801 : 51 Com Cas 464] and 
+we find no reason to depart from the Court’s construction.”
+17.	 The Government Letter dated 18.01.2021 further clarifies that SET 
+must be in the concerned subject to become a Higher Secondary 
+teacher. The relevant part of the said Letter is reproduced as under:
+“Your attention is drawn to the notification. Since it is 
+mandatory to pass the SET exam in the respective subject 
+to become a Higher Secondary teacher, it is informed that 
+the SET qualification in Sociology cannot be considered 
+for appointment to the HSST (English) post.”
+18.	 At this stage, we would also like to refer to the prospectus for the 
+SET examination. The relevant paragraphs and the scheme of the 
+test is extracted as below:
+
+140
+[2026] 3 S.C.R.
+Supreme Court Reports
+“1.	
+Introduction
+In order to ensure the standards of teaching in Higher 
+Secondary Course, the Government have decided to 
+conduct the State Eligibility Test for the candidates to 
+be selected as Higher Secondary School Teachers 
+and Non-Vocational Teachers in VHSE. A pass in 
+the State Eligibility Test (SET) is stipulated as a 
+mandatory requirement for appointment as Higher 
+Secondary School Teachers in the State as per the 
+Special Rules in force.
+XXX
+XXX
+XXX
+2.	
+Scheme of the Test.
+2.1	 There shall be two papers for the SET-JULY-2021.
+Paper I
+Paper I is common for all candidates. It consists of 
+two parts,  Part(A) General Knowledge and Part(B) 
+Aptitude in Teaching.
+Paper II
+Paper II shall be a test based on the subject of 
+specialisation of the candidate at the Post Graduate 
+(PG) Level.”
+19.	 On perusal of the aforesaid scheme of the test, it transpires that the 
+test consists of two papers where Paper II is based on the subject 
+of specialisation of the candidate at Post Graduate Level. Thus, it 
+is not in dispute that SET is conducted subject-wise and it includes 
+a paper testing postgraduate-level subject expertise, therefore, a 
+candidate cannot qualify in SET without choosing a specific subject 
+of specialisation. Hence, when SET qualification is itself subject-
+specific, it is immaterial whether or not Rule 6.2(24)(iii) of Chapter 
+XXXII of the Rules provides for SET “in the concerned subject” or not.
+20.	 The specific case of respondent no. 1 and respondent no. 4 that 
+the legislature decided to conduct SET examination for the post of 
+HSST in order to ensure the academic and teaching standards in 
+the Higher Secondary level and thus, the SET qualification must be 
+in the same subject as that of the HSST post, is well founded, as 
+
+[2026] 3 S.C.R. 
+141
+Zubair. P v. State of Kerala & Ors.
+the said submission is supported by the object and scheme of the 
+test laid down in the prospectus as well.
+21.	 It is clear that the object of introducing SET for Higher Secondary 
+Teachers is to ensure subject competence and pedagogical suitability 
+at the Higher Secondary level, which is qualitatively distinct from lower 
+teaching cadres. Thus, in this backdrop, to accept the interpretation 
+of the appellant would result in a situation where a candidate tested 
+for eligibility in an entirely unrelated discipline could claim appointment 
+to teach another specialised subject and such an interpretation would 
+defeat the very object of prescribing the SET qualification at the 
+Higher Secondary level and would lead to manifestly absurd results.
+22.	 Therefore, a purposive and contextual reading of Rule 6 of Chapter 
+XXXII of the Rules compels the conclusion that the SET qualification 
+must necessarily correspond to the subject of appointment, even if the 
+Rule does not expressly reiterate the phrase “concerned subject” in 
+clause (iii) of the said Rule. We are unable to accept the submission 
+that such an interpretation amounts to “adding words” to the Rule, as 
+this Court is duty bound to undertake a purposive and harmonious 
+interpretation of the statute.
+23.	 The reliance placed by the appellant and respondent no. 3 on Girija 
+(supra) is misplaced and the High Court rightly distinguished the 
+said decision, as it concerned the cadre of High School Assistants 
+and the B.Ed. qualification and the issue in the present case involves 
+Higher Secondary cadre and the SET qualification, which stands 
+on a distinct footing with higher academic standards. The relevant 
+paragraph of the impugned judgment is reproduced as under:
+“7. Before going into the said issue, it will be better to bear 
+in mind the well settled principles of interpretation. If the rule 
+is clear and unambiguous, the intention of the legislature 
+need not be gather with reference to the other rules We 
+must remember that Chapter XXXI Rule 2 of KER deals 
+with appointment of the High School Assistants, whereas 
+Chapter XXXII is concerning the Higher Secondary 
+School Teachers. The judgment of the Full Bench in Girija 
+(Supra) was concerned with the interpretation of Rule 2 
+of Chapter XXXI of KER. On a reading of the said Rule, 
+it becomes evident that there is no insistence to obtain 
+B.Ed in the concerned subject for appointment as HSA. 
+However coming to Rule 6.2(24) of Chapter XXXII K.E.R, 
+
+142
+[2026] 3 S.C.R.
+Supreme Court Reports
+that is not the case. Therefore, we are of the view that 
+interpretation placed by the Full Bench of this Court in 
+Girija (Supra) cannot come to the aid of the appellant 
+in this case. Therefore, we find that the learned Single 
+Judge was perfectly justified in finding that the Rule 6 of 
+Chapter XXXII KER is differently worded from Rule 2 of 
+Chapter XXXI KER. It is also pertinent to note that, the 
+post to which these two Rules apply are also different.”
+24.	 Further reliance placed by respondent no. 3 on the decision of a 
+learned Single Judge of the High Court of Kerala in the case of Geetha 
+(supra) is distinguishable, as it concerned Rule 10 of Chapter XXXII 
+of the Rules which provides for exemption for the SET qualification 
+in case of ten years teaching experience. However, the present case 
+is concerned about the very foundation of the SET qualification and 
+thus, the same cannot be treated lightly.
+25.	 From the aforesaid detailed discussion, it can be said that the 
+concerned candidate is required to pass SET in the concerned subject. 
+In the present case, it is not in dispute that the appellant, though 
+having Bachelor’s Degree as well as Master’s Degree in Economics, 
+passed SET in Malayalam, whereas, respondent no. 4 is having the 
+degrees of Bachelor’s and Master’s in Economics as well as the SET 
+qualification in Economics. We are, therefore, of the view that when 
+respondent no. 4 is fulfilling all the required eligibility criteria including 
+the SET qualification in the concerned subject, the High Court has not 
+committed any error while passing the impugned judgment and order. 
+26.	 At this stage, it is also relevant to observe that it is the case of the 
+appellant that Rule 10(4) of Chapter XXXII of the Rules provides 
+that “teachers who have completed ten years of approved teaching 
+service at the High School level shall be exempted from passing 
+the State Eligibility Test”. Admittedly, the appellant has completed 
+09 years 10 months and 14 days service, i.e., less than ten years 
+which is the minimum prescribed by the Rules and, therefore, the 
+appellant is not entitled to seek an exemption under the said Rule. 
+Thus, we are of the view that the said contention of the appellant 
+is also misconceived.
+CONCLUSION
+27.	 Therefore, from the above detailed analysis, the answer to the 
+question posed for our determination is as under:
+
+[2026] 3 S.C.R. 
+143
+Zubair. P v. State of Kerala & Ors.
+27.1.	 When Rule 6.2(24)(iii) of Chapter XXXII of the Rules is read 
+with the prospectus of the SET examination, particularly 
+Clause 2 of the prospectus, it can be safely said that the 
+candidate is required to pass SET in the concerned subject 
+to qualify for the appointment to the post of HSST in the 
+said concerned subject. Even though in Rule 6.2(24)(iii), the 
+words “in the concerned subject” are missing, the said Rule 
+cannot be interpreted in isolation and the textual omission 
+has to be inferred from context, purpose and scheme of the 
+provision. Thus, the said clause is required to be interpreted 
+in the aforesaid manner. and possession of SET qualification 
+in any other subject unrelated to the teaching post, does not 
+suffice the statutory eligibility criteria.
+27.2.	 Therefore, the High Court has not committed any error in 
+affirming the decision of the learned Single Judge, wherein it 
+was declared that the appellant is not qualified for appointment 
+to the post of HSST (Economics) in a vacancy that arose 
+on 01.06.2021 in the concerned school and respondent no. 
+4 is eligible for appointment as HSST (Economics) in the 
+school w.e.f. 01.06.2021, with all consequential benefits, if 
+respondent no. 4 is found entitled and the findings in the 
+present judgment regarding the eligibility of respondent no. 
+4 shall also be considered while considering her claim for 
+appointment to the post.
+27.3.	 Necessary orders shall be issued by the respondent-authorities 
+within a period of two months from the date of this judgment. 
+28.	 It is further clarified that in pursuance to the appointment made 
+to the post in question, no recovery of excess amount paid to the 
+appellant, if any, shall be carried out by the respondent-authorities.
+29.	 For the aforesaid reasons, we are of the view that the present 
+appeals deserve to be dismissed and accordingly, both the present 
+appeals are dismissed. 
+Result of the case: Appeals dismissed.
+†Headnotes prepared by: Nidhi Jain

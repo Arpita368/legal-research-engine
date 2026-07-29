@@ -1,0 +1,656 @@
+[2026] 2 S.C.R. 481 : 2026 INSC 120
+Pramod Kumar & Ors.
+v.
+State of Uttar Pradesh Ors.
+(Criminal Appeal No. 687 of 2026)
+04 February 2026
+[Rajesh Bindal and Vijay Bishnoi,* JJ.]
+Issue for Consideration
+Whether after submitting a final report u/s.173(2) of the Code 
+of Criminal Procedure, 1973 (CrPC) (s.193(3) of the Bharatiya 
+Nagarik Suraksha Sanhita, 2023 (BNSS)), the police/investigating 
+agency can conduct further investigation u/s.173(8) of CrPC 
+(s.193(9) of BNSS) without obtaining the leave of the Magistrate/
+Court concerned.
+Headnotes†
+Code of Criminal Procedure, 1973 – s.173(2), s.173(8) – Bharatiya 
+Nagarik Suraksha Sanhita, 2023 – s.193(3), s.193(9) – An FIR 
+was registered against seven accused persons including 
+appellants for the offence punishable u/ss.376D, 352, 504, 506 
+respectively of the IPC – After completion of the investigation, 
+the Investigating Officer submitted the Final Report (closure 
+report) stating that no offence was made out against the 
+accused persons, including the appellants herein   – The 
+Court of First Additional Civil Judge, (J.D.)/Judicial Magistrate 
+after considering the Closure Report, accepted the same – 
+After few years, a complaint was filed before NHRC alleging 
+several deficiencies in the investigation conducted by police 
+officials – The Under Secretary, Government of Uttar Pradesh, 
+forwarded the matter to CBCID directing investigation and 
+recommended further investigation u/s.173(8) of CrPC – The 
+Superintendent of Police, directed IO to make available the 
+special report relating to the further investigation – Notice 
+issued to accused persons – Writ Petition – The High Court, 
+inter-alia, directed continuation of investigation and dismissed 
+the petition – Correctness:
+Held: In light of the legal position as settled by this Court through 
+the various judgments, it is safe to say that the power to direct 
+* Author
+
+482
+[2026] 2 S.C.R.
+Supreme Court Reports
+further investigation in a case rests solely at the discretion of the 
+Magistrate/Court concerned – In the event, the police/ investigating 
+agency is of the opinion that further investigation is necessary 
+in any particular case to cull out complete facts and truth in the 
+case, it is binding upon them to file an appropriate application 
+before the Magistrate/Court, without directing an order for further 
+investigation by themselves – Once such an application is filed 
+by the investigating agency, the Magistrate/Court would apply 
+its judicial mind, in light of the facts and circumstances of the 
+particular case and the reasons demonstrated by the investigating 
+agency, in order to exercise its discretion for exercise of its power 
+to decide whether or not further investigation is to be ordered 
+under the purview of s.173(8) of CrPC – Thus, it is amply clear 
+that the Superintendent of Police acted in complete defiance of the 
+procedure laid down under the law while passing orders directing 
+further investigation without seeking leave of the Court – The 
+impugned judgment passed by the High Court is set aside – In 
+addition to that, the communication dated 06.06.2019 and order 
+dated 26.04.2021 passed directing further investigation, are also 
+quashed and set aside. [Paras 33, 36, 38]
+Case Law Cited
+Vinay Tyagi v. Irshad Ali alias Deepak and Ors. [2012] 13 SCR 
+1005 : (2013) 5 SCC 762; Peethambaran v. State of Kerala & Anr. 
+[2023] 4 SCR 1144 : (2024) 16 SCC 65 – relied on.
+Dharam Pal v. State of Haryana and Ors. [2016] 1 SCR 194 : 
+(2016) 4 SCC 160 – held inapplicable.
+Bhagwant Singh v. Commr. of Police [1985] 3 SCR 942 : (1985) 
+2 SCC 537; Vinubhai Haribhai Malviya and Others v. State of 
+Gujarat and Another [2019] SCR 936 : (2019) 17 SCC 1; Devendra 
+Nath Singh v. State of Bihar [2023] 15 SCR 692 : (2023) 1 SCC 
+48 – referred to.
+List of Acts
+Code of Criminal Procedure, 1973; Bharatiya Nagarik Suraksha 
+Sanhita, 2023.
+List of Keywords
+Investigation; Further investigation; Investigating agency; Section 
+173(8) of CrPC; Section 193(9) of BNSS; Final Report; Closure 
+
+[2026] 2 S.C.R. 
+483
+Pramod Kumar & Ors. v. State of Uttar Pradesh Ors.
+Report; Discretion of the Magistrate/Court; Superintendent of Police; 
+Direct fresh/de novo/reinvestigation; Transfer of the investigation; 
+Court of law; Judicial mind; Power to direct further investigation; 
+Leave of Court/Magistrate.
+Case Arising From
+CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 
+687 of 2026
+From the Judgment and Order dated 20.11.2023 of the High 
+Court of Judicature at Allahabad, Lucknow Bench in CRLMWP 
+No. 4000 of 2022
+Appearances for Parties
+Advs. for the Appellant(s):
+Divyesh Pratap Singh, Ms. Shivangi Singh, Amit Sangwan, Bharat 
+Mishra, Tiwari Prashantipriya Awadesh, Suraj Prakash Singh.
+Advs. for the Respondent(s):
+Apoorva Agrawal, A.A.G., Abhisehk Kumar Singh, Sarvesh Singh 
+Baghel.
+Judgment / Order of the Supreme Court
+Judgment
+Vijay Bishnoi, J.
+Leave Granted.
+2.	
+This appeal has been preferred by the Appellants challenging the 
+order dated 20.11.2023 (hereinafter referred to as “impugned 
+judgment”) passed in Criminal Misc. Writ Petition No. 4000 of 
+2022 by the High Court of Judicature at Allahabad, Lucknow Bench 
+(hereinafter referred to as “the High Court”). The writ petition filed 
+by the Appellants was dismissed by the High Court, wherein the 
+High Court refused to quash a communication dated 06.06.2019, 
+issued by Under Secretary to the State of U.P. to the Director, Crime 
+Branch, Crime Investigation Department, Lucknow, Uttar Pradesh 
+(Respondent No. 1 herein) and order dated 26.04.2021 passed by the 
+Superintendent of Police, Agra, Crime Branch, AAD, Uttar Pradesh 
+Lucknow (Respondent No. 4 herein). 
+
+484
+[2026] 2 S.C.R.
+Supreme Court Reports
+3.	
+The sole question arises for our consideration in the present appeal 
+is whether after submitting a final report under Section 173(2) of the 
+Code of Criminal Procedure, 1973 (for short “Cr.P.C.”) (also refer to 
+Section 193(3) of the Bharatiya Nagarik Suraksha Sanhita, 2023 (for 
+short “BNSS”), the police/investigating agency can conduct further 
+investigation under Section 173(8) of CrPC (also refer to Section 
+193(9) of BNSS) without obtaining the leave of the Magistrate/ Court 
+concerned? 
+FACTUAL MATRIX
+4.	
+A fascicule of facts pertinent for the disposal of this appeal are that, 
+on 19.11.2013, an FIR bearing Case Crime No. 70/2013 (hereinafter 
+referred to as “the FIR”) was registered against seven accused 
+persons including the Appellants herein by Saroj Kumar - Respondent 
+No. 6 (hereinafter referred to as “the original complainant”) for the 
+offence punishable under Sections 376D, 352, 504, 506 respectively 
+of the Indian Penal Code, 1860 (for short, “IPC”) at Mahila Police 
+Station, Sub-district Sadar, District Firozabad. 
+5.	
+During investigation, owing to multiple applications moved by the 
+original complainant alleging danger to his life and his family members’ 
+lives, the investigation was initially transferred from the Mahila Police 
+Station to the Crime Branch, Firozabad, and subsequently to the 
+Crime Branch, Mathura.
+6.	
+After completion of the investigation, the Investigating Officer 
+submitted the Final Report No.17/14 dated 30.05.2014 (hereinafter 
+referred to as “the Closure Report”), stating that no offence was 
+made out against the accused persons, including the Appellants 
+herein, in light of the contradictions between the statements of the 
+original complainant under Section 161 and 164 of the CrPC. The 
+relevant extract of the closure report is reproduced herein under: 
+“On the basis of information of the informant, the aforesaid 
+case was registered and investigation was undertaken. 
+There is contradiction between the statements U/s. 161 
+and 164 Cr.P.C. of the informant. There is enmity/litigation 
+pending between the informant and the accused persons. 
+The statements of the informant are not supported by 
+other evidences. Hence, the offence is not confirmed. In 
+absence of evidences, it is impossible to file challan against 
+
+[2026] 2 S.C.R. 
+485
+Pramod Kumar & Ors. v. State of Uttar Pradesh Ors.
+the accused persons before the Court. Hence, the case 
+is closed by FR. Kindly approve it”
+7.	
+After receiving the Closure Report, the Court of First Additional Civil 
+Judge, (J.D.)/Judicial Magistrate, Firozabad, issued several notices 
+to the original complainant. However, despite the service of notices, 
+neither he appeared before the Court, nor he filed any protest petition 
+against the Closure Report. The Court of First Additional Civil Judge, 
+(J.D.)/Judicial Magistrate, Firozabad​, after considering the Closure 
+Report, has accepted the same vide order dated 14.09.2015, noting 
+that the material on record did not support the prosecution’s case. 
+The relevant extract of the order is reproduced herein under: 
+“The case file was presented today. Notice has been sent 
+to the informant several times. Despite the notice has been 
+duly served to the informant several times, he had not 
+filed any objection/protest petition against the final report. 
+It is clear from the case diary and police documents and 
+evidences available in the file that the statements u/s 161 
+CrPC and statements u/s 164 CrPC of the informant and 
+the person with whom the victim had gone to the bridge 
+on a motorcycle to search for her brothers, it has been 
+confirmed from her statements/affidavit, that neither the 
+victim met that day nor she was taken to the bridge on 
+a motorcycle and none of the statements of witnesses 
+recorded by the IO have confirmed the incident. Even 
+perusal of the medical report does not confirm any kind 
+of external or internal injury and the statements made by 
+the victim are also not confirmed by the medical report. 
+Thus, according to the medical report, no clear inference 
+can be made that the victim was raped.
+It is also clear from the perusal of the file that the informant 
+had requested for the investigation of the said case, apart 
+by the local police, shall be conducted by the Crime Branch, 
+on which the case was investigated by the Crime Branch, 
+Mathura. The investigation was carried out by several 
+Investigating Officers of Crime Branch, Mathura and after 
+the investigation, the mobile phones of the accused were 
+matched through cell track by Mr. Narendra Singh, and the 
+location of any of the accused persons was not found at the 
+spot at the time of the incident, which has been recorded 
+
+486
+[2026] 2 S.C.R.
+Supreme Court Reports
+in the case diary by the IO and any of the witness had 
+not confirmed the statement of the victim, on the basis 
+of which the final report in the case No. 17/14 dated 30-
+5-14 has been submitted by the IO on 30.05.2014 which 
+prima facie appears to be legal. Therefore, in compliance 
+of Hon’ble High Court’s circular no. 31/2012 Admin, G. 
+II, Allahabad dated 11-12-2012 and Hon’ble High Court 
+Allahabad’s criminal miscellaneous petition no. 2520/2012 
+Pradeep Kumar Srivastava vs. State of UP and others u/s 
+482/378/507 order passed in S.P. No. dated 27-7-2012 
+and circular letter no. of Honorable High Court Allahabad 
+no. 10435 date 03.09.2014 and letter no. 420/2015 dated 
+17.01.2015, the final report no. 17/14 is accepted. It should 
+be attached in the file.”
+8.	
+Subsequently, after a span of about 3 years, the original complainant 
+filed a Criminal Revision Petition (later registered as Criminal 
+Miscellaneous Case No. 440 of 2017) before the Court of District 
+and Sessions Judge, Firozabad, for setting aside the aforesaid 
+order dated 14.09.2015, wherein the Closure Report was accepted. 
+The said case is presently pending before the Court of District and 
+Sessions Judge, Firozabad. 
+9.	
+Thereafter, one Dr. Ashu Kumar filed a complaint before the National 
+Human Rights Commission (hereinafter referred to as “NHRC”) 
+alleging several deficiencies in the investigation conducted by police 
+officials. The Assistant Registrar (Law) of the NHRC after considering 
+the said complaint, passed an order dated 06.03.2019, citing several 
+discrepancies in the investigation done by investigating agency and, 
+consequently, directed the Director General of Police, Uttar Pradesh 
+(hereinafter referred to as “the DGP”) to conduct a fact finding enquiry 
+into the conduct of officials of Police Station Ekka, Police Station 
+Narkhi, by an officer not below the rank of the Superintendent of 
+Police and submit a report regarding the same within a period of 6 
+weeks. The NHRC further directed the Chief Secretary to pay an 
+amount of Rs. 2 lakhs to the prosecutrix and Rs. 1 lakh each to 
+the original complainant as well as the father of the prosecutrix and 
+submit a compliance report within 6 weeks.
+10.	 In compliance thereof, the Under Secretary, Government of Uttar 
+Pradesh, forwarded a communication dated 06.06.2019 to the 
+
+[2026] 2 S.C.R. 
+487
+Pramod Kumar & Ors. v. State of Uttar Pradesh Ors.
+Director, Crime Branch, Crime Investigation Department, Uttar 
+Pradesh (hereinafter referred to as “CBCID”), informing that in 
+pursuance to the directions of the NHRC, it had been decided that 
+the matter should be investigated by CBCID, and further directing it 
+to complete the investigation within a period of 6 weeks and submit 
+a final progress report.
+11.	 In view of the aforesaid, the Under Secretary, Government of Uttar 
+Pradesh vide letter dated 12.02.2021, informed the NHRC that an 
+investigation pursuant to the conduct of the officers involved in 
+the present case is underway. Further, it was also informed that in 
+order to reveal the truth of the accusations involved in the case, it is 
+recommended that further investigation under Section 173(8) should 
+be conducted in FIR No. 70/2013. 
+12.	 With the approval of the Director General of Police, CBCID, an 
+Inspector of CBCID (hereinafter referred to as “IO”) was nominated 
+for carrying out further investigation of the present case under 
+Section 173(8) of the CrPC and pursuantly, the newly appointed 
+IO filed an application dated 22.04.2021 before the Court of First 
+Additional Civil Judge (J.D.)/Judicial Magistrate, Firozabad, seeking 
+permission to conduct further investigation in the instant case under 
+Section 173(8) of the CrPC.
+13.	 Thereafter, vide communication dated 26.04.2021, the Superintendent 
+of Police, Agra informed the Additional Superintendent of Police/
+Divisional Officer, Crime Branch, A.A.D., Agra, about the nomination 
+of the IO in the present case and also directed him to make available 
+the special report relating to the further investigation (in 10 days), 
+the draft of the plan (in 20 days) and the monthly progress report in 
+the prescribed formats to the headquarters on time and complete 
+the investigation as soon as possible and send the final progress 
+to the headquarters. 
+14.	 In furtherance of the said investigation, the IO sent a notice to the 
+accused persons, including the Appellants, for the collection of their 
+blood samples to conduct a DNA test and their blood samples were 
+collected. 
+15.	 Consequently, the Appellants filed Criminal Misc. Writ Petition No. 
+4000 of 2022 before the High Court challenging the communication 
+dated 06.06.2019 and order dated 26.04.2021. 
+
+488
+[2026] 2 S.C.R.
+Supreme Court Reports
+16.	 The High Court, vide order dated 23.06.2022, initially granted interim 
+protection from arrest to the Appellants. However, in the same order, 
+it was directed that the investigation shall continue and that the 
+Appellants shall cooperate with the investigation. 
+17.	 During the pendency of the Writ Petition, the Director, Forensic 
+Science Laboratory, State of Uttar Pradesh, submitted the DNA 
+Test Report dated 21.09.2022 stating that the accused persons, 
+including the Appellants, were not the biological father of the fetus 
+of the prosecutrix. 
+18.	 Later, the High Court vide the impugned judgment, observed that 
+the allegations of rape were made against several accused, and 
+the prosecutrix also filed a protest petition against the final report 
+submitted by the Investigating Officer. The DNA sample of the 
+aborted fetus (resulting from the pregnancy from the alleged rape) 
+was also preserved, and the Investigating Officer had written to the 
+Court praying that a DNA test be carried out to ascertain who was 
+involved, amongst the several accused, in the commission of rape. 
+The High Court, thus, held that it found no good grounds to entertain 
+the petition and dismissed the same.
+19.	 Aggrieved, the Appellants preferred the instant appeal before this 
+Court. During the pendency of the appeal, this Court vide order 
+dated 16.01.2024, issued notice and stayed the operation of the 
+communication dated 06.06.2019 and order dated 26.04.2021, and 
+also the investigation in the present case. The relevant portion of 
+order dated 16.01.2024 of this Court is reproduced herein under: 
+“Applications seeking exemption from filing C/C of the 
+impugned judgment and exemption from filing O.T. are 
+allowed. 
+Issue notice. 
+In the meantime, operation and effect of the communications 
+dated 06.6.2019 and 26.4.2021 directing investigation in 
+Case Crime no.70/13 U/s. 376D, 352, 504, 506 IPC 
+registered at PS Mahila Police Station, District Firozabad 
+shall remain stayed.”
+20.	 Pursuant to the order dated 16.01.2024, notices were issued and were 
+served to all Respondents except Respondent No. 7. Respondent 
+No. 6 did not appear before this Court even after notice was served 
+
+[2026] 2 S.C.R. 
+489
+Pramod Kumar & Ors. v. State of Uttar Pradesh Ors.
+to him on 30.01.2024. Further, notice could not be served upon 
+Respondent No. 7 and therefore, a report from the Trial Court was 
+called upon wherein it was mentioned that the notice was unserved 
+with remarks “no such person found”. During the pendency of the 
+appeal, the appellant submitted that an application would be filed to 
+delete the name of Respondent No. 7 from the array of parties. The 
+relevant portion of the order dated 30.09.2024 is reproduced below:
+“Service is complete on respondent nos. 1 to 6 but none 
+has entered appearance. 
+As per report of concerned Trial Court, notice could not be 
+served on respondent no.7 due to remarks “no such person 
+found”. However, ld. Counsel for the petitioner submits that 
+an application for deletion of the name of respondent no.7 
+from the array of parties will be filed. Be filed within one 
+week. If filed, process as per rules. However, if application 
+is not filed, list again on 06.01.2025.”
+21.	 Subsequently, vide order dated 28.08.2025, the name of Respondent 
+No. 7 was deleted from the appeal at the risk of appellants. The 
+extract of the said order is reproduced herein under:
+“Application for deleting the name of respondent no. 7 is 
+allowed at the risk of the petitioners.”
+CONTENTION OF THE PARTIES
+22.	 We have heard Mr. Divyesh Pratap Singh, learned counsel for the 
+Appellants and Mr. Apoorva Agarwal, learned Additional Advocate 
+General for the respondent State. 
+23.	 Mr. Divyesh Pratap Singh, submitted that the Superintendent of 
+Police, Agra, on recommendation of the State of Uttar Pradesh, was 
+directed for further investigation under Section 173(8) of CrPC without 
+obtaining prior permission from the competent Court, even though 
+a closure report had already been accepted. The Learned counsel 
+for the Appellants contended that once the final report is accepted, 
+only the criminal Court has the power to order further investigation 
+and such power cannot be exercised by the police or any executive 
+authority. Further, the so-called “further investigation” is in fact an 
+impermissible de-novo or fresh investigation, as it was ordered 
+after about seven years without any new or additional material and 
+
+490
+[2026] 2 S.C.R.
+Supreme Court Reports
+was initiated from the very first stage, including demands for DNA 
+samples after several years, which amounts to filling up lacunae in 
+the prosecution case. 
+24.	 The learned counsel for the Appellants further contended that the 
+final report dated 30.05.2014 was filed after a thorough investigation 
+and was accepted by the Court on 14.09.2015, after due notice to the 
+original informant, who did not file any objection or a protest petition. 
+It was also contended that the DNA report dated 21.09.2022 clearly 
+concluded that the accused persons, including the Appellants, are 
+not the biological fathers of the prosecutrix’s aborted foetus, which 
+debunks the very genesis of the case and directly contradicts the 
+allegations of the alleged incident. The learned counsel placed reliance 
+on the judgment passed by this Court in Vinay Tyagi versus Irshad 
+Ali alias Deepak and Ors. [reported in (2013) 5 SCC 762], wherein 
+it was held that it is the part of procedure of the investigating agency 
+to seek leave of the Court before conducting “further investigation”. 
+25.	 On the contrary, learned AAG argued that there is no bar under 
+Section 173(8) of CrPC against conducting further investigation. It 
+was argued that “further investigation” is merely continuation of the 
+earlier investigation, and there is nothing in the CrPC to suggest 
+that the Court is obliged to hear the accused while considering an 
+application for further investigation under Section 173(8) of CrPC. 
+The learned AAG also placed reliance upon the judgment of this 
+Court in Dharam Pal versus State of Haryana and Ors. [reported 
+in (2016) 4 SCC 160], wherein this Court held that the Police Officer 
+has unrestricted power under Section 173(8) of CrPC to conduct 
+further investigation. 
+26.	 We have heard both the parties and perused the material available 
+on record. 
+ANALYSIS 
+27.	 The power of the investigating agency to order further investigation 
+in any criminal case is derived from the aegis of Section 173(8) of 
+CrPC (also refer to Section 193(9) BNSS), which is reproduced as 
+follows:
+“(8) Nothing in this section shall be deemed to preclude 
+further investigation in respect of an offence after a 
+
+[2026] 2 S.C.R. 
+491
+Pramod Kumar & Ors. v. State of Uttar Pradesh Ors.
+report under sub-section (2) has been forwarded to the 
+Magistrate and, where upon such investigation, the officer 
+in charge of the police station obtains further evidence, 
+oral or documentary, he shall forward to the Magistrate a 
+further report or reports regarding such evidence in the 
+form prescribed; and the provisions of sub-sections (2) to 
+(6) shall, as far as may be, apply in relation to such report 
+or reports as they apply in relation to a report forwarded 
+under sub-section (2).”
+28.	 Thus, the powers of the investigating agency for further investigation 
+are not in dispute herein. However, what catches attention here 
+and which is also the crux of the controversy in the present case, 
+is which authority can pass an order directing investigating agency 
+to undertake further investigation under Section 173(8) of CrPC. 
+29.	 The issue regarding the procedure to be followed for directing further 
+investigation in a case has been dealt by this Court in the case 
+of Vinay Tyagi (supra), wherein this Court while dealing with the 
+contours of Section 173(8) of CrPC relating to further investigation, 
+propounded that the police ought to follow the procedure of seeking 
+permission from the Court to conduct “further investigation” and file 
+a supplementary chargesheet. The relevant paragraphs from the 
+judgment are reproduced as under: 
+“40. Having analysed the provisions of the Code and 
+the various judgments as aforeindicated, we would state 
+the following conclusions in regard to the powers of a 
+Magistrate in terms of Section 173(2) read with Section 
+173(8) and Section 156(3) of the Code:
+40.1. The Magistrate has no power to direct “reinvestigation” 
+or “fresh investigation” (de novo) in the case initiated on 
+the basis of a police report.
+40.2. A Magistrate has the power to direct “further 
+investigation” after filing of a police report in terms of 
+Section 173(6) of the Code.
+40.3. The view expressed in Sub-para 40.2 above is in 
+conformity with the principle of law stated in Bhagwant 
+Singh case by a three-Judge Bench and thus in conformity 
+with the doctrine of precedent.
+
+492
+[2026] 2 S.C.R.
+Supreme Court Reports
+40.4. Neither the scheme of the Code nor any specific 
+provision therein bars exercise of such jurisdiction by the 
+Magistrate. The language of Section 173(2) cannot be 
+construed so restrictively as to deprive the Magistrate of 
+such powers particularly in face of the provisions of Section 
+156(3) and the language of Section 173(8) itself. In fact, 
+such power would have to be read into the language of 
+Section 173(8).
+40.5. The Code is a procedural document, thus, it must 
+receive a construction which would advance the cause 
+of justice and legislative object sought to be achieved. 
+It does not stand to reason that the legislature provided 
+power of further investigation to the police even after filing 
+a report, but intended to curtail the power of the court to 
+the extent that even where the facts of the case and the 
+ends of justice demand, the court can still not direct the 
+investigating agency to conduct further investigation which 
+it could do on its own.
+40.6. It has been a procedure of propriety that the police 
+has to seek permission of the court to continue “further 
+investigation” and file supplementary charge-sheet. This 
+approach has been approved by this Court in a number 
+of judgments. This as such would support the view that 
+we are taking in the present case……” 
+(Emphasis Supplied)
+30.	 In this very judgment, this Court while noting that although there is 
+no explicit mandate under Section 173(8) of CrPC to seek leave of 
+the Court before conducting further investigation, nevertheless, over 
+the time, a practice has been developed to seek permission of the 
+Court. Therefore, the practice of seeking the leave of the Court will 
+have to be read into the provisions of Section 173(8) of CrPC, and 
+it is essentially a prerequisite for directing further investigation. This 
+Court therein held as follows:
+“49. Now, we may examine another significant aspect 
+which is how the provisions of Section 173(8) have been 
+understood and applied by the courts and investigating 
+agencies. It is true that though there is no specific 
+
+[2026] 2 S.C.R. 
+493
+Pramod Kumar & Ors. v. State of Uttar Pradesh Ors.
+requirement in the provisions of Section 173(8) of the Code 
+to conduct “further investigation” or file supplementary 
+report with the leave of the court, the investigating agencies 
+have not only understood but also adopted it as a legal 
+practice to seek permission of the courts to conduct “further 
+investigation” and file “supplementary report” with the leave 
+of the court. The courts, in some of the decisions, have 
+also taken a similar view. The requirement of seeking prior 
+leave of the court to conduct “further investigation” and/
+or to file a “supplementary report” will have to be read 
+into, and is a necessary implication of the provisions of 
+Section 173(8) of the Code. The doctrine of contemporanea 
+expositio will fully come to the aid of such interpretation 
+as the matters which are understood and implemented for 
+a long time, and such practice that is supported by law 
+should be accepted as part of the interpretative process.
+50. Such a view can be supported from two different 
+points of view: firstly, through the doctrine of precedent, 
+as aforenoticed, since quite often the courts have taken 
+such a view, and, secondly, the investigating agencies 
+which have also so understood and applied the principle. 
+The matters which are understood and implemented as 
+a legal practice and are not opposed to the basic rule of 
+law would be good practice and such interpretation would 
+be permissible with the aid of doctrine of contemporanea 
+expositio. Even otherwise, to seek such leave of the court 
+would meet the ends of justice and also provide adequate 
+safeguard against a suspect/accused”
+(Emphasis Supplied)
+31.	 The proposition of the law laid down in the case of Vinay Tyagi 
+(supra) has been further affirmed by the three Judge Bench of this 
+Court in the case of Vinubhai Haribhai Malviya and Others versus 
+State of Gujarat and Another [reported in (2019) 17 SCC 1]. 
+32.	 This Court has dealt with a similar situation in the case of 
+Peethambaran versus State Of Kerala & Another [reported 
+in (2024) 16 SCC 65], wherein the District Police Chief, i.e., 
+Superintendent of Police, ordered further investigation. This Court 
+therein, while quashing the order passed by the District Police 
+
+494
+[2026] 2 S.C.R.
+Supreme Court Reports
+Chief, held that the power to order further investigation rests either 
+with the Magistrate concerned or a higher court, but not with the 
+investigating agency. The relevant paragraphs from the judgment 
+are reproduced as follows:
+“19. The Chief Police Officer of a district is the 
+Superintendent of Police who is an officer of the Indian 
+Police Service. Needless to state, an order from the 
+District Police Chief is not the same as an order issued by 
+the Magistrate concerned. Referring to Vinay Tyagi, this 
+Court in Devendra Nath Singh v. State of Bihar noted that 
+there is no specific requirement to seek leave of the court 
+for further investigation or to file a supplementary report 
+but the investigating agencies, have not only understood 
+it to be so but have also adopted the same as a legal 
+requirement. The doctrine of contemporanea exposito aids 
+such an interpretation of matters which have been long 
+understood and implemented in a particular manner to be 
+accepted into the interpretive process. In other words, the 
+requirement of permission for further investigation or to 
+file a supplementary report is accepted within law and is 
+therefore required to be complied with.
+20. In the facts at hand, it is clear that such a permission 
+was never taken, granted or ordered. Consequently, FR-
+II is without basis. In FR-I it has been stated that in the 
+absence of any documents in respect of the financial 
+transactions, the instant case may be treated as a false 
+case. This, then would necessarily imply that after due 
+investigation conducted by a duly authorised person, the 
+conclusion is that the ingredients of the section mentioned 
+in the FIR have not been met and no case is made out.
+XXXX
+28. In terms of second question, the above discussion 
+makes clear that the District Police Chief, Kottayam could 
+not have ordered further investigation, as that power rests 
+either with the Magistrate concerned or with a higher court 
+and not with an investigating agency.”
+(Emphasis Supplied)
+
+[2026] 2 S.C.R. 
+495
+Pramod Kumar & Ors. v. State of Uttar Pradesh Ors.
+33.	 In light of the legal position as settled by this Court through the 
+above judgments, it is safe to say that the power to direct further 
+investigation in a case rests solely at the discretion of the Magistrate/
+Court concerned. In the event, the police/ investigating agency is of 
+the opinion that further investigation is necessary in any particular 
+case to cull out complete facts and truth in the case, it is binding upon 
+them to file an appropriate application before the Magistrate/Court, 
+without directing an order for further investigation by themselves. 
+Once such an application is filed by the investigating agency, the 
+Magistrate/Court would apply its judicial mind, in light of the facts and 
+circumstances of the particular case and the reasons demonstrated 
+by the investigating agency, in order to exercise its discretion for 
+exercise of its power to decide whether or not further investigation 
+is to be ordered under the purview of Section 173(8) of CrPC. 
+34.	 In the present case, the Under Secretary to the State of Uttar Pradesh, 
+vide its letter dated 06.06.2019, directed that the investigation in the 
+matter would be conducted by the CBCID. The Under Secretary 
+also recommended that further investigation under Section 173(8) of 
+CrPC be conducted through its letter addressed to the NHRC dated 
+12.02.2021. Consequently, the Investigating Officer of the CBCID 
+wrote a letter dated 22.04.2021 to the Judicial Magistrate, Firozabad, 
+requesting to grant permission to conduct further investigation under 
+Section 173(8) of CrPC and provide a copy of the case diary. However, 
+the Court did not pass any order to the extent of requisitioning the 
+Investigating Officer to conduct further investigation.
+35.	 Further, vide letter dated 26.04.2021, the Superintendent of Police 
+informed the Additional Superintendent of Police/Divisional Officer, 
+Crime Branch, A.A.D., Agra, about the nomination of the IO in 
+the present case and directed him to complete the investigation 
+expeditiously, submit monthly progress reports, and forward the final 
+report upon completion of the investigation.
+36.	 Thus, it is amply clear that the Superintendent of Police acted in 
+complete defiance of the procedure laid down under the law while 
+passing orders directing further investigation without seeking leave 
+of the Court. It is an unbecoming conduct from the officer of such 
+a rank to exercise unfettered powers, in excess of its jurisdiction, 
+thereby undermining the authority vested in the Court of law. 
+37.	 The learned AAG relied upon the judgment of this Court in Dharam 
+Pal (supra) to suggest that the investigating agency has unrestricted 
+
+496
+[2026] 2 S.C.R.
+Supreme Court Reports
+powers to conduct further investigation and is only required to inform 
+the Court about the same. However, we find the reliance placed 
+by learned AAG to be misplaced as the facts of the said case are 
+completely in contrast with the present one. In Dharam Pal (supra), 
+this Court was dealing with a situation wherein the complainant sought 
+transfer of the investigation to the CBI, alleging several lapses in the 
+investigation. The High Court declined such a transfer, noting that 
+the trial had already commenced and several witnesses had been 
+examined. This Court, therein, while setting aside the judgment of 
+the High Court, transferred the investigation (de novo) to the CBI 
+and held that while the constitutional courts can direct fresh/de 
+novo/reinvestigation. Additionally, in Dharam Pal (supra), this Court, 
+while referring to Vinay Tyagi (supra), has held that the Magistrate 
+is empowered to direct “further investigation” as per its discretion 
+based upon the facts and circumstances of the case. 
+38.	 In view of the above discussion, the impugned judgment dated 
+20.11.2023 passed by the High Court of Judicature at Allahabad, 
+Lucknow Bench in Criminal Misc. Writ Petition No. 4000 of 2022 is 
+set aside. In addition to that, the communication dated 06.06.2019 
+and order dated 26.04.2021 passed by the Respondent No. 1 and 
+Respondent No. 4, respectively, directing further investigation, are 
+also quashed and set aside. 
+39.	 We further make it clear that the opinions expressed herein should 
+cause no prejudice to the criminal revision preferred by the original 
+complainant or any other proceeding related to FIR No. 70/2013. 
+The Court of District and Sessions Judge, Firozabad shall decide 
+the Criminal Miscellaneous Case No. 440 of 2017 and any other 
+proceeding, if any, on its own merits.
+40.	 Accordingly, the appeal is allowed. Pending application(s), if any, 
+shall stand disposed of. 
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Ankit Gyan

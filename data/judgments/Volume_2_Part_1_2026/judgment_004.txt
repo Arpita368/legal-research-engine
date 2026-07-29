@@ -1,0 +1,1015 @@
+[2026] 2 S.C.R. 62 : 2026 INSC 24
+Abhay Kumar Patel & Ors.
+v.
+State of Bihar & Ors.
+(Civil Appeal No. 54 of 2026)
+06 January 2026
+[J.K. Maheshwari* and Vijay Bishnoi, JJ.]
+Issue for Consideration
+Whether the Bihar Engineering Service Class-II Recruitment 
+(Amendment) Rules, 2022 can be made applicable to the 2019 
+Advertisements after the written examination has been conducted 
+and the provisional merit list has been published.
+Headnotes†
+Service Law – Appointment/Recruitment/Selection – Bihar 
+Engineering Services Class - II Recruitment Rules, 2019 – The 
+dispute in the present case is with respect to the retrospective 
+application of an amendment to the Bihar Engineering 
+Services Class – II Recruitment Rules, 2019, specifically the 
+introduction of r.8(5), whereby weightage for prior contractual 
+work experience was introduced after the selection process 
+comprising the written examination had initiated and the 
+provisional merit list had already been published – The 
+appellants had preferred the writ petition challenging the 
+retrospective application of the Bihar Engineering Service 
+Class-II Recruitment (Amendment) Rules, 2022 – The High 
+Court dismissed the writ petition – Correctness:
+Held: In the present case, the “game” had not only commenced 
+but was at its fag end – The written examinations were held in 
+March 2022 – The results were declared in June/July 2022 – The 
+candidates were called for document verification – At this stage, 
+the selection process had proceeded significantly, and would 
+have concluded with the filling up of vacancies – The issuance of 
+the 2022 Amendment Rules, introducing r.8(5) with retrospective 
+effect from 06.03.2019, attempts to rewrite the rules of the game 
+which has already begun – By reducing the 25 weightage of the 
+written examination to 75 marks and introducing 25 marks for 
+* Author
+
+[2026] 2 S.C.R. 
+63
+Abhay Kumar Patel & Ors. v. State of Bihar & Ors.
+contractual experience, the State has fundamentally altered the 
+basis of selection and changed the ‘eligibility criteria for being 
+placed in the merit list’ which is not permissible – While the State 
+undoubtedly has the power to amend rules under the proviso to 
+Art.309 of the Constitution of India, this power is not unbridled – 
+The power of retrospective legislation cannot be exercised to take 
+away vested rights or to arbitrarily disrupt a selection process that 
+has already resulted in the identification of successful candidates 
+by publication of a provisional merit list – The distinction drawn 
+by the respondents regarding the “provisional” nature of the merit 
+list is untenable – The list was provisional subject to verification of 
+documents, not subject to a fundamental change in the criteria for 
+placement in the merit list itself – The retrospective application of 
+r.8(5) creates an anomaly where candidates who competed under 
+one set of rules are now being judged by another, ex post facto – 
+This directly impacts the appellants, who may be pushed down 
+the merit list or ousted entirely by candidates who score lower in 
+the written exam but gain the newly introduced additional marks 
+for contractual service – The finding of the High Court that the 
+amendment was merely a policy decision and could be applied 
+retrospectively to the selection process in vogue is completely 
+erroneous – The retrospective application of r.8(5) of the 2019 
+Rules, as introduced by the 2022 Amendment Rules, cannot be 
+sustained insofar as the recruitment process initiated vide the 2019 
+Advertisements following the 2019 Rules prevalent at the said point 
+of time – Impugned judgment and order of the High Court is set 
+aside. [Paras 34-38, 41, 42, 44]
+Case Law Cited
+Tej Prakash and Others v. Rajasthan High Court and Others [2024] 
+12 SCR 28 : (2025) 2 SCC 1 – followed.
+K. Manjusree v. State of Andhra Pradesh & Anr. [2008] 2 SCR 
+1025 : (2008) 3 SCC 512; Partha Das v. State of Tripura, 2025 
+SCC OnLine SC 1844; Shankarsan Dash v. Union of India [1991] 
+2 SCR 567 : (1991) 3 SCC 47 – referred to.
+List of Acts
+Constitution of India; Bihar Engineering Services Class-II 
+Recruitment Rules, 2019; Bihar Engineering Service Class-II 
+Recruitment (Amendment) Rules, 2022.
+
+64
+[2026] 2 S.C.R.
+Supreme Court Reports
+List of Keywords
+Retrospective effect; Rules of the game; Power to amend rules; 
+Retrospective legislation; Ex post facto; Written examination; 
+Provisional merit list; Prior contractual work experience; Selection 
+process; Rewriting the rules of the game; Eligibility criteria; Alteration 
+in the basis of selection; Additional marks for contractual service.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 54 of 2026
+From the Judgment and Order dated 05.07.2023 of the High Court 
+of Judicature at Patna in CWJC Nos. 18302 of 2022
+With
+Special Leave Petition (Civil) No. 8231 of 2025
+Appearances for Parties
+Advs. for the Appellant(s):
+Vijay Kumar, Ms. Kaveeta Wadia, Sr. Advs., Manoj Kumar 
+Srivastava, Vivek Jain, Manoj Kashyap, Shashank Tripathi, 
+Ms. Chhavi Jain.
+Advs. for the Respondent(s):
+Anshul Narayan, Abhindra Maheshwari, Prem Prakash, Navin 
+Prakash, Smarhar Singh, Ms. Shweta Kumari, Pankaj Prakash, 
+Dhananjaya Kumar Tyagi, Mohd Asim, Manoj Kumar, Jai Krishna 
+Singh.
+Judgment / Order of the Supreme Court
+Judgment
+J.K. Maheshwari, J.
+Civil Appeal No. 	
+	
+	
+of 2026
+1.	
+Leave granted.
+2.	
+Assailing the final judgment and order dated 05.07.2023 passed in 
+CWJC No. 18302 of 2022 by the High Court of Judicature at Patna 
+(hereinafter referred to as “High Court”), dismissing the writ petition 
+filed by the appellants, the present appeal has been preferred.
+
+[2026] 2 S.C.R. 
+65
+Abhay Kumar Patel & Ors. v. State of Bihar & Ors.
+3.	
+The dispute in the present case is with respect to the retrospective 
+application of an amendment to the Bihar Engineering Services 
+Class – II Recruitment Rules, 2019 (hereinafter referred to as “2019 
+Rules”), specifically the introduction of Rule 8(5), whereby weightage 
+for prior contractual work experience was introduced after the selection 
+process comprising the written examination had initiated and the 
+provisional merit list had already been published.
+4.	
+The appellants had preferred the Writ Petition challenging the 
+retrospective application of the Bihar Engineering Service Class-II 
+Recruitment (Amendment) Rules, 2022 vide Notification No. Sec. 
+02/Estt.-Appointment-01-01/2019-5565(S) (hereinafter referred to as 
+“2022 Amendment Rules”) dated 09.11.2022, issued by the Road 
+Construction Department, Government of Bihar, which amended the 
+2019 Rules with retrospective date i.e., 06.03.2019. 
+5.	
+The Division Bench of the High Court dismissed the writ petition, 
+observing that the issuance of the 2022 Amendment Rules was 
+a policy decision of the State to grant weightage to contractual 
+employees and that the appellants had no indefeasible right to 
+appointment merely because of inclusion of their names in the merit 
+list, and as such, retrospective application of the said amendment 
+would not be illegal. Hence, the present appeal.
+FACTS IN BRIEF
+6.	
+Prequel to the present litigation, the Road Construction Department, 
+Government of Bihar, notified the 2019 Rules vide Notification No. 
+02/Estt.-Appointment-01-01/2018-3042(S) dated 06.03.2019. These 
+rules were promulgated by the State Government in exercise of 
+powers conferred under Article 309 of the Constitution of India, to 
+govern the recruitment to the post of Assistant Engineers in various 
+departments. Rules 8, 9, 12 and 13 of the said Rules are relevant 
+for the said purpose, and are reproduced as under:
+“8. Candidate – 
+(1) shall be of such age as may be notified by the Governor, 
+(2) shall be of good conduct, 
+(3) shall be of good health and not of unsound mind, 
+
+66
+[2026] 2 S.C.R.
+Supreme Court Reports
+(4) (i) Shall be degree holder of Civil/Mechanical/Electrical 
+Engineering from any Indian University/Institute (AICTE 
+Approved), OR, 
+(ii) Only regular technical courses Degree obtained 
+from any Deemed Universities duly recognized by 
+University Grants Commission shall be valid and in 
+technical courses degree conducted through distance 
+education shall not be entertained 
+(iii) Must be an Associate Member of the Institution 
+of Engineers or must have passed ‘A’ and ‘AA’ from 
+any of the branches of the Institution of Engineers 
+or must have passed A’ and ‘AA’ from an Institution 
+recognized by the Institution of Engineers India 
+Note -
+(1) A person who is in Government service in a temporary 
+or officiating capacity or on probation shall be eligible to 
+apply for direct recruitment under the provisions of this rule 
+(2) Save the following persons, no person confirmed in 
+Government service, shall be eligible 
+(a) Members of the Lower Engineering Services and 
+(b) Members of other services possessing the 
+qualifications specified in clause (4) shall be 
+eligible for appointment by promotion or transfer in 
+accordance with the procedures laid down in Part III 
+of these Rules.
+xxx xxx xxx xxx xxx
+9. (a) Every year, as appropriate, the Commission will 
+declare vacancies to be filled by direct recruitment in 
+this service on the basis of results of the competitive 
+examination and will invite applications only from the 
+candidates for appointment under Rule 5 and 6. The 
+examination will be conducted according to the syllabus 
+specified in the schedule appended to these rules, which 
+will be changed from time to time by the Commission with 
+the prior approval of the State Government.
+
+[2026] 2 S.C.R. 
+67
+Abhay Kumar Patel & Ors. v. State of Bihar & Ors.
+Provided that the Commission shall limit the number of 
+candidates qualified for admission to the examinations of 
+a particular year may fix and if the number of candidates 
+exceeds the fixed number, the Commission Will be able 
+to make preliminary selection of the candidates and on 
+the basis of preliminary examination (written) will be able 
+to admit the candidates in the examination……
+xxx xxx xxx xxx xxx
+12. Provided that in determining the suitability of a 
+candidate for appointment, the total marks obtained in the 
+written examination and not the marks obtained in any 
+particular subject or subjects will be considered. 
+Provided also that the Commission may determine 
+relaxation in minimum qualifications for Scheduled Caste 
+and Scheduled Tribe candidates.
+xxx xxx xxx xxx xxx
+13. On the basis of the marks obtained in the written 
+examination, the names of the candidates along with their 
+applications will be numbered by the Commission in the 
+order of merit and merit. This list will be presented to them 
+by the date as directed by the Governor.”
+7.	
+The Bihar Public Service Commission (hereinafter referred to as 
+“BPSC”) issued four advertisements inviting applications for the post 
+of Assistant Engineer (Civil, Mechanical, and Electrical) in various 
+departments as indicated in the table below (hereinafter collectively 
+referred to as “2019 Advertisements”) –
+Advertisement 
+No.
+Date of 
+Advertisement
+Nature of Post
+No. of 
+Posts
+Department 
+Concerned
+01/2019
+08.03.2019
+Assistant 
+Engineer (Civil)
+31
+83
+PWD
+Minor Water 
+Resources
+02/2019
+08.03.2019
+Assistant 
+Engineer 
+(Electrical)
+33
+PWD
+
+68
+[2026] 2 S.C.R.
+Supreme Court Reports
+03/2019
+13.09.2019
+Assistant 
+Engineer 
+(Civil)
+18
+Minor Water 
+Resource
+04/2019
+13.09.2019
+Assistant 
+Engineer 
+(Mechanical)
+10
+Minor Water 
+Resource
+8.	
+As per Rule 13 of 2019 Rules, a written examination was to be 
+conducted for the selection of the eligible candidates for appointment 
+against the posts so notified. The final merit list had to be drawn on 
+basis of scores obtained in the written examination.
+9.	
+The selection process commenced with the issuance of the 2019 
+Advertisements, and written examination was conducted on 
+12.03.2022. Based on the performance of the recruitment candidates 
+in the written examination, the BPSC published provisional merit lists 
+of successful candidates and such provisional selected candidates 
+including the appellants herein were called for document verification 
+on various dates as tabulated below:
+Date of Publication of 
+Provisional Merit List
+Corresponding Date fixed 
+for Document Verification
+Corresponding 
+Advertisements
+15.06.2022
+30.06.2022
+01.07.2022
+02.07.2022
+01/2019
+22.06.2022
+06.07.2022
+03/2019
+22.06.2022
+06.07.2022
+04/2019
+13.07.2022
+20.07.2022
+01/2019
+19.07.2022
+29.07.2022
+02/2019
+23.07.2022
+27.07.2022
+01/2019
+10.	 In the meanwhile, and after the written examination pursuant to the 2019 
+Advertisements was conducted, CWJC 9797 of 2022 was filed by some 
+people who were working on contractual basis in the State of Bihar, on 
+07.07.2022 challenging the 2019 Rules, contending inter alia that in 
+the said rules, there is no provision for weightage of work experience 
+or age relaxation on contract basis in terms of the Memorandum 
+No. 3/M0-13/2018 S No. 12534/Patna-15 dated 17.09.2018 of the 
+
+[2026] 2 S.C.R. 
+69
+Abhay Kumar Patel & Ors. v. State of Bihar & Ors.
+Department of General Administration of the Government of Bihar and 
+the Memo No. 1003 dated 22.01.2021 of the General Administration 
+Department of the Government of Bihar (hereinafter referred to as the 
+“2018 Memo” and “2021 Memo” respectively). From record it is not 
+clear that any directions were passed in the said Writ Petition, in fact, 
+it was disposed of as infructuous on 23.03.2023 granting liberty to file 
+a separate writ petition. It is not clear from the record as to whether 
+any subsequent writ petition was filed or not.
+11.	 After publication of the provisional merit lists and conclusion of 
+document verification pursuant to the 2019 Advertisements, the State 
+Government issued the 2022 Amendment Rules vide notification 
+dated 09.11.2022 in exercise of powers under the proviso to Article 
+309 of the Constitution of India. This notification amended Rule 8 of 
+the 2019 Rules, inserting a new sub-rule, Rule 8(5), which introduced 
+a provision for grant of additional marks up to a maximum of 25 per 
+100 marks to candidates having work experience on a contractual 
+basis in government offices and institutions under the State of Bihar 
+on the post of Assistant Engineer (Civil/Mechanical/Electrical). The 
+maximum weightage of marks obtained in the written examination 
+conducted by the BPSC was fixed at 75 marks per 100 marks. The 
+said amendment also contained a note that “to calculate the weightage 
+of the marks in the examination the percentage marks obtained in 
+the examination shall be multiplied by 0.75”. The 2022 Amendment 
+Rules were made applicable retrospectively w.e.f. 06.03.2019 i.e., the 
+date the original 2019 Rules came into existence. Additionally, Rule 
+8(5)(iii) provided for relaxation in the upper age limit for Assistant 
+Engineers (Civil/Mechanical/Electric) employed on contractual basis 
+for a period equivalent to the period worked on contract. 
+12.	 The said Rule 8(5) which was introduced by means of the 2022 
+Amendment Rules is relevant, and is therefore reproduced as under:
+“8(5) Basis of Selection-
+(i) The Selection for appointment to the posts of Assistant 
+Engineers (Civil/Mechanical/Electrical) in the basic category 
+of Assistant Engineers (Civil/Mechanical/electrical) cadre 
+shall be made by the Commission after calculating the 
+marks obtained in the competitive examination conducted 
+by the Commission and the preference of work done on 
+the contract basis. The work experience of all government/
+
+70
+[2026] 2 S.C.R.
+Supreme Court Reports
+non-private (central government, panchayat, municipal 
+bodies etc.) offices/institutions under the State of Bihar 
+shall be valid for the preference of work done on contract 
+basis. Candidates having experience of working on the 
+post of Assistant Engineer (Civil/Mechanical/Electrical) on 
+contract basis, who fulfil the essential qualifications for 
+the recruitment in this cadre, shall be given preference 
+in selection by giving additional marks according to sub-
+rule (ii) of this Rule.
+(ii) The merit list of the candidates shall be prepared on 
+the following basis:
+Full Marks
+(a) Weightage of mark obtained in the written 
+examination conducted by the commission
+75 Marks
+(b) Maximum weightage for the working 
+experience on contract basis - (The weightage 
+of per working year shall be 5 marks subject to 
+the maximum limit of 25 marks. For any fraction 
+of year of working experience, the proportionate 
+weightage, the marks shall be calculated by 
+multiplying the number of working days by 5 and 
+dividing it by 365)
+25 Marks
+Total -
+100 Marks
+Note – To calculate the weightage of the marks in the 
+examination, the percentage of marks obtained in the 
+examination shall be multiplied by 0.75.
+(iii) Assistant Engineers (Civil/Mechanical/Electrical) 
+already employed on contract basis will be given relaxation 
+in the upper age limit for a period equivalent to the period 
+worked on contract. For above relaxation in upper age 
+limit, work experience of all government/non-private 
+(central government, panchayat, municipal bodies etc) 
+officers/institutions under the State of Bihar shall be valid. 
+The period of working on contract basis shall be decided 
+on the basis of salary payment certificate issued by the 
+controlling officer concerned. For this, the period up to the 
+cut-off date mentioned in the advertisement published by 
+the commission may be counted for work experience.”
+
+[2026] 2 S.C.R. 
+71
+Abhay Kumar Patel & Ors. v. State of Bihar & Ors.
+13.	 The appellants, who had already secured their place in the provisional 
+merit list pursuant to the 2019 Advertisements, prepared in accordance 
+with the 2019 Rules, filed CWJC No. 18302 of 2022 before the High 
+Court praying as follows – 
+i.	
+To issue an appropriate writ(s)/order(s)/direction(s) 
+in the nature of certiorari for quashing part of 
+the notification bearing memo no. 5565(S) dated 
+09.11.2022 issued under the signature of Additional 
+Chief Secretary, Road Construction Department, 
+Government of Bihar to the extent it directs 
+implementation of the amendment to Rule 8(5) of the 
+Bihar Engineering Service Class-II Recruitment Rules, 
+2019 introduced vide this Notification retrospectively 
+from 06.03.2019 for grant of weightage and age 
+relaxation from this date.
+ii.	
+To issue an appropriate writ(s)/order(s)/direction(s) in 
+the nature of mandamus commanding the respondents 
+to not implement the notification bearing memo no. 
+5565(S) dated 09.11.2022 with retrospective effect 
+from 06.03.2019.
+iii.	
+To issue an appropriate writ(s)/order(s)/direction(s) 
+in the nature of mandamus commanding the 
+respondents not to interfere with the merit lists dated 
+15.06.2022 (against advertisement no. 01/2019), 
+22 06 2022 (against advertisement no. 03/2019 & 
+04/2019), 19.07.2022 (against advertisement no. 
+02/2019) published by the Bihar Public Service 
+Commission on the basis of the Bihar Engineering 
+Service Class-Il Recruitment (Amended) Rules, 2022, 
+introduced through the notification bearing no. memo 
+no. 5565(S) dated 09.11.2022.
+iv.	
+To issue an appropriate writ(s)/order(s)/direction(s) 
+in the nature of mandamus commanding the 
+respondents to proceed with the selection process 
+against the merit list published on 15.06.2022, 
+22.06.2022 & 19.07.2022 by Bihar Public Service 
+Commission against the post of Assistant Engineer 
+under different departments of Government of Bihar.
+
+72
+[2026] 2 S.C.R.
+Supreme Court Reports
+v.	
+To declare and hold that the notification bearing 
+memo no. 5565(S) dated 09.11.2022 cannot have 
+retrospective operation with effect from 06.03.2019, 
+once the merit list has been published.
+vi.	
+To any other relief(s) that the petitioners are entitled 
+to in the facts and circumstances of the case.
+14.	 The challenge presented by the appellants before the High Court was 
+that after initiation of the recruitment process, the 2022 Amendment 
+Rules could not have been made applicable to the ongoing recruitment 
+process. The 2019 Rules, in pursuance of which the recruitment 
+process was initiated, did not contain any provision for grant of 
+weightage or age relaxation. As such, in the present appeal, we are 
+not concerned with the validity of Rule 8(5) or the 2022 Amendment 
+Rules and the scope of our examination is limited to its application 
+to the ongoing recruitment process which had already commenced 
+under the 2019 Advertisements. 
+FINDINGS OF THE HIGH COURT
+15.	 The High Court, while dismissing the writ petition, found that the 
+decision to grant weightage and age relaxation to contractual 
+employees was a decision taken in line with a pre-existing 2018 
+policy for grant of such benefits. It was held that the appellants had 
+merely participated in recruitment process and no rights had accrued 
+in their favour at that stage. The Court observed that the power to 
+legislate under the proviso to Article 309 of the Constitution of India 
+includes the power to legislate retrospectively. Since the minimum 
+requisite qualification has not been changed and the appellants have 
+not been disqualified, no prejudice has been caused by retrospective 
+application of Rule 8(5) inserted by the 2022 Amendment Rules. 
+ARGUMENTS ADVANCED BY THE APPELLANTS
+16.	 Learned senior advocate Mr. Vijay Kumar, appearing for the 
+appellants, vehemently argued that the selection process must be 
+governed by the rules and stipulations as existing on the date of the 
+advertisement. It is submitted that the 2019 Rules, as they stood 
+when the 2019 Advertisements were issued, prescribed selection 
+solely on the basis of the written examination, without any weightage 
+or age relaxation for contractual experience.
+
+[2026] 2 S.C.R. 
+73
+Abhay Kumar Patel & Ors. v. State of Bihar & Ors.
+17.	 It is argued that the appellants participated in the process, qualified 
+the written examination, appeared for document verification, and have 
+thereby acquired a vested right to be considered for appointment 
+as per the original criteria. The insertion of Rule 8(5) vide the 
+2022 Amendment Rules dated 09.11.2022 and applying the same 
+retrospectively, essentially alters the merit list by introducing new 
+marks requirement for a specific class of candidates i.e., candidates 
+who have previously worked as contractual employees with the 
+government, after the process had reached its fag end and document 
+verification was already done.
+18.	 Heavy reliance was placed on the principle of law that the rules of 
+the game cannot be changed once the game has begun. Reference 
+was made to the decisions of this Court in K. Manjusree v. State of 
+Andhra Pradesh & Anr.1 and Tej Prakash and Others v. Rajasthan 
+High Court and Others2 arguing that the introduction of new eligibility 
+criteria for selection once the process has started is impermissible.
+19.	 It was further urged that the retrospective application is arbitrary 
+and violative of Articles 14 and 16 of the Constitution of India. By 
+applying the amendment retrospectively from 06.03.2019, the State 
+has sought to reopen a concluded selection process to the detriment 
+of meritorious candidates who had already been selected after passing 
+the written examination and in whose favour rights had accrued.
+ARGUMENTS ADVANCED BY RESPONDENT
+20.	 Per contra, learned Additional Standing Counsel for the State, Mr. 
+Anshul Narayan submitted that the amendment was a policy decision 
+taken to give due recognition to the services of contractual employees 
+who had served in the State for long periods. It was argued that 
+the amendment was in consonance with the General Administration 
+2021 Memo, which envisaged weightage for contractual employees 
+in the process of appointment for regular employment.
+21.	 It was contended that the merit list published during June-July 
+2022 was merely provisional and did not confer an indefeasible 
+right to appointment. The government possesses the competence 
+1	
+(2008) 3 SCC 512.
+2	
+(2025) 2 SCC 1.
+
+74
+[2026] 2 S.C.R.
+Supreme Court Reports
+to frame and amend rules under Article 309 of the Constitution of 
+India and the proviso thereto, and such power includes the power to 
+amend rules retrospectively to rectify anomalies or implement policy 
+decisions. It was further argued that no prejudice has been caused 
+to the appellants as the recruitment process had not attained finality 
+since appointment letters had not yet been issued. The amendment 
+merely added a weightage component to ensure equity for contractual 
+employees who had served the Government and did not disqualify 
+the appellants.
+ANALYSIS OF RULES AND REASONINGS
+22.	 After hearing learned counsels at length and on perusal of the 
+material on record, in our view, the short question that falls for our 
+consideration is whether the 2022 Amendment Rules can be made 
+applicable to the 2019 Advertisements after the written examination 
+has been conducted and the provisional merit list has been published?’
+23.	 It is not in dispute that the instant recruitment processes in furtherance 
+to the 2019 Advertisements were initiated, under the 2019 Rules 
+governing the selection on the date of issuance of the advertisements. 
+24.	 Bare perusal of Rules 8, 9, 12 and 13 of the 2019 Rules, the scheme 
+of the selection process becomes clear to all. Rule 8 is placed in 
+Part-II of the 2019 Rules titled ‘DIRECT RECRUITMENT’. It prescribes 
+the eligibility of the candidates who can be considered for direct 
+recruitment. It prescribes that the candidate should be of such age 
+as may be notified by the Governor and shall be of good conduct, 
+good health and not of unsound mind. It further prescribes that such 
+a candidate must be a Civil/Mechanical/Electrical Engineering degree 
+holder from any AICTE approved Indian university / institute and 
+provides that only regular courses of such universities recognized by 
+University Grant Commission and not distance education courses are 
+valid for this purpose. The candidate must be an associate member 
+of the Institution of Engineers and also must have passed ‘A’ and 
+‘AA’ from any branch of Institution of Engineers or an institution 
+recognized by the Institution of Engineers. The note appended with 
+the said rule clarifies that persons who are in government services in 
+a temporary, officiating or probationary capacity, shall also be eligible 
+for direct recruitment under 2019 Rules. The 2019 Advertisements 
+reproduced the eligibility criteria as laid down in Rule 8 verbatim 
+with no change. 
+
+[2026] 2 S.C.R. 
+75
+Abhay Kumar Patel & Ors. v. State of Bihar & Ors.
+25.	 Rules 9, 12 and 13 are placed in Part-III of the 2019 Rules titled 
+‘PROCEDURE FOR APPOINTMENT’. Rule 9 envisages that BPSC 
+shall declare vacancies to be filled by direct recruitment on the 
+basis of a competitive examination and will invite application from 
+candidates strictly as per Rules 5 and 6 that provide for method of 
+recruitment. It further mandates that the said examination will be 
+conducted as per syllabus prescribed by BPSC with prior approval of 
+State Government and if BPSC considers it necessary, a preliminary 
+examination can also be conducted as a screening test.
+26.	 Rule 12 prescribes that suitability of a candidate for purpose of the 
+appointment has to be determined on basis of total marks obtained in 
+the written examination and not the marks obtained in any particular 
+subject or subjects. It also provides that BPSC may specify relaxation 
+in minimum qualifications for Scheduled Caste and Scheduled 
+Tribe candidates. Subsequently, as per Rule 13, the names of the 
+candidates along with their applications will be numbered by BPSC 
+on the basis of the marks obtained in the written examination in order 
+of merit and such list will be presented as directed by the Governor.
+27.	 Upon holistic analysis of the rules above, it is clear that the suitability 
+of the candidates for the purpose of appointment as per the 2019 
+Rules has to be determined only as per marks obtained in the written 
+examination. This means that essentially the selection process 
+involves following three stages – (i) Application by the candidate; (ii) 
+Written Examination (including preliminary examination, as the case 
+may be); (iii) Preparation of the Merit List on basis of total marks 
+obtained in written examination. In this background, the adverse 
+effect of retrospective applicability of the amendment brought into 
+2019 Rules as per the 2022 Amendment Rules has to be adjudicated.
+28.	 The 2022 Amendment Rules provide for age relaxation and preference 
+in selection to persons working on contractual basis on the post of 
+Assistant Engineer (Civil / Mechanical / Eletrical) in all government 
+and non-private (central government, panchayat, municipal bodies) 
+offices / institutions under State of Bihar. In the ‘Short title, extent 
+and commencement’ of the 2022 Amendment Rules, it is stated 
+that ‘it shall come into force from the date of coming into force of 
+the Bihar Engineering Services Class-II Recruitment Rules, 2019, 
+i.e. 06.03.2019’. As such, the 2022 Amendment Rules were made 
+applicable from the date of inception of the 2019 Rules. It is relevant 
+
+76
+[2026] 2 S.C.R.
+Supreme Court Reports
+to observe that Rule 8(5) which is the subject matter of dispute, is 
+titled ‘Basis of selection’ and it has been included in Section 8 – 
+which lays down the eligibility criteria of candidates.
+29.	 Upon a perusal of the unamended 2019 Rules and the 2019 
+Advertisements, it is luculent that the selection was to be based 
+solely on the marks obtained in the written examination. There was 
+no mention of weightage or age relaxation for contractual experience. 
+The appellants were informed about and competed in the recruitment 
+process on these terms, their selection as per the applicable 2019 
+Rules was going to be in terms of the marks obtained in the written 
+examination alone which they wrote and found place in the provisional 
+merit list. While things stood thus, the 2022 Amendment Rules were 
+issued, introducing additional marks and age relaxation.
+30.	 The law regarding the sanctity of the recruitment process and 
+changes in the eligibility criteria and procedure after the initiation 
+of the recruitment process, is well-settled. In K. Manjusree (Supra) 
+this Court had held:
+“27. The minimum marks were prescribed ... after the 
+selection process was completed ... This is clearly 
+impermissible. The rules of the game, meaning thereby, 
+that the criteria for selection cannot be altered by the 
+authorities concerned in the middle or after the process 
+of selection has commenced.”
+31.	 The Constitution Bench of this Court in Tej Prakash Pathak 
+(Supra) gave a nod of approval to the principles as laid down in K. 
+Manjushree (Supra) and held that even if the relevant rules permit 
+the competent authority to set benchmarks at different stages of a 
+recruitment process, the same must be done at any time before the 
+relevant stage is reached.
+“52. Thus, in our view, the appointing authority/recruiting 
+authority/competent authority, in absence of rules to 
+the contrary, can devise a procedure for selection of a 
+candidate suitable to the post and while doing so it may 
+also set benchmarks for different stages of the recruitment 
+process including written examination and interview. 
+However, if any such benchmark is set, the same should 
+be stipulated before the commencement of the recruitment 
+
+[2026] 2 S.C.R. 
+77
+Abhay Kumar Patel & Ors. v. State of Bihar & Ors.
+process. But if the extant Rules or the advertisement 
+inviting applications empower the competent authority 
+to set benchmarks at different stages of the recruitment 
+process, then such benchmarks may be set any time before 
+that stage is reached so that neither the candidate nor 
+the evaluator/examiner/interviewer is taken by surprise.
+53. The decision in K. Manjusree [K. Manjusree v. State of 
+A.P., (2008) 3 SCC 512 : (2008) 1 SCC (L&S) 841] does 
+not proscribe setting of benchmarks for various stages of 
+the recruitment process but mandates that it should not be 
+set after the stage is over, in other words after the game 
+has already been played. This view is in consonance with 
+the rule against arbitrariness enshrined in Article 14 of 
+the Constitution and meets the legitimate expectation of 
+the candidates as also the requirement of transparency 
+in recruitment to public services and thereby obviates 
+malpractices in preparation of select list.” 
+32.	 The Constitution Bench in Tej Prakash Pathak (Supra) concluded 
+and answered the reference as follows:
+“Conclusions
+65. We, therefore, answer the reference in the following 
+terms:
+65.1. Recruitment process commences from the issuance 
+of the advertisement calling for applications and ends with 
+filling up of vacancies;
+65.2. Eligibility criteria for being placed in the select list, 
+notified at the commencement of the recruitment process, 
+cannot be changed midway through the recruitment process 
+unless the extant Rules so permit, or the advertisement, 
+which is not contrary to the extant Rules, so permit. Even 
+if such change is permissible under the extant Rules or 
+the advertisement, the change would have to meet the 
+requirement of Article 14 of the Constitution and satisfy 
+the test of non-arbitrariness;
+65.3. The decision in K. Manjusree [K. Manjusree v. State 
+of A.P., (2008) 3 SCC 512 : (2008) 1 SCC (L&S) 841] lays 
+down good law and is not in conflict with the decision in 
+
+78
+[2026] 2 S.C.R.
+Supreme Court Reports
+Subash Chander Marwaha [State of Haryana v. Subash 
+Chander Marwaha, (1974) 3 SCC 220 : 1973 SCC (L&S) 
+488]. Subash Chander Marwaha [State of Haryana v. 
+Subash Chander Marwaha, (1974) 3 SCC 220 : 1973 SCC 
+(L&S) 488] deals with the right to be appointed from the 
+select list whereas K. Manjusree [K. Manjusree v. State of 
+A.P., (2008) 3 SCC 512 : (2008) 1 SCC (L&S) 841] deals 
+with the right to be placed in the select list. The two cases 
+therefore deal with altogether different issues;
+65.4. Recruiting bodies, subject to the extant Rules, may 
+devise appropriate procedure for bringing the recruitment 
+process to its logical end provided the procedure so adopted 
+is transparent, non-discriminatory/non-arbitrary and has a 
+rational nexus to the object sought to be achieved;
+65.5. Extant Rules having statutory force are binding on the 
+recruiting body both in terms of procedure and eligibility. 
+However, where the rules are non-existent, or silent, 
+administrative instructions may fill in the gaps;
+65.6. Placement in the select list gives no indefeasible 
+right to appointment. The State or its instrumentality for 
+bona fide reasons may choose not to fill up the vacancies. 
+However, if vacancies exist, the State or its instrumentality 
+cannot arbitrarily deny appointment to a person within the 
+zone of consideration in the select list.”
+33.	 The principles laid down by the Constitution Bench in Tej Prakash 
+Pathak (Supra) were applied in the case of Partha Das v. State of 
+Tripura,3 in a judgment where one of us, J.K. Maheshwari, J., while 
+dealing with a challenge which was brought by the candidates to the 
+decision of the Tripura Government to cancel an ongoing recruitment 
+process after publication of the provisional merit list pursuant to 
+an executive instruction of the State to do away with interviews in 
+recruitment process of Class-IV posts held as follows:
+“47. The recruitment process under the two advertisements 
+commenced on the date of their respective issuance. 
+At the cost of repetition and as discussed above, much 
+3	
+2025 SCC OnLine SC 1844.
+
+[2026] 2 S.C.R. 
+79
+Abhay Kumar Patel & Ors. v. State of Bihar & Ors.
+water had flown after such commencement. The State 
+had taken active and tangible steps such as constituting 
+the Recruitment Board, setting up different State teams 
+for recruitment rallies which were conducted all across 
+India, candidates were tested physically, in a written exam 
+and orally through an interview. A provisional merit list 
+was purportedly prepared in pursuance of the recruitment 
+process. After all this, Cancellation Memorandum was 
+issued on 20.08.2018 which was general in nature, 
+effectively setting the clock back and putting the entire 
+process at nought.
+48. The reasoning behind the said cancellation, as 
+suggested by the State of Tripura, is that it was decided 
+by the Government that not only future recruitment, but 
+also ongoing recruitment processes must invariably be 
+governed by the NRP. In the context of the present case, 
+the marked difference which would be brought about by the 
+NRP is that interview cannot be conducted as a part of the 
+procedure for recruitment given that the post of ‘Enrolled 
+Follower’ is a Group-D post, even though the stage of 
+taking interviews is already over in the present case.
+49. This Court in Tej Prakash Pathak (Supra) has affirmed 
+the decision in K. Manjusree v. State of A.P.9, and held 
+that the recruitment authority can devise a procedure for 
+selection only in absence of rules to the contrary, however, 
+the same should be done prior to commencement of the 
+recruitment process. It has been held that if benchmarks 
+are to be laid down in different steps of the recruitment 
+process, they cannot be laid down after the completion 
+of that particular step, when the game has already been 
+played. The relevant portion of the said judgment is 
+reproduced below as thus:—
+“52. Thus, in our view, the appointing authority/
+recruiting authority/competent authority, in 
+absence of rules to the contrary, can devise 
+a procedure for selection of a candidate 
+suitable to the post and while doing so it 
+may also set benchmarks for different stages 
+
+80
+[2026] 2 S.C.R.
+Supreme Court Reports
+of the recruitment process including written 
+examination and interview. However, if any 
+such benchmark is set, the same should be 
+stipulated before the commencement of the 
+recruitment process. But if the extant Rules or 
+the advertisement inviting applications empower 
+the competent authority to set benchmarks at 
+different stages of the recruitment process, 
+then such benchmarks may be set any time 
+before that stage is reached so that neither 
+the candidate nor the evaluator/examiner/
+interviewer is taken by surprise.
+53. The decision in K. Manjusree [K. Manjusree 
+v. State of A.P., (2008) 3 SCC 512 : (2008) 1 
+SCC (L&S) 841] does not proscribe setting of 
+benchmarks for various stages of the recruitment 
+process but mandates that it should not be set 
+after the stage is over, in other words after the 
+game has already been played. This view is in 
+consonance with the rule against arbitrariness 
+enshrined in Article 14 of the Constitution 
+and meets the legitimate expectation of 
+the candidates as also the requirement of 
+transparency in recruitment to public services 
+and thereby obviates malpractices in preparation 
+of select list.”
+50. In the present case, not only benchmarks are being 
+set after the game has been played, rather the State 
+has decided that a portion of the game itself, the step of 
+interview, should not have been played at all. As discussed 
+above, in pursuance of Rule 24(e) of the TSR Rules, the 
+DGP had approved interview as one of the tests required to 
+be passed. Thereafter, candidates participated in interviews 
+and were ranked accordingly. It can be said that the stage 
+of interview was over much prior to the issuance of the 
+Cancellation Memorandum.”
+34.	 In the present case, the “game” had not only commenced but was 
+at its fag end. The written examinations were held in March 2022. 
+
+[2026] 2 S.C.R. 
+81
+Abhay Kumar Patel & Ors. v. State of Bihar & Ors.
+The results were declared in June/July 2022. The candidates were 
+called for document verification. At this stage, the selection process 
+had proceeded significantly, and would have concluded with the 
+filling up of vacancies.
+35.	 The issuance of the 2022 Amendment Rules, introducing Rule 8(5) 
+with retrospective effect from 06.03.2019, attempts to rewrite the rules 
+of the game which has already begun. By reducing the weightage 
+of the written examination to 75 marks and introducing 25 marks 
+for contractual experience, the State has fundamentally altered the 
+basis of selection and changed the ‘eligibility criteria for being placed 
+in the merit list’ which is not permissible. 
+36.	 While the State undoubtedly has the power to amend rules under the 
+proviso to Article 309 of the Constitution of India, this power is not 
+unbridled. The power of retrospective legislation cannot be exercised 
+to take away vested rights or to arbitrarily disrupt a selection process 
+that has already resulted in the identification of successful candidates 
+by publication of a provisional merit list.
+37.	 The distinction drawn by the respondents regarding the “provisional” 
+nature of the merit list is untenable. The list was provisional subject 
+to verification of documents, not subject to a fundamental change 
+in the criteria for placement in the merit list itself. Once a candidate 
+has cleared the written examination and found a place in the merit 
+list based on the announced criteria in line with the extant Rules and 
+the advertisement, a legitimate expectation arises that the selection 
+will be finalized based on the criteria which was advertised at the 
+time of initiation of the recruitment process.
+38.	 The retrospective application of Rule 8(5) creates an anomaly where 
+candidates who competed under one set of rules are now being judged 
+by another, ex post facto. This directly impacts the appellants, who 
+may be pushed down the merit list or ousted entirely by candidates 
+who score lower in the written exam but gain the newly introduced 
+additional marks for contractual service.
+39.	 We also note the argument regarding the General Administration 
+Department’s 2018 Memo and 2021 Memo. While these resolutions 
+reflect a policy to grant weightage, they were executive instructions. 
+The recruitment in question was governed by the statutory 2019 
+Rules, which did not incorporate these resolutions at the time of the 
+
+82
+[2026] 2 S.C.R.
+Supreme Court Reports
+2019 Advertisements. The State cannot rely on executive instructions 
+to override statutory rules that were in force during the initiation of 
+the recruitment process, especially to the detriment of candidates 
+who had no notice of such weightage or age relaxation. Additionally, 
+when the 2019 Advertisements were issued, there was no whisper 
+about the applicability of the said resolutions; it was only when a 
+challenge was made by the candidates that the State raised the 
+defense, taking a pretext of the aforesaid resolutions, which is an 
+afterthought and not tenable at all.
+40.	 It is trite law that participation in a recruitment process or mere 
+placement on the merit list does not create an indefeasible right to 
+appointment, which was settled by this Court in Shankarsan Dash v. 
+Union of India4 and followed in a multitude of decisions. However, 
+changing the eligibility criteria for placement in the merit list, after 
+conclusion of the written examination for that purpose, contrary to 
+the extant rules prevalent at the time of the advertisement, cannot 
+be justified on this basis. In the present case, if the additional marks 
+and age relaxation as envisaged under the 2022 Amendment Rules 
+is permitted, it will result in recasting of the provisional merit list 
+pursuant to the 2019 Advertisements. Such a decision to do away 
+with the merit list must be reasonable and non-arbitrary. Learned 
+counsel for the Respondent - State has contended that the decision to 
+grant additional marks and age relaxation to the contractual Assistant 
+Engineers is a decision taken in larger public interest, and in order 
+to reward the experience of people serving the State in contractual 
+posts. Be that as it may, while this may be a justification advanced 
+by the State for introducing the 2022 Amendment Rules, it would 
+not justify the application of the 2022 Amendment Rules to the 2019 
+Advertisements and the recruitment process pursuant thereto. After 
+the examination has been conducted, no public purpose can be 
+served by changing the criteria for selection at this stage. 
+41.	 Therefore, in the facts of this case, the finding of the High Court that 
+the amendment was merely a policy decision and could be applied 
+retrospectively to the selection process in vogue is completely 
+erroneous. Even assuming that the 2022 Amendment Rules are policy 
+decisions of the State, they cannot be implemented in a manner that 
+4	
+(1991) 3 SCC 47.
+
+[2026] 2 S.C.R. 
+83
+Abhay Kumar Patel & Ors. v. State of Bihar & Ors.
+violates the fundamental right to equality under Article 14 and 16 of 
+the Constitution of India by changing the selection criteria after the 
+selection process has already begun.
+42.	 In view of the discussions made above, in our considered opinion, the 
+retrospective application of Rule 8(5) of the 2019 Rules, as introduced 
+by the 2022 Amendment Rules, cannot be sustained insofar as the 
+recruitment process initiated vide the 2019 Advertisements following 
+the 2019 Rules prevalent at the said point of time.
+43.	 In view of the above, the irresistible conclusion that can be drawn in 
+the facts of the present case is that the selection process pursuant 
+the 2019 Advertisements must be finalized in accordance with the 
+2019 Rules as they existed on the date of the advertisements, 
+i.e., without taking into account the 2022 Amendment Rules by 
+which the weightage and age relaxation for contractual experience 
+was introduced. As such, the final merit list shall be drawn and 
+appointments shall be made, completing the process within 2 months’ 
+from the date of this judgment. 
+44.	 Consequently, the impugned judgment and order dated 05.07.2023 
+passed by the High Court of Judicature at Patna in CWJC No. 18302 
+of 2022 is set aside. The appeal is allowed. The respondents are 
+directed to finalize the appointments based on the merit lists published 
+in June/July 2022, strictly following the unamended 2019 Rules. 
+45.	 It has been informed that the State has made appointments pursuant 
+to the impugned judgment of the High Court which stands set-aside, 
+however, their services may be dispensed with, in accordance with 
+law. We also make it clear that the directions as issued shall not 
+have any adverse impact if the State of Bihar wishes to continue 
+the services of the persons appointed as above, if they are deemed 
+fit, on the vacancies available, if any, or by creating supernumerary 
+posts without affecting the merit list as indicated above. 
+46.	 Pending application(s), if any, shall stand disposed of. There shall 
+be no order as to costs.
+SPECIAL LEAVE PETITION (C) NO. 8231 OF 2025
+1.	
+The present Special Leave Petition has been filed assailing the interim 
+order dated 13.02.2025 passed in CWJC No. 18429 of 2025 by the 
+High Court of Judicature at Patna, wherein the writ petition filed by 
+
+84
+[2026] 2 S.C.R.
+Supreme Court Reports
+the petitioners herein was adjourned sine die. The relevant portion 
+of the said order of High Court dated 13.02.2025 is reproduced for 
+ready reference –
+“4. The issue was debated before this Court in SWJC No. 
+18302 of 2022, titled as Abhay Kumar Patel & Ors. vs. 
+The State of Bihar & Ors., wherein a Division Bench 
+of this Court vide judgment date 05.07.2023 upheld the 
+validity of the amendment as also the formulae evolved 
+for bringing and collating the marks to the scale of 100. 
+Such formulae was necessarily to be fixed for the reason 
+that 25 marks in maximum was to be given as weightage 
+which is to be calculated on the basis of five marks for 
+one particular year of having served on temporary basis.
+5. The afore-noted judgment is under challenge before the 
+Supreme Court vide S.L.P. No. 22323/2023.
+6. The contention of the petitioners here is that not only 
+the introduction of the principle of weightage is incorrect 
+and is against the overwhelming number of decisions by 
+different courts but even the formulae for calculating the 
+marks on scale of 100 is unfortunately rendering anomolous 
+(sic) results.
+7. We are afraid, such objections cannot be raised at 
+this stage when a judgment by the Division Bench of this 
+Court has upheld not only the amendment in the Rules 
+of 2019 but even the formulae developed for calculating 
+the marks on scale of 100.
+8. The issue raised cannot be decided now presently as the 
+matter is pending consideration before the Supreme Court.
+9. Let this case be listed after the disposal of the afore-
+noted S.L.P. No. 22323/2023.”
+2.	
+The Writ Petition was filed by the Petitioners challenging the validity 
+of the 2022 Amendment Rules, particularly the insertion of Rule 8(5) 
+thereof and the formulae for distribution of marks prescribed therein. 
+3.	
+Since we have decided Civil Appeal arising out of SLP (Civil) No. 
+22323 of 2023 by a judgment pronounced today, where the scope of 
+our examination is limited to the applicability of the 2022 Amendment 
+
+[2026] 2 S.C.R. 
+85
+Abhay Kumar Patel & Ors. v. State of Bihar & Ors.
+Rules to the 2019 Advertisements, it would be appropriate to request 
+the High Court to decide CWJC No. 18429 of 2025 on merits. While 
+doing so, we make it clear that we have not examined the challenge 
+to the vires of Rule 8(5) itself or the 2022 Amendment Rules in the 
+Civil Appeal arising out of SLP (Civil) No. 22323 of 2023 and views 
+expressed therein shall not prejudice the case of either parties and 
+all contentions shall be kept open. 
+4.	
+In light of the above, this special leave petition is disposed of with 
+a direction that the High Court shall adjudicate CWJC No. 18429 
+of 2025.
+5.	
+Pending applications, if any, shall be disposed of. 
+Result of the case: Civil Appeal No. 54 of 2026 is allowed.
+SLP(C) No. 8231 of 2025 is disposed of.
+†Headnotes prepared by: Ankit Gyan

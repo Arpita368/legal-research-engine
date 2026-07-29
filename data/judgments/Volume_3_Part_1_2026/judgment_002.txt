@@ -1,0 +1,684 @@
+[2026] 3 S.C.R. 28 : 2026 INSC 137
+Ankhim Holdings Pvt. Ltd. & Anr.
+v.
+Zaveri Construction Pvt. Ltd.
+(Civil Appeal No. 779 of 2026)
+04 February 2026
+[J.B. Pardiwala and K.V. Viswanathan, JJ.]
+Issue for Consideration
+Whether the High Court was justified in saying that the proceedings 
+held by the Arbitral Tribunal on the seven relevant dates, i.e., from 
+17.03.2022 to 25.08.2022 were liable to be declared as nullity on 
+the premise that those proceedings were undertaken during the 
+period of moratorium u/s.14 of the Insolvency and Bankruptcy 
+Code, 2016.
+Headnotes†
+Arbitration and Conciliation Act, 1996 – s.11, s.15(2), s.15(3), 
+s.17 and s.37 – The appellants and respondent (now under 
+liquidation) entered into a partnership firm to develop and 
+construct an SRA project – Dispute arose between them – The 
+High Court appointed an arbitrator to arbitrate the disputes 
+and differences between the parties – The NCLT admitted 
+the respondent to CIRP and imposed a moratorium u/s.14 of 
+IBC – Meanwhile, various applications were filed by both the 
+appellants and respondent under provisions of the Act, 1996 
+before the Arbitral Tribunal and the High Court – Pursuant 
+thereto, various orders were passed by the Arbitral Tribunal 
+and the High Court – The High Court by its impugned judgment 
+and order appointed substitute arbitrator to adjudicate the 
+disputes and differences between the appellants and the 
+respondent – However, the High Court proceeded to observe 
+the all proceedings undertaken by the Arbitral Tribunal 
+between 26.09.2019 and 26.08.2022 respectively being hit by 
+the moratorium could be said to be a nullity – Correctness:
+Held: Since the appointment in the case at hand was made in 
+terms of the Act, 1996, the original provision applicable to the 
+appointment of the arbitrator would be s.11 of the Act, 1996 – The 
+position of law as regards s.11 is well settled – It affords the Court 
+
+[2026] 3 S.C.R. 
+29
+Ankhim Holdings Pvt. Ltd. & Anr. v. Zaveri Construction Pvt. Ltd.
+with a very limited scope essentially requiring the Court only to 
+make prima facie finding that an arbitration agreement exists – 
+The High Court could be said to have travelled beyond its vested 
+jurisdiction including by subsuming jurisdictions expressly made 
+unavailable to it including s.37 of the Act, 1996 – Having regard 
+to the plain language of sub-section (2) and sub-section (4) of 
+s.15 respectively, the High Court exceeded in its jurisdiction while 
+taking the view that the proceedings held by the Arbitral Tribunal 
+between 17.03.2022 and 25.08.2022 are a nullity because of the 
+operation of moratorium – The proper and legal course for the 
+High Court acting u/s.15(2) of the Act, 1996, should have been 
+to appoint a substitute arbitrator to continue from the existing 
+stage of the proceedings – The impugned part of the judgment 
+rendered by the High Court could be said to have resulted in 
+a situation where the arbitration proceedings would have to be 
+restarted de novo and the same would have a direct impact on 
+the sale of flats made pursuant to the s.17 orders of the Tribunal – 
+This could be both inequitable and inefficient – Thus, the part 
+of the impugned order by which the High Court declared the 
+proceedings undertaken between 17.03.2022 and 25.08.2022 as 
+a nullity deserves to be interfered with and is hereby set aside. 
+[Paras 34, 35, 37, 44-46]
+Case Law Cited
+Interplay Between Arbitration Agreements under Arbitration and 
+Conciliation Act, 1996 & Stamp Act, 1899, In re [2023] 15 SCR 
+1081 : (2024) 6 SCC 1 – followed.
+Yashwith Constructions Pvt. Ltd. v. Simplex Concrete Piles India 
+Ltd. & Anr. [2006] Supp. 3 SCR 96 : (2006) 6 SCC 204; Official 
+Trustee v. Sachindra Nath Chatterjee [1969] 3 SCR 92 : 1968 
+SCC Online SC 103 – relied on.
+Hindustan Construction Co. Ltd. v. Bihar Rajya Pul Nirman 
+Nigam Ltd., 2025 SCC OnLine SC 2578; Shailesh Dhairyawan v. 
+Mohan Balkrishna Lulla [2015] 12 SCR 70 : (2016) 3 SCC 619 – 
+referred to.
+List of Acts
+Arbitration and Conciliation Act, 1996; Constitution of India; 
+Insolvency and Bankruptcy Code, 2016.
+
+30
+[2026] 3 S.C.R.
+Supreme Court Reports
+List of Keywords
+Home-buyers; Jurisdiction; Section 11(6) of Arbitration and 
+Conciliation Act, 1996; Section 15(2) of Arbitration and Conciliation 
+Act, 1996; Section 15(3) of Arbitration and Conciliation Act, 1996; 
+Section 14 of Insolvency and Bankruptcy Code, 2016; Minimal 
+Judicial Intervention; Self-Contained Code; Doctrine of Nullity; 
+SRA Project; Corporate Insolvency Resolution Process; Third-Party 
+Rights; Article 142 of Constitution; Substitute Arbitrator.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 779 of 2026
+From the Judgment and Order dated 12.04.2024 of the High Court 
+of Judicature at Bombay in CAP(L) No. 30650 of 2023
+Appearances for Parties
+Advs. for the Appellant(s):
+Ashim Sood, Saahil Memon, Senu Nizar, Ekansh Gupta, Kartikeya 
+Jaiswal, Prateek Kundu, Karan Kumar, Ms. Pallavi Pratap.
+Adv. for the Respondent(s):
+Tushar Mehta, S.G., Sanjay Kapur, Surya Prakash, Ms. Shubhra 
+Kapur, Ms. Santha Smruthi, Shakti Kanta Pattanaik, Santosh Kumar.
+Judgment / Order of the Supreme Court
+Order
+1.	
+Leave granted.
+2.	
+This appeal arises from the judgment and order passed by the 
+High Court of Bombay dated 12.04.2024 in Commercial Arbitration 
+Petition (L) No. 30650/2023 by which the petition filed by the appellants 
+herein before the High Court under Section 15(2) of the Arbitration 
+and Conciliation Act, 1996 (for short, “the Act, 1996”) came to be 
+disposed of by substituting the earlier Arbitrator appointed by the High 
+Court, however, with a rider that the arbitral proceedings that took 
+place on seven particular dates, i.e., from 17.03.2022 to 25.08.2022 
+could be said to be a nullity as those proceedings were undertaken 
+at the time when the respondent company was under a moratorium 
+as envisaged under Section 14 of the IBC, 2016.
+
+[2026] 3 S.C.R. 
+31
+Ankhim Holdings Pvt. Ltd. & Anr. v. Zaveri Construction Pvt. Ltd.
+3.	
+The short facts giving rise to this appeal may be summarized as 
+under:-
+(i)	
+The appellants and respondent (now under liquidation) entered 
+into a partnership firm named “M/s Anmol Alliance” to develop 
+and construct an SRA project of Andheri Shiv Shakti CHS 
+Limited admeasuring 4514 square metres along with 203 
+tenements standing thereon situated at CTS No. 195(pt) and 
+825(pt), Ambivali Village at Indira Nagar, Jay Prakash Road, 
+Andheri (West), Mumbai.
+(ii)	
+It appears that disputes cropped up between the appellants 
+and the respondent. In such circumstances, the appellants 
+preferred an application under Section 9 of the Act, 1996, 
+i.e., Commercial Arbitration Petition No.347/2019 against the 
+respondent. Pursuant to the filing of Section 9 petition, an 
+interim arrangement was worked out and based on the same, 
+the parties proceeded with the project.
+(iii)	 On 09.07.2019, the Bombay High Court passed an order in 
+Commercial Arbitration Petition No.347/2019 referred to above 
+accepting the minutes of order recording them as consent terms 
+between the parties.
+(iv)	 The High Court proceeded to appoint Hon’ble Mr. Justice J.N. 
+Patel (former Chief Justice of the Calcutta High Court) to act as 
+the Arbitrator to arbitrate the disputes and differences between 
+the parties.
+(v)	
+It appears from the materials on record that on 26.09.2019, 
+the NCLT Mumbai passed an order in Company Petition (I.B.) 
+No.411/2019 admitting the respondent to CIRP and imposing 
+a moratorium under Section 14 of the IBC.
+(vi)	 On 03.11.2020, the appellants filed I.A. No.(L) 6167/2020 under 
+Section 9 of the Act, 1996, before the High Court whereby they 
+sought to restrain the RP of the respondent from obstructing 
+the sale of certain flats and further sought permission to sell 
+those flats in the light of the consent terms recorded in the 
+order dated 09.07.2019 referred to above. The RP filed its 
+written submissions to oppose the reliefs which were prayed 
+for in I.A.(L) 6167/2020 referred to above.
+
+32
+[2026] 3 S.C.R.
+Supreme Court Reports
+(vii)	 On 14.10.2021, the appellants preferred one another Section 
+9 petition, i.e., I.A. No.(L) 24302/2021 seeking permission to 
+execute the agreement for sale with respect to flat numbers 
+1001, 1302 and 704, respectively.
+(viii)	 On 15.03.2022, the High Court passed an order in I.A. No.(L) 
+24302/2021 and I.A. No.(L) 6167/2020 respectively referred to 
+above recording a finding that the Interim Resolution Professional 
+had become functus officio and no order for liquidation was 
+passed by the NCLT.
+(ix)	 The High Court proceeded to dispose of the Section 9 petitions 
+while granting liberty to the appellants herein to move the 
+applications under Section 17 of the Act, 1996, before the 
+Arbitrator.
+(x)	
+In pursuance of the order dated 15.03.2022 referred to above, 
+the appellants herein preferred Section 17 applications on 
+17.03.2022 before the Arbitrator. The Arbitrator proceeded to 
+pass an order, scheduling the hearing for Section 17 applications.
+(xi)	 On 25.03.2022, the respondent preferred an application under 
+Section 16 of the Act, 1996, seeking to challenge the jurisdiction 
+of the Arbitral Tribunal on the ground of the moratorium under 
+Section 14 of the IBC.
+(xii)	 By order dated 29.03.2022, the Arbitral Tribunal rejected the 
+Section 16 application referred to above, filed by the IRP of 
+the respondent, seeking stay of the arbitration proceedings in 
+light of the moratorium imposed under Section 14 of the IBC.
+(xiii)	 On 29.03.2022, by a separate order, the Arbitral Tribunal 
+proceeded to pass an order in I.A. No.(L) 24302/2021, permitting 
+the appellants herein to execute agreements for sale in respect 
+of flat numbers 1001, 1302 and 704 respectively.
+(xiv)	On 20.04.2022, the Arbitral Tribunal passed an order in I.A. 
+No.(L) 6167/2020, permitting the appellants to sell the flat 
+numbers 907 and 908 respectively.
+(xv)	 In pursuance of the orders dated 29.03.2022 and 20.04.2022 
+respectively, the appellants between July, 2022 and February, 
+2023 entered into agreements for sale with third parties for the 
+flat numbers 907, 908, 1001, 1302 and 704 respectively. While 
+
+[2026] 3 S.C.R. 
+33
+Ankhim Holdings Pvt. Ltd. & Anr. v. Zaveri Construction Pvt. Ltd.
+we were recording the facts as aforesaid, the learned counsel 
+appearing for the appellants brought to our notice that these 
+flats referred to above have not been sold.
+4.	
+On 26.08.2022, the NCLT proceeded to pass an order in I.A. 
+No.2278/2020 initiating liquidation proceedings against the 
+respondent. 
+5.	
+On 24.04.2023, the respondent through the Liquidator filed a 
+Statement of Defence. On 24.04.2023, the Arbitral Tribunal passed 
+an order directing the Liquidator to seek clarification from the High 
+Court in respect of the continuation of the Arbitration proceedings.
+6.	
+On 25.08.2023, the High Court passed an order dismissing I.A. 
+No.(L) 14336/2023 filed by the Liquidator seeking a declaration that 
+the disputes between the parties were non-arbitrable. 
+7.	
+On 11.10.2023, the Arbitral Tribunal passed an order terminating the 
+arbitration proceedings.
+8.	
+On 01.11.2023, the appellants herein filed Commercial Arbitration 
+Petition No.30650/2023 before the High Court seeking appointment 
+of substitute Arbitrator and for extension of time for passing arbitral 
+award.
+9.	
+The High Court by its impugned judgment and order appointed 
+Hon’ble Mr. Justice R.M. Savant (Retired Judge of the Bombay High 
+Court) as sole arbitrator to adjudicate the disputes and differences 
+between the appellants and the respondent. However, the High Court 
+proceeded to observe the all proceedings undertaken by the Arbitral 
+Tribunal between 26.09.2019 and 26.08.2022 respectively being hit 
+by the moratorium could be said to be a nullity.
+10.	 The relevant observations of the High Court read thus:-
+“14] The submission of Ms. Singhania, by relying upon 
+Section 12 prescribing timeline for completion of IRP and 
+her submission that the CIRP shall be completed within 
+the period of 180 days and since there is no extension 
+sought by the RP, it has come to end, do not deserve 
+any consideration in light of the proviso to sub section (4) 
+of Section 14. The effect of proviso is crystal clear, that 
+the order of moratorium shall have effect till completion 
+of CIRP, but during the CIRP period, if the adjudicating 
+authority approves the resolution plan under sub section 
+
+34
+[2026] 3 S.C.R.
+Supreme Court Reports
+(1) of Section 31, or if it passes the order of liquidation 
+under Section 33, the moratorium shall ceased to have 
+effect, either from the date of such approval or liquidation 
+order, as the case may be. 
+The order passed by the NCLT on 26.08.2022 clearly 
+indicates that since resolution plan could not be approved, 
+and CoC resolved to liquidate the company, the Liquidator 
+is appointed under Section 34 and a fresh moratorium is 
+declared to have commenced under Section 33 (5). 
+15] In the wake of aforesaid situation, which emerges 
+from the facts placed before me, the moratorium imposed 
+under Section 14 by order dated 26.09.2019, continued 
+to be in operation till 26.08.2022, when it is declared to 
+cease to have its effect and the company is put into fresh 
+moratorium under Section 33(5) of the IBC, by the NCLT. 
+After this date, the ongoing arbitration proceedings which 
+were in abeyance can continue, but all those which are 
+held between 26.09.2019 and 26.08.2022, are hit by 
+the moratorium, and this remains the position, despite 
+this Court on 15.03.2022 permitting its revival, as it was 
+misled to believe that on 15.03.2022, the IP has become 
+functus officio. It is in fact only on 26.08.2022, the Tribunal 
+appointed the Liquidator and directed him to proceed 
+with the process of liquidation in the manner laid down 
+in Chapter 3 of Part II of the IBC, 2016, when the Interim 
+Application filed by the RP for liquidation of the Corporate 
+Debtor was allowed. 
+16] It is for the aforesaid reason, the proceedings held by 
+the Arbitral Tribunal on the 7 dates i.e. from 17.03.2022 to 
+25.08.2022, are liable to be declared as nullity, but needless 
+to state that the proceedings can be revived before the 
+substituted arbitrator, as now there is no embargo in 
+continuing the arbitration proceedings and by conferring 
+the liberty upon the parties to revive its application and by 
+permitting the arbitral tribunal to pass appropriate orders 
+thereupon including application filed under Section 17 
+by the Petitioner, I deem it appropriate to substitute the 
+Arbitrator who has terminated the proceedings.”
+
+[2026] 3 S.C.R. 
+35
+Ankhim Holdings Pvt. Ltd. & Anr. v. Zaveri Construction Pvt. Ltd.
+11.	 In such circumstances referred to above, the appellants are here 
+before this Court with the present appeal.
+SUBMISSIONS ON BEHALF OF THE APPELLANTS :-
+12.	 Mr. Ashim Sood, the learned counsel appearing for the appellants 
+would submit that the High Court in exercise of its jurisdiction 
+under Section 15(2) of the Act, 1996, could not have declared the 
+proceedings undertaken by the Arbitral Tribunal between 17.03.2022 
+and 25.08.2022 as a nullity on the ground that those proceedings 
+were undertaken while the respondent was under a moratorium under 
+Section 14 of the IBC. He would submit that all that was required 
+was to substitute the Arbitrator.
+13.	 He would further submit that the jurisdiction of the High Court under 
+Section 15(2) of the Act, 1996, is circumscribed compared to the 
+jurisdiction that may be exercised under Section 11 of the Act, 1996.
+14.	 Mr. Sood invited our attention to the language employed under sub-
+section (2) of Section 15 of the Act, 1996. He laid much emphasis on 
+the expression “a substitute arbitrator shall be appointed according 
+to the rules that were applicable to the appointment of the arbitrator 
+being replaced”.
+15.	 By relying on the expression referred to above, Mr. Sood would 
+submit that the powers of the Court under Section 15(2) of the Act 
+must be defined with reference to the Court’s powers under Section 
+11 of the Act, 1996.
+16.	 To fortify the aforesaid submission, he placed reliance on the decision 
+of this Court in the case of Yashwith Constructions Pvt. Ltd. v. Simplex 
+Concrete Piles India Ltd. & Anr. reported in (2006) 6 SCC 204.
+17.	 Thereafter, Mr. Sood invited our attention to sub-section (4) of Section 
+15 of the Act, 1996. Relying on the same, he would submit that the 
+plain reading of the provision itself makes it clear that any order or 
+ruling of the Arbitral Tribunal prior to the replacement of an Arbitrator 
+under Section 15 would not be rendered invalid, solely because 
+of some change in the composition of the Arbitral Tribunal, unless 
+otherwise agreed between the parties.
+18.	 Mr. Sood submitted that if what has been held by the High Court 
+is to be given effect, it will have its own implications in so far as all 
+those flats which have already stood transferred to the third parties.
+
+36
+[2026] 3 S.C.R.
+Supreme Court Reports
+19.	 In the last, Mr. Sood submitted that the High Court in exercise of its 
+jurisdiction under the Act, 1966, could not have nullified orders which 
+it had otherwise no jurisdiction to consider. In this context, the learned 
+counsel relied on the decision of this Court in Official Trustee v. 
+Sachindra Nath Chatterjee, reported in 1968 SCC Online SC 103.
+20.	 In such circumstances referred to above, the learned counsel prayed 
+that there being merit in the appeal, the same may be allowed 
+appropriately.
+SUBMISSIONS ON BEHALF OF THE SBI :-
+21.	 Mr. Tushar Mehta, the leaned Solicitor General assisted by the 
+learned counsel, Mr. Sanjay Kapur appeared for the State Bank 
+of India. According to Mr. Mehta, the flats referred to above were 
+mortgaged with the Bank. In such circumstances, Mr. Mehta would 
+submit that the interest of the Bank be protected.
+22.	 At this stage, Mr. Sood, on instructions from his client, made a 
+statement that the flats which have been referred to above were 
+never mortgaged with the State Bank at any point of time. There 
+was no charge of the Bank over those flats.
+SUBMISSIONS ON BEHALF OF THE OFFICIAL LIQUIDATOR :-
+23.	 We also heard Mr. Santosh Kumar, the learned counsel appearing 
+for the Liquidator. According to the learned counsel for the Liquidator, 
+no error, not to speak of any error of law could be said to have been 
+committed by the High Court in passing the impugned order.
+24.	 He would submit that the High Court is justified in taking the view 
+that all the proceedings/transactions which took place between 
+17.03.2022 and 25.08.2022, i.e., during the moratorium period could 
+be said to be a nullity.
+25.	 He seeks to rely upon the provisions of Section 14(4) of the IBC 
+including the proviso to sub-section (1) of Section 23 of the IBC.
+ANALYSIS :-
+26.	 Having heard the learned counsel appearing for the parties and 
+having gone through the materials on record, the only question that 
+falls for our consideration is whether the High Court was justified 
+in saying that the proceedings held by the Arbitral Tribunal on the 
+
+[2026] 3 S.C.R. 
+37
+Ankhim Holdings Pvt. Ltd. & Anr. v. Zaveri Construction Pvt. Ltd.
+seven relevant dates, i.e., from 17.03.2022 to 25.08.2022 were liable 
+to be declared as nullity on the premise that those proceedings 
+were undertaken during the period of moratorium under Section 14 
+of the IBC.
+27.	 We must look into the provisions of Section 15 of the Act, 1996. 
+Section 15 reads thus:-
+“15. Termination of mandate and substitution of arbitrator.—
+(1) In addition to the circumstances referred to in section 13 
+or section 14, the mandate of an arbitrator shall terminate—
+(a) where he withdraws from office for any reason; or 
+(b) by or pursuant to agreement of the parties.
+(2) Where the mandate of an arbitrator terminates, a 
+substitute arbitrator shall be appointed according to the 
+rules that were applicable to the appointment of the 
+arbitrator being replaced.
+(3) Unless otherwise agreed by the parties, where an 
+arbitrator is replaced under sub-section (2), any hearings 
+previously held may be repeated at the discretion of the 
+arbitral tribunal.
+(4) Unless otherwise agreed by the parties, an order or 
+ruling of the arbitral tribunal made prior to the replacement 
+of an arbitrator under this section shall not be invalid solely 
+because there has been a change in the composition of 
+the arbitral tribunal.”
+28.	 A bare perusal of Section 15 referred to above indicates that Section 
+15(2) is not a standalone provision and should be read with Section 
+15(3) and Section 15(4) respectively. 
+29.	 Section 15(2) states that when mandate of an arbitrator is terminated 
+under Section 14, a substitute arbitrator has to be appointed. It 
+further states that such an appointment must be made according 
+to the rules that were made applicable to the appointment of the 
+arbitrator being replaced. 
+30.	 Further, Section 15(3) provides the course of action after the arbitrator 
+has been replaced under sub-section (2). The essential ingredients 
+of the provision are thus:- 
+
+38
+[2026] 3 S.C.R.
+Supreme Court Reports
+i.	
+Any hearing previously held may be repeated; 
+ii.	
+The repetition of the hearing is at the discretion of the arbitral 
+tribunal; 
+iii.	
+However, such repetition of the hearing is subject to the 
+agreement between the parties; 
+If the parties agree for repetition of hearing, the term “may” transforms 
+into “shall”. Whereas, if the parties agree for non-repetition of hearing, 
+the term “may” transforms into “shall not”. In case the parties fail to 
+arrive at a conclusion, the arbitral tribunal would decide whether the 
+hearing already conducted before his substitution would be repeated. 
+31.	 With a view to dispel any doubt and lend clarity, we deem it appropriate 
+to state that the parties can come to an agreement on the question 
+of re-hearing either prior to the stage of substitution being reached 
+or after the arbitrator has been substituted. 
+32.	 At this stage, we must look into the dictum as laid by this Court in 
+Yashwith Constructions Pvt. Ltd. (supra). In the said case, this Court 
+held that under Section 15(2) of the Act, 1996, the appointment of 
+the substitute Arbitrator must be in accordance with the original 
+agreement or provision applicable to the appointment of the Arbitrator 
+at the initial stage.
+33.	 We quote the relevant observations made by this Court in Yashwith 
+Constructions Pvt. Ltd. (supra):-
+“4. In our view, the learned Chief Justice and the Division 
+Bench have rightly understood the scope of Section 15 of 
+the Act. When the arbitrator originally appointed in terms 
+of the arbitration agreement withdrew for health reasons, 
+the Managing Director, as authorised originally by the 
+arbitration agreement, promptly appointed a substitute 
+arbitrator. It is true that in the arbitration agreement there 
+is no specific provision authorising the Managing Director 
+to appoint a substitute arbitrator if the original appointment 
+terminates or if the originally appointed arbitrator withdraws 
+from the arbitration. But, this so-called omission in the 
+arbitration agreement is made up by the specific provision 
+contained in Section 15(2) of the Act. The withdrawal 
+of an arbitrator from the office for any reason is within 
+
+[2026] 3 S.C.R. 
+39
+Ankhim Holdings Pvt. Ltd. & Anr. v. Zaveri Construction Pvt. Ltd.
+the purview of Section 15(1)(a) of the Act. Obviously, 
+therefore, Section 15(2) would be attracted and a substitute 
+arbitrator has to be appointed according to the rules that 
+are applicable for the appointment of the arbitrator to be 
+replaced. Therefore, what Section 15(2) contemplates is an 
+appointment of the substituted arbitrator or the replacing of 
+the arbitrator by another according to the rules that were 
+applicable to the appointment of the original arbitrator 
+who was being replaced. The term “rules” in Section 
+15(2) obviously referred to the provision for appointment 
+contained in the arbitration agreement or any rules of 
+any institution under which the disputes were referred to 
+arbitration. There was no failure on the part of the party 
+concerned as per the arbitration agreement, to fulfil his 
+obligation in terms of Section 11 of the Act so as to attract 
+the jurisdiction of the Chief Justice under Section 11(6) of 
+the Act for appointing a substitute arbitrator. Obviously, 
+Section 11(6) of the Act has application only when a 
+party or the person concerned had failed to act in terms 
+of the arbitration agreement. When Section 15(2) says 
+that a substitute arbitrator can be appointed according to 
+the rules that were applicable for the appointment of the 
+arbitrator originally, it is not confined to an appointment 
+under any statutory rule or rule framed under the Act or 
+under the scheme. It only means that the appointment 
+of the substitute arbitrator must be done according to 
+the original agreement or provision applicable to the 
+appointment of the arbitrator at the initial stage. We are 
+not in a position to agree with the contrary view taken by 
+some of the High Courts.” 
+(Emphasis supplied) 
+34.	 Since the appointment in the case at hand was made in terms of 
+the Act, 1996, the original provision applicable to the appointment 
+of the arbitrator would be Section 11 of the Act, 1996.
+35.	 The position of law as regards Section 11 is well settled. It affords 
+the Court with a very limited scope essentially requiring the Court 
+only to make prima facie finding that an arbitration agreement exists.
+
+40
+[2026] 3 S.C.R.
+Supreme Court Reports
+36.	 The High Court could be said to have travelled beyond its vested 
+jurisdiction including by subsuming jurisdictions expressly made 
+unavailable to it including Section 37 of the Act, 1996.
+37.	 Having regard to the plain language of sub-section (2) and sub-
+section (4) of Section 15 respectively referred to above, we are in 
+agreement with the submission of Mr. Sood, the learned counsel 
+appearing for the appellants that the High Court exceeded in its 
+jurisdiction while taking the view that the proceedings held by the 
+Arbitral Tribunal between 17.03.2022 and 25.08.2022 are a nullity 
+because of the operation of moratorium.
+38.	 In Interplay Between Arbitration Agreements under Arbitration and 
+Conciliation Act, 1996 & Stamp Act, 1899, In re, (2024) 6 SCC 1, a 
+five-Judge Bench of this Court held that:-
+“92. The Arbitration Act is a self-contained code inter 
+alia with respect to matters dealing with appointment of 
+arbitrators, commencement of arbitration, making of an 
+award and challenges to the arbitral award, as well as 
+execution of such awards. [ Pasl Wind Solutions (P) Ltd. v. 
+GE Power Conversion (India) (P) Ltd., (2021) 7 SCC 1 : 
+(2021) 3 SCC (Civ) 702; Kandla Export Corpn. v. OCI 
+Corpn., (2018) 14 SCC 715 : (2018) 4 SCC (Civ) 664]. 
+When a self-contained code sets out a procedure, the 
+applicability of a general legal procedure would be impliedly 
+excluded. [Subal Paul v. Malina Paul, (2003) 10 SCC 361]. 
+Being a self-contained and exhaustive code on arbitration 
+law, the Arbitration Act carries the imperative that what is 
+permissible under the law ought to be performed only in the 
+manner indicated, and not otherwise. Accordingly, matters 
+governed by the Arbitration Act such as the arbitration 
+agreement, appointment of arbitrators and competence 
+of the Arbitral Tribunal to rule on its jurisdiction have to 
+be assessed in the manner specified under the law. The 
+corollary is that it is not permissible to do what is not 
+mentioned under the Arbitration Act. Therefore, provisions 
+of other statutes cannot interfere with the working of the 
+Arbitration Act, unless specified otherwise.” 
+(Emphasis supplied)
+
+[2026] 3 S.C.R. 
+41
+Ankhim Holdings Pvt. Ltd. & Anr. v. Zaveri Construction Pvt. Ltd.
+39.	 We may refer to the decision in Hindustan Construction Co. Ltd. v. 
+Bihar Rajya Pul Nirman Nigam Ltd., reported in 2025 SCC OnLine 
+SC 2578, wherein while dealing with an application seeking review 
+of appointment of arbitrator made after extending the mandate of 
+the arbitrator twice, the High Court directed the arbitrator not to 
+continue the arbitral proceedings. This was in view of the fact that 
+the arbitrator was appointed as a President of the State Consumer 
+Dispute Redressal Commission. The Court held that when an arbitrator 
+is unable to act owing to recusal, the proper course would be to 
+invoke Section 15(2) and appoint a substitute arbitrator to continue 
+from the existing stage of the proceedings. The observations of 
+the Court succinctly capture that substitution preserves continuity, 
+and prior proceedings remain valid unless either party objects. The 
+observations read thus:- 
+“16. Once the High Court had accepted the existence of 
+a valid arbitration agreement and appointed an arbitrator, 
+its later interference on the same question of the validity 
+of Clause 25 amounted, in substance, to an appeal 
+disguised as supervisory review. If the arbitrator had 
+become unable to act owing to recusal or disqualification, 
+the proper course was to invoke Section 15(2) and appoint 
+a substitute arbitrator to continue from the existing stage 
+of the proceedings.
+17. Sections 15(1) and 15(2) clearly provide that an 
+arbitrator’s mandate terminates upon withdrawal or by 
+agreement of the parties, and that a substitute arbitrator must 
+be appointed following the same procedure as the original 
+appointment. The judgments in Yashwith Constructions (P) 
+Ltd. v. Simplex Concrete Piles (India) Ltd.36, ACC Ltd. v. 
+Global Cements Ltd.37, and Union of India v. Pradeep Vinod 
+Construction Company38, reaffirm that such substitution 
+preserves continuity, and prior proceedings remain valid 
+unless either party objects. In light of the same, the High 
+Court’s decision to suspend the arbitration altogether, instead 
+of ordering substitution, was contrary to settled law. The 
+exercise of jurisdiction therefore calls for correction under 
+Article 136 of the Constitution. Accordingly, the impugned 
+judgment and order of the High Court is set aside.”
+(Emphasis supplied)
+
+42
+[2026] 3 S.C.R.
+Supreme Court Reports
+40.	 The aforesaid dictum of law makes it clear that where the Act, 1996, 
+provides procedures for assailing orders, or prohibits such orders of 
+a Tribunal from being assailed, then no alternate procedure can be 
+adopted by a court whose jurisdiction derives from a provision of the 
+Act, 1996, itself. Section 37 of the Act, 1996, provides for appeals 
+against orders under Section 17 of the Act, 1996, and also against 
+orders accepting pleas under Section 16 of the Act, 1996, though 
+orders rejecting Section 16 applications are not subject to judicial 
+interference under the Act, 1996. 
+41.	 Following the dictum as laid in Interplay (supra), it would be 
+impermissible for a court acting under Section 15(2) to adopt a 
+procedure whereby it exercises jurisdiction barred to it by the Act, 
+1996 as has occurred in the present case: (i) the High Court has 
+set aside an order rejecting an application under Section 16 – which 
+the Act, 1996, does not countenance in any provision; (ii) the High 
+Court has set aside Section 17 orders but not in a proceeding under 
+Section 37; and (iii) the High Court has set aside further procedural 
+orders, which again is not a power vested in any court exercising 
+jurisdiction under the Act, 1996.
+42.	 We also find merit in the submission of Mr. Sood that the High Court 
+is not empowered to nullify orders which it had no jurisdiction to 
+consider. In this context, we may refer to and rely upon the decision 
+of this Court in Official Trustee (supra). The relevant observations 
+read thus:-
+“15. From the above discussion it is clear that before a 
+Court can be held to have jurisdiction to decide a particular 
+matter it must not only have jurisdiction to try the suit 
+brought but must also have the authority to pass the orders 
+sought for. It is not sufficient that it has some jurisdiction 
+in relation to the subject-matter of the suit. Its jurisdiction 
+must include the power to hear and decide the questions 
+at issue, the authority to hear and decide the particular 
+controversy that has arisen between the parties… 
+x
+x
+x
+x
+17.[…]The jurisdiction conferred on the court under 
+Section 34 is a limited jurisdiction. Under that provision, 
+the court has not been conferred with overall jurisdiction 
+
+[2026] 3 S.C.R. 
+43
+Ankhim Holdings Pvt. Ltd. & Anr. v. Zaveri Construction Pvt. Ltd.
+in matters arising under a Trust deed. The statute has 
+prescribed what the court can do and inferentially what it 
+cannot do. From the fact that the court has been conferred 
+power to grant only certain reliefs it follows as a matter 
+of law that the court has been prohibited from granting 
+any other relief.[…]
+X
+x
+x
+x
+29. From whatever angle we may examine the validity of 
+the order made by Ramfry, J., it appears clear to us, that 
+the said order was outside the jurisdiction of the learned 
+judge. It was not merely a wrong order, or an illegal order, 
+it was an order which he had no competence to make. It 
+is not merely an order that he should not have passed but 
+it is an order that he could not have passed and therefore 
+a void order.”
+(Emphasis supplied)
+43.	 There is no doubt that the High Court assumed and exercised 
+power which has clearly not been conferred by the Act, 1996, more 
+particularly, wherein the statute itself envisages minimal judicial 
+intervention. 
+44.	 We are of the view that the proper and legal course for the High 
+Court acting under Section 15(2) of the Act, 1996, should have been 
+to appoint a substitute arbitrator to continue from the existing stage 
+of the proceedings. The impugned part of the judgment rendered 
+by the High Court could be said to have resulted in a situation 
+where the arbitration proceedings would have to be restarted de 
+novo and the same would have a direct impact on the sale of flats 
+made pursuant to the Section 17 orders of the Tribunal. This could 
+be both inequitable and inefficient. This Court has time and again 
+said that the object of speedy resolution of disputes by arbitration 
+would best be subserved by a substitute arbitrator continuing at 
+the point at which the earlier arbitrator has left off. [See: Hindustan 
+Construction Co. Ltd. v. Bihar Rajya Pul Nirman Nigam Ltd., 2005 
+SCC OnLine SC 2578; Shailesh Dhairyawan v. Mohan Balkrishna 
+Lulla, (2016) 3 SCC 619]
+
+44
+[2026] 3 S.C.R.
+Supreme Court Reports
+45.	 For all the foregoing reasons, we are of the view that the part of the 
+impugned order by which the High Court declared the proceedings 
+undertaken between 17.03.2022 and 25.08.2022 as a nullity deserves 
+to be interfered with.
+46.	 In the result, this appeal succeeds in part. The impugned order to 
+the extent it says that the proceedings held by the Arbitral Tribunal 
+on the seven dates, i.e., from 17.03.2022 to 25.08.2022, are a nullity 
+is hereby set aside.
+47.	 Considering the long lapse of time and also the fact that third party 
+rights have been created (home buyers rights have come into play) 
+we, in exercise of our jurisdiction under Article 142 of the Constitution 
+of India declare these transactions to be lawfully valid.
+48.	 The impugned judgment and order of the High Court stands modified 
+to the aforesaid extent.
+49.	 The appeal stands disposed of accordingly.
+50.	 Pending application(s), if any, also stand disposed of. 
+Result of the case: Appeal disposed of.
+†Headnotes prepared by: Ankit Gyan

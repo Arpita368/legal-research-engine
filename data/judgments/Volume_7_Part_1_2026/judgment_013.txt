@@ -1,0 +1,569 @@
+[2026] 7 S.C.R. 195 : 2026 INSC 653
+The Oriental Insurance Company Limited
+v.
+Kalu Ram and Others
+(Civil Appeal No. 8706 of 2026)
+23 June 2026
+[Prashant Kumar Mishra* and N.V. Anjaria, JJ.]
+Issue for Consideration
+Issue arose as regards the correctness of the concurrent finding of 
+negligence and the quantum of compensation awarded by the courts 
+below; and the enhancement of compensation on the ground that 
+the future earning potential of the deceased was not adequately 
+assessed and that compensation under the conventional heads 
+was not fully granted.
+Headnotes†
+Motor Vehicles Act, 1988 – ss.166 and 140 – Enhancement of 
+the compensation – Victim, aged 20 years pursuing Chartered 
+Accountancy (Final), and undergoing articleship, was travelling 
+in the car driven by his roommate, which collided with a 
+truck stationed in the middle of the road without parking 
+lights, indicators, reflectors or any cautionary sign, making 
+it completely invisible due to the darkness, at night – Victim, 
+met with an accident resulting in fatal injuries and succumbed 
+thereto, while his roommate also suffered injuries – FIR 
+registered and charge-sheet filed against the truck driver – 
+Parents of the victim sought compensation – Truck driver, 
+owner and insurer of the offending truck’s case that the truck 
+had suffered puncture in its rear tyres and had been parked 
+on the extreme left side of the road, and that the accident 
+occurred solely due to rash and negligent driving of the car 
+driver – Tribunal held that the accident had occurred due to the 
+negligence of the truck driver in leaving the vehicle stationed 
+on the road without adequate warning or precautionary 
+measures – Tribunal assessed the compensation taking into 
+account his educational and professional trajectory and 
+awarded Rs.81,21,900/- – Appeals by insurer and claimants – 
+* Author
+
+196
+[2026] 7 S.C.R.
+Supreme Court Reports
+High Court affirmed the finding of the tribunal, and maintained 
+the award in its entirety – Correctness:
+Held: As regards negligence, no reason to take a view different 
+from that concurrently taken by the tribunal and the High Court – 
+Mere fact that the car collided with the truck from behind cannot, 
+by itself, lead to an inference of negligence on the part of its 
+driver – Issue of negligence to be examined in the totality of 
+circumstances – Stationary vehicle occupying the road in the dead 
+of night without any warning indication poses an evident hazard 
+to road users – Tribunal and the High Court, on appreciation of 
+the evidence, rightly concluded that the proximate cause of the 
+accident was the negligent act of the truck driver in leaving the 
+vehicle unattended on the road without adequate precautionary 
+measures – No evidence worth the name adduced to establish 
+negligence on the part of the car driver, and in the absence 
+thereof, the plea of contributory negligence cannot be accepted 
+on mere conjecture – Determination of compensation under the 
+MV Act is guided by the principle of awarding ‘just compensation’, 
+which must account for the future prospects of the deceased and 
+such determination cannot travel into the realm of conjecture – 
+Compensation cannot be founded on assumptions of assured 
+professional success or on salary benchmarks of unrelated 
+successful professionals – Exercise of assessing compensation 
+by the tribunal, sufficiently accounts for the professional promise of 
+the deceased and leaves no room for further enhancement on the 
+aspect of loss of dependency – Any further increase on that basis 
+would cease to be compensatory and would enter the impermissible 
+domain of speculation – Considering that the accident took place 
+in 2013, no inclination to interfere with the same by reducing the 
+award under any heads – Life of a young individual and the loss 
+suffered by his family cannot be measured in precise monetary 
+terms, and determination of ‘just compensation’ under the MV 
+Act does not admit of mathematical exactitude – MV Act being a 
+beneficial legislation, the duty of the Court is to ensure that just 
+compensation is awarded, even if legitimate conventional head is 
+omitted by the courts below – On facts, the claimants, being the 
+parents of the deceased unmarried son, entitled to compensation 
+under the head of ‘filial consortium’ – Compensation awarded by 
+the tribunal, as affirmed by the High Court, enhanced by an amount 
+of Rs.80,000/- towards filial consortium, payable to the claimants 
+in equal measure, together with interest – Compensation awarded 
+
+[2026] 7 S.C.R. 
+197
+The Oriental Insurance Company Limited v. Kalu Ram and Others
+by the tribunal, as affirmed by the High Court, modified from 
+Rs.81,21,900/- to Rs.82,01,900/- along with interest. [Paras 14-30]
+Case Law Cited
+National Insurance Company Limited v. Pranay Sethi and Others 
+[2017] 13 SCR 100 : (2017) 16 SCC 680; Magma General Insurance 
+Company Limited v. Nanu Ram alias Chuhru Ram and Others 
+[2018] 11 SCR 664 : (2018) 18 SCC 130 – relied on.
+List of Acts
+Constitution of India; Motor Vehicles Act, 1988.
+List of Keywords
+Negligence; Quantum of compensation; Enhancement of 
+compensation; Future earning potential of the deceased; 
+Compensation under conventional heads; Victim, aged 20 years 
+pursuing Chartered Accountancy; Vehicle stationed on road without 
+adequate warning or precautionary measures; Educational and 
+professional trajectory; Compensation to be just and reasonable.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 8706 
+of 2026
+From the Judgment and Order dated 08.08.2022 of the High Court 
+of Delhi at New Delhi in MACAPP No. 79 of 2018.
+With
+Civil Appeal No. 8707 of 2026
+Appearances for Parties
+Advs. for the Appellant(s):
+T. Mahipal, Rohit Kumar Sinha, Surya Kamal Mishra, Partap Singh, 
+Arun Yadav, Ms. Chetna Yadav, Mayank Kumar Singh, B.N Yadav, 
+Ashutosh Yadav, Yadav Narender Singh.
+Advs. for the Respondent(s):
+Partap Singh, Arun Yadav, Ms. Chetna Yadav, Mayank Kumar Singh, 
+B.N Bajpai, Ashutosh Yadav, Yadav Narender Singh, T. Mahipal, 
+Rohit Kumar Sinha, Surya Kamal Mishra.
+
+198
+[2026] 7 S.C.R.
+Supreme Court Reports
+Judgment / Order of the Supreme Court
+Judgment
+Prashant Kumar Mishra, J.
+1.	
+Leave granted. 
+2.	
+These cross-appeals arise out of the common judgment dated 
+08.08.2022 passed by the High Court of Delhi1 in MAC.APP. No. 
+79 of 2018 and MAC.APP. No. 702 of 2018, whereby the High 
+Court dismissed the appeals preferred by the insurer as well as the 
+claimants and affirmed the award dated 30.11.2017 passed by the 
+Motor Accident Claims Tribunal2, Saket Courts, New Delhi, in Suit 
+No. 3059 of 2016.
+3.	
+The case arises out of a motor vehicular accident that occurred in 
+the early hours of 11.06.2013. The deceased, Akash Kumar, aged 
+about 20 years, was travelling in a Wagon-R car bearing registration 
+No. DL-6CH-6143, driven by his roommate, Nikhil Kumar Jain. At 
+about 3:00 a.m., when the vehicle reached near Andrews Ganj Bus 
+Stop on the BRT Corridor, Delhi, it collided with a truck bearing 
+registration No. HR-55B-0379. 
+4.	
+According to the claimants, the truck had been stationed in the 
+middle of the road without any parking lights, indicators, reflectors 
+or warning signs and, owing to the darkness and absence of any 
+cautionary indication, it was not visible to the driver of the car. As 
+a result of the collision, Akash Kumar sustained fatal injuries and 
+succumbed thereto, while Nikhil Kumar Jain also suffered injuries. 
+In connection with the accident, FIR No. 90n of 2013 came to be 
+registered at Police Station Defence Colony and, upon investigation, 
+a charge-sheet was filed against the truck driver under Sections 279, 
+337 and 304A of the Indian Penal Code, 18603.
+5.	
+A Detailed Accident Report4 came to be instituted before the Tribunal 
+on 11.09.2013. Thereafter, the parents of the deceased instituted 
+a claim petition under Sections 166 and 140 of the Motor Vehicles 
+1	
+For short, ‘High Court’
+2	
+For short, ‘Tribunal’
+3	
+For short, ‘IPC’
+4	
+Fort short, ‘DAR’
+
+[2026] 7 S.C.R. 
+199
+The Oriental Insurance Company Limited v. Kalu Ram and Others
+Act, 19885 seeking compensation on account of the untimely death 
+of their son. It was pleaded that the deceased was a bachelor aged 
+20 years, pursuing Chartered Accountancy6 (Final), and undergoing 
+articleship with M/s ASA & Associates. According to the claimants, 
+besides his articleship stipend between Rs. 8,000/- to Rs 11,000/-, 
+the deceased was also earning approximately Rs. 25,000/- from 
+private tuition and had bright professional prospects, which deserved 
+due consideration while assessing compensation.
+6.	
+The claim petition was contested by the driver, owner and insurer of 
+the offending truck. Their defence was that the truck had suffered 
+puncture in its rear tyres and had been parked on the extreme left 
+side of the road, and that the accident occurred solely due to rash 
+and negligent driving of the Wagon-R, which rammed into the truck 
+from behind. The insurer, while admitting the insurance coverage 
+of the offending vehicle, denied liability and supported the plea that 
+negligence was attributable to the driver of the car.
+7.	
+In support of the claim, the claimants examined Nikhil Kumar Jain, the 
+driver of the Wagon-R and an injured eyewitness to the occurrence. 
+He deposed that the truck had been stationed on the road without 
+indicators, reflectors or any warning signs and that the street lights 
+on the road were also not functional at the relevant time, rendering 
+the vehicle practically invisible. The Tribunal also considered the 
+site photographs and the material collected during investigation. 
+Significantly, neither the truck driver nor the owner entered the 
+witness box to rebut the evidence led by the claimants.
+8.	
+Upon appreciation of the evidence on record, the Tribunal recorded 
+a finding that the accident had occurred due to the negligence of 
+the truck driver in leaving the vehicle stationed on the road without 
+adequate warning or precautionary measures. The Tribunal rejected 
+the plea that the driver of the Wagon-R was negligent or contributorily 
+negligent.
+9.	
+On the question of compensation, the Tribunal examined the evidence 
+led by the claimants concerning the educational and professional 
+profile of the deceased. Apart from the testimony of the claimants 
+themselves, the Tribunal also examined Dr. Surender Pal (PW-3), Joint 
+5	
+For short, ‘MV Act’
+6	
+For short, ‘CA’
+
+200
+[2026] 7 S.C.R.
+Supreme Court Reports
+Director of CA Institute who had stated that students after completing 
+CA got salaries between 1 to 2 lakhs per month and average salary 
+offered to CA was around Rs 7.37 Lakhs during campus placement 
+in year 2013-2014. The Tribunal also took note of the fact that the 
+deceased was pursuing CA Final and undergoing articleship with M/s 
+ASA & Associates. Upon appreciation of such evidence, the Tribunal 
+noted that the deceased had already reached the final stage of a 
+professional course and was at the threshold of entering the profession. 
+Though the actual stipend received by the deceased was placed on 
+record as in the range of Rs. 3,595/- to Rs. 14,410/- per month, the 
+Tribunal considered his future professional prospects and assessed 
+his income at Rs. 55,500/- per month on the basis of likely earnings 
+of an entry-level Group-A officer, having regard to his educational 
+and professional trajectory. After making deductions towards income 
+tax and personal expenses, adding future prospects of 50% and 
+applying the multiplier of 18, as well as providing under various 
+conventional heads, the Tribunal awarded a total compensation of 
+Rs. 81,21,900/- along with interest @ 9% per annum from the date 
+of institution of the DAR, fastening the liability upon the insurer by 
+award dated 30.11.2017. The distribution of compensation awarded 
+by the Tribunal under various heads is reflected in table below:
+HEADS
+MACT
+Monthly Income
+Rs. 55,500/-
+Income Tax deduction 
+of 10%
+Rs 55,500 – 10% of Rs 55,500 = 
+Rs 49,950/-
+Income after future prospects 
+of 50%
+Rs 49,950 + 50% of Rs 49,950 = 
+Rs 74,925/-
+Deduction 
+(1/2th for two claimants)
+Rs 74,925/2 = Rs 37,462.5/-
+Multiplier
+18
+Loss of dependency
+Rs 37,462.5 * 18 * 12 = 
+Rs 80,91,900/-
+Loss of Estate
+Rs 15,000/-
+Funeral Expenses
+Rs 15,000/-
+TOTAL COMPENSATION
+Rs. 81,21,900/-
+10.	 Aggrieved by the said award, the insurer preferred MAC.APP. No. 
+79 of 2018 before the High Court under Section 173 of the MV Act, 
+
+[2026] 7 S.C.R. 
+201
+The Oriental Insurance Company Limited v. Kalu Ram and Others
+principally contending that the Tribunal erred in fastening negligence 
+upon the truck driver and in assessing the income of the deceased 
+on hypothetical considerations, resulting in an excessive award. 
+The claimants, on the other hand, preferred MAC.APP. No. 702 of 
+2018 seeking enhancement of compensation on the ground that the 
+future earning potential of the deceased had not been adequately 
+assessed.
+11.	 Both appeals were heard together and came to be dismissed by the 
+High Court by the impugned common judgment dated 08.08.2022. 
+The High Court affirmed the finding of the Tribunal that the truck had 
+been negligently stationed on the road without warning indicators 
+and upheld the conclusion that there was no contributory negligence 
+on the part of the Wagon-R driver. The High Court also found 
+the assessment of compensation to be just and reasonable and, 
+consequently, maintained the award in its entirety. 
+12.	 It is in these circumstances that the insurer has approached this Court 
+assailing the concurrent findings on negligence and the quantum 
+of compensation, whereas the claimants seek enhancement of the 
+compensation awarded, giving rise to the present cross-appeals for 
+consideration.
+13.	 Having heard learned counsel for the parties and upon perusal of the 
+material on record, the controversy in the present cross-appeals lies 
+in a narrow compass. The insurer questions the concurrent finding 
+of negligence returned by the Tribunal and affirmed by the High 
+Court, besides assailing the quantum of compensation awarded. The 
+claimants, on the other hand, seek enhancement of compensation on 
+the ground that the future earning potential of the deceased was not 
+adequately assessed and that compensation under the conventional 
+heads has not been fully granted.
+14.	 Insofar as the question of negligence is concerned, we find no 
+reason to take a view different from that concurrently taken by the 
+Tribunal and the High Court. The evidence on record, particularly 
+the testimony of Nikhil Kumar Jain, who himself was an injured 
+eyewitness to the occurrence, establishes that the offending truck 
+had been stationed on the road without parking lights, indicators, 
+reflectors or any cautionary signs. The accident having occurred at 
+about 3:00 a.m., the absence of such warning measures assumes 
+significance. The said testimony has remained materially unshaken.
+
+202
+[2026] 7 S.C.R.
+Supreme Court Reports
+15.	 The defence set up by the driver and owner of the offending truck 
+was that the vehicle had suffered puncture in its rear tyres and had 
+been stationed on the extreme left side of the road. However, neither 
+the driver nor the owner entered the witness box to substantiate such 
+plea. In the absence of any evidence from the side of the truck driver, 
+the Tribunal was justified in drawing an adverse inference against 
+them. The site photographs and the attendant circumstances also 
+do not support the case that the truck had been stationed with due 
+care and caution.
+16.	 The mere fact that the Wagon-R collided with the truck from behind 
+cannot, by itself, lead to an inference of negligence on the part of its 
+driver. The issue of negligence has to be examined in the totality of 
+circumstances. A stationary vehicle occupying the road in the dead 
+of night without any warning indication poses an evident hazard to 
+road users. The Tribunal and the High Court have, on appreciation 
+of the evidence, rightly concluded that the proximate cause of the 
+accident was the negligent act of the truck driver in leaving the vehicle 
+unattended on the road without adequate precautionary measures.
+17.	 The submission on behalf of the insurer that the accident was 
+occasioned due to rash and negligent driving of the Wagon-R 
+and that the case was one of contributory negligence does not 
+merit acceptance. Save and except the plea raised in the written 
+statement, no evidence worth the name has been adduced to 
+establish negligence on the part of the driver of the Wagon-R. In 
+the absence of cogent material, the plea of contributory negligence 
+cannot be accepted on mere conjecture.
+18.	 It is well settled that this Court, in exercise of jurisdiction under 
+Article 136 of the Constitution of India, does not ordinarily interfere 
+with concurrent findings of fact unless such findings are shown to 
+be perverse, manifestly erroneous or based on no evidence. We find 
+none of these infirmities in the present case. The challenge laid by 
+the insurer to the finding of negligence therefore deserves to fail.
+19.	 Turning to the issue of quantum, we find that the Tribunal took due 
+notice of the educational advancement of the deceased, who was 
+pursuing CA (Final) and undergoing articleship at the relevant time. 
+The actual stipend received by the deceased during articleship was 
+brought on record as in the range of Rs. 3,595/- to Rs. 14,410/- per 
+month. However, instead of confining the assessment to the proved 
+
+[2026] 7 S.C.R. 
+203
+The Oriental Insurance Company Limited v. Kalu Ram and Others
+income, the Tribunal proceeded to determine the monthly income of 
+the deceased at Rs. 55,500/- by taking into account his educational 
+progression, professional prospects and likely career advancement. 
+The High Court, upon reappreciation, found such methodology to 
+be fair and reasonable.
+20.	 Upon examining the methodology adopted by the Tribunal in 
+computing compensation, as affirmed by the High Court, we find 
+that while determining the monthly income of the deceased at 
+Rs.  55,500/-, the Tribunal had already departed from the actual 
+stipend proved on record and proceeded to assess the income 
+by taking into account the deceased’s professional prospects and 
+educational progression, his imminent entry into the profession of 
+CA and the likely increase in earning capacity attendant thereto. 
+In other words, the multiplicand itself was arrived at on a forward-
+looking assessment of the deceased’s professional future. In National 
+Insurance Company Limited vs. Pranay Sethi and Others7, this 
+Court has explained that the addition towards future prospects is 
+intended to be made to the established income of the deceased so 
+as to account for the normal rise in income over time, and even in 
+the case of self-employed or fixed-salary individuals, such addition 
+is structured as a standardised percentage over the proven income. 
+In the present case, apart from this aspect of calculation of future 
+income of deceased, a further addition of 50% towards future 
+prospects on the same foundation has been awarded by the Tribunal. 
+The adjudication of compensation in the present matter cannot be 
+viewed in sterile mathematical terms alone detached from human 
+element underlying such claims. The case before us concerns the 
+loss of a young life with promising professional potential, and the 
+determination of compensation under the MV Act is ultimately guided 
+by the principle of awarding ‘just compensation’. This principle is not 
+one of exact mathematical equivalence, rather it is an attempt by 
+the law to provide a measure of solace, within human limitations, to 
+those who have suffered an irreparable loss. In the present case, a 
+young student has died on the threshold of a professional career, 
+whose life and potential stand extinguished forever. The claimants 
+are parents who lost their young son in an accident that occurred in 
+the year 2013 and the award was rendered by the Tribunal in 2017. 
+7	
+(2017) 16 SCC 680 at Para 54 to 57
+
+204
+[2026] 7 S.C.R.
+Supreme Court Reports
+For nearly a decade, the compensation determined by the Tribunal 
+and affirmed by the High Court has held the field. 
+21.	 Though this Court undoubtedly possesses the jurisdiction to interfere 
+where computation results in manifest excess or legal infirmity, the 
+exercise of such power must ultimately subserve the ends of justice. 
+In the facts of the present case, we are of the considered view that 
+reducing the compensation payable to the claimants at this stage on 
+account of what is essentially a technical overlap in the methodology 
+adopted by the Tribunal would not advance the cause of substantive 
+justice. The loss suffered by the parents of the deceased cannot 
+be measured with arithmetical precision, and the compensation 
+awarded, viewed holistically, cannot be said to transgress the bounds 
+of ‘just compensation’ under the MV Act. The beneficial character 
+of the legislation, the long passage of time since the accident, the 
+concurrent assessment made by the Tribunal and the High Court, and 
+the impossibility of placing a precise monetary value upon the loss of 
+a young life, together persuade us not to disturb the compensation 
+awarded towards loss of dependency. Viewed holistically, we are 
+of the considered view that no interference is called for with the 
+compensation awarded towards loss of dependency.
+22.	 It is no doubt true, as we have emphasised in the preceding 
+paragraphs, that the determination of compensation under the MV 
+Act is guided by the principle of awarding ‘just compensation’, which 
+must account for the future prospects of the deceased. At the same 
+time, such determination cannot travel into the realm of conjecture. 
+In the present case, while there was evidence of the stipend being 
+earned by the deceased, no cogent material was placed on record 
+to establish the alleged income from private tuition. Equally, the 
+assertion of the claimants that the deceased would certainly qualify 
+as a Chartered Accountant and thereafter earn substantially higher 
+income remains a matter of future uncertainty. Compensation cannot 
+be founded on assumptions of assured professional success or on 
+salary benchmarks of unrelated successful professionals.
+23.	 In fact, as stated earlier, the Tribunal has already taken an exceptionally 
+liberal and beneficial view in favour of the claimants by not restricting 
+the assessment to the actual proved income and by adopting a 
+substantially enhanced benchmark reflective of the deceased’s future 
+earning potential. Such determination was not arrived at in vacuum, 
+rather the Tribunal had examined the oral and documentary evidence 
+
+[2026] 7 S.C.R. 
+205
+The Oriental Insurance Company Limited v. Kalu Ram and Others
+led by the claimants, including the testimony of Dr. Surender Pal 
+(PW-3), Joint Director, along with other witnesses, while assessing 
+the future earning potential of the deceased. That exercise, in our 
+considered view, sufficiently accounts for the professional promise 
+of the deceased and leaves no room for further enhancement on the 
+aspect of loss of dependency. We say so especially on the peculiar 
+facts of this case. Any further increase on that basis would cease 
+to be compensatory and would enter the impermissible domain 
+of speculation. At the same time, while it has been argued by the 
+insurer that the compensation so assessed appears to be on the 
+higher side considering that the accident took place in 2013, we are 
+not inclined to interfere with the same by reducing the award under 
+any heads. The life of a young individual and the loss suffered by 
+his family cannot be measured in precise monetary terms, and the 
+determination of ‘just compensation’ under the MV Act does not 
+admit of mathematical exactitude. 
+24.	 However, upon examining the award of the Tribunal, as affirmed by 
+the High Court, we find that no amount has been awarded under 
+the conventional head of consortium. In Pranay Sethi (supra), this 
+Court recognised consortium as one of the conventional heads under 
+which compensation is required to be awarded in cases of death.8 The 
+said principle has thereafter been explained and expanded by this 
+Court in Magma General Insurance Company Limited vs. Nanu 
+Ram alias Chuhru Ram and Others9 to include the entitlement of 
+parents in the case of death of an unmarried son or daughter under 
+the head of ‘filial consortium’.
+25.	 The MV Act being a beneficial legislation, the duty of the Court is 
+to ensure that just compensation is awarded, even if a legitimate 
+conventional head has been omitted by the courts below. In the facts 
+of the present case, the claimants, being the parents of the deceased 
+unmarried son, are entitled to compensation under the head of ‘filial 
+consortium’. The omission of the Tribunal and the High Court in this 
+regard requires correction.
+26.	 Accordingly, in addition to the compensation already awarded, the 
+claimants shall be entitled to an amount of Rs. 40,000/- each towards 
+8	
+As per Para 46, 52 and 59.8 of Pranay Sethi judgment.
+9	
+(2018) 18 SCC 130 at Para 21 to 24
+
+206
+[2026] 7 S.C.R.
+Supreme Court Reports
+filial consortium, in terms of the principles, governing compensation 
+under the conventional heads, as laid down in Pranay Sethi (supra). 
+27.	 In view of the foregoing discussion, we reach to the following 
+conclusion:
+a)	
+The Appeal preferred by the insurer is dismissed. 
+b)	
+The Appeal preferred by the claimants is partly allowed to the 
+limited extent indicated above. Accordingly, the compensation 
+awarded by the Tribunal, as affirmed by the High Court, shall 
+stand enhanced by an amount of Rs. 80,000/- towards filial 
+consortium, payable to the claimants in equal measure, together 
+with interest at the rate awarded by the Tribunal.
+28.	 Consequently, in terms of the findings recorded hereinabove, the 
+compensation awarded by the Tribunal, as affirmed by the High 
+Court, stands modified. The revised computation of compensation 
+is set out hereunder:
+HEADS
+MACT
+HIGH COURT
+THIS COURT
+Monthly Income
+Rs. 55,500/-
+Upheld the 
+award of 
+MACT
+Confirmed 
+with further 
+addition as 
+below
+Income Tax 
+deduction of 10%
+Rs 55,500 – 10% 
+of Rs 55,500 = 
+Rs 49,950/-
+Income after 
+future prospects 
+of 50%
+Rs 49,950 + 50% 
+of Rs 49,950 = 
+Rs 74,925/-
+Deduction (1/2th 
+for two claimants)
+Rs 74,925/2 = Rs 
+37,462.5/-
+Multiplier
+18
+Loss of 
+dependency
+Rs 37,462.5 x 
+18 * 12 = Rs 
+80,91,900/-
+Loss of Estate
+Rs 15,000/-
+Funeral Expenses
+Rs 15,000/-
+Loss of Filial 
+Consortium 
+(Parents/
+Claimants)
+Not considered
+Rs 40,000 x 2 
+= Rs 80,000/-
+TOTAL 
+COMPENSATION
+Rs. 81,21,900/-
+Rs. 
+82,01,900/-
+
+[2026] 7 S.C.R. 
+207
+The Oriental Insurance Company Limited v. Kalu Ram and Others
+29.	 The amount awarded under the conventional heads, namely, loss of 
+consortium, loss of estate and funeral expenses, should be enhanced 
+at the rate of 10% in every three years.10
+30.	 Accordingly, the total compensation payable to the claimants shall 
+stand enhanced from Rs. 81,21,900/- to Rs. 82,01,900/- along with 
+interest in terms of the award of the Tribunal. The insurer shall 
+deposit the enhanced amount before the Tribunal within a period of 
+four weeks from today.
+31.	 The Appeals are decided in the above terms.
+Result of the case: Appeal by the insurer dismissed.
+Appeal by the claimants partly allowed.
+†Headnotes prepared by: Nidhi Jain
+10 
+As per Para 59.8 of Pranay Sethi judgment.

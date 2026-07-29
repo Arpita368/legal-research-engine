@@ -1,0 +1,613 @@
+[2026] 2 S.C.R. 270 : 2026 INSC 106
+Rajia Begum
+v.
+Barnali Mukherjee
+(Civil Appeal No. 674 of 2026)
+02 February 2026
+[Pamidighantam Sri Narasimha and Alok Aradhe,* JJ.]
+Issue for Consideration
+Whether the disputes can be referred to arbitration or an arbitrator 
+can be appointed when the very existence of arbitration agreement 
+itself is seriously disputed on the allegations of forgery and 
+fabrication; whether in the factual matrix of the case, the disputes 
+between the parties could have been referred to the arbitration u/s.8 
+of the Arbitration and Conciliation Act, 1996 and correspondingly 
+whether the High Court was justified in declining the appointment 
+of an arbitrator u/s.11 of the 1996 Act.
+Headnotes†
+Arbitration and Conciliation Act, 1996 – Impact of fraud 
+on arbitrability of a dispute – Present appeals arise from a 
+partnership dispute in which Respondent no.1 (in CA No.675 of 
+2026) claimed entry into the firm relying on an Admission Deed, 
+and as foundation of arbitration agreement, whose execution 
+is denied and is alleged to be forged by the Appellant therein – 
+High Court on the same factual foundation involving the same 
+alleged arbitration agreement, has in one proceeding directed 
+the parties to resolve their disputes through arbitration and 
+in another proceeding, declined to appoint an arbitrator on 
+the ground, that the existence of the arbitration agreement is 
+itself in serious doubt – Challenge to:
+Held: When an allegation of fraud is made with regard to arbitration 
+agreement itself, such a dispute is generally recognised as a 
+dispute, which is in the realm of non-arbitrability and the court 
+will examine it, as a jurisdictional issue only to enquire whether 
+the dispute has become non-arbitrable due to one or the other 
+reason – In the present case, admission Deed is not genuine – There 
+exists substantial and cogent material which casts serious doubt 
+* Author
+
+[2026] 2 S.C.R. 
+271
+Rajia Begum v. Barnali Mukherjee
+on the genuineness of the Admission Deed – Arbitration clause 
+does not exist independently but is embedded in the document 
+whose existence is seriously disputed – The dispute relating to the 
+Admission Deed involves serious allegations going to the root of 
+the arbitration agreement itself and is not amenable to arbitration 
+at this stage – Arbitration is founded upon consent – A party may 
+be bound by the arbitral process only if it is first shown, even at a 
+prima facie level, that such a party had agreed to submit disputes 
+to arbitration – Where the arbitration agreement itself is alleged to 
+be forged or fabricated, the disputes cease to be merely contractual 
+and strikes at the very root of arbitral jurisdiction – A controversy 
+of this nature falls squarely within the category of disputes that 
+are generally recognized as non-arbitrable – Order passed by the 
+High Court allowing the respondent no.1’s application u/s.8 of the 
+Act referring the dispute in Suit to be resolved through arbitration 
+is unsustainable and is quashed and set aside – Order of the High 
+Court rejecting the respondent no.1’s application u/s.11 of the Act 
+for the appointment of arbitrator warrants no interference and is 
+affirmed. [Paras 15, 16, 20, 24]
+Fraud – Arbitration and Conciliation Act, 1996 – Impact of 
+fraud on arbitrability of a dispute:
+Held: Mere allegation of fraud simpliciter may not be a ground to 
+nullify the arbitration agreement between the parties, but where 
+the court finds that there are serious allegations of fraud which 
+make a case of criminal offence or where the allegations of fraud 
+are so complicated, which need to be decided on the basis of 
+voluminous evidence, the court can sidetrack the arbitration 
+agreement and proceed with the suit – Court can proceed with 
+the suit in cases where the fraud is alleged against the arbitration 
+provision itself or is of a such a nature which permeates the entire 
+contract, including the agreement to arbitrate, meaning thereby in 
+those cases where fraud goes to the validity of the contract itself 
+which contains an arbitration clause or the validity of the arbitration 
+clause itself. [Para 12]
+Constitution of India – Article 227 – Arbitration and Conciliation 
+Act, 1996:
+Held: Both the Trial Court and the First Appellate Court had 
+concurrently held that the allegations of fraud in the present 
+case were serious and that the respondent no.1 had failed to 
+
+272
+[2026] 2 S.C.R.
+Supreme Court Reports
+produce the original Admission Deed or a certified copy thereof, 
+as required u/s.8(2) of the Act – The aforesaid findings were not 
+perfunctory, but were grounded in the material on record and in 
+the statutory requirements – Supervisory jurisdiction of the High 
+Court under Article 227 of the Constitution is not an appellate 
+jurisdiction in disguise, and it does not permit reappreciation 
+of evidence – High Court, while exercising jurisdiction under 
+Article 227 of the Constitution, was not justified in dislodging 
+the concurrent findings and directing reference of the dispute to 
+arbitration, particularly when the very existence of the arbitration 
+agreement was under serious doubt – Conversely, the High Court 
+was correct in dismissing the respondent no.1’s application u/s.11 
+of the 1996 Act – When the existence of the arbitration agreement 
+itself is in serious dispute and requires adjudication, appointment 
+of an arbitrator would be premature and legally impermissible. 
+[Paras 21-23]
+Arbitration and Conciliation Act, 1996 – s.9 – Appellant (in 
+CA No.675 of 2026), respondent no.2 and respondent no.3, 
+constituted a partnership firm – Respondent no.1 issued 
+notice to the appellant and relied upon an Admission Deed as 
+the source of her induction into the firm and as foundation of 
+arbitration agreement – Appellant denied the execution of the 
+Admission Deed and stated that Admission Deed is a forged 
+and fabricated document – Respondent no.1 applied to the 
+Trial Court u/s.9, 1996 Act, allowed by Trial Court – Appeal 
+filed by the appellant, allowed by High Court – Appeal filed by 
+respondent no.1, dismissed by Supreme Court and the order 
+of the High Court rejecting the application of the respondent 
+no.1 u/s.9 of the Act, attained finality – Appellant filed civil 
+suit inter alia seeking a declaration that the ‘Admission Deed’ 
+is a forged document; respondent no.1 filed application u/s.8 
+to refer the suit to arbitration – Application dismissed by Trial 
+Court – Appeal thereagainst also dismissed – Revision filed by 
+respondent no.1 – Allowed by High Court, orders of the Trial 
+Court and First Appellate Court set aside, and the dispute in 
+Suit was referred to be resolved through arbitration – Parallelly, 
+respondent no.1 had filed petition u/s.11 for the appointment 
+of an arbitrator – Dismissed by High Court:
+Held: Findings in s.9 proceedings are undoubtedly prima facie in 
+nature, such findings, when they attain finality, cannot be ignored 
+
+[2026] 2 S.C.R. 
+273
+Rajia Begum v. Barnali Mukherjee
+in subsequent proceedings founded on the very same issue – The 
+prima facie satisfaction recorded by the High Court regarding the 
+doubtful existence of the arbitration agreement was, therefore, a 
+relevant consideration while examining applications u/ss.8 and 11 
+of the Act. [Para 19]
+Case Law Cited
+A. Ayyasamy v. A Paramasivam & Others, 2016 INSC 948 : [2016] 
+11 SCR 521; Rashid Raza v. Sadaf Akhtar, 2019 INSC 1002 : [2019] 
+12 SCR 460; Vidya Drolia & Ors. v. Durga Trading Corporation, 
+2020 INSC 697 : [2020] 11 SCR 1001; N.N. Global Mercantile 
+Pvt. Ltd. v. Indo Unique Flame Ltd. [2021] 4 SCR 933 : (2021) 
+4 SCC 379; Avitel Post Studioz Ltd. & Ors. v. HSBC PI Holdings 
+(Mauritius) Ltd., 2024 INSC 242 : [2024] 3 SCR 971; Sushma 
+Shivkumar Daga & Anr. v. Madhurkumar Ramkrishnaji Bajaj & 
+Ors. 2023 INSC 1081 : [2023] 15 SCR 909; K. Mangayarkarasi 
+& Anr. v. N.J. Sundaresan & Anr., 2025 INSC 687 : [2025] 5 SCR 
+1199; ITI Ltd. v. Siemens Public Communications Network Ltd., 
+2002 INSC 282 : [2002] 3 SCR 1122; Nirma Ltd. v. Lurgi Lentjes 
+Energietechnik GMBH, 2002 INSC 23 : [2002] 3 SCR 911; Deep 
+Industries Ltd. v. Oil and Natural Gas Corporation Ltd. & Anr., 
+2019 INSC 1299 : [2019] 17 SCR 995; Bhaven Construction v. 
+Executive Engineer, Sardar Sarovar Narmada Nigam Ltd. 2021 
+INSC 9 : [2021] 1 SCR 1; SBP & Co. v. Patel Engineering Ltd. 
+and Anr., 2005 INSC 526 : [2005] Supp. 4 SCR 688; Managing 
+Director Bihar State Food and Civil Supply Corporation Limited 
+and Another v. Sanjay Kumar, 2025 INSC 933 : [2025] 8 SCR 
+1551 – referred to.
+List of Acts
+Arbitration and Conciliation Act, 1996; Constitution of India.
+List of Keywords
+Allegation of fraud is made with regard to arbitration agreement; 
+Arbitrability in cases involving allegations of serious fraud; Impact 
+of fraud on arbitrability of a dispute; Existence of arbitration 
+agreement itself is seriously disputed on the allegations of 
+forgery and fabrication; Dispute non-arbitrable; Admission Deed; 
+Admission Deed foundation of arbitration agreement; Admission 
+Deed not genuine; Serious doubt on the genuineness of the 
+
+274
+[2026] 2 S.C.R.
+Supreme Court Reports
+Admission Deed; Existence of the arbitration agreement under 
+serious doubt; Doubtful existence of the arbitration agreement; 
+Existence of the arbitration agreement itself is in serious dispute; 
+Dispute relating to Admission Deed involves serious allegations; 
+Allegations going to the root of the arbitration agreement itself; 
+Allegations of forgery and fabrication; Not amenable to arbitration; 
+Supervisory jurisdiction of the High Court under Article 227 of 
+the Constitution.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 674 of 2026
+From the Judgment and Order dated 11.03.2021 of the High Court 
+at Calcutta in AP No. 350 of 2018
+With
+Civil Appeal No. 675 of 2026
+Appearances for Parties
+Advs. for the Appellant(s):
+Siddhartha Dave, Shailesh Madiyal, Sr. Advs., Aakash Sirohi, 
+Indra Lal, Subhojit Seal, Sunando Raha, Sk Sayan Uddin, 
+Ms. Manishitha Bhattacharjee, Aviral Saxena.
+Advs. for the Respondent(s):
+Siddhartha Dave, Shailesh Madiyal, Sr. Advs., Subhojit Seal, 
+Sunando Raha, Aviral Saxena, Aakash Sirohi, Indra Lal.
+Judgment / Order of the Supreme Court
+Judgment
+Alok Aradhe, J.
+Leave granted.
+2.	
+The present appeals arise from a partnership dispute in which 
+appellant claims entry into the firm by virtue of a document whose 
+execution is stoutly denied and is alleged to be forged. The High 
+Court on the same factual foundation involving the same alleged 
+arbitration agreement, has in one proceeding directed the parties 
+to resolve their disputes through arbitration and whereas in another 
+
+[2026] 2 S.C.R. 
+275
+Rajia Begum v. Barnali Mukherjee
+proceeding, declined to appoint an arbitrator on the ground, that 
+the existence of an arbitration agreement is itself in serious doubt. 
+A common issue namely, whether the disputes can be referred 
+to arbitration or an arbitrator can be appointed when the very 
+existence of arbitration agreement itself is seriously disputed on 
+the allegations of forgery and fabrication, arises for consideration 
+in these appeals.
+(i)	
+NARRATION OF FACTS
+3.	
+The appellant, Barnali Mukherjee, in the appeal @ SLP (C) No. 
+20262 of 2021 (appellant), Aftabuddin (respondent no.2) and Raihan 
+Ikbal (respondent no.3), constituted a partnership firm styled as ‘M/s 
+RDDHI Gold’ (firm) by virtue of partnership deed dated 01.12.2005. 
+Rajia Begum (respondent no.1) claims that the respondent nos.2 and 
+3 executed a power of attorney on 17.04.2007 empowering her to 
+manage the affairs of the firm on their behalf pursuant to which she 
+executed a deed of admission and retirement (Admission Deed) by 
+which respondent nos.2 and 3 retired from the firm. 
+4.	
+The appellant contends that the business of the reconstituted 
+partnership firm was absorbed and taken over by a company named 
+‘RDDHI Gold Pvt. Ltd.’ (company) pursuant to the absorption deed 
+dated 27.02.2011. On 02.10.2016, the respondent no.1 issued a 
+notice to the appellant asserting that, on the basis of the aforesaid 
+Admission Deed dated 17.04.2007, she had acquired an interest 
+to the extent of 50.33% in the erstwhile partnership firm and that 
+respondent nos.2 and 3 had retired as partners in 2007 itself. 
+The appellant by reply dated 21.11.2016, categorically denied the 
+execution of the Admission Deed by her or by the other respondents 
+and further denied the very induction of the respondent no.1 in the 
+firm as a partner at any point in time. Thus, the appellant took a 
+stand that the Admission Deed is a forged and fabricated document, 
+concocted by the respondent no.1.
+(ii)	 APLICATION UNDER SECTION 9 OF THE ACT
+5.	
+The respondent no.1 applied to the Trial Court under Section 9 of 
+the Arbitration and Conciliation Act, 1996 (Act), for preservation of 
+the subject matter of dispute and for appointment of receiver for the 
+Company which came to be allowed by the Trial Court. The High 
+
+276
+[2026] 2 S.C.R.
+Supreme Court Reports
+Court, by an order dated 04.05.2018, allowed the appeal filed by 
+the appellant inter alia finding that the very existence/execution of 
+the ‘Admission Deed’ is in dispute and, in view of the availability 
+of cogent material which would indicate the non-existence of the 
+Admission Deed, it would not be prudent on the part of the Court 
+exercising jurisdiction under Section 9 of the Act, to accord interim 
+protection to the respondent no.1 who has failed to demonstrate 
+the existence of an arbitration agreement in a prima facie manner. 
+Aggrieved by the order of the High Court dated 04.05.2018, the 
+respondent no.1 preferred an Appeal to this Court which came to be 
+dismissed. Thus, the said order of the High Court dated 04.05.2018, 
+rejecting the application of the respondent no.1 under Section 9 of 
+the Act, attained finality between the parties.
+(iii)	 APPLICATION UNDER SECTION 8 OF THE ACT
+6.	
+The appellant, on 16.05.2018, filed a civil suit bearing No.71/2018 
+before the competent civil court seeking the relief of declaration and 
+injunction against the respondent no.1 inter alia seeking a declaration 
+that the ‘Admission Deed’ is a forged document. The respondent 
+no.1, in the said suit, preferred an application to the Trial Court 
+under Section 8 of the Act, to refer the suit to arbitration, owing 
+to the existence of an arbitration agreement between the parties 
+in respect of disputes concerning the ‘Admission Deed’. The said 
+application preferred by the respondent no.1, under Section 8 of 
+the Act, came to be dismissed by the Trial Court vide order dated 
+06.09.2018 which inter alia held that the allegations of fraud relating 
+to the validity of the impugned Admission Deed were complicated 
+in nature and that the respondent no.1 had failed to produce either 
+the original Admission Deed or a certified copy thereof. 
+7.	
+The respondent no.1 preferred an appeal against the said Order 
+dated 06.09.2018, before the Additional District Judge, who also 
+dismissed the appeal in terms of the order dated 25.09.2020. Being 
+aggrieved, the respondent no.1 further preferred a revision under 
+Article 227 of the Constitution to the High Court, which by order 
+dated 24.09.2021 set aside the orders of the Trial Court and the First 
+Appellate Court, and allowed the revision filed by the respondent 
+no.1 by referring the dispute in Suit No.71/2018 to be resolved 
+through arbitration.
+
+[2026] 2 S.C.R. 
+277
+Rajia Begum v. Barnali Mukherjee
+(iv)	 APPLICATION UNDER SECTION 11 OF THE ACT
+8.	
+Parallelly, when the aforesaid proceedings under Sections 8 and 9 
+were ongoing, the respondent no.1 had also filed a petition under 
+Section 11 of the Act before the High Court, seeking appointment 
+of an arbitrator for resolving the disputes between the parties 
+which had arisen in terms of the arbitration clause contained in 
+the ‘Admission Deed’. The High Court dismissed the petition filed 
+by the respondent No.1, under Section 11 of the Act, by order 
+dated 11.03.2021, inter alia holding that it would not be expedient 
+to appoint an arbitrator till such time that the issue regarding the 
+existence of an arbitration agreement between the parties has 
+been answered finally. In the appeal @ SLP (c) No.6013 of 2021, 
+the respondent no.1 has challenged the judgment and order dated 
+11.03.2021 by which her application under Section 11 of the Act 
+has been dismissed. In the appeal @ SLP (C) No.20262 of 2021, 
+the appellant has assailed the judgment dated 24.09.2021 by 
+which petition filed by the respondent no.1 under Article 227 was 
+allowed and the title suit filed by the appellant was referred to 
+arbitration. 
+(v)	 SUBMISSIONS
+9.	
+The learned counsel for respondent no.1 submitted that the 
+observations made by the High Court while deciding an appeal, 
+arising out of an order under Section 9 of the Act, are only for the 
+purposes of deciding the appeal and it has been clarified that the 
+views expressed in the order are tentative and should not prejudice 
+the respondent no.1 in any other proceeding. Alternatively, it is 
+contended that prima facie observation on the existence of arbitration 
+agreement made in an appeal, arising out of an order under Section 
+9 of the Act, cannot affect the jurisdiction of the Court under Section 
+11 of the Act. It is urged that the dispute pertains to allegations of 
+fraud challenging the arbitration agreement itself, is arbitrable and 
+well within the jurisdiction of the arbitrator. It is submitted that the 
+High Court, in exercise of supervisory powers under Article 227, 
+has rightly set aside the orders passed by the Trial Court and the 
+Appellate Court. It is, therefore, contended that the dispute be 
+referred to the arbitration by appointing an arbitrator and the order 
+dated 24.09.2021 passed by the High Court under Article 227 be 
+
+278
+[2026] 2 S.C.R.
+Supreme Court Reports
+maintained. In support of the aforesaid submissions, reliance has 
+been placed on the decisions of this Court1. 
+10.	 On the other hand, learned senior counsel for the appellant submitted 
+that the Admission Deed is forged and fabricated document and there 
+is no privity of contract between the parties. It is submitted that the 
+High Court in its order dated 04.05.2018 has categorically recorded 
+a finding that the Admission Deed is not a genuine document. It 
+is submitted that the material on record does not indicate that the 
+respondent no.1 has acted as a partner since 2007 till date. It is 
+contended that the Admission Deed is a manufactured and a forged 
+document. It is argued that the High Court erred in interfering with 
+the orders passed by the Trial Court and the Appellate Court in 
+exercise of powers under Article 227 of the Constitution of India. In 
+support of the aforesaid submissions, reliance has been placed on 
+the decisions of this Court2.
+(vi)	 ISSUE
+11.	 We have bestowed our consideration upon rival submissions and 
+have carefully traversed the record placed before us. The central 
+question which emerges for our determination is whether in the 
+factual matrix of the case, the disputes between the parties could 
+have been referred to the arbitration under Section 8 of the Act and 
+correspondingly whether the High Court was justified in declining the 
+appointment of an arbitrator under Section 11 of the Act. 
+(vii)	 IMPACT OF FRAUD ON ARBITRABILITY
+12.	 The legal position with regard to the impact of fraud on arbitrability 
+of a dispute under the Act is well delineated by decisions of this 
+Court. A two-Judge Bench of this Court3 held that mere allegation 
+1	
+A. Ayyasamy v. A Paramasivam & Others (2016) 10 SCC 386; Rashid Raza v. Sadaf Akhtar (2019) 8 
+SCC 710; Vidya Drolia & Ors. v. Durga Trading Corporation (2021) 2 SCC 1; N.N. Global Mercantile 
+Pvt. Ltd. v. Indo Unique Flame Ltd. (2021) 4 SCC 379; Avitel Post Studioz Ltd. & Ors. v. HSBC PI 
+Holdings (Mauritius) Ltd. (2021) 4 SCC 713; Sushma Shivkumar Daga & Anr. v. Madhurkumar 
+Ramkrishnaji Bajaj & Ors. (2024) 12 SCC 253; K. Mangayarkarasi & Anr. v. N.J. Sundaresan & Anr. 
+(2025) 8 SCC 299; ITI Ltd. v. Siemens Public Communications Network Ltd. (2002) 5 SCC 510; 
+Nirma Ltd. v. Lurgi Lentjes Energietechnik GMBH (2002) 5 SCC 520; Deep Industries Ltd. v. Oil 
+and Natural Gas Corporation Ltd. & Anr. (2020) 15 SCC 706 and Bhaven Construction v. Executive 
+Engineer, Sardar Sarovar Narmada Nigam Ltd. (2022) 1 SCC 75.
+2	
+A. Ayyasamy (supra); Vidya Drolia & Ors. (supra); SBP & Co. v. Patel Engineering Ltd. and Anr. 
+(2005) 8 SCC 618 and Deep Industries Ltd. (supra). 
+3	
+A. AYYASAMY v. A. PARAMASIVAM AND OTHERS (supra)
+
+[2026] 2 S.C.R. 
+279
+Rajia Begum v. Barnali Mukherjee
+of fraud simpliciter may not be a ground to nullify the arbitration 
+agreement between the parties, but where the court finds that there 
+are serious allegations of fraud which make a case of criminal offence 
+or where the allegations of fraud are so complicated, which need 
+to be decided on the basis of voluminous evidence, the court can 
+sidetrack the arbitration agreement and proceed with the suit. It has 
+further been held that the court can proceed with the suit in cases 
+where the fraud is alleged against the arbitration provision itself or 
+is of a such a nature which permeates the entire contract, including 
+the agreement to arbitrate, meaning thereby in those cases where 
+fraud goes to the validity of the contract itself which contains an 
+arbitration clause or the validity of the arbitration clause itself. 
+13.	 The aforesaid principle was referred to with approval, by another 
+two-Judge Bench of this Court4 and two working tests were laid down 
+for determining serious allegations of fraud, which would render the 
+subject matter of an agreement non-arbitrable namely, (1) does this 
+plea permeate the entire contract and above all, the agreement of 
+arbitration, rendering it void, or (2) whether the allegations of fraud, 
+touch upon the internal affairs of the parties, inter se having no 
+implication in the public domain. It was further held that the first test 
+is satisfied only when it can be said that the arbitration clause or 
+agreement itself cannot be said to exist in a clear case in which the 
+court finds that the party against whom breach is alleged cannot be 
+said to have entered into the agreement relating to arbitration at all. 
+Thus, in a case where plea is taken with regard to non-existence 
+of an arbitration clause or agreement, the same would amount to 
+serious allegation of fraud and would render the subject matter of 
+an agreement non-arbitrable.
+14.	 Recently, a two-Judge Bench of this Court in Managing Director 
+Bihar State Food and Civil Supply Corporation Limited5 (to 
+which one of us P.S. Narasimha, J. was a party) took note of the 
+previous decisions of this Court6 and restated the principles governing 
+4	
+AVITEL POST STUDIOZ LIMITED AND OTHERS v. HSBC PI HOLDINGS (MAURITIUS) LTD. (supra)
+5	
+Managing Director Bihar State Food and Civil Supply Corporation Limited and Another v. Sanjay 
+Kumar, 2025 SCC OnLine SC 1604
+6	
+A. Ayyasamy (supra), Lalchand Shah v. Rishabh Enterprises (2018) 15 SCC 678, Rashid Raza v. 
+Sadaf Akhtar (2019) 8 SCC 710 and Avitel Post Studioz Limited And Others (supra)
+
+280
+[2026] 2 S.C.R.
+Supreme Court Reports
+arbitrability in cases involving allegations of serious fraud. The relevant 
+extract of para 21 of the decision in Managing Director (supra) is 
+extracted below:- 
+“21. In view of our decision, it is unnecessary to delve 
+deep on this issue, but sufficient to restate the law on the 
+subject. The position of law as it applies to initiation of 
+arbitral proceedings in the teeth of allegations of criminality 
+involved in the dispute, where criminal proceedings are 
+either pending or to be initiated is considered in several 
+decisions of this Court. In A. Ayyasamy v. A. Paramasivam, 
+this Court has considered the matter in detail and laid down 
+certain principles. As the relevant portions of the decision in 
+Ayyasamy (supra) have been extracted in the subsequent 
+decisions of this Court in Ameet Lalchand Shah v. Rishabh 
+Enterprises, Rashid Raza v. Sadaf Akhtar, and Avitel Post 
+Studioz Limited v. HSBC PI Holdings (Mauritius) Limited, we 
+are of the opinion that our judgment need not be burdened 
+by extracting excerpts from the judgment all over again. 
+Instead, we seek to restate the principles as follows:—
+XXX 
+XXX 
+XXX
+VI. “Serious allegations of fraud” is to be understood in 
+the context of facts. In Rashid Raza (supra) this Court 
+laid down two tests. The first test is satisfied only when 
+it can be said that the arbitration clause or agreement 
+itself cannot be said to exist in a clear case in which the 
+court finds that the party against whom breach is alleged 
+cannot be said to have entered into the agreement relating 
+to arbitration at all. The second test can be said to have 
+been met in cases in which allegations are made against 
+the State or its instrumentalities of arbitrary, fraudulent, or 
+mala fide conduct, thus necessitating the hearing of the 
+case by a writ court in which questions are raised which 
+are not predominantly questions arising from the contract 
+itself or breach thereof, but questions arising in the public 
+law domain.
+XXX 
+XXX 
+XXX
+
+[2026] 2 S.C.R. 
+281
+Rajia Begum v. Barnali Mukherjee
+IX. However, the allegations of fraud with respect to the 
+arbitration agreement itself stand on a different footing. 
+This position is generally recognized as a dispute which is 
+in the realm of non-arbitrability. In such cases, the arbitral 
+tribunal will not examine the allegation of fraud but will 
+consider the submission only for the purpose of examining 
+exclusion of jurisdiction. This principle, in its application, 
+can be seen in the judgment of this Court in Avitel.”
+15.	 Thus, it is evident that when an allegation of fraud is made with regard 
+to arbitration agreement itself, such a dispute is generally recognised 
+as a dispute, which is in the realm of non-arbitrability and the court 
+will examine it, as a jurisdictional issue only to enquire whether the 
+dispute has become non-arbitrable due to one or the other reason.
+(viii)	ANALYSIS
+16.	 In the backdrop of the aforesaid well settled legal position, we may 
+advert to the facts of the case in hand. At the heart of the controversy 
+lies the Admission Deed which is relied upon by respondent no.1 as 
+the source of her induction into the firm and as foundation of arbitration 
+agreement. On a prime facie consideration of the material placed 
+on record, we find that there exists substantial and cogent material 
+which casts serious doubt on the genuineness of the Admission 
+Deed. The following circumstances are of particular relevance: -
+“(i) Respondent No.2, Aftabuddin, is the husband of the 
+respondent no. 1. While the Admission Deed records that 
+Respondent Nos.2 and 3 retired from the partnership on 
+17.04.2007, the respondent No.1 herself admits that her 
+husband continued to function as a partner of the firm 
+from 2005 till 2010. This admission is wholly inconsistent 
+with the recitals of the document relied upon by the 
+respondent No.1.
+(ii) The Admission Deed does not find mention in any 
+contemporaneous documentary record for nearly nine 
+years and surfaced for the first time only on 02.10.2016, 
+when the respondent No.1 issued a legal notice asserting 
+a 50.33% stake in the firm. The complete absence of the 
+document from the documentary trail prior thereto is a 
+circumstance that cannot be lightly brushed aside.
+
+282
+[2026] 2 S.C.R.
+Supreme Court Reports
+(iii) The record further discloses that even after 17.04.2007, 
+the respondent no.1 role in relation to the firm was not 
+that of a partner but was confined to that of a guarantor 
+for financial facilities availed by the firm. This is evident 
+from several contemporaneous documents, including 
+banking correspondent, promissory notes, hypothecation 
+agreements, and letters addressed to Allahabad Bank 
+between 2009 and 2010, all of which consistently portray 
+Respondent Nos.2 and 3 as continuing partners of 
+firm.”
+17.	 It is also of significance that, in proceedings under Section 9 of the 
+Act, the High Court, by order dated 04.05.2018, had recorded a prima 
+facie finding that the existence of the Admission Deed was doubtful 
+and declined to grant interim protection. The relevant extract of the 
+order reads as under: -
+“Even without considering such aspect of the matter, 
+the order impugned cannot be sustained on the simple 
+ground that it was the admitted case of the respondent 
+herein that for a period of more than ten years after the 
+purported execution of the document of April 17, 2007 
+she had not been allowed any access to the partnership 
+business or its books of accounts or given a share of its 
+profits. If a party had not been diligent enough to protect 
+her interest for a period of ten years, the party could not 
+have come to court and expected any positive order by 
+way of interim measure. 
+Since it is evident that the court of the first instance in 
+the present case failed to take relevant considerations 
+into account while coming to an unreasoned tentative 
+finding that the purported deed of April 17, 2007 had been 
+executed by the parties, such order cannot be sustained.”
+18.	 The Special Leave Petition filed against the said order was dismissed 
+by this Court, thereby lending finality to the said prima facie 
+assessment between the parties, in the absence of any subsequent 
+change in circumstances.
+19.	 While findings in Section 9 proceedings are undoubtedly prima facie 
+in nature, such findings, when they attain finality, cannot be ignored 
+
+[2026] 2 S.C.R. 
+283
+Rajia Begum v. Barnali Mukherjee
+in subsequent proceedings founded on the very same issue. The 
+prima facie satisfaction recorded by the High Court regarding the 
+doubtful existence of the arbitration agreement was, therefore, a 
+relevant consideration while examining applications under Sections 8 
+and 11 of the Act. 
+20.	 The cumulative effect of the aforesaid circumstances lends 
+considerable credence to contention of the appellant that the 
+Admission Deed is not genuine. At the very least, the Admission 
+Deed is under grave cloud of doubt, requiring a detailed and full-
+fledged inquiry. In the present case, arbitration clause does not exist 
+independently but is embedded in the document whose existence is 
+seriously disputed. Arbitration, it bears reiteration, is founded upon 
+consent. A party may be bound by the arbitral process only if it is 
+first shown, even at a prima facie level, that such a party had agreed 
+to submit disputes to arbitration. Where the arbitration agreement 
+itself is alleged to be forged or fabricated, the disputes ceases to be 
+merely contractual and strikes at the very root of arbitral jurisdiction. 
+A controversy of this nature falls squarely within the category of 
+disputes that are generally recognized as non-arbitrable.
+21.	 Both the Trial Court and the First Appellate Court had concurrently 
+held that the allegations of fraud in the present case were serious 
+and that the respondent no.1 had failed to produce the original 
+Admission Deed or a certified copy thereof, as required under 
+Section 8(2) of the Act. The aforesaid findings were not perfunctory, 
+but were grounded in the material on record and in the statutory 
+requirements.
+22.	 The supervisory jurisdiction of the High Court under Article 227 of 
+the Constitution is not an appellate jurisdiction in disguise, and it 
+does not permit reappreciation of evidence. The High Court, while 
+exercising jurisdiction under Article 227 of the Constitution, was not 
+justified in dislodging the concurrent findings and directing reference 
+of the dispute to arbitration, particularly when the very existence of 
+the arbitration agreement was under serious doubt.
+23.	 Conversely, the High Court was correct in dismissing the respondent 
+no.1’s application under Section 11 of the Act. When the existence 
+of the arbitration agreement itself is in serious dispute and requires 
+adjudication, appointment of an arbitrator would be premature and 
+legally impermissible.
+
+284
+[2026] 2 S.C.R.
+Supreme Court Reports
+(ix)	 CONCLUSION
+24.	 For the reasons aforesaid, we hold as follows:
+(i)	
+The dispute relating to the Admission Deed dated 17.04.2007 
+involves serious allegations going to the root of the arbitration 
+agreement itself and is not amenable to arbitration at this stage.
+(ii)	
+The order dated 24.09.2021 passed by the High Court allowing 
+the respondent no.1’s application under Section 8 of the Act is 
+unsustainable and is hereby quashed and set aside.
+(iii)	 The order dated 11.03.2021 passed by the High Court rejecting 
+the respondent no.1’s application under Section 11 of the Act 
+warrants no interference and is accordingly affirmed.
+25.	 In the result, the appeal @ SLP (C) No. 6013 of 2021 is dismissed 
+whereas the appeal @ SLP (C) No. 20262 of 2021 is allowed. There 
+shall be no order as to costs. 
+Result of the case: CA No.674 of 2026 is dismissed and CA No.675 
+of 2026 is allowed.
+†Headnotes prepared by: Divya Pandey

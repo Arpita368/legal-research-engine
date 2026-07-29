@@ -1,0 +1,117 @@
+[
+    {
+        "case_id": "001",
+        "title": "Gulfisha Fatima v. State (Govt. of NCT of Delhi)",
+        "citation": "[2026] 1 S.C.R. 609 : 2026 INSC 2",
+        "insc_number": "2026 INSC 2",
+        "case_number": "Govt. of NCT of Delhi",
+        "judgment_date": "05 January 2026",
+        "bench": [
+            "Aravind Kumar",
+            "N.V. Anjaria,"
+        ],
+        "court": "Supreme Court of India",
+        "volume": "Volume 1 Part 3 2026",
+        "start_page": 7,
+        "end_page": 137,
+        "page_count": 131,
+        "txt_file": "judgment_001.txt",
+        "json_file": "judgment_001.json"
+    },
+    {
+        "case_id": "002",
+        "title": "Bureau, A.P. & Anr. Etc. v. Dayam Peda Ranga Rao Etc.",
+        "citation": "[2026] 1 S.C.R. 740 : 2026 INSC 37",
+        "insc_number": "2026 INSC 37",
+        "case_number": "Rayalaseema",
+        "judgment_date": "08 January 2026",
+        "bench": [
+            "M.M. Sundresh",
+            "Satish Ch",
+            "ra Sharma,"
+        ],
+        "court": "Supreme Court of India",
+        "volume": "Volume 1 Part 3 2026",
+        "start_page": 138,
+        "end_page": 167,
+        "page_count": 30,
+        "txt_file": "judgment_002.txt",
+        "json_file": "judgment_002.json"
+    },
+    {
+        "case_id": "003",
+        "title": "The State of Uttar Pradesh v. Anurudh & Anr",
+        "citation": "[2026] 1 S.C.R. 770 : 2026 INSC 47",
+        "insc_number": "2026 INSC 47",
+        "case_number": "Criminal Appeal No. 163 of 2026",
+        "judgment_date": "09 January 2026",
+        "bench": [
+            "Sanjay Karol",
+            "Nongmeikapam Kotiswar Singh,"
+        ],
+        "court": "Supreme Court of India",
+        "volume": "Volume 1 Part 3 2026",
+        "start_page": 168,
+        "end_page": 218,
+        "page_count": 51,
+        "txt_file": "judgment_003.txt",
+        "json_file": "judgment_003.json"
+    },
+    {
+        "case_id": "004",
+        "title": "State of Himachal Pradesh v. Chaman Lal",
+        "citation": "[2026] 1 S.C.R. 821 : 2026 INSC 57",
+        "insc_number": "2026 INSC 57",
+        "case_number": "Criminal Appeal No. 430 of 2018",
+        "judgment_date": "15 January 2026",
+        "bench": [
+            "B.V. Nagarathna",
+            "R. Mahadevan,"
+        ],
+        "court": "Supreme Court of India",
+        "volume": "Volume 1 Part 3 2026",
+        "start_page": 219,
+        "end_page": 247,
+        "page_count": 29,
+        "txt_file": "judgment_004.txt",
+        "json_file": "judgment_004.json"
+    },
+    {
+        "case_id": "005",
+        "title": "Elegna Co-op. Housing and Commercial Society Ltd. v. Edelweiss Asset Reconstruction Company Limited & Anr.",
+        "citation": "[2026] 1 S.C.R. 850 : 2026 INSC 58",
+        "insc_number": "2026 INSC 58",
+        "case_number": "Civil Appeal No. 10261 of 2025",
+        "judgment_date": "15 January 2026",
+        "bench": [
+            "J.B. Pardiwala",
+            "R. Mahadevan,"
+        ],
+        "court": "Supreme Court of India",
+        "volume": "Volume 1 Part 3 2026",
+        "start_page": 248,
+        "end_page": 301,
+        "page_count": 54,
+        "txt_file": "judgment_005.txt",
+        "json_file": "judgment_005.json"
+    },
+    {
+        "case_id": "006",
+        "title": "HT Media Limited v. Principal Commissioner Delhi South Goods and",
+        "citation": "[2026] 1 S.C.R. 904 : 2026 INSC 66",
+        "insc_number": "2026 INSC 66",
+        "case_number": "Civil Appeal No(s",
+        "judgment_date": "16 January 2026",
+        "bench": [
+            "J.B. Pardiwala",
+            "K.V. Viswanathan,"
+        ],
+        "court": "Supreme Court of India",
+        "volume": "Volume 1 Part 3 2026",
+        "start_page": 302,
+        "end_page": 322,
+        "page_count": 21,
+        "txt_file": "judgment_006.txt",
+        "json_file": "judgment_006.json"
+    }
+]

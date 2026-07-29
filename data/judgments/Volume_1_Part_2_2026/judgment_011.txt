@@ -1,0 +1,2655 @@
+[2026] 1 S.C.R. 517 : 2026 INSC 46
+M/s Jindal Equipment Leasing Consultancy Services Ltd. 
+v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+(Civil Appeal No. 152 of 2026)
+09 January 2026
+[J.B. Pardiwala and R. Mahadevan,* JJ.]
+Issue for Consideration
+Issue arose as regards taxability of gains said to arise on 
+amalgamation, where shares of the amalgamating company held 
+by the assessees as stock-in-trade, stand substituted by shares 
+of the amalgamated company; whether such substitution, in and 
+of itself, constitutes a realisation giving rise to taxable business 
+income u/s.28, Income Tax Act, 1961 and if so, the conditions under 
+which such accrual or receipt can be said to arise in the commercial 
+sense, or whether the incidence of taxation arises only upon the 
+subsequent sale of the substituted shares; whether the High Court 
+while remanding the matter to the Tribunal to ascertain whether the 
+shares of the amalgamating company were held as stock-in-trade 
+or as capital assets, was justified in recording a finding that, if such 
+shares were held as stock-in-trade, the allotment of shares of the 
+amalgamated company pursuant to a court-sanctioned scheme of 
+amalgamation would give rise to taxable business income in the 
+hands of the appellants u/s.28 of the I.T. Act.
+Headnotes†
+Income Tax Act, 1961 – ss.2(1B), 2(14), 2(47), 28, 45(1), 
+47(vii) – Scope of s.28 – Appellants, investment companies 
+of the Jindal Group, were shareholders of Jindal Ferro Alloys 
+Limited (JFAL) and Jindal Strips Limited (JSL) – Pursuant 
+to a scheme of amalgamation, JFAL was amalgamated with 
+JSL – In terms of the share exchange ratio approved under the 
+scheme, shareholders were allotted 45 shares of JSL against 
+100 shares of JFAL – During the relevant assessment year, the 
+appellants claimed exemption u/s.47(vii), I.T. Act in respect of 
+the receipt of JSL shares in lieu of JFAL shares, treating the 
+same to be capital assets – Exemption denied by Assessing 
+Officer holding that the shares of JFAL constituted stock-in-
+* Author
+
+518
+[2026] 1 S.C.R.
+Supreme Court Reports
+trade in the hands of the appellants and taxed the difference 
+between the value of the JSL shares (as on the appointed date) 
+and the book value of JFAL shares – Order upheld by CIT(A) – 
+However, Tribunal allowed the assessees’ appeals – Appeals 
+filed by Revenue – High Court set aside the Tribunal’s order 
+and remitted the matter for fresh consideration – Challenge to:
+Held: Judgment of the High Court affirmed – s.28 is of wide import 
+and encompasses all profits and gains arising in the course of 
+business, even when such profit is realised in kind – The statutory 
+substitution of shares of the amalgamating company by shares 
+of the amalgamated company is not a mere neutral replacement; 
+where the new shares are freely marketable and possess a definite 
+commercial value, the event constitutes a commercial realisation 
+giving rise to taxable business income – Such profit need not 
+await actual sale if the benefit received is real and presently 
+realisable – Where the shares of an amalgamating company, held 
+as stock-in-trade, are substituted by shares of the amalgamated 
+company pursuant to a scheme of amalgamation, and such 
+shares are realisable in money and capable of definite valuation, 
+the substitution gives rise to taxable business income within the 
+meaning of s.28 – However, the charge u/s.28 is attracted only 
+upon the allotment of new shares – At earlier stages namely, 
+the appointed date or the date of court sanction, no such benefit 
+accrues or is received – The receipt of shares of the amalgamated 
+company in substitution of stock-in-trade can give rise to taxable 
+business profits u/s.28 – However, the actual application of this 
+principle to the facts of the present case, including whether the 
+shares received are freely realisable or otherwise subject to 
+restrictions, or whether the shares are held only as investment 
+requires factual determination – Matter remitted to the Tribunal 
+for fresh adjudication in accordance with law. [Paras 29-31, 33]
+Income Tax Act, 1961 – s.28 – Profits and gains of business or 
+profession – Scope of – Explained. [Paras 15-15.3, 18.3-18.6]
+Income Tax Act, 1961 – s.28 – Profits and gains of business 
+or profession – Governing test u/s.28 – Is not the presence of 
+a sale, exchange, or extinguishment of rights in the technical 
+sense, but whether the assessee has, in consequence of 
+business operations, come into possession of a real and 
+presently realisable commercial benefit – This may take the 
+form of money directly received, or assets in kind capable of 
+
+[2026] 1 S.C.R. 
+519
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+being immediately disposed of for money’s worth – Therefore, 
+the shares must be readily available for trading to be treated 
+as stock-in-trade:
+Held: The true test u/s.28 is not the legal label of “exchange” 
+or “transfer”, but whether the assessee, in consequence of the 
+amalgamation and thereby of its business, has obtained a profit 
+that is real and presently realisable – The well-known real-income 
+principle must be applied – Therefore, the enquiry for the Court is 
+whether, as a result of the amalgamation, the assessee has in fact 
+realised a profit in the commercial sense – This assessment may 
+turn on whether, (a) The old stock-in-trade has ceased to exist in 
+the assessee’s books; (b) The shares received in the amalgamated 
+company possess a definite and ascertainable value; and (c) The 
+assessee, immediately upon allotment, is in a position to dispose of 
+such shares and realise money – If these conditions are satisfied, 
+the substitution bears the character of a commercial realisation and 
+the profit may be taxed u/s.28 – Where, however, the allotment of 
+shares is merely a statutory substitution mandated by the scheme 
+of amalgamation, without yielding an immediately realisable benefit, 
+no income can be said to accrue or be received at that stage, and 
+taxability arises only upon the eventual sale of the shares – What 
+must be established is that the transaction has the attributes of a 
+commercial realisation resulting in a real and presently disposable 
+advantage – Where this test is satisfied, taxability may arise at the 
+stage of substitution – Otherwise, the accrual or receipt of income 
+is deferred until actual sale. [Paras 18.3-18.6]
+Interpretation of Statutes – Income Tax Act, 1961 – s.28 – Profits 
+and gains of business or profession – Charging provisions, 
+though construed strictly, are not to be read narrowly when 
+the language of the provision itself is wide:
+Held: The language of s.28 “the profits and gains of any business 
+or profession” is deliberately wide, i.e., the charge itself is cast in 
+wide terms – Charging provisions, while construed strictly, are not 
+to be read in an unduly narrow manner when the language of the 
+provision itself is wide. [Para 15]
+Income Tax Act, 1961 – s.28 – Profits and gains of business 
+or profession – Amalgamation – Whether there is receipt 
+or accrual of income upon amalgamation; Commercial 
+realisability; Definite valuation – Real Income Principle:
+
+520
+[2026] 1 S.C.R.
+Supreme Court Reports
+Held: In the context of amalgamation, what transpires is essentially 
+a statutory substitution of one form of holding for another – The 
+shareholder’s interest in the transferor company is replaced by a 
+corresponding interest in the transferee company – For the purposes 
+of s.28, the first test is whether such substitution constitutes either a 
+receipt or an accrual of income – The general position, nevertheless, 
+is that what the law recognises in amalgamation is the receipt of 
+shares in substitution of trading assets – Further, mere receipt of 
+shares does not suffice to attract s.28; commercial realisability is 
+also required when income is received in kind – Amalgamation is to 
+be understood as a statutory substitution of holdings, and not as an 
+“exchange” in the legal sense – Profit must be capable of definite 
+valuation, so that the real gain or loss stands crystallized – The 
+test is not satisfied merely by the receipt of realisable shares in 
+substitution of earlier holdings; such shares must also be capable 
+of quantification – Therefore, what attracts s.28 is the receipt of 
+shares coupled with their present realisability and their nexus 
+with business – These three conditions- actual receipt, present 
+realisability, and ascertainability of value- together determine the 
+timing of taxability in cases of amalgamation – The profit arising 
+on receipt of the amalgamated company’s shares may be taxed 
+u/s.28 where the shares allotted are tradable and possess a definite 
+market value, thereby conferring a presently realisable commercial 
+advantage – Where such attributes are absent, the Court cannot, 
+by analogy, extend s.28 to tax hypothetical accretions in the 
+absence of an express statutory mandate – The enquiry whether, 
+consequent upon an amalgamation, the allotment of new shares 
+has resulted in a real and presently realisable commercial benefit 
+must be determined on the facts of each case – The burden lies 
+on the Revenue to establish the same – It is thereafter for the 
+Tribunal, as the final fact-finding authority, to apply these principles 
+to the evidence on record. [Paras 17-18.1, 24, 24.2, 24.3]
+Words and Phrases – ‘Amalgamation’ – Concept and legal 
+character, discussed:
+Held: Amalgamation, in corporate law, signifies the statutory 
+blending of two or more undertakings into one – The transferor 
+company ceases to exist as a separate corporate entity, its business, 
+assets, and liabilities are absorbed into and continue within the 
+transferee – Amalgamation- ordinarily effected through a scheme 
+
+[2026] 1 S.C.R. 
+521
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+of compromise or arrangement sanctioned by the Court or Tribunal 
+is founded on agreement between shareholders and creditors, but 
+its legal effect is statutory: upon sanction, all assets, rights, and 
+liabilities of the transferor vest in the transferee by operation of 
+law – Amalgamation is more than a mere contractual transfer; it is 
+a statutory process of substitution – Notwithstanding its statutory 
+character, amalgamation does involve a “transfer” within the 
+meaning of the Income-tax Act. [Paras 16, 16.1-16.4, 18.2]
+Income Tax Act, 1961 – s.28 – Plea of the appellants that 
+even if the fair market value of the shares allotted in the 
+amalgamated company exceeded the book value of the shares 
+held in the amalgamating company, such excess would be 
+merely hypothetical and illusory until the shares were sold, 
+given that market value is inherently fluctuating:
+Held: The test u/s.28 is not postponed until an actual sale, but is 
+satisfied once the assessee comes into possession of an asset of 
+determinable and presently realisable value in substitution of its 
+trading stock – The fact that such value may fluctuate subsequently 
+does not render the benefit unreal; valuation for tax purposes is 
+always carried out at a particular point in time, notwithstanding 
+subsequent volatility – What matters is that, on the date of allotment, 
+the assessee must have received realisable instruments capable 
+of being valued in money’s worth, and such receipt constitutes a 
+real, and not a notional, commercial gain. [Para 26]
+Income Tax Act, 1961 – s.47(vii):
+Held: There is a difference between a charging provision and an 
+exemption provision – A provision that enables the levy of tax on a 
+particular transaction is a charging provision – Only a transaction 
+that is covered by a charging provision is taxable – Only if the 
+transaction is taxable can there be an exemption – Therefore, the 
+transfer of shares arising out of an order of amalgamation, even 
+if it is treated as a capital asset, is generally taxable but would 
+be exempt from taxation only if both the requirements u/s.47 (vii) 
+are satisfied. [Para 12]
+Income Tax Act, 1961 – s.28 – Timing of taxability – Charge 
+u/s.28 not attracted on the mere sanction of the scheme or 
+on the appointed date:
+
+522
+[2026] 1 S.C.R.
+Supreme Court Reports
+Held: In the context of amalgamation, three points in time require 
+to be distinguished – First, the appointed date specified in the 
+scheme, which determines corporate succession and continuity 
+between the transferor and transferee companies – Secondly, the 
+sanction of the scheme by the Court, which gives statutory force 
+to the amalgamation – At these stages, however, there is only a 
+substitution of rights by legal fiction, without any asset in the hands 
+of the shareholder capable of commercial exploitation – Thirdly, the 
+allotment of new shares in the amalgamated company, which alone 
+crystallises the benefit in the shareholder’s hands, for it is only then 
+that the old stock-in-trade ceases to exist and is replaced by new 
+shares of definite market value capable of immediate realisation – 
+Thus, the charge u/s.28 is not attracted on the mere sanction of 
+the scheme or on the appointed date, but only upon the receipt 
+of the new shares, when the statutory substitution translates into 
+a concrete, realisable commercial advantage. [Para 25]
+Income Tax Act, 1961 – ss.28, 47 – Exemption in respect of 
+capital assets – Rationale – Distinction between capital and 
+business assets:
+Held: s.47 expressly carves out an exemption in respect of certain 
+transfers in the context of amalgamation, but that exemption 
+is confined to capital assets – The rationale is plain – Where 
+a shareholder holds shares as an investment, the underlying 
+object is to remain invested in the corporate venture, and a mere 
+amalgamation ordinarily does not alter that position – While the 
+possibility of tax avoidance in the investment field cannot be 
+ruled out altogether, the legislative judgment reflects that the risk 
+is relatively low – Thus, the exemption u/s.47 is founded on the 
+recognition that amalgamation, in the capital field, is essentially 
+a corporate restructuring and not a true realisation of profit – It 
+is also common in business parlance for entities to hold shares 
+either as investments or as stock-in-trade – By contrast, s.28, 
+which governs profits of business, contains no such carve-out, 
+nor could it be otherwise – The nature of stock-in-trade is wholly 
+different from that of an investment – Stock-in-trade represents 
+circulating capital: it is held not for preservation or appreciation, 
+but for conversion into money in the ordinary course of business – 
+Thus, while the Act makes an express exception for amalgamation 
+of capital assets, no such exception is contemplated in the case 
+of business assets. [Paras 27, 27.1, 27.4]
+
+[2026] 1 S.C.R. 
+523
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+Case Law Cited
+Shiv Raj Gupta v. Commissioner of Income-Tax, Delhi [2020] 5 
+SCR 874 : (2020) 425 ITR 420 (SC) – distinguished.
+Commissioner of Income Tax v. Mahagun Realtors (P) Ltd [2022] 
+4 SCR 502 : (2022) 19 SCC 1; Orient Trading Company Ltd. v. 
+Commissioner of Income Tax, Calcutta [1997] 1 SCR 446  : 
+(1997) 3 SCC 340; Commissioner of Income-tax, Cochin v. 
+Grace Collis and Others [2001] 2 SCR 98 : (2001) 3 SCC 430; 
+E.D. Sassoon & Co. Ltd v. Commissioner of Income-Tax [1973] 
+1 SCR 1084 : (1954) 26 ITR 27 (SC); Commissioner of Income 
+Tax, Bombay City I v. Shoorji Vallabhdas & Co. (1962) 46 ITR 
+144 (SC) – relied on.
+Commissioner of Income Tax, Bombay v. Rasiklal Maneklal (HUF) 
+and Others [1989] 2 SCR 179 : (1989) 2 SCC 454; Vania Silk Mills 
+P. Ltd v. Commissioner of Income-Tax [1991] 3 SCR 577 : (1991) 
+191 ITR 647 (SC); Commissioner of Income-Tax, Andhra Pradesh v. 
+Motors & General Stores (P) Ltd [1967] 3 SCR 876 : (1967) 66 ITR 
+692 (SC); Hindustan Lever and Another v. State of Maharashtra 
+and Another [2003] Supp. 5 SCR 685 : (2004) 9 SCC 438; State 
+Bank of Travancore v. Commissioner of Income-Tax, Kerala [1986] 
+1 SCR 25 : (1986) 158 ITR 102 (SC); Godhra Electricity Co. Ltd v. 
+Commissioner of Income-Tax [1997] 3 SCR 539 : (1997) 225 ITR 
+746 (SC); Commissioner of Income-Tax v. Excel Industries Ltd. 
+and Another [2013] 10 SCR 490 : (2013) 358 ITR 295 (SC); R. 
+Nagaraj (dead) through Legal Heirs and Another v. Rajamani and 
+Others [2025] 4 SCR 734 : 2025 Livelaw SC 416; Mansarovar 
+Commercial Pvt. Ltd v. Commissioner of Income-Tax [2023] 8 SCR 
+452 : (2023) 454 ITR 1 (SC); Mazagaon Dock Ltd v. Commissioner 
+of Income Tax and Excess Profits Tax [1959] 1 SCR 848 : AIR 
+1958 SC 861; Ujagar Prints Etc. v. Union of India and Others Etc. 
+[1989] 1 SCR 344 : (1989) 3 SCC 488; Commissioner of Customs 
+(Import), Mumbai v. Dilip Kumar and Company and Others [2018] 
+7 SCR 1191 : (2018) 9 SCC 1 (5-Judge Bench); Commissioner 
+of Income Tax v. T.V. Sundaram Iyengar & Sons Ltd. [1996] Supp. 
+5 SCR 785 : (1996) 222 ITR 344 (SC); Commissioner of Income 
+Tax v. Meghalaya Steels Ltd [2016] 1 SCR 952 : (2016) 383 
+ITR 217 (SC); Commissioner of Income Tax, Delhi v. Woodward 
+Governor India P. Ltd [2009] 5 SCR 738 : (2009) 312 ITR 254 
+(SC); Saraswati Industrial Syndicate Ltd v. Commissioner of Income 
+Tax [1990] Supp. 1 SCR 332 : (1990) Supp. SCC 675; Religare 
+
+524
+[2026] 1 S.C.R.
+Supreme Court Reports
+Finvest Ltd. v. State (NCT of Delhi) [2023] 12 SCR 197 : (2024) 
+1 SCC 797; Kanchanganga Sea Foods Ltd v. Commissioner of 
+Income Tax [2010] 7 SCR 866 : (2010) 11 SCC 144; Raja Mohan 
+Raja Bahadur v. Commissioner of Income Tax [1967] 3 SCR 482 
+: (1967) 66 ITR 378; Commissioner of Income Tax v. Ashokbhai 
+Chimanbhai [1965] 1 SCR 758 : (1965) 56 ITR 42; Commissioner 
+of Income Tax v. Woodward Governor India (P) Ltd. [2009] 5 SCR 
+738 : (2009) 13 SCC 1; Commissioner of Income Tax v. Express 
+Newspapers Ltd., 1964 INSC 152 : [1964] 8 SCR 189 – referred to.
+Royal Insurance Co. Ltd v. Stephen, 14 Tax Cases 22; Walker’s 
+Settlement, In re, 1935 Ch 567 (CA); Californian Copper Syndicate 
+Ltd v. Inland Revenue 05 TC 159; Raja Raghunandan Prasad 
+Singh v. Commissioner of Income Tax, 1933 SCC OnLine 
+PC 8 – referred to.
+Books and Periodicals Cited
+Stroud’s Judicial Dictionary of Words and Phrases (9th Edn.); 
+Black’s Law Dictionary (11th Edn.)
+List of Acts
+Income Tax Act, 1961; Companies Act, 2013; Code of Civil 
+Procedure, 1908.
+List of Keywords
+Section 28, Income Tax Act, 1961; Profits and gains of business 
+or profession; Amalgamation; Stock-in-trade; Taxability of gains 
+arising on amalgamation; Shares of amalgamating company held as 
+stock-in-trade, substituted by shares of the amalgamated company; 
+Taxable business income under Section 28, Income Tax Act, 1961; 
+Shares held as stock-in-trade; Allotment of shares of amalgamated 
+company; Court-sanctioned scheme of amalgamation; Jindal Ferro 
+Alloys Limited (JFAL); Jindal Strips Limited (JSL); No taxable profit; 
+Section 2(14), Income Tax Act, 1961; Section 2(17), Income Tax 
+Act, 1961; Section 2(47), Income Tax Act, 1961; Section 47(vii), 
+Income Tax Act, 1961; Section 45, Income Tax Act, 1961; Transfer 
+of shares; Capital assets; Chargeability of the “profits and gains 
+of any business or profession”; Statutory substitution of rights; 
+Whether the substitution of shares results in real commercial 
+profits; Commercial realisability; Amalgamating company ceases 
+to exist; The true test under Section 28; Real-income principle; 
+
+[2026] 1 S.C.R. 
+525
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+Real or completed profit capable of being taxed under Section 28; 
+Definite valuation; Timing of taxability; Distinction between Capital 
+and Business assets.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 152 of 2026
+From the Judgment and Order dated 07.08.2020 of the High Court 
+of Delhi at New Delhi in ITA No. 935 of 2005
+With
+Civil Appeal No(s). 153, 154 and 155 of 2026
+Appearances for Parties
+Advs. for the Appellant(s):
+Ajay Vohra, Ms. Kavita Jha, Sr. Advs., Vaibhav Kulkarni, Aniket 
+Deepak Agrawal, Ms. Aabgina Chishti.
+Advs. for the Respondent(s):
+Raghavendra P Shankar, A.S.G., Raj Bahadur Yadav, Udai Khanna, 
+Karan Lahiri, Mrs. Vimla Sinha, Ms. Seema Bengani, Preeti Rani, 
+Digvijay Dam.
+Judgment / Order of the Supreme Court
+Judgment
+R. Mahadevan, J.
+Leave granted.
+2.	
+The present appeals arise out of a common judgment and final order 
+dated 07.08.2020 passed by the High Court of Delhi1 in ITA Nos. 
+935, 822, 853, and 961 of 2005, pertaining to the Assessment Year 
+1997-98. By the impugned judgment, the High Court remanded the 
+matters to the Income Tax Appellate Tribunal2 for fresh adjudication 
+on the question of whether the shares held in the amalgamating 
+company constituted stock-in-trade or capital assets, upon observing 
+1	
+Hereinafter referred to as “the High Court”
+2	
+For short, “the Tribunal”
+
+526
+[2026] 1 S.C.R.
+Supreme Court Reports
+that, if the shares were, in fact, held as stock-in-trade, the transaction 
+would fall outside the purview of Section 47(vii) of the Income Tax Act, 
+19613, and its taxability would consequently be governed by Section 
+28 under the head “profits and gains of business or profession”.
+FACTUAL MATRIX
+3.	
+The facts, which are common to all these appeals, may be briefly 
+stated as under: 
+3.1.	 The appellants are investment companies of the Jindal Group. 
+The shares of the operating companies, namely Jindal Ferro 
+Alloys Limited (JFAL) and Jindal Strips Limited (JSL), were held 
+as part of the promoter holding, representing controlling interest. 
+The appellants had also furnished non-disposal undertakings 
+to the financial institutions / lenders who had advanced loans 
+to the operating companies. These shares were reflected as 
+investments in the balance sheets of the appellants.
+3.2.	 During the previous year relevant to the assessment year 
+1997-98, pursuant to a scheme of amalgamation approved by 
+orders dated 19.09.1996 and 03.10.1996 of the High Courts 
+of Andhra Pradesh and Punjab & Haryana respectively, under 
+Sections 391 – 394 of the Companies Act, 2013, JFAL was 
+amalgamated with JSL. As per the sanctioned scheme, the 
+appointed date of amalgamation was 01.04.1995, and the orders 
+sanctioning the amalgamation were filed with the Registrar 
+of Companies on 22.11.1996 (the effective date). Under the 
+scheme of amalgamation, the shareholders of JFAL were allotted 
+45 shares of JSL for every 100 shares of JFAL held by them. 
+Accordingly, the appellants were allotted shares of JSL in lieu 
+of the shares of JFAL.
+3.3.	 The appellants, in their returns of income filed for the assessment 
+year in question, claimed exemption under Section 47(vii) of the 
+I.T. Act in respect of the receipt of JSL shares in lieu of JFAL 
+shares, treating the same to be capital assets. However, in the 
+assessment completed under Section 143(3) vide order dated 
+29.02.2000, the Assessing Officer treated the shares of JFAL 
+3	
+For short, “the I.T. Act”
+
+[2026] 1 S.C.R. 
+527
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+as stock-in-trade, denied the exemption under Section 47(vii), 
+and brought to tax the value of JSL shares as business income, 
+computed with reference to their market value. The said order 
+was upheld by the Commissioner of Income Tax (Appeals).
+3.4.	 On further appeals, the Tribunal vide order dated 17.02.2005, 
+allowed the assessees’ appeals by observing that it was 
+unnecessary to decide whether the shares were held as stock-
+in-trade or capital assets since no profit accrues unless the 
+shares held by the appellants are either sold or transferred 
+for consideration, irrespective of the nature of holding. It was 
+further observed that there was admittedly no sale of shares 
+and, therefore, the only question for consideration was whether 
+the allotment of JSL shares in lieu of JFAL shares under the 
+scheme of amalgamation amounted to a “transfer”. Following 
+the decision of this Court in Commissioner of Income 
+Tax, Bombay v. Rasiklal Maneklal (HUF) and others4, the 
+Tribunal concluded that there was no transfer of shares and, 
+consequently, no taxable profit could be said to have accrued 
+to the appellants.
+3.5.	 The Revenue challenged the Tribunal’s decision before the 
+High Court, raising the following substantial questions of law:
+“1. Whether shares received by the assesses on 
+amalgamation are entitled to the benefit of section 
+47(vii) without the Tribunal concluding that the said 
+shares were held by the assesses as capital assets?
+2. Whether the benefit of Section 47(vii) is limited to 
+determination of capital gains and only in regard to 
+capital assets?
+3. Whether income would accrue to the assesses 
+on shares received by amalgamations and will be 
+taxable in view of non-applicability of Section 47(vii)?”
+3.6.	 After hearing both sides, the High Court, by the impugned 
+judgment, disposed of the appeals in favour of the Revenue 
+and against the assessees. In doing so, it held that the Tribunal 
+4	
+(1989) 177 ITR 198 : (1989) 2 SCC 454
+
+528
+[2026] 1 S.C.R.
+Supreme Court Reports
+had erred in placing reliance on Rasiklal Maneklal while 
+failing to consider the later and binding decision of this Court 
+in Commissioner of Income-tax, Cochin v. Grace Collis 
+and others5. The High Court observed that where the shares 
+of the amalgamating company were held as capital assets, 
+the receipt of shares of the amalgamated company would 
+constitute a “transfer” within the meaning of Section 2(47) of the 
+I.T. Act, though such transfer would be exempt under Section 
+47(vii). However, in the alternative scenario where the shares 
+were held as stock-in-trade, the High Court held that upon the 
+assessees receiving shares of the amalgamated company in 
+lieu of those held in the amalgamating company, the assesses 
+had, in effect, realised the value of their trading assets, and the 
+difference in value would be taxable as business profit under 
+Section 28. In reaching this conclusion, the High Court relied 
+upon the decision of this Court in Orient Trading Company Ltd. 
+v. Commissioner of Income Tax, Calcutta6. Accordingly, the 
+matter was remanded to the Tribunal for determination of the 
+nature of the appellants’ holding of JFAL shares, i.e., whether 
+such holdings constituted capital assets or stock-in-trade.
+3.7.	 Aggrieved thereby, the appellants have preferred the present 
+appeals before this Court.
+CONTENTIONS OF THE PARTIES
+4.	
+Mr. Ajay Vohra, learned Senior Counsel for the appellants, primarily 
+submitted that the impugned judgment of the High Court is liable 
+to be set aside as it travels beyond the jurisdiction conferred under 
+Section 260A of the I.T. Act. It was pointed out that the appeals 
+before the High Court were admitted on a limited question, namely, 
+whether the Tribunal was correct in holding that where the assessees 
+get shares of the amalgamated company in lieu of shares of the 
+amalgamating company, no transfer takes place. However, while 
+disposing of the appeals, the High Court went further and proceeded 
+to examine the taxability of such receipt, treating it as stock-in-trade 
+or a capital asset. Since that issue was neither specifically raised nor 
+5	
+(2001) 248 ITR 323 (SC) : (2001) 3 SCC 430
+6	
+(1997) 224 ITR 371 (SC) : (1997) 3 SCC 340
+
+[2026] 1 S.C.R. 
+529
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+framed at the time of admission, the adjudication was impermissible 
+and contrary to the framework laid down by this Court in Shiv Raj 
+Gupta v. Commissioner of Income-Tax, Delhi7.
+4.1.	 It was further submitted that the receipt of shares of the 
+amalgamated company does not amount to either a “sale” 
+or an “exchange”. It was urged that upon amalgamation, the 
+amalgamating company stands dissolved and consequently, its 
+shares cease to exist. Therefore, when shareholders receive 
+shares of the amalgamated company in lieu of the extinguished 
+shares of the amalgamating company, there is no subsisting 
+property capable of being exchanged and accordingly, no taxable 
+business income arises from such transaction. Moreover, the 
+definition of “transfer” under Section 2(47) is relevant only for 
+the purpose of computing capital gains and has no application 
+to stock-in-trade. Only the exploitation or realisation of stock-in-
+trade gives rise to business income, which is to be computed 
+strictly in accordance with Section 28 of the I.T. Act. 
+4.2.	 Reliance was placed on the decision of this Court in Vania Silk 
+Mills P. Ltd v. Commissioner of Income-Tax 8, wherein it was 
+held that the mere destruction or loss of an asset does not 
+constitute a “transfer”. The term “transfer” in Section 45 connotes 
+that there must be something transferred to someone – some 
+property, right, or interest passing from one person to another. 
+When an asset ceases to exist, there can be no such transfer. 
+Further reliance was placed on Commissioner of Income-Tax, 
+Andhra Pradesh v. Motors & General Stores (P) Ltd9 wherein, 
+it was held that to constitute an “exchange”, there must be a 
+subsisting property capable of being transferred or exchanged. 
+Reference was also made to Rasiklal Maneklal, in which, it 
+was held that the receipt of shares of an amalgamated company 
+in lieu of shares held in the amalgamating company under an 
+approved scheme of amalgamation, does not amount to an 
+“exchange”. Consequently, it was submitted that the allotment 
+of shares in the amalgamated company, in substitution for the 
+7	
+(2020) 425 ITR 420 (SC)
+8	
+(1991) 191 ITR 647 (SC)
+9	
+(1967) 66 ITR 692 (SC)
+
+530
+[2026] 1 S.C.R.
+Supreme Court Reports
+shares held in the amalgamating company, does not amount 
+to a realisation of stock-in-trade by way of sale or exchange, 
+so as to give rise to taxable business income.
+4.3.	 The learned Senior Counsel submitted that the authorities relied 
+upon by the High Court were distinguishable from the present 
+case. In Orient Trading, the assessee had exchanged shares 
+of one existing company for shares of another; that case did 
+not involve amalgamation or dissolution of the company whose 
+shares were exchanged. Likewise, the English decision in 
+Royal Insurance Co. Ltd v. Stephen10 dealt with realisation 
+of investments, not stock-in-trade by an insurance company 
+assessed under a special statutory regime, and is inapplicable 
+under Indian law. Similarly, Hindustan Lever and another v. 
+State of Maharashtra and another11 concerned the legislative 
+competence to levy stamp duty on an order of amalgamation. 
+Observations therein as to the transfer of property between 
+amalgamating and amalgamated companies were made in a 
+wholly different context and cannot govern the computation of 
+business income. 
+4.4.	 On the concept of accrual of business income, it was urged 
+that taxable income arises only when a debt in praesenti is 
+created in favour of the assessee, though payable in future, 
+as laid down in E.D. Sassoon & Co. Ltd v. Commissioner of 
+Income-Tax12. Hypothetical or illusory benefits cannot constitute 
+taxable income, as held in Commissioner of Income Tax, 
+Bombay City I v. Shoorji Vallabhdas & Co.13, State Bank 
+of Travancore v. Commissioner of Income-Tax, Kerala14, 
+Godhra Electricity Co. Ltd v. Commissioner of Income-Tax15 
+and Commissioner of Income-Tax v. Excel Industries Ltd. 
+and another16. Even if the fair market value of the shares allotted 
+in the amalgamated company on the date of allotment exceeds 
+10	
+14 Tax Cases 22
+11	
+(2004) 9 SCC 438
+12	
+(1954) 26 ITR 27 (SC)
+13	
+(1962) 46 ITR 144 (SC)
+14	
+(1986) 158 ITR 102 (SC)
+15	
+(1997) 225 ITR 746 (SC)
+16	
+(2013) 358 ITR 295 (SC)
+
+[2026] 1 S.C.R. 
+531
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+the book value of the shares in the amalgamating company, 
+such appreciation is purely notional. Real income would arise 
+only upon the actual sale of the allotted shares, and until such 
+realisation no business income accrues.
+4.5.	 It was also emphasized that the scheme of the Act itself supports 
+this view. Wherever the legislature intends to tax notional or 
+deemed income, it has enacted specific provisions, for example, 
+Section 28(iv) or valuation rules such as Rule 11UAB. Further, 
+Section 49(1)(iii)(e) specifically provides that for capital gains, the 
+cost of shares in the amalgamated company shall be deemed to 
+be the cost of shares in the amalgamating company. By parity 
+of reasoning, in the case of stock-in-trade also, the original cost 
+must be preserved and any profit should be recognized only 
+at the time of realisation.
+4.6.	 It was finally submitted that the receipt of shares of the 
+amalgamated company in lieu of shares held in the amalgamating 
+company, even when such shares are held as stock-in-trade, 
+does not constitute a “sale” or “exchange” giving rise to taxable 
+business income. Any benefit is, at best, hypothetical until 
+the shares are actually sold. The impugned judgment of the 
+High Court, which disregards settled principles and binding 
+precedents, is erroneous and liable to be set aside.
+5.	
+On the other hand, the learned Additional Solicitor General appearing 
+for the respondent(s) – Department opposed the present appeals and 
+supported the impugned judgment of the High Court. It was submitted 
+that if shares are held as stock-in-trade, the profit accruing from the 
+receipt of shares of the amalgamated company in lieu of those of 
+the amalgamating company would be taxable under the head “profits 
+and gains of business or profession”. For the purpose of analyzing 
+this issue, it is assumed that the assessees held the shares of the 
+amalgamating company as stock-in-trade prior to the amalgamation, 
+though this issue remains to be decided by the Tribunal on remand.
+5.1.	 It was submitted that the Tribunal fell in error in holding that no 
+profit accrues unless the shares held by an assessee are either 
+sold or transferred otherwise for consideration, irrespective of the 
+nature of holding. The Tribunal did not refer to any sub-section 
+of Section 28 of the I.T. Act to support its conclusion that a sale 
+or transfer alone can give rise to “profits and gains of business 
+
+532
+[2026] 1 S.C.R.
+Supreme Court Reports
+or profession”. It failed to engage with Section 28 entirely, 
+relying instead solely on Rasiklal Maneklal. That decision, it 
+was pointed out, is relevant only to the taxation of capital gains 
+under the Income- tax Act, 1922, and has been clarified to be 
+inapplicable by this Court in Grace Collis. Since the issue of 
+Section 45 is not under contest in these proceedings, Rasiklal 
+Maneklal has no further bearing.
+5.2.	 It was submitted that the High Court rightly held that the 
+spotlight should not entirely be on the concept of “transfer” 
+but instead on whether there is business income in the hands 
+of the assessee, and further that income is recognised when 
+it is earned or realized, irrespective of whether it is in cash or 
+kind”. This finding demonstrates that transfer is not a necessary 
+precondition for taxation of business income under Section 28.
+5.3.	 According to the learned Senior Counsel, the appellants 
+themselves admitted in their written submissions that the 
+definition of “transfer” under Section 2(47) has no application 
+to the computation of business income. To this extent, the 
+appellants do not dispute the High Court’s finding. Yet, the 
+appellants continue to contend that realisation of stock-in-trade 
+giving rise to taxable business income can only be through 
+sale or exchange. Such a submission has no basis in light of 
+Section 28.
+5.4.	 It was further submitted that the plain language of Section 28 
+makes it clear that profits and gains of business or profession 
+are chargeable irrespective of whether they arise by way of sale, 
+exchange, or otherwise. Unlike Section 45, which specifically 
+requires a transfer of a capital asset, Section 28 is agnostic to 
+the manner in which income accrues. In particular, Sections 
+28(i) and 28(iv) bring out this position, covering profits, gains, 
+and benefits arising from business activities, whether convertible 
+into money or not.
+5.5.	 Reliance was placed on Orient Trading, where this Court held 
+that the exchange of securities by a share dealer amounted 
+to realisation of stock-in-trade, resulting in taxable profits. The 
+said decision directly answers the appellants’ contention as it 
+involved stock-in-trade and upheld that realisation may occur 
+upon exchange, and not merely upon sale.
+
+[2026] 1 S.C.R. 
+533
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+5.6.	
+Applying the above legal principles, the learned Senior Counsel 
+submitted that the High Court was correct in concluding that 
+upon amalgamation, the shares of the amalgamating company 
+cease to exist and their value stands realised either in cash 
+(for dissenting shareholders) or in shares of the amalgamated 
+company (for approving shareholders). Such realisation, when 
+resulting in profit, is taxable under Section 28.
+5.7.	
+The learned Senior Counsel submitted that the appellants’ 
+reliance on cases such as E.D. Sassoon & Co. Ltd and 
+Motors & General Stores (P) Ltd is misplaced. E.D. Sassoon, 
+in fact, supports the Revenue’s case by holding that income 
+accrues when the right to receive is acquired, even if actual 
+receipt is later. Motors & General Stores has already been 
+distinguished in Orient Trading as being confined to the 
+meaning of “sale” in Section 10(2)(vii) of the 1922 Act, and 
+is therefore inapplicable. Similarly, Rasiklal Maneklal and 
+Vania Silk Mills pertain to capital gains and transfer under 
+Section 45, which the appellants themselves concede, have 
+no bearing on the computation of business income.
+5.8.	
+It was further submitted that the levy in the present case is 
+not on hypothetical income. As explained in Excel Industries, 
+income accrues when it becomes due and when there exists 
+a corresponding liability on the other party. Here, by virtue 
+of the amalgamation scheme sanctioned by the Court, there 
+was a corresponding liability on the amalgamated company 
+to issue shares (or pay cash to dissenters) in exchange for 
+the extinguished shares of the amalgamating company. This 
+satisfies the test of real income under Excel Industries.
+5.9.	
+Even assuming, without conceding, that the Tribunal was 
+correct in requiring a “sale” or “transfer”, it was argued that a 
+scheme of amalgamation itself has “all the trappings of a sale”, 
+as held in Hindustan Lever. Thus, even on the appellants’ 
+theory, the taxable event occurred.
+5.10.	 Finally, on the appellants’ contention regarding valuation of 
+shares, the learned Senior Counsel submitted that this issue 
+was considered and rejected by the CIT(A) with cogent 
+reasoning, and that the Tribunal may examine this factual 
+
+534
+[2026] 1 S.C.R.
+Supreme Court Reports
+issue afresh on remand, if necessary. That issue, however, 
+need not detain this Court, which is concerned only with the 
+legal question.
+5.11.	 Accordingly, the learned Senior Counsel submitted that the 
+High Court’s reasoning is sound, the Tribunal’s judgment 
+is unsustainable, and the present appeals deserve to be 
+dismissed.
+ANALYSIS AND FINDINGS
+6.	
+We have heard learned counsel appearing for the parties and perused 
+the materials available on record.
+7.	
+By order dated 10.02.2021, this Court stayed the effect and operation 
+of the impugned judgment and order under challenge.
+8.	
+Apparently, the appellants were shareholders of JFAL. Pursuant to 
+the orders of the High Courts of Andhra Pradesh and Punjab and 
+Haryana dated 19.09.1996 and 03.10.1996, JFAL merged with JSL, 
+a widely held public company. Upon the amalgamation become 
+effective, JFAL ceased to exist as a legal entity. In terms of the 
+share exchange ratio approved under the scheme, shareholders 
+were allotted 45 shares of JSL against 100 shares of JFAL.
+8.1.	 During the relevant assessment year, the appellants claimed 
+exemption under Section 47(vii) of the I.T. Act in respect of 
+the receipt of JSL shares, contending that the shares of JFAL 
+were held as capital assets. The Assessing Officer, however, 
+denied exemption, holding that the shares of JFAL constituted 
+stock-in-trade in the hands of the appellants. He accordingly 
+taxed the difference between the value of the JSL shares (as 
+on the appointed date) and the book value of JFAL shares. The 
+CIT(A) upheld this view, dismissing the appeals on the finding 
+that the appellants’ acquisition of shares was an adventure in 
+the nature of trade, attracting taxation under Section 28 of the 
+I.T. Act. Thus, there were concurrent findings that the assessees 
+belonging to the same group which controlled JFAL, engaged in 
+a scheme for profit-making by exchanging their stock-in-trade 
+holdings in JFAL for shares of JSL.
+8.2.	 On further appeals, the Tribunal, by order dated 17.02.2005, 
+allowed the assessees’ claims. It declined to decide the factual 
+
+[2026] 1 S.C.R. 
+535
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+question whether the JFAL shares were held as capital assets or 
+as stock-in-trade, holding instead that no profit accrues unless 
+the shares are either sold or transferred for consideration, 
+irrespective of the nature of holding. 
+8.3.	 In the Revenue’s appeals, the High Court by the impugned 
+judgment, set aside the Tribunal’s order and remitted the matter 
+for fresh consideration. The High Court returned two findings: 
+first, that if shares are held as capital assets, an amalgamation 
+is indeed a transfer within the meaning of Section 2(47) of the 
+I.T. Act, though exempt under Section 47(vii). The assessees 
+no longer dispute this finding before this Court. Second, the 
+High Court held that if the shares are held as stock-in-trade, the 
+profit arising to the assessees from the receipt of JSL shares 
+in lieu of JFAL shares would be taxable as “profits and gains 
+of business or profession” under Section 28. It is the second 
+finding, which has necessitated the present appeals before 
+this Court. 
+9.	
+At the outset, the learned Senior Counsel appearing for the appellants 
+raised a preliminary objection that the High Court had transgressed its 
+jurisdiction in remitting the matter to the Tribunal with an observation 
+that, if the shares were stock-in-trade, the taxability would arise under 
+Section 28 of the I.T. Act. It was urged that such an issue was neither 
+expressly framed as a substantial question of law by the High Court 
+nor raised by the Revenue in its appeals. Reliance was placed on 
+Shiv Raj Gupta, where this Court held that the High Court cannot 
+decide a new question of law without formally framing it under Section 
+260A (4) and without affording the parties an opportunity to meet 
+that case. The following paragraphs are apposite in this context:
+“18. It can be seen that the substantial question of law 
+that was raised by the High Court did not contain any 
+question as to whether the non-compete fee could be 
+taxed under any provision other than Section 28(ii)
+(a) of the Income Tax Act, 1961. Without giving an 
+opportunity to the parties followed by reasons for 
+framing any other substantial question of law as to 
+the taxability of such amount as a capital receipt in 
+the hands of the assessee, the High Court answered 
+the substantial question of law raised as follows: 
+
+536
+[2026] 1 S.C.R.
+Supreme Court Reports
+(Shiv Raj Gupta case [CIT v. Shiv Raj Gupta, 2014 SCC 
+OnLine Del 7305: (2015) 372 ITR 337], SCC OnLine Del 
+paras 63 & 65) 
+“63. In view of the aforesaid discussion, we 
+deem it appropriate and proper to treat Rs 6.60 
+crores as consideration paid for sale of shares, 
+rather than a payment under Section 28(ii)(a) 
+of the Act. …
+…
+65. The substantial question of law is accordingly 
+answered in favour of the appellant Revenue and 
+against the respondent-assessee but holding 
+that Rs 6.60 crores was taxable as capital gains 
+in the hands of the respondent-assessee being 
+a part of the full value sale consideration paid 
+for transfer of shares. The appellant Revenue 
+will be entitled to costs as per the Delhi High 
+Court Rules.”
+Clearly, without any recorded reasons and without 
+framing any substantial question of law on whether the 
+said amount could be taxed under any other provision 
+of the Income Tax Act, the High Court went ahead and 
+held that the amount of INR 6.6 crores received by 
+the assessee was received as part of the full value of 
+the sale consideration paid for transfer of shares — 
+and not for handing over management and control of 
+CDBL and is consequently not taxable under Section 
+28(ii)(a) of the Income Tax Act. Nor is it exempt as a 
+capital receipt being non-compete fee, as it is taxable as 
+a capital gain in the hands of the respondent-assessee 
+as part of the full value of the sale consideration paid for 
+transfer of shares. This finding would clearly be in the 
+teeth of Section 260-A (4), requiring the judgment to be 
+set aside on this score.” 
+9.1.	 Undoubtedly, Section 260A envisages that an appeal to the High 
+Court lies only where a substantial question of law arises. Sub-
+sections (3) and (4) mandate the formulation of such questions, 
+
+[2026] 1 S.C.R. 
+537
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+while the proviso to sub-section (4) preserves the Court’s 
+power, for recorded reasons, to entertain any other substantial 
+question of law not earlier framed. For ease of reference, the 
+said provision is reproduced as follows: 
+“260-A. Appeal to High Court.—(1) An appeal shall 
+lie to the High Court from every order passed in 
+appeal by the Appellate Tribunal before the date of 
+establishment of the National Tax Tribunal, if the High 
+Court is satisfied that the case involves a substantial 
+question of law.
+(2) The Principal Chief Commissioner or Chief 
+Commissioner or the Principal Commissioner or 
+Commissioner or an assessee aggrieved by any 
+order passed by the Appellate Tribunal may file an 
+appeal to the High Court and such appeal under this 
+sub-section shall be—
+(a) filed within one hundred and twenty days from the 
+date on which the order appealed against is received 
+by the assessee or the Principal Chief Commissioner 
+or Chief Commissioner or Principal Commissioner or 
+Commissioner;
+(b)….
+(c) in the form of a memorandum of appeal precisely 
+stating therein the substantial question of law involved.
+(2-A) The High Court may admit an appeal after 
+the expiry of the period of one hundred and twenty 
+days referred to in clause (a) of sub-section (2), if 
+it is satisfied that there was sufficient cause for not 
+filing the same within that period.
+(3) Where the High Court is satisfied that a substantial 
+question of law is involved in any case, it shall 
+formulate that question.
+(4) The appeal shall be heard only on the question 
+so formulated, and the respondents shall, at the 
+hearing of the appeal, be allowed to argue that the 
+case does not involve such question:
+
+538
+[2026] 1 S.C.R.
+Supreme Court Reports
+Provided that nothing in this sub-section shall be 
+deemed to take away or abridge the power of the court 
+to hear, for reasons to be recorded, the appeal on any 
+other substantial question of law not formulated by it, 
+if it is satisfied that the case involves such question.
+(5) The High Court shall decide the question of law 
+so formulated and deliver such judgment thereon 
+containing the grounds on which such decision is 
+founded and may award such cost as it deems fit.
+(6) The High Court may determine any issue which—
+(a) has not been determined by the Appellate Tribunal; 
+or
+(b) has been wrongly determined by the Appellate 
+Tribunal, by reason of a decision on such question 
+of law as is referred to in sub-section (1).
+(7) Save as otherwise provided in this Act, the 
+provisions of the Code of Civil Procedure, 1908 (5 
+of 1908), relating to appeals to the High Court shall, 
+as far as may be, apply in the case of appeals under 
+this section.”
+9.2.	 The scheme is consciously modelled on Section 100 of 
+the Code of Civil Procedure, 1908, which similarly confines 
+jurisdiction in second appeal to substantial questions of law. 
+Both provisions embody the legislative policy of limiting higher 
+appellate interference to questions of law, while at the same 
+time, permitting the Court to deal with necessary or incidental 
+questions that arise, provided reasons are recorded and parties 
+are heard. In a recent judgment in R. Nagaraj (dead) through 
+legal heirs and another v. Rajamani and others17, this Court 
+held that although a separate issue need not be framed on 
+every point, a finding on a disputed question, while deciding a 
+connected issue, is sufficient. 
+9.3.	 In the present case, the High Court did not specifically frame 
+the question of law as to whether the substitution of shares 
+17	
+2025 Livelaw SC 416
+
+[2026] 1 S.C.R. 
+539
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+was taxable under Section 28 of the I.T. Act. However, the said 
+issue went to the very root of the matter, and the High Court 
+was bound to consider it in view of the issue already framed 
+by the Tribunal and the submissions advanced by both sides 
+before the Tribunal as well as before the High Court. Such a 
+question was incidental or collateral to the main issue, and the 
+absence of a formal formulation would not vitiate the impugned 
+judgment of the High Court.
+9.4.	 Furthermore, the present case does not fall within the mischief 
+noticed in Shiv Raj Gupta for the following reasons:
+	•
+First, the Tribunal itself had framed the substantial issue 
+as “whether any income accrues to the appellants on 
+the event of substitution of shares of Jindal Ferro Alloys 
+Ltd. by the shares of Jindal Strips Ltd. under the scheme 
+of amalgamation approved by the High Court of Andhra 
+Pradesh and High Court of Punjab & Haryana”. While 
+answering this question in the negative, the Tribunal left 
+open the determination of whether the shares were held 
+as investments or as stock-in-trade. Once such a finding 
+was recorded, the real question of law was not merely the 
+applicability of Section 47, but more broadly the taxability 
+of the amalgamation transaction under the Act.
+	•
+Second, in appeal, the High Court framed the following 
+substantial question of law: “Whether the Tribunal was 
+correct in holding that where the assessee gets shares 
+of the amalgamated company in lieu of shares of the 
+amalgamating company, no transfer takes place?” This 
+formulation was wide enough to cover not only the 
+application of Section 47 but also the broader question of 
+taxability of such substitution of shares under the Act. The 
+High Court did not itself assess income under Section 28, 
+but only clarified that if the shares were stock-in-trade, the 
+exemption of Section 47 would not apply, and the matter 
+required reconsideration by the Tribunal so as to determine 
+whether the shares were held as stock-in-trade or as 
+capital assets, as without that determination the taxability 
+or eligibility for exemption could not be ascertained. 
+
+540
+[2026] 1 S.C.R.
+Supreme Court Reports
+	•
+Third, there was no violation of natural justice in the present 
+case, unlike in Shiv Raj Gupta where an altogether new 
+head of income was introduced without notice to the 
+assessee. Here, the High Court expressly recorded the 
+preliminary objections and submissions of the appellants 
+with respect to Section 28 and dealt with them. Thus, the 
+parties had full opportunity to address this aspect before 
+remand. Merely because a specific substantial question of 
+law was not framed, it cannot be concluded that prejudice 
+was caused to the parties, if both parties had the opportunity 
+to address the issues in dispute.
+9.5.	 Reference may also be made to Mansarovar Commercial 
+Pvt. Ltd v. Commissioner of Income-Tax18, where a similar 
+contention was raised based on Shiv Raj Gupta. This Court 
+held that issues incidental or collateral, on which the parties 
+have been fully heard, can be considered by the High Court 
+even if not expressly framed as substantial questions of law, 
+especially where they arise directly from the Tribunal’s findings. 
+The following paragraphs from the said decision are pertinent 
+in this regard:
+“45.13. As regards the reliance placed upon the 
+decision of this Court in Shiv Raj Gupta v. CIT [Shiv 
+Raj Gupta v. CIT, (2021) 11 SCC 58 : AIR 2020 SC 
+3556], by the learned Senior Counsel appearing on 
+behalf of the appellants on non-framing of substantial 
+question of law in terms of Section 260-A of the Act so 
+far as the interest liability is concerned, it is submitted 
+that the said decision shall not be applicable to the 
+facts of the case at hand and more particularly in 
+case of an interest which is automatic and mandatory. 
+It is submitted that in the said case, the dispute 
+was with respect to capital gains which by its very 
+nature is a separate head of income and the issue 
+relates to the very taxability. That therefore, failure 
+to raise a question of taxability of capital gains in a 
+particular case may tantamount to a failure in raising 
+18	
+(2023) 454 ITR 1 (SC)
+
+[2026] 1 S.C.R. 
+541
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+a substantial question of law in terms of Section 260-
+A of the Act. However, the same may not apply on 
+interest as the interest is automatic and mandatory.”
+“85. As regards the submission on behalf of the 
+assessees that no substantial question of law 
+was framed on levy of interest, at the outset, it is 
+required to be noted that both the parties made 
+submissions on levy of interest elaborately which 
+have been dealt with and considered by the High 
+Court in light of the Constitution Bench decision 
+of this Court in Anjum M.H. Ghaswala [CIT v. 
+Anjum M.H. Ghaswala, (2002) 1 SCC 633]. Even 
+otherwise, the said issue can be said to be incidental 
+or collateral. Even otherwise, in view of the decision 
+of this Court in Anjum M.H. Ghaswala [CIT v. Anjum 
+M.H. Ghaswala, (2002) 1 SCC 633] holding that 
+the levy of interest under Section 234-A is statutory 
+interest and mandatory and automatic, thereafter the 
+said issue cannot be said to be a question of law.”
+(Emphasis Supplied)
+9.6.	 Accordingly, the High Court cannot be said to have exceeded 
+its jurisdiction under Section 260A in making the impugned 
+observation on Section 28 before remanding the matter. The 
+preliminary contention of the appellants is, therefore, devoid of 
+merit and stands rejected.
+10.	 Now, another issue that arises for determination in these appeals is 
+whether the High Court, while remanding the matter to the Tribunal 
+to ascertain whether the shares of the amalgamating company 
+were held as stock-in-trade or as capital assets, was justified in 
+recording a finding that, if such shares were held as stock-in-trade, 
+the allotment of shares of the amalgamated company pursuant to a 
+court-sanctioned scheme of amalgamation would give rise to taxable 
+business income in the hands of the appellants under Section 28 
+of the I.T. Act.
+11.	 These appeals, therefore, raise a substantial question concerning 
+the taxability of gains said to arise on amalgamation, where shares 
+of the amalgamating company held by the assessees as stock-in-
+
+542
+[2026] 1 S.C.R.
+Supreme Court Reports
+trade, stand substituted by shares of the amalgamated company. 
+The core controversy is whether such substitution, in and of itself, 
+constitutes a realisation giving rise to taxable business income under 
+Section 28 and if so, the conditions under which such accrual or 
+receipt can be said to arise in the commercial sense, or whether 
+the incidence of taxation arises only upon the subsequent sale of 
+the substituted shares. 
+12.	 Before proceeding further, it is apposite to refer to the statutory 
+framework covering the issue involved in the present appeals. The 
+relevant provisions of the I.T. Act are extracted below, for better 
+appreciation:
+Section 2(1B) – Amalgamation
+“‘amalgamation’, in relation to companies, means the 
+merger of one or more companies with another company or 
+the merger of two or more companies to form one company 
+(the company or companies which so merge being referred 
+to as the amalgamating company or companies and the 
+company with which they merge or which is formed as 
+a result of the merger, as the amalgamated company) in 
+such a manner that—
+(i) all the property of the amalgamating company or 
+companies immediately before the amalgamation becomes 
+the property of the amalgamated company by virtue of 
+the amalgamation;
+(ii) all the liabilities of the amalgamating company or 
+companies immediately before the amalgamation become 
+the liabilities of the amalgamated company by virtue of 
+the amalgamation;
+(iii) shareholders holding not less than [three-fourths] 
+in value of the shares in the amalgamating company 
+or companies (other than shares already held therein 
+immediately before the amalgamation by, or by a nominee 
+for, the amalgamated company or its subsidiary) become 
+shareholders of the amalgamated company by virtue of 
+the amalgamation,
+otherwise than as a result of the acquisition of the 
+property of one company by another company pursuant 
+
+[2026] 1 S.C.R. 
+543
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+to the purchase of such property by the other company 
+or as a result of the distribution of such property to the 
+other company after the winding up of the first-mentioned 
+company.”
+Section 2(14) – Capital asset
+“capital asset” means – 
+(a)	 property of any kind held by an assessee, whether 
+or not connected with his business or profession, 
+(b)	 …
+(c)	 …
+but does not include—
+(i)	
+any stock-in-trade [other than the securities referred 
+to in sub-clause (b)], consumable stores or raw 
+materials held for the purposes of his business or 
+profession. 
+(j)	
+…”
+Section 2(47) – Transfer
+“transfer”, in relation to a capital asset, includes,
+(i)	
+the sale, exchange or relinquishment of the 
+asset; or
+(ii)	 the extinguishment of any rights therein; or
+(iii)	 the compulsory acquisition thereof under any law
+…”
+Section 28 — Profits and gains of business or profession
+“The following income shall be chargeable to income-
+tax under the head “Profits and gains of business or 
+profession”,—
+(i) the profits and gains of any business or profession 
+which was carried on by the assessee at any time during 
+the previous year;
+…
+
+544
+[2026] 1 S.C.R.
+Supreme Court Reports
+(iv) the value of any benefit or perquisite arising from 
+business or the exercise of a profession, whether—
+(a) convertible into money or not; or
+(b) in cash or in kind or partly in cash and partly in kind;]
+…
+(vi-a) the fair market value of inventory on the date on 
+which it is converted into, or treated as, a capital asset 
+determined in the prescribed manner;
+….”
+Section 45(1) — Capital gains 
+“Any profits or gains arising from the transfer of a 
+capital asset effected in the previous year shall, save as 
+otherwise provided in sections 54, 54B, 54D, 54E, 54EA, 
+54EB, 54F, 54G and 54H, be chargeable to income-tax 
+under the head “Capital gains”, and shall be deemed to 
+be the income of the previous year in which the transfer 
+took place.”
+Section 47 – Transactions not regarded as transfer
+“Nothing contained in section 45 shall apply to the 
+following transfers:
+….
+(vii) any transfer by a shareholder, in a scheme of 
+amalgamation, of a capital asset being a share or shares 
+held by him in the amalgamating company, if—
+(a) the transfer is made in consideration of the allotment to 
+him of any share or shares in the amalgamated company 
+except where the shareholder itself is the amalgamated 
+company, and
+(b) the amalgamated company is an Indian company;
+….”
+12.1.	 The above provisions make it clear that the scope of taxability 
+on amalgamation depends on the nature of the shares held. 
+
+[2026] 1 S.C.R. 
+545
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+Section 2(14) excludes stock-in-trade from the definition of 
+a capital asset, while Section 2(47) defines “transfer” only in 
+relation to capital assets. Section 28 casts a wide net, taxing the 
+“profits and gains of business or profession”, including benefits 
+or perquisites arising from business, whether convertible into 
+money or not, or in cash or kind. Section 45 imposes capital 
+gains tax only on the transfer of a capital asset, subject to 
+exceptions under Section 47, including the transfer of shares 
+in a scheme of amalgamation. Section 47(vii) specifically 
+exempts from capital gains tax any transfer by a shareholder 
+of a capital asset being shares of the amalgamating company, 
+in consideration of the allotment of shares in the amalgamated 
+company, provided the amalgamated company is an Indian 
+company. There is a difference between a charging provision 
+and an exemption provision. A provision that enables the 
+levy of tax on a particular transaction is a charging provision. 
+Only a transaction that is covered by a charging provision 
+is taxable. Only if the transaction is taxable can there be an 
+exemption. Therefore, the transfer of shares arising out of an 
+order of amalgamation, even if it is treated as a capital asset, 
+is generally taxable but would be exempt from taxation only 
+if both the requirements under Section 47 (vii) are satisfied.
+13.	 On behalf of the appellants, it was contended that no taxable event 
+arises at the stage of amalgamation. According to them, income 
+can be said to arise only upon the actual realisation or sale of the 
+substituted shares, and not at the point of their allotment in the 
+amalgamated company. The scheme of the Act, it was submitted, 
+proceeds on the foundational premise that only real income is taxable 
+unless Parliament, by express words, enacts a contrary legal fiction. 
+Illustratively, Section 28(via) expressly deems the fair market value of 
+inventory converted into a capital asset to be taxable, even without 
+the receipt of money. This demonstrates that where the legislature 
+intends to tax notional accretions, it does so explicitly. In the absence 
+of any analogous deeming provision in respect of amalgamations, 
+Section 28 cannot be judicially expanded to cover hypothetical or 
+unrealised gains.
+14.	 Conversely, on behalf of the Revenue, it was submitted that 
+Section 28 does not predicate the existence of a “transfer”, “sale” 
+or “exchange”. What the provision taxes are the “profits and gains 
+
+546
+[2026] 1 S.C.R.
+Supreme Court Reports
+of business or profession”, which may be realised either in cash or 
+in kind. Where stock-in-trade ceases to exist and is substituted by 
+another commodity or asset of ascertainable value, profit accrues. 
+According to the Revenue, the language of Section 28 is wide enough 
+to encompass all benefits or advantages arising from business 
+activity, irrespective of the form of realisation. Therefore, once the 
+shares held as stock-in-trade in the amalgamating company ceases 
+to exist and are replaced by shares of the amalgamated company 
+of higher value, a business profit arises which is liable to be taxed 
+under Section 28. 
+Scope of Section 28
+15.	 Before considering the rival submissions, it is necessary to delineate 
+the scope of Section 28. The provision contemplates the chargeability 
+of the “profits and gains of any business or profession” carried on by 
+the assessees during the relevant previous year. What is material, 
+therefore, is that there must be income arising from or in the course 
+of business to be treated as profits or gains. Such profit must be 
+ascertainable with reasonable definiteness at the relevant point of 
+time, and the assessees must have either received it, or acquired a 
+vested right to receive and commercially realise it, even if the receipt 
+is in kind. It is not necessary for the benefit to be capable of being 
+converted into money. Significantly, Section 28 does not prescribe 
+any precondition as to the precise mode through which the profit must 
+arise. The moment any income arises out of business or profession, 
+the provision becomes applicable. It does not incorporate the definition 
+of “transfer” under Section 2(47), unlike Section 45. It is sufficient if 
+there is “income”, and the “transfer”, whether it is actual, material, 
+or immaterial, is not relevant. The two provisions thus operate in 
+distinct and independent fields. As already mentioned, the language 
+of Section 28 – “the profits and gains of any business or profession” 
+is deliberately wide, i.e., the charge itself is cast in wide terms. It 
+is well settled that charging provisions, while construed strictly, are 
+not to be read in an unduly narrow manner when the language of 
+the provision itself is wide. 
+15.1.	 In Mazagaon Dock Ltd v. Commissioner of Income Tax 
+and Excess Profits Tax19, this Court held that the language 
+19	
+AIR 1958 SC 861
+
+[2026] 1 S.C.R. 
+547
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+of Section 42(2) of the 1922 Act, though strict in nature, could 
+not be artificially restricted. Expressions such as “business’ 
+and “profits derived” were held to be of wide import in fiscal 
+statutes and must be construed broadly to give effect to the 
+legislative intent. The Court rejected the narrow interpretation 
+urged by the assessee and clarified that wide words used 
+in charging provisions cannot be cut down merely to avoid 
+unusual or harsh consequences. Similarly, in Ujagar Prints 
+Etc. v. Union of India and others Etc.20, the Court reiterated 
+that wide statutory language must receive its full amplitude and 
+cannot be artificially confined. Further, in Commissioner of 
+Customs (Import), Mumbai v. Dilip Kumar and Company 
+and others21, this Court clarified that “strict interpretation” does 
+not connote a literal or pedantic reading. Instead, legislative 
+intent must be combined with the words of the statute to arrive 
+at a meaning that is neither too narrow nor too broad.
+15.2.	 Thus, business profits may accrue or be realised in diverse 
+circumstances, even in the absence of a conventional sale, 
+transfer, or exchange in the strict legal sense. To confine the 
+operation of Section 28 to such modes would unduly restrict 
+a provision that Parliament has intentionally couched in broad 
+terms. Illustratively, waiver of a trading liability has been 
+treated as taxable business income under Section 28, as held 
+in Commissioner of Income Tax v. T.V. Sundaram Iyengar 
+& Sons Ltd.22 Again, in Commissioner of Income Tax v. 
+Meghalaya Steels Ltd23, this Court noted that under Section 
+28, income from cash assistance, by whatever name called, 
+received or receivable by any person against exports under 
+any scheme of the Government of India, would be income 
+chargeable to income tax under the head “Profits and gains 
+of business or profession”. It was held that if cash assistance 
+received or receivable against exports schemes is included 
+as income under the head “Profits and gains of business or 
+profession” subsidies which go to the reimbursement of cost 
+20	
+(1989) 3 SCC 488
+21	
+(2018) 9 SCC 1 (5-Judge Bench)
+22	
+(1996) 222 ITR 344 (SC)
+23	
+(2016) 383 ITR 217 (SC)
+
+548
+[2026] 1 S.C.R.
+Supreme Court Reports
+in the production of goods of a particular business would also 
+have to be included under the same head, and not under the 
+head “Income from other sources”. Likewise, in Commissioner 
+of Income Tax, Delhi v. Woodward Governor India P. Ltd24, 
+this Court held that foreign exchange fluctuations on trading 
+items directly affect the profit and loss account, thereby forming 
+part of the computation of business profits. Although that case 
+concerned the deduction of fluctuation losses, its reasoning 
+underscores that real income under Section 28 may accrue 
+without any conventional “transfer”. 
+15.3.	 It therefore emerges that Section 28 is a comprehensive 
+charging provision designed to bring within the tax net all real 
+profits and gains arising in the course of business, whether 
+convertible into money or received in money or in kind, and 
+irrespective of whether such accrual or receipt of income is 
+accompanied by a legal transfer in the strict sense.
+Amalgamation – Concept and Legal character
+16.	 Amalgamation, in corporate law, signifies the statutory blending of 
+two or more undertakings into one. It is distinct from winding up: 
+while the transferor company ceases to exist as a separate corporate 
+entity, its business, assets, and liabilities are absorbed into and 
+continue within the transferee. As held in Saraswati Industrial 
+Syndicate Ltd v. Commissioner of Income Tax25, the transferor 
+company ceases to exist, and the transferee emerges with a blended 
+corporate personality, inheriting all rights and liabilities. Stroud’s 
+Judicial Dictionary of Words and Phrases (9th Edn.) describes 
+amalgamation as the “welding or blending of two or more concerns 
+into one”. Black’s Law Dictionary (11th Edn.) similarly defines it as 
+the “act of combining or uniting; consolidation; amalgamation of two 
+small companies to form a new corporation”. In Walker’s Settlement, 
+In re26, amalgamation was explained as the state of two companies 
+being so joined as to form a third, or of one company being absorbed 
+into another [See: Religare Finvest Ltd. v. State (NCT of Delhi27]. 
+24	
+(2009) 312 ITR 254 (SC)
+25	
+(1990) Supp. SCC 675
+26	
+1935 Ch 567 (CA)
+27	
+(2024) 1 SCC 797
+
+[2026] 1 S.C.R. 
+549
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+16.1.	 Notably, the Companies Act, 2013 contains no express 
+definition of amalgamation. Instead, Sections 230 – 232 
+prescribe the procedure and spell out the legal effect, namely, 
+the extinguishment of the transferor’s corporate identity and the 
+vesting of its assets, rights, and obligations in the transferee. 
+Thus, amalgamation – ordinarily effected through a scheme 
+of compromise or arrangement sanctioned by the Court or 
+Tribunal – is founded on agreement between shareholders 
+and creditors, but its legal effect is statutory: upon sanction, 
+all assets, rights, and liabilities of the transferor vest in the 
+transferee by operation of law. In other words, amalgamation 
+is more than a mere contractual transfer; it is a statutory 
+process of substitution.
+16.2.	 In Commissioner of Income Tax v. Mahagun Realtors 
+(P) Ltd28, this Court explained that amalgamation is unlike 
+liquidation. Though the corporate shell of the transferor 
+disappears, its business continues within the transferee, and 
+courts therefore identify the successor-in-interest upon whom 
+rights and obligations devolve. The relevant paragraphs are 
+extracted below for proper understanding:
+“19. Amalgamation, thus, is unlike the winding up 
+of a corporate entity. In the case of amalgamation, 
+the outer shell of the corporate entity is undoubtedly 
+destroyed; it ceases to exist. Yet, in every other 
+sense of the term, the corporate venture continues — 
+enfolded within the new or the existing transferee 
+entity. In other words, the business and the adventure 
+lives on but within a new corporate residence i.e. 
+the transferee company. It is, therefore, essential 
+to look beyond the mere concept of destruction of 
+corporate entity which brings to an end or terminates 
+any assessment proceedings. There are analogies in 
+civil law and procedure where upon amalgamation, 
+the cause of action or the complaint does not per se 
+cease — depending of course, upon the structure and 
+objective of enactment. Broadly, the quest of legal 
+28	
+(2022) 19 SCC 1
+
+550
+[2026] 1 S.C.R.
+Supreme Court Reports
+systems and courts has been to locate if a successor 
+or representative exists in relation to the particular 
+cause or action, upon whom the assets might have 
+devolved or upon whom the liability in the event it is 
+adjudicated, would fall.”
+“21. In Saraswati Syndicate [Saraswati Industrial 
+Syndicate Ltd. v. CIT, 1990 Supp SCC 675], the facts 
+were that after amalgamation, the transferee company 
+claimed exemption from tax, of a sum which had 
+been allowed as a trading liability, on accrual basis, 
+in the hands of the transferee company which had 
+ceased to exist. The Revenue disallowed that claim; 
+that view was upheld. This Court stated that : (SCC 
+pp. 679-81, paras 5-6)
+“5. … In amalgamation two or more 
+companies are fused into one by merger or 
+by taking over by another. Reconstruction 
+or “amalgamation” has no precise legal 
+meaning. The amalgamation is a blending 
+of two or more existing undertakings into 
+one undertaking, the shareholders of each 
+blending company become substantially 
+the shareholders in the company which 
+is to carry on the blended undertakings. 
+There may be amalgamation either by the 
+transfer of two or more undertakings to a 
+new company, or by the transfer of one or 
+more undertakings to an existing company. 
+Strictly “amalgamation” does not cover the 
+mere acquisition by a company of the share 
+capital of other company which remains in 
+existence and continues its undertaking 
+but the context in which the term is used 
+may show that it is intended to include 
+such an acquisition. See: Halsbury’s Laws 
+of England, 4th Edn., Vol. 7, para 1539. 
+Two companies may join to form a new 
+company, but there may be absorption or 
+blending of one by the other, both amount 
+
+[2026] 1 S.C.R. 
+551
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+to amalgamation. When two companies are 
+merged and are so joined, as to form a 
+third company or one is absorbed into one 
+or blended with another, the amalgamating 
+company loses its entity.
+6. In General Radio & Appliances Co. 
+Ltd. v. M.A. Khader [General Radio & 
+Appliances Co. Ltd. v. M.A. Khader, (1986) 
+2 SCC 656], the effect of amalgamation 
+of two companies was considered. M/s 
+General Radio and Appliances Co. Ltd. was 
+tenant of a premises under an agreement 
+providing that the tenant shall not sublet the 
+premises or any portion thereof to anyone 
+without the consent of the landlord. M/s 
+General Radio and Appliances Co. Ltd. 
+was amalgamated with M/s National Ekco 
+Radio and Engineering Co. Ltd. under a 
+scheme of amalgamation and order of 
+the High Court under Sections 391 and 
+394 of Companies Act, 1956. Under the 
+amalgamation scheme, the transferee 
+company, namely, M/s National Ekco Radio 
+and Engineering company had acquired all 
+the interest, rights including leasehold and 
+tenancy rights of the transferor company 
+and the same vested in the transferee 
+company. Pursuant to the amalgamation 
+scheme the transferee company continued 
+to occupy the premises which had been 
+let out to the transferor company. The 
+landlord initiated proceedings for the 
+eviction on the ground of unauthorised 
+subletting of the premises by the transferor 
+company. The transferee company set 
+up a defence that by amalgamation of 
+the two companies under the order of 
+the Bombay High Court all interest, rights 
+including leasehold and tenancy rights 
+
+552
+[2026] 1 S.C.R.
+Supreme Court Reports
+held by the transferor company blended 
+with the transferee company, therefore the 
+transferee company was legal tenant and 
+there was no question of any subletting. 
+The Rent Controller and the High Court 
+both decreed the landlord’s suit. This 
+Court in appeal held that under the order 
+of amalgamation made on the basis of 
+the High Court’s order, the transferor 
+company ceased to be in existence in 
+the eye of the law and it effaced itself for 
+all practical purposes. This decision lays 
+down that after the amalgamation of the two 
+companies the transferor company ceased 
+to have any entity and the amalgamated 
+company acquired a new status and it was 
+not possible to treat the two companies as 
+partners or jointly liable in respect of their 
+liabilities and assets. In the instant case 
+the Tribunal rightly held that the appellant 
+company was a separate entity and a 
+different assessee, therefore, the allowance 
+made to Indian Sugar company, which was 
+a different assessee, could not be held 
+to be the income of the amalgamated 
+company for purposes of Section 41(1) 
+of the Act. The High Court was in error in 
+holding that even after amalgamation of 
+two companies, the transferor company 
+did not become non-existent instead it 
+continued its entity in a blended form 
+with the appellant company. The High 
+Court’s view that on amalgamation there 
+is no complete destruction of corporate 
+personality of the transferor company 
+instead there is a blending of the corporate 
+personality of one with another corporate 
+body and it continues as such with the 
+other is not sustainable in law. The true 
+
+[2026] 1 S.C.R. 
+553
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+effect and character of the amalgamation 
+largely depends on the terms of the scheme 
+of merger. But there cannot be any doubt 
+that when two companies amalgamate and 
+merge into one the transferor company 
+loses its entity as it ceases to have its 
+business. However, their respective rights 
+or liabilities are determined under the 
+scheme of amalgamation but the corporate 
+entity of the transferor company ceases 
+to exist with effect from the date the 
+amalgamation is made effective.”
+“30. In Bhagwan Dass Chopra v. United Bank of 
+India [Bhagwan Dass Chopra v. United Bank of 
+India, 1987 Supp SCC 536] it was held that in every 
+case of transfer, devolution, merger or scheme of 
+amalgamation, in which rights and liabilities of one 
+company are transferred or devolved upon another 
+company, the successor-in-interest becomes entitled 
+to the liabilities and assets of the transferor company 
+subject to the terms and conditions of contract of 
+transfer or merger, as it were. Later, in Singer India 
+Ltd. v. Chander Mohan Chadha [(2004) 7 SCC 1] this 
+Court held as follows: (SCC p. 10, para 8)
+“8. … there can be no doubt that when 
+two companies amalgamate and merge 
+into one, the transferor company loses its 
+identity as it ceases to have its business. 
+However, their respective rights and 
+liabilities are determined under the scheme 
+of amalgamation, but the corporate identity 
+of the transferor company ceases to exist 
+with effect from the date the amalgamation 
+is made effective.”
+16.3.	 At this juncture, it must be noted that the High Court relied 
+on Hindustan Lever, which, though not in the context of 
+taxation, observed that amalgamation bears all the “trappings 
+of a sale”. We shall, however, proceed to analyse Section 28 
+
+554
+[2026] 1 S.C.R.
+Supreme Court Reports
+in the context of amalgamation since the test under Section 
+28 is somewhat different: it does not hinge on whether there 
+is a sale, transfer, or exchange in the strict legal sense, as 
+already discussed. At the same time, it cannot be overlooked 
+that this Court in Grace Collis, overruling Vania Silk Mills, 
+held that amalgamation, for the purposes of capital gains under 
+Section 45, does involve a “transfer” of shares. Even if that 
+ratio was rendered in the context of capital gains, once this 
+Court has recognized that amalgamation entails a transfer, 
+that conclusion cannot be ignored while considering the ambit 
+of Section 28.
+16.4.	 The real question, therefore, is whether an amalgamation – 
+though, in company law, it operates as a statutory substitution 
+of rights – nonetheless gives rise to taxable business profits 
+under Section 28 of the I.T. Act. That enquiry is not concluded 
+merely by characterising the event as a “transfer”. It requires 
+a deeper examination of whether the substitution of shares 
+results in real commercial profits, having accrued or arisen in 
+the course of business, so as to be chargeable as business 
+income under Section 28. 
+Whether there is receipt or accrual of income upon amalgamation
+17.	 In the context of amalgamation, what transpires is essentially 
+a statutory substitution of one form of holding for another. The 
+shareholder’s interest in the transferor company is replaced by a 
+corresponding interest in the transferee company. For the purposes 
+of Section 28, the first test is whether such substitution constitutes 
+either a receipt or an accrual of income. 
+17.1.	 It is settled law that income yielding business profits may be 
+realised not only in money but also in kind. Thus, where an 
+assessee receives shares of the amalgamated company in 
+place of its shares held as trading stock, there is, in form, a 
+receipt of consideration in kind. Though such amalgamations 
+receive the sanction of the Court/Tribunal to be effectuated, they 
+are preceded by decisions taken in meetings of shareholders. 
+In such meetings, valuation reports are placed before the 
+shareholders, and for the amalgamation to be approved, 90% 
+of the shareholders must vote in favour of the amalgamation. 
+
+[2026] 1 S.C.R. 
+555
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+The report contains details of the share exchange ratio. Though 
+the value of each share is determined at that stage, it is not 
+tradable, as no right is vested at that point. Ordinarily, such 
+receipt arises only upon the actual allotment of shares, since 
+until that point no asset is placed in the hands of the assessee. 
+It cannot, however, be ruled out that in certain cases, the 
+terms of the sanctioned scheme may themselves create, from 
+an earlier date, a vested and imminent enforceable right to 
+allotment; in such situations, one may speak of “accrual”. The 
+general position, nevertheless, is that what the law recognises 
+in amalgamation is the receipt of shares in substitution of 
+trading assets.
+Commercial realisability
+18.	 Coming to the next test, it must be underscored that mere receipt of 
+shares does not suffice to attract Section 28; commercial realisability 
+is also required when income is received in kind. Moreover, in 
+Kanchanganga Sea Foods Ltd v. Commissioner of Income Tax29, 
+it was observed that the recipient of income must have control over 
+the income received, emphasising that mere receipt in kind is not 
+enough.
+18.1.	 It must also be clarified at this stage that amalgamation, in strict 
+legal terms, does not amount to an “exchange.” In Rasiklal 
+Maneklal, this Court held that the allotment of shares in the 
+amalgamated company under a court- sanctioned scheme is 
+not the result of a bilateral bargain between two parties, i.e., 
+there is no mutual or reciprocal transfer of ownership. Since 
+the amalgamating company itself ceases to exist, the element 
+of mutual transfer that characterises an exchange is absent. 
+Therefore, amalgamation, as held in other decisions, is to be 
+understood as a statutory substitution of holdings, and not as 
+an “exchange” in the legal sense.
+18.2.	 Thus, the jurisprudence discloses three related strands: 
+first, cases such as Orient Trading, relying on English 
+decision (Royal Insurance Co. Ltd. v. Stephen), which will 
+29	
+(2010) 11 SCC 144
+
+556
+[2026] 1 S.C.R.
+Supreme Court Reports
+be discussed later, emphasise that receipt of an asset of 
+definite money’s worth in substitution for another may amount 
+to commercial realisation attracting Section 28; second, the 
+decision in Rasiklal Maneklal, which clarifies that allotment on 
+amalgamation is not an “exchange”, along with other decisions 
+holding it to be a statutory substitution; and third, the ruling in 
+Grace Collis, which makes it clear that, notwithstanding its 
+statutory character, amalgamation does involve a “transfer” 
+within the meaning of the Income-tax Act.
+18.3.	 Reconciling these strands, the true test under Section 28, 
+as already noted, is not the legal label of “exchange” or 
+“transfer”, but whether the assessee, in consequence of the 
+amalgamation and thereby of its business, has obtained a 
+profit that is real and presently realisable. The well-known 
+real-income principle, as emphasised in E.D. Sassoon and 
+Shoorji Vallabhdas, must be applied. Therefore, the enquiry 
+for the Court is whether, as a result of the amalgamation, the 
+assessee has in fact realised a profit in the commercial sense. 
+This assessment may turn on whether:
+(A)	 The old stock-in-trade has ceased to exist in the 
+assessee’s books;
+(B)	 The shares received in the amalgamated company 
+possess a definite and ascertainable value; and
+(C)	 The assessee, immediately upon allotment, is in a position 
+to dispose of such shares and realise money.
+18.4.	 If these conditions are satisfied, the substitution bears the 
+character of a commercial realisation and the profit may be 
+taxed under Section 28. Where, however, the allotment of 
+shares is merely a statutory substitution mandated by the 
+scheme of amalgamation, without yielding an immediately 
+realisable benefit, no income can be said to accrue or be 
+received at that stage, and taxability arises only upon the 
+eventual sale of the shares. For instance:
+(A)	 If a shareholder of Company A receives shares of 
+Company B pursuant to a court-sanctioned amalgamation, 
+but such shares are subject to a statutory lock-in 
+period during which they cannot be sold in the market, 
+
+[2026] 1 S.C.R. 
+557
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+the allotment cannot be equated with a commercial 
+realisation. It represents only a replacement of one form 
+of holding by another, without any immediate gain capable 
+of monetisation.
+(B)	 Similarly, where the amalgamated company is closely 
+held and its shares are not quoted on any recognized 
+stock exchange, the mere allotment of such shares does 
+not generate a realisable profit, since no open market 
+exists to ascribe a fair disposal value.
+18.5.	 These illustrations, which are not exhaustive, underline that 
+unless the assessee is, by virtue of the substitution, placed 
+in possession of an asset which is freely tradable and of an 
+ascertainable market value, the principle of real income bars 
+taxation at the stage of amalgamation. Thus, the substitution 
+of shares upon amalgamation does not, by itself, give rise to 
+taxable income under Section 28. What must be established 
+is that the transaction has the attributes of a commercial 
+realisation resulting in a real and presently disposable 
+advantage. Where this test is satisfied, taxability may arise 
+at the stage of substitution. Otherwise, the accrual or receipt 
+of income is deferred until actual sale.
+18.6.	 In other words, as noted earlier, the governing test under 
+Section 28 is not the presence of a sale, exchange, or 
+extinguishment of rights in the technical sense, but whether the 
+assessee has, in consequence of business operations, come 
+into possession of a real and presently realisable commercial 
+benefit. This may take the form of money directly received, 
+or assets in kind capable of being immediately disposed of 
+for money’s worth. The shares, therefore, must be readily 
+available for trading to be treated as stock-in-trade. 
+19.	 We may now refer to the judgment in Orient Trading. Although it 
+dealt with an exchange, the observations therein as to the nature of 
+“realisation” are of general application. The Court, relying on English 
+decision (Royal Insurance Co. Ltd. v. Stephen), explained that a 
+realisation takes place when the old investment ceases to figure 
+in the affairs of the company and its worth – whether by way of 
+profit or loss – can be determined with finality in monetary terms. 
+At that point, the old investment is regarded as closed and a new 
+
+558
+[2026] 1 S.C.R.
+Supreme Court Reports
+investment is treated as having commenced. The emphasis is that 
+realisation is not merely a matter of accounting entries, but arises 
+where the former asset is replaced by a new and distinct asset of 
+ascertainable value, thereby crystallising the economic outcome of 
+the earlier holding. Lord Trayner, in Californian Copper Syndicate 
+Ltd v. Inland Revenue30 observed that “no doubt here the price took 
+the form of fully paid shares in another company, but, if there can be 
+no realised profit except when that is paid in cash, the shares were 
+realisable and could have been turned into cash”. On this reasoning, 
+even the exercise of an option, such as the choice to accept shares 
+of the amalgamated company in lieu of the old holding, may amount 
+to a realisation of the old asset, subject to the other conditions being 
+satisfied, as discussed. The relevant portions of the judgment in 
+Orient Trading, are as under:
+“8. The decision of Rowlatt, J. in Royal Insurance Co. Ltd. v. 
+Stephen [(1928) 14 TC 22 : 44 TLR 630] was approved in 
+the said case. In the case of Royal Insurance Co. Ltd. v. 
+Stephen [(1928) 14 TC 22 : 44 TLR 630] the appellant-
+company had, under the Railways Act, 1921, to accept 
+new stocks in the amalgamated companies in exchange 
+for the stock held in the companies which were absorbed 
+and which resulted in loss to the appellant-company. The 
+claim of the appellant-company for deduction of such loss 
+was upheld by Rowlatt, J. who held: (TC pp. 28-29)
+“At the bottom of this principle of waiting for a 
+realisation, I think there is this idea; while an investment 
+is going up or down for income tax purposes the 
+company cannot take any notice of fluctuations, 
+but it has to take notice of them when all that state 
+of affairs comes to an end, when that investment is 
+wound up I will say — ‘wound up’ is an unfortunate 
+expression perhaps and I will say when an investment 
+ceases to figure in the company’s affairs, when it is 
+known exactly what the holding of that investment has 
+meant, plus or minus to the company, and then the 
+company starts so far as that portion of its resources 
+30	
+5 TC 159
+
+[2026] 1 S.C.R. 
+559
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+is concerned with a new investment. Then one knows 
+where one is and it is no longer a question of paper, 
+it is a question of fact and that is a realisation. I think 
+that is the point of view from which it ought to be 
+looked at, and looking at it from that point of view the 
+company is right. It has done with the investments in 
+the companies. They have disappeared. It is known 
+exactly in money. It is known now exactly what their 
+holding of them has meant to the company. They will 
+never more go up or down. What will go up or down 
+now are the different shares in the new companies, 
+altogether different investments really, and therefore 
+I think that the old investment is closed and realised 
+and a new investment is started.”
+9. Similarly in Californian Copper Syndicate Ltd. v. 
+Inland Revenue (Harris, Surveyor of Taxes) [5 TC 159], 
+decided by the Court of Exchequer in Scotland, Lord 
+Trayner has said: (TC p. 167)
+“But it was said that the profit — if it was profit — was not 
+realised profit and, therefore, not taxable. I think the profit 
+was realised. A profit is realised when the seller gets the 
+price he had bargained for. No doubt here the price took 
+the form of fully paid shares in another company, but, 
+if there can be no realised profit, except when that is 
+paid in cash, the shares were realisable and could 
+have been turned into cash, if the appellants had been 
+pleased to do so. I cannot think that income tax is due or 
+not according to the manner in which the person making 
+the profit pleases to deal with it.”
+11. The subsequent decision of the House of Lords in 
+British South Africa Co. v. Varty (Inspector of Taxes) [1966 
+AC 381 : (1965) 2 All ER 395 : (1965) 3 WLR 47] does not 
+lend assistance to the submission of Shri Puri. In that case 
+the appellant-company in 1953 had lent 200,000 pounds 
+to a gold mining company and in return had received, 
+inter alia, an option to subscribe for 100,000 shares in the 
+mining company at 1 pound per share, the value of the 
+shares then being 19 Sh. 6 d a share. In 1954 when the 
+value of the shares had gone up to 43 Sh. 6 d a share 
+
+560
+[2026] 1 S.C.R.
+Supreme Court Reports
+the appellant exercised the option and obtained shares 
+worth 217,500 pounds for which they paid 100,000 pounds. 
+The company was assessed for income tax on a profit of 
+11,75,000 pounds. On behalf of the company it was urged 
+that upon the exercise of the option there was a realisation 
+because the option which was a “trading asset” or an item 
+of “stock-in-trade” was exchanged for or was replaced 
+by a different item of stock-in-trade which had a value in 
+money›s worth. The said contention was rejected by the 
+House of Lords (Lord Guest, dissenting). It was held that 
+the appellant-company never, in fact, realised their option in 
+the sense of passing it on for a consideration to someone 
+else and that there was neither a sale of the option or its 
+exchange for something else and that when the company 
+exercised their option or used or availed themselves of their 
+rights they did not make the end of the trading transaction 
+and that there was merely the end of the beginning of a 
+trading transaction. It was emphasised that there was no 
+element of exchange as there was in Royal Insurance Co. 
+Ltd. v. Stephen [(1928) 14 TC 22 : 44 TLR 630] and in 
+Westminster Bank Ltd. v. Osler (Inspector of Taxes) [(1933) 
+1 ITR 65 : 1932 All ER Rep 917, HL]. (See Lord Morris of 
+Borth-Y-Gest at pp. 394-395.) Lord Guest, in his dissenting 
+judgment, however felt that the option was a trading asset 
+of the appellant-company and, applying the principles laid 
+down in Royal Insurance Co. Ltd. v. Stephen [(1928) 14 
+TC 22 : 44 TLR 630] and Westminster Bank Ltd. v. Osler 
+(Inspector of Taxes) [(1933) 1 ITR 65 : 1932 All ER Rep 
+917, HL], held that the exercise of option amounted to a 
+realisation of the option which resulted in a trading profit 
+of 11,75,000 pounds. This would show that the principles 
+laid down in Royal Insurance Co. Ltd. v. Stephen [(1928) 
+14 TC 22 : 44 TLR 630] and Westminster Bank Ltd. v. 
+Osler (Inspector of Taxes) [(1933) 1 ITR 65 : 1932 All ER 
+Rep 917, HL] have been affirmed by all the Law Lords 
+and the difference amongst them was only as regards the 
+applicability of the said principles to the facts of that case.
+13. Having regard to the principles laid down in the decisions 
+aforementioned, it must be held that the High Court has 
+rightly taken the view that as a result of their having 
+
+[2026] 1 S.C.R. 
+561
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+taken the shares in the second company in exchange of 
+the shares of the first company the assessee had made 
+realisation of the value of the shares of the first company 
+and the difference between the price of the shares of the 
+first company and the second company on the date of such 
+exchange, i.e., Rs 4,06,000, has to be treated as a profit 
+of the assessee and has been rightly assessed as income 
+of the assessee. We, therefore, do not find any merit in 
+the appeal and the same is accordingly dismissed, but in 
+the circumstances with no order as to costs.”
+20.	 The Privy Council in Raja Raghunandan Prasad Singh v. 
+Commissioner of Income Tax31, recognised that income may be 
+received in kind as well as in cash, and that the equivalent of cash 
+may constitute income, but stressed that what is received must 
+be “money’s worth”. It was clearly observed that there must be an 
+actually realised or realisable profit or loss. The following passages 
+are pertinent in this regard: 
+“Their Lordships fully recognise that income may be 
+received in kind as well as in cash and that the receipt 
+of an equivalent of cash may be a receipt of income. 
+In the case of Californian Copper Syndicate v. Harris 
+[(1905) 6 F. 894 : 5 Tax. Cas. 159.], a company which 
+dealt in mining properties sold certain property for 
+fully-paid shares in another company and was held 
+to be liable to income-tax on the profit made on the 
+transaction although no cash passed, but this was 
+on the ground that the shares taken in exchange 
+were realisable and were thus money’s worth and 
+the equivalent of cash. In the case of Royal Insurance 
+Company, Ltd. v. Stephen [(1928) 44 T.L.R. 630 : 14 Tax. 
+Cas. 22.], an insurance company, which admitted that 
+any profit which it made on the realisation of investments 
+was liable to tax, effected an exchange of securities in 
+pursuance of a railway amalgamation scheme. The new 
+stocks received in place of the surrendered stocks had at 
+the date of the exchange a definite market value which 
+31	
+(1933) 1 ITR 113 : 1933 SCC OnLine PC 8
+
+562
+[2026] 1 S.C.R.
+Supreme Court Reports
+was less than the original cost to the company of the 
+surrendered stocks. A claim was made by the company in 
+computing its profits to deduct the difference loss sustained 
+by it. For the Crown it was contended that there has been 
+no realisation of investments, but merely an exchange of 
+one set of investments for another. The company’s claim 
+was upheld by Rowlatt, J. on the ground that it had in 
+substance realised its former holdings and received for 
+them money’s worth of, a definite amount. The loss was 
+thus a realised loss susceptible of exact estimation in 
+money. The transaction was on “a money basis.” Reference 
+may also be made to the recent case in the House of 
+Lords of Westminster Bank, Ltd. v. Osler (15th November, 
+1932) [(1933) A.C. 139.], where the bank surrendered 
+certain holdings of National War Bonds in exchange for 
+other Government securities and the Crown claimed tax 
+oil the excess value of the substituted over the original 
+securities. The question was whether these transactions 
+were the equivalent of a realisation of the original holdings, 
+and it was held that they were. “The exchange effected 
+in the present case,” said Lord Buckmaster, “was in fact 
+the exact equivalent of what would have I taken place 
+had instructions been given to sell the original stock and 
+invest the proceeds in the new security.” The bank had 
+thus in effect realised its profit, for it had deceived it in 
+money’s worth of a I definitely ascertained amount. From 
+these cases it is plain that the essence of the matter 
+is that there must be an actually realised or realisable 
+profit or loss.
+Applying this principle to the assessees’ transaction in 
+1904, their Lordships are of opinion that there was in the 
+circumstances no realisation of the principal and interest of 
+the original mortgage of 1894 and that when the assessees 
+received, the new mortgage for Rs. 7,33,135, which 
+included the principal and interest of the original mortgage, 
+they did not thereby receive payment or the equivalent 
+of payment of the principal and interest of the original 
+mortgage. No doubt the grantors of the new mortgage 
+were not identical with the grantor of the original mortgage 
+
+[2026] 1 S.C.R. 
+563
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+and the property mortgaged was greater in extent, but 
+the substitution effected cannot in any real sense, be 
+described as the equivalent of a realisation of the original 
+mortgage, principal and interest. What happened was that 
+the assessees received a new and substituted security for 
+an existing debt. To give security for a debt is not to pay 
+a debt. If the assessees had received payment in kind of 
+the amount outstanding on the original mortgage, in the 
+shape, say, of realisable shares or bonds, the case would 
+have been different, but they merely received further and 
+better security for their debt. It is, in their Lordships’ view, 
+quite immaterial that the assessees discharged the original 
+mortgage and all liability under it, for that was merely an 
+incident in the transaction whereby the new security was 
+substituted for the old. Their Lordships accordingly hold 
+that the assessees did not by virtue of the transaction of 
+1904 receive payment of the arrears of interest amounting 
+to Rs.2,33,135 then outstanding on the mortgage of 1894; 
+that the assessees were not liable to be taxed on this sum 
+as being income received when the new mortgage was 
+granted; and that this sum of arrears of interest (though 
+after 1904 secured by the new mortgage) continued to 
+retain its character and remain due to the assessees 
+down to the time of the judicial sales of November, 1924, 
+and January, 1925. In so holding their Lordships find 
+themselves in agreement in result with the Commissioner 
+and the High Court.”
+21.	 In Raja Mohan Raja Bahadur v. Commissioner of Income 
+Tax32, this Court held that where commercial assets are received 
+in satisfaction of an obligation, income embedded in such assets 
+is deemed to be received when title passes, irrespective of actual 
+sale. The Court again took note of the observations made in the 
+Californian Copper Syndicate case. The following paragraphs from 
+the decision are apposite:
+“4. Under Section 4 of the Income Tax Act, 1922, the 
+total income of any previous year of a resident assessee 
+32	
+(1967) 66 ITR 378
+
+564
+[2026] 1 S.C.R.
+Supreme Court Reports
+includes all income, profits and gains from whatever 
+sources derived which are received or are deemed to be 
+received in the taxable territories in such year by or on 
+behalf of such person, or accrue or arise or are deemed 
+to accrue or arise to him in the taxable territories during 
+such year, or accrue or arise to him without the taxable 
+territories during such year, or having accrued or arisen to 
+him without the taxable territories before the beginning of 
+such year and after the 1st day of April, 1933, are brought 
+into or received in the taxable territories by him during such 
+year. The Act does not contain much guidance as to cases 
+in which tax is to be levied on income received, and cases 
+in which tax is to be levied on income accrued or arisen. 
+Section 13 however requires that income, profits and gains 
+for the purposes of Sections 10 and 12 shall be computed 
+in accordance with the method of accounting regularly 
+employed by the assessee. If accounts are maintained 
+according to the mercantile system, whenever the right 
+to receive money in the course of a trading transaction 
+accrues or arises, even though income is not realised, 
+income embedded in the receipt is deemed to arise or 
+accrue. Where the accounts are maintained on cash 
+basis receipt of money or money’s worth and not the 
+accrual of the right to receive is the determining factor. 
+Therefore, if commercial assets are received by a trade 
+maintaining accounts on cash basis in satisfaction of 
+an obligation, income which is embedded in the value 
+of the assets is deemed to be received : the receipt 
+of income is not deferred till the asset is realized 
+in terms of cash or money. It makes no difference 
+whether the receipt of assets is in pursuance of an 
+agreement or that the trader is compelled by law to 
+accept the assets from the debtor. Once title of the 
+trader to an asset received is complete, whether by 
+a consensual arrangement or by operation of law, 
+he receives the income embedded in the value of 
+the asset. In Californian Copper Syndicate (Limited and 
+Reduced) v. Harris (Surveyor of Taxes) [5 TC 159] Lord 
+Trayner in dealing with a case of assessment to income 
+tax of a Company formed for the purpose, inter alia, of 
+
+[2026] 1 S.C.R. 
+565
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+acquiring and reselling mining property resold the whole 
+of its assets to a second Company and received payment 
+in fully paid shares of the purchasing Company, observed:
+“A profit is realised when the seller gets the price 
+he has bargained for. No doubt here the price 
+took the form of fully paid shares in another 
+company, but, if there can be no realised profit, 
+except when that is paid in cash, the shares 
+were realisable and could have been turned into 
+cash, if the appellants had been pleased to do 
+so. I cannot think that Income tax is due or not 
+according to the manner in which the person 
+making the profit pleases to deal with it.”
+Counsel for the appellant contended that the bonds were 
+intended to renew the promise to pay the amount due by 
+the debtor through his agent, and by the renewal of the 
+promise even if the original liability was extinguished and 
+a fresh liability was substituted, no income was received 
+by the appellant.
+5. We are unable to agree with that contention. The 
+Government of the State undertook to pay the amount of 
+the bonds in satisfaction of the liability of the debtor. The 
+liability of the original debtor was extinguished and a fresh 
+obligation was undertaken by the State Government in 
+substitution of the original liability. The Government had 
+the right to recover the amount due under the bonds from 
+the landholder, but on that account the Government did 
+not become the agent of the landholder for payment of 
+his debts. Even if the Government was unable to recover 
+the money from the landholder, the liability undertaken by 
+the Government under the bond remained unimpaired. 
+The bond was a security for payment of the debt which 
+completely replaced the original liability of the debtor.”
+22.	 This Court in Commissioner of Income Tax v. Ashokbhai 
+Chimanbhai33, reiterated that profits do not accrue from day to day 
+33	
+(1965) 56 ITR 42
+
+566
+[2026] 1 S.C.R.
+Supreme Court Reports
+but are ascertained by a comparison of assets at two points in time. 
+Further, the test of accrual is whether the person entitled thereto has 
+a right to claim the profits. The following paragraphs are relevant 
+in this regard:
+“6. Under the Income Tax Act, income is taxable when 
+it accrues, arises or is received, or when it is by fixation 
+deemed to accrue, arise or is deemed to be received. 
+Receipt is not the only test of chargeability to tax; if 
+income accrues or arises it may become liable to tax. For 
+the purpose of this case it is unnecessary to dilate upon 
+the distinction between income “accruing” and “arising”. 
+But there is no doubt that the two words are used to 
+contradistinguish the word “receive”. Income is said to be 
+received when it reaches the assessee : when the right 
+to receive the income becomes vested in the assessee, 
+it is said to accrue or arise. Fletcher Moulton, L.J., in In 
+re The Spanish Prospecting Co. Ltd. [(1911) 1 Ch 92] 
+observed at p. 98:
+“The word ‘profit’ has * * * a well-defined legal 
+meaning and this meaning coincides with the 
+fundamental conception of profits in general 
+parlance; although in mercantile phraseology 
+the word may at times bear meanings indicated 
+by the special context which deviate in some 
+respects from this fundamental signification. 
+‘Profit’ implies a comparison between the 
+state of a business at two specific dates 
+usually separated by an interval of a year. The 
+fundamental meaning is the amount of gain 
+made by the business during the year. This 
+can only be ascertained by a comparison of 
+the assets at the two dates.”
+In the gross receipts of a business day after day or from 
+transaction to transaction lie embedded or dormant profit 
+or loss: on such dormant profit or loss undoubtedly taxable 
+profits, if any, of the business will be computed. But 
+dormant profits cannot be equated with profits charged 
+to tax under Sections 3 & 4 of the Income Tax Act. The 
+concept of accrual of profits of a business involves the 
+
+[2026] 1 S.C.R. 
+567
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+determination by the method of accounting at the end of the 
+accounting year or any shorter period determined by law. 
+If profits accrue to the assessee directly from the business 
+the question whether they accrue de die, in diem or at 
+the close of the year of account has at best an academic 
+significance, but when upon ascertainment of profits the 
+right of a person to a share therein is determined, the 
+question assumes practical importance, for it is only on 
+the right to receive profits or income, profits accrue to that 
+person. If there is no right, no profits will be deemed to 
+have accrued. This principle was applied by this Court in 
+E.D. Sassoon & Co. Ltd. v. CIT [26 ITR 27]. The material 
+facts bearing on that principle were these: E.D. Sassoon 
+& Co. Ltd, — called “Sassoons” — were the managing 
+agents of a Company which may be called ‘the United 
+Mills’ and were entitled to receive a percentage of annual 
+net profits of the Company as their remuneration. On 
+December 1, 1943 Sassoons assigned to Messrs Agarwal 
+& Co. their office as managing agents and all their rights 
+and benefits under the managing agency agreement. 
+Accounts of the managing agency commission payable 
+to the managing agents for the calendar year 1943 were 
+made up in 1944 and commission for the whole year was 
+paid to Messrs Agarwal & Co. thereafter. In the course 
+of assessment proceeding of Sassoons it was debated 
+whether in respect of commission earned by the managing 
+agency, tax was payable on the entirety of the commission 
+by Messrs Agarwal & Co. or by Sassoons or it was liable 
+to be apportioned between Messrs Agarwal & Co. and 
+Sassoons. This Court held (Jagannadhadas, J. dissenting) 
+that Messrs Agarwal & Co. alone were liable to pay tax on 
+the whole of the remuneration received under the contract 
+of service between the United Mills, because the managing 
+agency was entire and indivisible, and the remuneration 
+or commission fell due to the managing agents, only on 
+completion of a definite period of service and at stated 
+periods it being a condition of recovery of wages or salary 
+that the service or duty should be completely performed. 
+Remuneration as managing agents constituted according 
+to the Court “a debt” only at the end of each such period of 
+
+568
+[2026] 1 S.C.R.
+Supreme Court Reports
+service and no remuneration or commission was payable 
+to the managing agents for broken periods. After referring 
+to the observations of Fletcher Moulton, L.J. in the Spanish 
+Prospecting Co. Ltd. case [(1911) 1 Ch 92] (already set 
+out), Bhagwati, J., observed that “it would be absurd to 
+suggest that the profits of the company could accrue from 
+day to day or even from month to month”. The working of 
+the company from day to day could certainly not indicate 
+any profit or loss, even the working of the company from 
+month to month could not be taken as a reliable guide for 
+this purpose. If the profit or loss has to be ascertained by 
+a comparison of the assets at two stated points, the most 
+businesslike way would be to do so at stated intervals of one 
+year and that would be a reasonable period to be adopted 
+for the purpose. In the case of large business concerns 
+the working of the company during a particular month may 
+show profits and the working in another month may show 
+loss. The business during the earlier part of the year may 
+show profit or loss and in the later part of the year may 
+show loss or profit which would go to counterbalance the 
+profit or loss as the case may be in the earlier part of the 
+year. It would therefore be reasonable to determine the 
+profit or loss as the case may be at the end of every year 
+so that on such calculation of net profits the managing 
+agents may be paid their remuneration or commission 
+at the percentage stipulated in the managing agency 
+agreement and the shareholders also be paid dividends 
+out of the net profits of the Company.
+7. Counsel for the Commissioner submitted that the 
+judgment in E.D. Sassoon Co. Ltd. case [26 ITR 27] 
+proceeded upon the special character of a managing 
+agency agreement and did not purport to lay down a general 
+rule that accrual of income depends on quantification, or 
+that right to payment of an ascertainable amount does not 
+arise till accounts are made. Counsel also submitted that in 
+sale transactions of a trading venture profits accrue to the 
+trader from transaction to transaction and are embedded in 
+each transaction carried on by the trader, and the charge 
+imposed by Section 4(1)(a) is not deferred till settlement 
+
+[2026] 1 S.C.R. 
+569
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+of accounts. On that premise, counsel said, that profits 
+dormant or embedded in the transactions carried on by 
+Messrs Amrit Chemicals accrued from transaction to 
+transaction till November 12, 1955 and properly belonged 
+to the assessee and were liable to be taxed in the hands of 
+the assessee notwithstanding any subsequent disposition 
+of those profits by the assessee. In support of his contention 
+counsel relied upon Turner Morrison & Co. Ltd. v. CIT [23 
+ITR 152] — a case decided by this Court. In that case an 
+Indian Company received commission on sales effected 
+in India of goods received from a foreign company. The 
+Indian Company handled the cargo arriving at Calcutta 
+and made disbursements in connection therewith, collected 
+and after deducting expenses including their commission 
+remitted the balance to the foreign principal. It was held 
+by this Court that the income, profits and gains derived 
+from sale of goods by the Indian Company in British India 
+were assessable to tax under Section 4(1)(a) as income, 
+profits and gains received in the taxable territories by the 
+Company on behalf of the foreign principal. The Court in 
+that case observed at p. 160:
+“There can therefore, be no question that when 
+the gross sale proceeds were received by 
+the Agents in India they necessarily received 
+whatever income, profits and gains were lying 
+dormant or hidden or otherwise embedded in 
+them. Of course, if on the taking of accounts it 
+be found that there was no profit during the year 
+then the question of receipt of income, profits and 
+gains would not arise but if there were income, 
+profits and gains, then the proportionate part 
+thereof attributable to the sale proceeds received 
+by the Agents in India were income, profits and 
+gains received by them at the moment the gross 
+sale proceeds were received by them in India 
+and that being the position the provisions of 
+Section 4(1)(a) were immediately attracted and 
+the income profits and gains so received became 
+chargeable to tax under Section 3 of the Act.”
+
+570
+[2026] 1 S.C.R.
+Supreme Court Reports
+8. These observations were, it may be noticed, made 
+in rejecting the contention raised by counsel for the 
+taxpayer that in the gross sale proceeds received by him 
+in India, there was no income at all. Counsel for the Indian 
+Company said that the gross sale proceeds were merely 
+credit items in the account and that several amounts were 
+to be debited in the same account and if there remained 
+any credit balance, such balance alone could be regarded 
+as stamped with the formal impress of income capable 
+of being dealt with as such : income could therefore be 
+said to have been received only at that stage. The Court 
+did propound that when gross sale proceeds are received 
+in which is embedded income, that income will enter 
+the ultimate computation of the total profits assessable 
+to tax. But that is not to say that the profits accrue or 
+arise to a trader from day to day or from transaction to 
+transaction. The observation that to the income, profits and 
+gains embedded in the gross receipts Section 4(1) was 
+immediately attracted also does not warrant the inference 
+that the Court intended to lay down that profits accrue to a 
+taxpayer before the right thereto has come into existence. 
+“Profits” as pointed out in E.D. Sassoon Co. Ltd. case 
+[26 ITR 27] do not accrue from day to day or even 
+from month to month and have to be ascertained 
+by a comparison of assets at two stated points. The 
+Court also pointed out in that case that the test for 
+ascertaining whether profits have accrued or arisen 
+is whether the person who is entitled thereto has a 
+right to claim the profits.”
+23.	 Accordingly, where under a scheme of amalgamation the shareholder 
+merely receives, in substitution, shares of the amalgamated company 
+in lieu of the shares held in the amalgamating company, there is no 
+real or completed profit capable of being taxed under Section 28, 
+unless it is shown that the shares are held as stock-in-trade and 
+are readily available for realisation. In the absence thereof, what 
+takes place is only a statutory vesting and substitution of one form 
+of holding for another. Unless and until the substituted shares are 
+commercially realisable – whether saleable, tradeable, or by whatever 
+other mode of disposition so described – so as to yield real income, 
+no taxable event can be said to arise.
+
+[2026] 1 S.C.R. 
+571
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+Definite valuation
+24.	 The next test, which is well settled, is that profit must be capable of 
+definite valuation, so that the real gain or loss stands crystallized. 
+Judicial decisions have consistently underscored that “profits”, in 
+the commercial sense, are ascertainable only when the old position 
+is closed and the new position is determined in terms of money’s 
+worth – whether by sale, transfer, exchange, or statutory substitution. 
+This principle is an application of the doctrine of real income and 
+applies with equal force to stock-in-trade as it does to other forms 
+of commercial receipts. Therefore, the test is not satisfied merely 
+by the receipt of realisable shares in substitution of earlier holdings; 
+such shares must also be capable of quantification. 
+24.1.	 In Commissioner of Income Tax v. Woodward Governor 
+India (P) Ltd.34, this Court reaffirmed the settled principles 
+of commercial accounting, particularly that profits can be 
+ascertained only by a comparison of assets at two defined 
+points in time, and that unrealised gains embedded in stock-
+in-trade are not brought to charge unless and until they are 
+crystallised in terms of money’s worth. The following paragraphs 
+are apposite: 
+“28. One more aspect needs to be highlighted. 
+Under Section 28(i), one needs to decide the profits 
+and gains of any business which is carried on by 
+the assessee during the previous year. Therefore, 
+one has to take into account stock-in-trade for 
+determination of profits. The 1961 Act makes no 
+provision with regard to valuation of stock. But the 
+ordinary principle of commercial accounting requires 
+that in the P&L account the value of the stock-in-trade 
+at the beginning and at the end of the year should 
+be entered at cost or market price, whichever is the 
+lower. This is how business profits arising during the 
+year need to be computed. This is one more reason 
+for reading Section 37(1) with Section 145.
+34	
+(2009) 13 SCC 1
+
+572
+[2026] 1 S.C.R.
+Supreme Court Reports
+29. For valuing the closing stock at the end of a 
+particular year, the value prevailing on the last date is 
+relevant. This is because profits/loss is embedded in 
+the closing stock. While anticipated loss is taken into 
+account, anticipated profit in the shape of appreciated 
+value of the closing stock is not brought into account, 
+as no prudent trader would care to show increased 
+profits before actual realisation. This is the theory 
+underlying the rule that closing stock is to be valued 
+at cost or market price, whichever is the lower. As 
+profits for income tax purposes are to be computed 
+in accordance with ordinary principles of commercial 
+accounting, unless, such principles stand superseded 
+or modified by legislative enactments, unrealised 
+profits in the shape of appreciated value of goods 
+remaining unsold at the end of the accounting year 
+and carried over to the following year’s account in a 
+continuing business are not brought to the charge as 
+a matter of practice, though, as stated above, loss 
+due to fall in the price below cost is allowed even 
+though such loss has not been realised actually.
+30. At this stage, we need to emphasise once again 
+that the above system of commercial accounting can 
+be superseded or modified by legislative enactment. 
+This is where Section 145(2) comes into play. Under 
+that section, the Central Government is empowered to 
+notify from time to time the accounting standards to 
+be followed by any class of assessees or in respect 
+of any class of income. Accordingly, under Section 
+209 of the Companies Act, mercantile system of 
+accounting is made mandatory for companies. In other 
+words, accounting standard which is continuously 
+adopted by an assessee can be superseded or 
+modified by legislative intervention. However, but for 
+such intervention or in cases falling under Section 
+145(3), the method of accounting undertaken by the 
+assessee continuously is supreme.
+…….
+
+[2026] 1 S.C.R. 
+573
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+33. It is well established, that, on general principles 
+of commercial accounting, in the P&L account, the 
+values of the stock-in-trade at the beginning and at 
+the end of the accounting year should be entered at 
+cost or market value, whichever is lower—the market 
+value being ascertained as on the last date of the 
+accounting year and not as on any intermediate date 
+between the commencement and the closing of the 
+year, failing which it would not be possible to ascertain 
+the true and correct state of affairs. No gain or profit 
+can arise until a balance is struck between the cost 
+of acquisition and the proceeds of sale. The word 
+“profit” implies a comparison between the state of 
+business at two specific dates, usually separated 
+by an interval of twelve months. Stock-in-trade 
+is an asset. It is a trading asset. Therefore, the 
+concept of profits and gains made by business 
+during the year can only materialise when a 
+comparison of the assets of the business at two 
+different dates is taken into account.”
+24.2.	 Accordingly, in the context of amalgamation, the issue does 
+not turn on the accrual of income in the abstract sense, but on 
+whether the assessee has received a commercially realisable 
+consideration in kind. Upon sanction of the scheme, there is 
+only a statutory substitution of rights; no asset then exists 
+in the hands of the assessee that is capable of commercial 
+realisation. The charge under Section 28 crystallises only 
+upon allotment of the new shares, when the assessee actually 
+receives realisable instruments capable of valuation in money’s 
+worth. At that point, the old stock-in-trade ceases to exist and 
+stands replaced by new shares having a definite market value. 
+Since these shares are received in the course of business 
+and in substitution of trading assets, their receipt represents a 
+commercial profit or gain arising from business activity. What 
+attracts Section 28 is, therefore, the receipt of shares coupled 
+with their present realisability and their nexus with business. 
+These three conditions—actual receipt, present realisability, 
+and ascertainability of value—together determine the timing of 
+taxability in cases of amalgamation. Consequently, the profit 
+
+574
+[2026] 1 S.C.R.
+Supreme Court Reports
+arising on receipt of the amalgamated company’s shares 
+may be taxed under Section 28 where the shares allotted 
+are tradable and possess a definite market value, thereby 
+conferring a presently realisable commercial advantage. This 
+conclusion flows from the real income principle and not from 
+any judicially created fiction. Equally, it must be emphasised 
+that where such attributes are absent, the Court cannot, by 
+analogy, extend Section 28 to tax hypothetical accretions in 
+the absence of an express statutory mandate. 
+24.3.	 It is further clarified that the principles enunciated herein lay 
+down a fact-sensitive test. The enquiry whether, consequent 
+upon an amalgamation, the allotment of new shares has 
+resulted in a real and presently realisable commercial benefit 
+must be determined on the facts of each case. The burden 
+lies on the Revenue to establish the same. It is thereafter for 
+the Tribunal, as the final fact-finding authority, to apply these 
+principles to the evidence on record.
+Timing of Taxability 
+25.	 Having established that the charge under Section 28 may be attracted 
+if the shares are saleable, tradable, etc., and of definite market value, 
+thereby conferring a presently realisable commercial advantage, it 
+becomes necessary to clarify the general principle. In the context 
+of amalgamation, three points in time require to be distinguished. 
+First, the appointed date specified in the scheme, which determines 
+corporate succession and continuity between the transferor and 
+transferee companies. Secondly, the sanction of the scheme by 
+the Court, which gives statutory force to the amalgamation. At 
+these stages, however, there is only a substitution of rights by legal 
+fiction, without any asset in the hands of the shareholder capable 
+of commercial exploitation. Thirdly, the allotment of new shares in 
+the amalgamated company, which alone crystallises the benefit 
+in the shareholder’s hands, for it is only then that the old stock-
+in-trade ceases to exist and is replaced by new shares of definite 
+market value capable of immediate realisation. Even if the scheme 
+contemplates the issue of shares in a certain ratio from the appointed 
+date, until allotment there is no identifiable scrip or tradable asset 
+in existence in the hands of the assessee. Thus, the charge under 
+Section 28 is not attracted on the mere sanction of the scheme or 
+
+[2026] 1 S.C.R. 
+575
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+on the appointed date, but only upon the receipt of the new shares, 
+when the statutory substitution translates into a concrete, realisable 
+commercial advantage. 
+26.	 Without prejudice to the broader question of chargeability under 
+Section 28, it was contended on behalf of the appellants that even 
+if the fair market value of the shares allotted in the amalgamated 
+company exceeded the book value of the shares held in the 
+amalgamating company, such excess would be merely hypothetical 
+and illusory until the shares were sold, given that market value 
+is inherently fluctuating. As discussed, the test under Section 28 
+is not postponed until an actual sale, but is satisfied once the 
+assessee comes into possession of an asset of determinable and 
+presently realisable value in substitution of its trading stock. The 
+fact that such value may fluctuate subsequently does not render 
+the benefit unreal; valuation for tax purposes is always carried out 
+at a particular point in time, notwithstanding subsequent volatility. 
+What matters is that, on the date of allotment, the assessee must 
+have received realisable instruments capable of being valued in 
+money’s worth, and such receipt constitutes a real, and not a 
+notional, commercial gain.
+Distinction between Capital and Business assets
+27.	 Notably, Section 47 of the I.T. Act expressly carves out an exemption 
+in respect of certain transfers in the context of amalgamation, but 
+that exemption is confined to capital assets. The rationale is plain. 
+Where a shareholder holds shares as an investment, the underlying 
+object is to remain invested in the corporate venture, and a mere 
+amalgamation ordinarily does not alter that position. While the 
+possibility of tax avoidance in the investment field cannot be ruled 
+out altogether, the legislative judgment reflects that the risk is 
+relatively low. The exemption under Section 47 is thus founded on 
+the recognition that amalgamation, in the capital field, is essentially 
+a corporate restructuring and not a true realisation of profit. It is also 
+common in business parlance for entities to hold shares either as 
+investments or as stock-in-trade.
+27.1.	 By contrast, Section 28, which governs profits of business, 
+contains no such carve-out, nor could it be otherwise. The 
+nature of stock-in-trade is wholly different from that of an 
+
+576
+[2026] 1 S.C.R.
+Supreme Court Reports
+investment. Stock-in-trade represents circulating capital: it is 
+held not for preservation or appreciation, but for conversion into 
+money in the ordinary course of business. In Commissioner of 
+Income Tax v. Express Newspapers Ltd.35 it was observed 
+as follows:
+“... The profits and gains of business and capital gains 
+are two distinct concepts in the Income Tax Act: the 
+former arises from the activity which is called business 
+and the latter accrues because capital assets are 
+disposed of at a value higher than what they cost 
+the Assessee. They are placed under different heads; 
+they are derived from different sources; and the 
+income is computed under different methods…..”
+27.2.	 In this context, the substitution of one trading asset by another, 
+such as the receipt of shares in an amalgamated company 
+in lieu of shares held as stock-in-trade in the amalgamating 
+company, cannot be equated with a mere continuation of an 
+investment. It represents a commercial realisation in kind, for 
+the new shares are distinct assets with a definite and presently 
+realisable market value.
+27.3.	 If amalgamations involving trading stock were insulated from 
+tax by judicial interpretation, it would open a ready avenue for 
+tax evasion. Enterprises could create shell entities, warehouse 
+trading stock or unrealised profits therein, and then amalgamate 
+so as to convert them into new shares without ever subjecting 
+the commercial gain to tax. Equally, losses could be engineered 
+and shifted across entities to depress taxable income. Unlike 
+genuine investors who merely restructure their holdings, traders 
+deal with stock-in-trade as part of their profit-making apparatus; 
+to exempt them from charge at the point of substitution would 
+undermine the integrity of the tax base.
+27.4.	 Accordingly, while the Act makes an express exception 
+for amalgamation of capital assets, no such exception is 
+contemplated in the case of business assets. Section 28 is 
+deliberately cast in wide terms to bring to tax real and presently 
+35	
+1964 INSC 152 : MANU/SC/0126/1964 
+
+[2026] 1 S.C.R. 
+577
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+realisable profits arising in the course of business, and in 
+the context of stock-in-trade, the allotment of shares upon 
+amalgamation constitutes precisely such a taxable realisation.
+Application to the present case
+28.	 In the present case, the Tribunal, relying on Rasiklal Maneklal, held 
+that no “transfer” occurs in a scheme of amalgamation. The High 
+Court, however, found this view unsustainable, observing that under 
+the 1961 Act, as clarified in Grace Collis, the extinguishment of rights 
+in the shares of the amalgamating company constitutes a “transfer” 
+within the meaning of Section 2(47). Since such transfer is exempt 
+under Section 47(vii) only in respect of capital assets, the High Court 
+proceeded to examine whether shares held as stock-in-trade would 
+nonetheless give rise to taxable business income under section 28. 
+28.1.	 The High Court reasoned that once the shares of the 
+amalgamating company ceased to exist and were substituted 
+by shares of the amalgamated company, there was a cession 
+of the old trading stock and its replacement by a new 
+commodity of ascertainable market value. On this footing, 
+it held that a realisation of business profit had occurred, 
+taxable under Section 28. Relying upon Orient Trading and 
+Hindustan Lever, the Court observed that shares received on 
+amalgamation are fundamentally new assets, and the process 
+results in realisation of value irrespective of shareholder status. 
+The taxable event, therefore, depends on the substance of 
+the transaction and not merely accounting entries. On this 
+reasoning, the Tribunal’s findings were set aside, the question 
+of law was answered in favour of the Revenue, and the matter 
+was remitted to the Tribunal.
+29.	 As already noticed, the correctness of this reasoning constitutes 
+the core issue in the present appeals. In view of the foregoing 
+discussions, we reiterate that Section 28 of the I.T. Act is of wide 
+import and encompasses all profits and gains arising in the course 
+of business, even when such profit is realised in kind. The statutory 
+substitution of shares of the amalgamating company by shares of the 
+amalgamated company is not a mere neutral replacement; where the 
+new shares are freely marketable and possess a definite commercial 
+value, the event constitutes a commercial realisation giving rise to 
+
+578
+[2026] 1 S.C.R.
+Supreme Court Reports
+taxable business income. The principle laid down in Orient Trading 
+and similar authorities makes it clear that such profit need not await 
+actual sale if the benefit received is real and presently realisable.
+30.	 We thus hold that where the shares of an amalgamating company, 
+held as stock-in-trade, are substituted by shares of the amalgamated 
+company pursuant to a scheme of amalgamation, and such shares are 
+realisable in money and capable of definite valuation, the substitution 
+gives rise to taxable business income within the meaning of Section 
+28 of the I.T. Act. The charge under Section 28 is, however, attracted 
+only upon the allotment of new shares. At earlier stages namely, 
+the appointed date or the date of court sanction, no such benefit 
+accrues or is received. 
+31.	 Accordingly, the main issue is answered in favour of the Revenue, 
+in principle holding that the receipt of shares of the amalgamated 
+company in substitution of stock-in-trade can give rise to taxable 
+business profits under Section 28. However, the actual application 
+of this principle to the facts of the present case, including whether 
+the shares received are freely realisable or otherwise subject to 
+restrictions, or whether the shares are held only as investment, is 
+a matter requiring factual determination. In these circumstances, 
+the proper course is to remit the matter to the Tribunal for fresh 
+adjudication in accordance with law.
+32.	 Before parting, we may observe that business, by its very nature, 
+admits of profits arising in diverse forms, whether in money or 
+in kind, yet the common denominator is that the benefit must be 
+concrete, capable of commercial realisation, and not a mere paper 
+re-arrangement. Amalgamation, as a statutory substitution, ensures 
+continuity of enterprise but also extinguishes one form of holding and 
+replaces it with another. As we have held, where such substitution 
+confers on the assessee realisable assets of definite market value, 
+a commercial realisation takes place, and Section 28 is attracted. At 
+the same time, courts must remain alive to the distinction between 
+genuine commercial gain and hypothetical accretion. The touchstone 
+is, therefore, the doctrine of real income, applied with due regard 
+to the facts of each case, ensuring that the tax charge operates 
+neither oppressively nor evasively, but in harmony with the legislative 
+design, to tax true profits of business, however manifested, while 
+eschewing illusory gains. 
+
+[2026] 1 S.C.R. 
+579
+M/s Jindal Equipment Leasing Consultancy Services Ltd. v. 
+Commissioner of Income Tax Delhi – II, New Delhi
+33.	 In fine, the judgment of the High Court is affirmed, and all these 
+appeals stand disposed of in the aforesaid terms. There is no order 
+as to costs. 
+34.	 Pending application(s), if any, shall stand disposed of. 
+Result of the case: Appeals disposed of.
+†Headnotes prepared by: Divya Pandey

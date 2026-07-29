@@ -1,0 +1,762 @@
+[2026] 1 S.C.R. 904 : 2026 INSC 66
+HT Media Limited
+v.
+Principal Commissioner Delhi South Goods and 
+Service Tax
+(Civil Appeal No(s). 23525-23526 of 2017)
+16 January 2026
+[J.B. Pardiwala* and K.V. Viswanathan, JJ.]
+Issue for Consideration
+Whether the fee paid by the appellant to the personalities/speakers, 
+through their booking agents, is liable to Service Tax under the 
+reverse charge mechanism, more particularly under the taxable 
+category of “Event Management Service” u/ss.65(40) and 65(41) 
+r/w. s.65(105)(zu) respectively of Chapter V of the Finance Act.
+Headnotes†
+Finance Act, 1994 – s.65(105)(zu) r/w. ss.65(40) and 65(41) – 
+The appellant assessee conducted annual Hindustan Times 
+Leadership Summit (the Summit) – Speakers were invited from 
+outside India to address the Summit – The appellant entered 
+into contracts with booking agents such as the Washington 
+Speakers Bureau and Harry Walker Agency to book speakers – 
+Show cause notices were issued under the Finance Act inter 
+alia proposing to impose Service Tax on fees paid to the 
+speakers through the booking agents under the category of 
+“Event Management Service” – The Commissioner vide the 
+Order-in-Original dated 13.02.2014, the demand of Service 
+Tax invoking the extended period of limitation u/s.73 of the 
+Finance Act with interest and penalty, was confirmed – While 
+the Tribunal set aside the invocation of the extended period of 
+limitation, the demand under the normal period of limitation 
+came to be affirmed by the Tribunal under the category of 
+“Event Management Service” – Correctness:
+Held: The agreements of the assessee with the agents are part 
+of the record of the present appeals – A bare perusal of these 
+agreements would indicate that they are in the nature of booking 
+a particular speaker for the Summit – The tenor of the contracts 
+* Author
+
+[2026] 1 S.C.R. 
+905
+HT Media Limited v.  
+Principal Commissioner Delhi South Goods and Service Tax
+and the declaration given by the agents clearly indicate that the 
+services rendered by such agents to the assessee were in the 
+nature of booking the speakers for the event to be organized by 
+the assessee – The contracts were entered into with the agents 
+qua each speaker laying down the modalities of his/her visit and 
+consideration for the same – Such services cannot be equated with 
+“event management service” which has been statutorily defined 
+to mean “any service provided in relation to planning, promotion, 
+organizing or presentation of any arts, entertainment, business, 
+sports, marriage or any other event and includes any consultation 
+provided in this regard” – The contract of the asseessee with 
+the booking agents was not for “management of an event” but 
+for booking of the speaker – The presence of the speaker is 
+essential for the event cannot be disputed – The speaker does 
+not plan, promote, organize or present the event – Thus, the 
+speaker, is neither an “event manager” nor does he provide an 
+“event management service” – Similarly, the booking agent who 
+merely books the speaker also acts in the capacity of an agent or 
+representative for agreeing to the terms of the speakers’ presence 
+at the event – Participation in the event cannot be considered as 
+management of the event – This precisely is the fundamental error 
+committed by the revenue as well as by the Tribunal while imposing 
+Service Tax on the service in question under the category of “event 
+management service” – Even if this test of interpretation of sales 
+tax statutes is applied for interpreting the clause for imposing 
+Service Tax, the contract in question cannot be considered to be 
+commonly understood as that of event management – Thus, the 
+impugned judgment and order passed by the Tribunal is hereby 
+set aside. [Paras 37, 39, 41, 48, 49]
+Case Law Cited
+Shiv Steels v. State of Assam, 2025 SCC Online SC 2006 – relied 
+on.
+International Merchandising Company, LLC (Earlier known as 
+International Merchandising Corporation) v. Commissioner, 
+Service Tax, New Delhi [2022] 8 SCR 872 : (2023) 3 SCC 641 – 
+distinguished.
+Bharti Cellular Limited v. Assistant Commissioner of Income Tax 	
+[2024] 2 SCR 1001 : (2024) 8 SCC 608; UOI v. Future Gaming 
+Solutions Private Limited [2025] 2 SCR 756 : (2025) 5 SCC 
+
+906
+[2026] 1 S.C.R.
+Supreme Court Reports
+601; Commissioner of Sales Tax v. Jaswant Singh Charan Singh 
+[1967] 2 SCR 720 : 1967 SCC Online SC 154; Indo International 
+Industries v. Commissioner of Sales Tax [1981] 3 SCR 294 : (1981) 
+2 SCC 528 – referred to.
+List of Acts
+Finance Act, 1994.
+List of Keywords
+Service Tax; Event Management; Event Management Service; 
+Event Manager; Speakers; Summit; Booking agents; Revenue 
+implication; Reverse Charge Mechanism; Taxable services; Strict 
+Interpretation; Common Parlance Test; Four Corners of the Statute.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No(s). 23525-
+23526 of 2017
+From the Judgment and Order dated 31.08.2017 of the Custom 
+Excise Service Tax Appelate Tribunal in FO Nos. 56358 and 56359 
+of 2017
+Appearances for Parties
+Advs. for the Appellant(s):
+Ashok Dhingra, Karan Bharihoke, Ms. Sonia Gupta.
+Advs. for the Respondent(s):
+V.C. Bharathi, Gurmeet Singh Makker, S.K.singhania, P.V. 
+Yogeshwaran, Annirudh Sharma II.
+Judgment / Order of the Supreme Court
+Judgment
+J.B. Pardiwala, J.
+1.	
+Since the issues involved in both the captioned appeals are the 
+same, the challenge is also to the self-same judgment passed by 
+the Tribunal and the parties are also the same, those were taken up 
+for hearing analogously and are being disposed of by this common 
+judgment and order. 
+
+[2026] 1 S.C.R. 
+907
+HT Media Limited v.  
+Principal Commissioner Delhi South Goods and Service Tax
+2.	
+These appeals arise from the common judgment and order passed by 
+the Customs, Excise and Service Tax Appellate Tribunal, New Delhi 
+(for short, the “CESTAT”) dated 31.08.2017 in Service Tax Appeal 
+Nos. 52881 & 52888 of 2014 respectively, by which the appeals filed 
+by the appellant herein came to be disposed by the Tribunal holding 
+that the appellants herein are liable to pay Service Tax under the 
+category of “event management service” for the period covered within 
+the normal limitation. At the same time, the Tribunal also held that 
+the demand of Service Tax in respect of management consultancy 
+service and business support service, and interest liability for entries 
+with reference to associated enterprise were not sustainable in law. 
+FACTUAL MATRIX:-
+3.	
+The appellant assessee conducted annual Hindustan Times 
+Leadership Summit (hereinafter referred to as, “the Summit”). 
+Speakers were invited from outside India to address the Summit. 
+The appellant entered into contracts with booking agents such as 
+the Washington Speakers Bureau and Harry Walker Agency to book 
+speakers such as Mr. Tony Blair, Mr. Jerry Linenger and Mr. Al Gore.
+4.	
+Show cause notices were issued under the Finance Act, 1994 
+(hereinafter referred to as “the Finance Act”) inter alia proposing 
+to impose Service Tax on fees paid to the speakers through the 
+booking agents under the category of “Event Management Service” 
+under Section 65(105)(zu) read with Sections 65(40) and 65(41) 
+respectively of Chapter V of the Finance Act by invoking the extended 
+period of limitation.
+5.	
+The show cause notices were adjudicated by the Commissioner and 
+ultimately vide the Order-in-Original dated 13.02.2014, the demand of 
+Service Tax invoking the extended period of limitation under Section 
+73 of the Finance Act with interest and penalty, was confirmed. 
+6.	
+The appellant assessee being dissatisfied with the Order-in-Original 
+passed by the Commissioner referred to above, went in appeal 
+before the Tribunal. While the Tribunal set aside the invocation of the 
+extended period of limitation, the demand under the normal period 
+of limitation came to be affirmed by the Tribunal under the category 
+of “Event Management Service”.
+7.	
+In such circumstances referred to above, the appellant is here before 
+this Court with the present appeals. 
+
+908
+[2026] 1 S.C.R.
+Supreme Court Reports
+SUBMISSIONS ON BEHALF OF THE APPELLANT:-
+8.	
+Mr. Ashok Dhingra, the learned Counsel appearing for the appellant 
+vehemently submitted that the Tribunal committed a serious error in 
+passing the impugned order affirming the demand under the normal 
+period of limitation. It was argued vehemently that no service could 
+be said to have been provided by the agents to the appellant. 
+9.	
+The learned Counsel argued that there was no arrangement between 
+the appellant and the agents for providing of any service for the 
+Summit to the appellant. The agents, being lecture booking agents 
+of the speakers, dealt with the appellant on behalf of the speakers.
+10.	 It was further argued that the speakers, being senior politicians 
+and former heads of States could be booked only through their 
+respective agents, who negotiate & execute contracts, and collect 
+an appearance fee on behalf of the speakers. The agents were paid 
+by the speakers for the services rendered to the speakers, which 
+fact has been confirmed by both the Washington Speakers Bureau 
+and Harry Walker Agency respectively.
+11.	 It was argued that for Section 65(40) and Section 65(105)(zu) of the 
+Finance Act respectively to apply, an activity must have the following 
+essential ingredients cumulatively to be taxable as service under 
+taxable category of Event Management thereof:
+(a)	 The person providing the Service must be an Event Manager, 
+as defined in Section 65(41) read with the TRU Circular dated 
+08.08.2002.
+(b)	 Such Event Manager should be engaged in providing service 
+to any person, and 
+(c)	
+Such service should be in relation to event management, i.e., 
+planning, promotion, organizing, or presentation of any arts, 
+entertainment, business, sports, marriage or any other event 
+and includes any consultation provided in this regard.
+12.	 The learned Counsel submitted that the TRU Circular dated 
+08.08.2002 clarified that Event Manager is a person who is engaged 
+in managing the venue for an event, including decoration of sets, 
+mandap, chair, table, barricades, sound, light video, electricals, 
+security, communication, invitations to the event/sale of tickets and 
+
+[2026] 1 S.C.R. 
+909
+HT Media Limited v.  
+Principal Commissioner Delhi South Goods and Service Tax
+publicity of the event; & also has to manage stage show, artist, 
+musician, choreographers & other miscellaneous items of work for 
+holding of an event.
+13.	 It was also argued that in the instant case the agents: 
+(a)	 were neither event managers, nor were engaged in providing 
+any service to the appellant. The agreements were signed by 
+them as lecture booking agents of the speakers, on their behalf;
+(b)	 were not engaged in managing venue, decoration of sets, 
+barricades, sound, light, security, communication, sale of tickets 
+or publicity;
+(c)	
+had nothing to do with planning, promotion, organization, or 
+presentation of the Summit, and
+(d)	 did not provide any consultation to the appellant qua the Summit.
+14.	 In the last, it was argued that in the decision rendered in International 
+Merchandising Company, LLC (Earlier known as International 
+Merchandising Corporation) v. Commissioner, Service Tax, 
+New Delhi reported in 2023 (3) SCC 641, this Court has held, in 
+an identical fact situation, that the service falls under the category 
+of Manpower Recruitment or Supply Agency Service, classifiable 
+under Section 65(105)(k). Consequently, the very same service 
+cannot be classified by the Revenue under Section 65(105)(zu) as 
+Event Management Services.
+15.	 The learned Counsel in support of his aforesaid submissions placed 
+strong reliance on the following decisions:
+(a) Bharti Cellular Limited v. Assistant Commissioner 
+of Income Tax reported in (2024) 8 SCC 608.
+(b) UOI v. Future Gaming Solutions Private Limited 
+reported in (2025) 5 SCC 601.
+16.	 In such circumstances referred to above, the learned Counsel prayed 
+that there being merit in his appeals, those may be allowed and the 
+impugned order passed by the Tribunal be set aside.
+SUBMISSIONS ON BEHALF OF THE REVENUE:
+17.	 On the other hand, Mr. V. Chandrashekara Bharathi, the learned 
+Counsel appearing for the Revenue would submit that the primary 
+
+910
+[2026] 1 S.C.R.
+Supreme Court Reports
+contention of the appellant that the booking agents are the agents of 
+the speakers and there is no service contract between the booking 
+agents and the appellant, deserves to be rejected for the following 
+reasons:
+(a)	 For a Principal Agent relationship to arise, it is a condition 
+precedent that the booking agents represent themselves as 
+the speaker’s agent to the appellant. To the contrary, in the 
+contract between the appellant and Harry Walker agency, it is 
+explicitly mentioned that the booking agent is an independent 
+contractor and will not be responsible for the actions of the 
+speaker. There was no representation whatsoever that the 
+booking agent was representing the speaker in concluding the 
+contract with the appellant.
+(b)	 To the contrary, the booking agent would ensure that the 
+speaker appears in the Summit organized by the appellant 
+and is concluding the contracts in their individual capacity for 
+the purpose of ensuring the speakers’ presence in the Summit.
+(c)	
+Merely because the agencies abroad represented themselves as 
+‘booking agents’, they would not automatically become agents 
+of the speakers. For such an agency to arise, the contract must 
+be in such a way that the booking agents conclude the contracts 
+by way of an express authorization granted by the speakers to 
+the booking agents. Such an authorization is conspicuous by 
+its absence in the present case.
+(d)	 If the booking agents are indeed agents of the speakers as 
+submitted by the appellant, there was no requirement for the 
+booking agents to distance themselves from the speakers 
+action, since their role will be limited to merely concluding the 
+contract and will have no liability at all, since it is actually the 
+speaker himself concluding the contract in the eyes of the law. 
+(e)	 Lastly, the consideration that was paid by the appellant to the 
+booking agent was not a payment made to the speaker directly. 
+It was a payment made to the booking agent for procuring 
+the speaker. Consequently, the gross amount charged by the 
+booking agent would be the taxable value, on which the rate 
+of Service Tax would apply.
+
+[2026] 1 S.C.R. 
+911
+HT Media Limited v.  
+Principal Commissioner Delhi South Goods and Service Tax
+(f)	
+As a result, on account of the lack of representation by 
+the booking agents to the appellant that they were indeed 
+representing the speakers while concluding the contract and 
+the lack of express authorization issued by the speakers to the 
+booking agents to conclude contracts on their behalf, the booking 
+agents cannot be treated as mere agents of the speakers.
+18.	 The Revenue further contended that the submission of the appellant 
+that the contours of Section 65(105)(zu) are not satisfied deserves 
+to be rejected for the following reasons:
+(a)	 Any service provided or to be provided to any person by an 
+event manager in relation to event management is a taxable 
+supply under Section 65(105)(zu).
+(b)	 An ‘event manager’ means any person who is engaged in 
+providing any service in relation to event management in any 
+manner, under Section 65(41).
+(c)	
+‘Event Management’ means any service provided in relation 
+to planning, promotion, organizing or presentation of any arts, 
+entertainment, business, sports, marriage or any other event 
+and includes any consultation provided in this regard, under 
+Section 65(40).
+(d)	 In short, the appellant must satisfy the definition of the event 
+manager and must provide a service in relation to the event 
+management, for the charge to be successful.
+(e)	 The speakers cannot be identified separately from the Summit. 
+It is the speakers that constitute the Summit. There would be 
+no Summit if not for the speakers’ presence. In other words, 
+the speakers by themselves become the event. The role of the 
+booking agents must be examined in this context.
+(f)	
+By ensuring the speakers’ presence for a consideration, the 
+booking agents undoubtedly rendered a service in relation to the 
+planning, promotion, organizing or presentation of the Summit. 
+It was integral for the appellant to procure the speakers since 
+without them the event would be without any significance, and 
+it was the booking agents that ensured speakers’ presence. 
+Consequently, the booking agents would become event 
+managers and by procuring the speakers’ presence and ensuring 
+
+912
+[2026] 1 S.C.R.
+Supreme Court Reports
+that they deliver the lecture at the Summit, they have provided 
+an event management service, liable to tax under Section 
+65(105)(zu).
+19.	 In the last, it was argued that the decision of this Court in International 
+Merchandising Company LLC (supra) has no application to the 
+present case. 
+20.	 In such circumstances referred to above, the learned counsel prayed 
+that there being no merit in the appeals those may be dismissed
+ANALYSIS:-
+21.	 Having heard the learned Counsel appearing for the parties and 
+having gone through the material on record, the only question that 
+falls for our consideration is whether the fee paid by the appellant to 
+the personalities/speakers, through their booking agents, is liable to 
+Service Tax under the reverse charge mechanism, more particularly 
+under the taxable category of “Event Management Service” under 
+Sections 65(40) and 65(41) read with Section 65(105)(zu) respectively 
+of Chapter V of the Finance Act?
+22.	 The aforesaid issue falls for our consideration for the period of demand 
+between October, 2009 and March, 2012. The revenue implication is 
+to the tune of Rs. 60,56,180/- (Rupees sixty lakh fifty-six thousand 
+one hundred eighty). 
+23.	 Before adverting to the rival submissions canvassed on either side, 
+we must look into few relevant provisions of the Finance Act. 
+24.	 During the period of dispute and up to 30.06.2012, Service Tax 
+was levied on various categories of taxable services defined in the 
+Finance Act i.e., under the positive definition of taxable services [w.e.f. 
+01.07.2012 the negative list of services regime was introduced under 
+the Finance Act, where all services were taxable except services 
+in the negative list or those exempted by notification issued by the 
+Central Government], the relevant provisions of which are:
+(a)	 Section 66 – provided for levy of Service Tax on value of 
+taxable services.
+(b)	 Section 66A – provided for levy of Service Tax on taxable 
+services provided from outside India and received by a person 
+in India under the reverse charge mechanism.
+
+[2026] 1 S.C.R. 
+913
+HT Media Limited v.  
+Principal Commissioner Delhi South Goods and Service Tax
+(c)	
+Various sub-Sections of Section 65 – provided definition of 
+individual taxable services, which were amended from time to 
+time by an amending Act, and liability to Service Tax.
+(d)	 Section 65A – provided for the classification of taxable services, 
+as follows:
+“65A. Classification of taxable services –
+(1) For the purposes of this chapter, classification 
+of taxable services shall be determined according 
+to the terms of the sub- clauses (105) of section 65; 
+(2) When for any reason, a taxable service is prima 
+facie, classifiable under two or more sub-clauses 
+of clause (105) of section 65, classification shall be 
+effected as follows :- 
+(a) the sub-clause which provides the most specific 
+description shall be preferred to sub-clauses providing 
+a more general description; 
+(b) composite services consisting of a combination 
+of different services which cannot be classified in the 
+manner specified in clause (a), shall be classified 
+as if they consisted of a service which gives them 
+their essential character, in so far as this criterion is 
+applicable; 
+(c) when a service cannot be classified in the 
+manner specified in clause (a) or clause (b), it shall 
+be classified under the sub-clause which occurs 
+first among the sub-clauses which equally merits 
+consideration;] 
+4(3) The provisions of this section shall not apply 
+with effect from such date as the Central Government 
+may, by notification, appoint.”
+(e)	 Section 73 – provided for recovery of Service Tax not levied 
+or paid or short levied or short paid or erroneously refunded.
+25.	 Section 65(41) of the Finance Act defined ‘event manager’ as 
+follows:
+
+914
+[2026] 1 S.C.R.
+Supreme Court Reports
+“‘event manager’ means any person who is engaged in 
+providing any service in relation to event management in 
+any manner”
+26.	 Section 65(40) of the Finance Act defined ‘event management’ as 
+follows:
+“‘event management’ means any service provided in 
+relation to planning, promotion, organizing or presentation 
+of any arts, entertainment, business, sports, marriage or 
+any other event and includes any consultation provided 
+in this regard”
+27.	 Section 65(105)(zu) of the Finance Act, defined taxable service as 
+follows:
+“65. … (105) “taxable service” means any service provided 
+or to be provided, -
+xxx
+xxx
+xxx
+(zu) to any person, by an event manager in relation to 
+event management”
+28.	 The Tax Research Unit of the Board vide Circular issued under F. 
+No. B11/1/2002-TRU dated August 8, 2002 (hereinafter, the “Circular 
+dated 08.08.2002”) clarified inter alia in relation to Event Management 
+Service as thus:
+“2. As per clause (34), “event management” means 
+any service provided in relation to planning, promotion, 
+organizing or presentation of any arts, entertainment, 
+business, sports or any other event and includes any 
+consultation provided in this regard. Vide clause (90)(zu), 
+taxable service means any service provided to a client, 
+by an event manager in relation to event management. 
+Event manager has been defined in clause (35) as any 
+person who is engaged in providing any service in relation 
+to event management in any manner.
+3. An event manager is hired to execute an event such 
+as product launch of any corporate, promotional activities, 
+concerts/ rock show, official meets, award functions, 
+beauty pageants, entertainment events, exhibitions, private 
+
+[2026] 1 S.C.R. 
+915
+HT Media Limited v.  
+Principal Commissioner Delhi South Goods and Service Tax
+functions, and sports events etc. Event manager uses his 
+expertise and ideas to manage an event. Event manager 
+is supposed to manage a venue, sets including decoration 
+of sets, mandap, chair, table, barricades, sound, light 
+video, electricals, security, communication, invitations to 
+the event/ sale of tickets and publicity of the event. He 
+has also to manage the stage show, artist, musician, 
+choreographers and other miscellaneous items for holding 
+of event. All services provided by the event manager are 
+liable to service tax. This also covers any consultation 
+provided for organizing an event....”
+29.	 Section 65(68) of the Finance Act defined ‘Manpower Recruitment 
+or Supply Agency Service’ as follows:
+“Manpower recruitment or supply agency” means 
+any person engaged in providing any service, directly 
+or indirectly, in any manner for recruitment or supply of 
+manpower, temporarily or otherwise, to any other person”.
+30.	 Section 65(105)(k) of the Finance Act defined ‘taxable service’ as 
+follows:
+“65. … (105) “taxable service” means any service provided 
+or to be provided,- 
+(k) to any person, by a manpower recruitment or supply 
+agency in relation to the recruitment or supply of manpower, 
+temporarily or otherwise, in any manner; 
+Explanation — For the removal of doubts, it is hereby 
+declared that for the purposes of this sub-clause, 
+recruitment or supply of manpower includes services 
+in relation to pre-recruitment screening, verification of 
+the credentials and antecedents of the candidate and 
+authenticity of documents submitted by the candidate;”
+31.	 Thus, the essential ingredients for levy of Service Tax during the 
+Period of Dispute on any activity were:
+(a)	 Such activity should be service provided in India;
+(b)	 Provided by one person to another;
+(c)	
+For a consideration;
+
+916
+[2026] 1 S.C.R.
+Supreme Court Reports
+(d)	 Such service must fall under any of the defined taxable category 
+of service i.e., under the positive definition of taxable services 
+under the Finance Act and made liable to Service Tax as taxable 
+service under various clauses of Section 65(105). Thus, for 
+levy of Service Tax, taxable category of services of the Finance 
+Act under which such service is liable to Service Tax has to be 
+determined and proposed in the show cause notice issued by 
+the Department; and 
+(e)	 In case of taxable service provided from outside India to a 
+person in India, the recipient of such service is liable to Service 
+Tax under the reverse charge mechanism.
+SCHEME OF TAXABILITY 
+32.	 For the purpose of deciding the pivotal issue, it is first necessary 
+to discuss the scheme of taxability under the Finance Act during 
+the relevant period. The period of dispute is from October 2009 to 
+March 2012. 
+33.	 It is not in dispute that during such period prior to 1.7.2012, the 
+Service Tax was leviable only on the positive list of services as 
+enumerated in Section 65(105) of Chapter V of the Finance Act. If 
+the services strictly fall within such list, then they are taxable and if 
+not, then no tax can be imposed on such services. 
+34.	 The only clause of the taxable list of services which is being invoked 
+by the revenue in the present case for imposing tax is Section 65(105)
+(zu) of the Finance Act.
+35.	 The expressions “event management” and “event manager” 
+respectively occurring in Section 65(105)(zu) are defined under 
+Section 65(40) and Section 65(41) of the Finance Act respectively. 
+36.	 The impugned levy of Service Tax can be sustained only if the service 
+in question falls within the four corners of “event management” by 
+an “event manager”.
+WHETHER THE PROVISION COVERS THE SERVICE IN 
+QUESTION?
+37.	 The agreements of the assessee with the agents are part of the record 
+of the present appeals. A bare perusal of these agreements would 
+indicate that they are in the nature of booking a particular speaker for the 
+
+[2026] 1 S.C.R. 
+917
+HT Media Limited v.  
+Principal Commissioner Delhi South Goods and Service Tax
+Summit. It provides for conditions relating to travel and accommodation 
+of the speaker as well as the schedule of the speaker during his/her 
+visit for the Summit. The contract also provides for the commitments 
+made by the speakers. For instance, in the contract of the assessee 
+with the Washington Speakers Bureau for Mr. Tony Blair, the contract 
+refers to the likely duration of Mr. Blair’s speech and Question & Answer 
+session. It also provides for the locations where and the duration for 
+which media interaction with Mr. Blair can take place. The contract 
+further briefly touches upon the topics of interaction. 
+38.	 Moreover, the appellant assessee has also placed on record 
+declarations from the agents that they rendered services to the 
+assessee as booking agents and that the payment for appearance 
+of speakers was collected by the agents under instructions and on 
+behalf of the speakers in terms of the contracts with the speakers. 
+39.	 The tenor of the contracts and the declaration given by the agents 
+clearly indicate that the services rendered by such agents to the 
+assessee were in the nature of booking the speakers for the event 
+to be organized by the assessee. The contracts were entered into 
+with the agents qua each speaker laying down the modalities of his/
+her visit and consideration for the same. Such services cannot be 
+equated with “event management service” which has been statutorily 
+defined to mean “any service provided in relation to planning, 
+promotion, organizing or presentation of any arts, entertainment, 
+business, sports, marriage or any other event and includes any 
+consultation provided in this regard”. The contract of the asseessee 
+with the booking agents was not for “management of an event” but 
+for booking of the speaker. 
+40.	 The entire submission of the revenue focuses on the aspect as to 
+whether a “principal-agent” relationship is established between the 
+speaker and the booking agent. However, we are of the view that 
+this is wholly irrelevant for the present controversy. The issue is not 
+whether the relationship between the speaker and the booking agent 
+is that of “principal-agent” or not. The issue is whether the contract 
+constitutes “event management service”. As discussed hereinbefore, 
+the contract is for booking of speaker and not for event management 
+and therefore, the levy of tax on such contract under the category 
+of “Event Management Service” should fail. 
+41.	 The further argument of the revenue that, without the speaker the 
+event would be devoid of any significance and therefore, the service 
+
+918
+[2026] 1 S.C.R.
+Supreme Court Reports
+in question is an “Event Management Service”, also deserves to be 
+rejected. That the presence of the speaker is essential for the event 
+cannot be disputed. However, whether the service of the speaker or 
+the agent on behalf of the speaker can be considered to be “event 
+management service” is altogether a different issue. The speaker 
+does not plan, promote, organize or present the event. Thus, the 
+speaker, is neither an “event manager” nor does he provide an “event 
+management service”. Similarly, the booking agent who merely books 
+the speaker also acts in the capacity of an agent or representative 
+for agreeing to the terms of the speakers’ presence at the event. 
+Participation in the event cannot be considered as management of 
+the event. This precisely is the fundamental error committed by the 
+revenue as well as by the Tribunal while imposing Service Tax on the 
+service in question under the category of “event management service”. 
+PRINCIPLE OF STRICT INTERPRETATION OF TAXING STATUTE 
+WELL ESTABLISHED
+42.	 The principle of strict interpretation of a taxing statute, particularly 
+in the context of charging provisions, is well established. We may 
+refer to the recent decision in the case of Shiv Steels v. State of 
+Assam reported in 2025 SCC Online SC 2006 wherein this Court 
+observed as under:
+“14. In construing fiscal statutes and in determining the 
+liability of a subject to tax one must have regard to the 
+strict letter of law. If the revenue satisfies the court that 
+the case falls strictly within the provisions of the law, the 
+subject can be taxed. If, on the other hand, the case is 
+not covered within the four corners of the provisions of 
+the taxing statute, no tax can be imposed by inference or 
+by analogy or by trying to probe into the intentions of the 
+legislature and by considering what was the substance 
+of the matter.”
+(Emphasis supplied)
+CIRCULAR OF CBIC ALSO SUPPORTS THE ASSESSEE
+43.	 The reliance placed by the assessee on Circular dated 8.8.2002 is 
+also well founded. At the cost of repetition, we reproduce the relevant 
+extract of the circular as under:
+
+[2026] 1 S.C.R. 
+919
+HT Media Limited v.  
+Principal Commissioner Delhi South Goods and Service Tax
+“3. An event manager is hired to execute an event such 
+as product launch of any corporate, promotional activities, 
+concerts/rock show, official meets, award functions, beauty 
+pageants, entertainment events, exhibitions, private 
+functions and sports events, etc. Event manager uses his 
+expertise and ideas to manage an event. Event manager is 
+supposed to manage a venue, sets including decoration of 
+sets, mandap, chair, table, barricades, sound, light, video, 
+electricals, security, communication, invitation to the event/
+sale of tickets and publicity of the event. He has also to 
+manage the stage show, artist, musician, choreographers 
+and other miscellaneous items for holding of event. All 
+services provided by the event manager are liable to 
+service tax. This also covers any consultation provided 
+for organizing and event…”
+44.	 Thus, what is sought to be covered is the service of management 
+or organizing of the event, and the revenue cannot be allowed to 
+stretch the application of such a clause beyond its contours.
+45.	 Having said so, we are also of the view that the classification dispute 
+raised by the appellant, pursuant to the decision of this Court in 
+International Merchandising Company LLC (supra), deserves to 
+be rejected for the following reasons: 
+(a)	 The appellant is correct insofar as the following is concerned:
+(i)	
+Prior to 01.07.2012, the Service Tax regime had specific 
+entries for each service. In other words, without a particular 
+classification, the Revenue cannot tax any service.
+(ii)	
+Consequently, a particular service cannot have two 
+classifications and has to be traced under a specific sub-
+clause of Section 65(105).
+(iii)	 Since the disputed period is prior to 01.07.2012, the 
+service provided by the booking agents to the appellant 
+needs to be classified under a specific sub-clause. As a 
+result, if the appellant succeeds on the ground that the 
+service provided by the booking agents is a manpower 
+supply service, as held in the aforesaid judgment of this 
+Court, the Revenue cannot classify the same service as 
+event management simultaneously.
+
+920
+[2026] 1 S.C.R.
+Supreme Court Reports
+(b)	 Though at first glance, the facts in International Merchandising 
+Company LLC (supra) seem to overlap with the present case, 
+a subtle yet significant difference distinguishes the present case 
+from the facts of International Merchandising.
+(c)	
+In International Merchandising Company LLC (supra), the 
+appearance and presence of Mr. Vijay Amritraj was ensured 
+by the service provided in relation to the Chennai Open, which 
+was the event. He was to make appearances and participate 
+in the charity opening match. What is crucial to note is that Mr. 
+Amritraj had no relevance whatsoever to the main event i.e., 
+Chennai Open. With or without Mr. Amritraj, the main event 
+i.e., Chennai Open, would have continued without any hiccups. 
+This would show that the presence of Mr. Amritraj was merely 
+ancillary to the main event.
+(d)	 To the contrary, in the present case, the booking agents that 
+ensured the speakers’ presence directly played an integral 
+role in the event itself. Without their involvement, the Summit 
+conducted by the appellant would not have taken place since 
+the event and the speakers cannot be separated from each 
+other. The speakers and their lecture constitute the event, and 
+the booking agents ensure the event takes place. As a result, 
+the speakers’ presence is not ancillary to the main event.
+(e)	 Consequently, the judgment in International Merchandising 
+Company LLC (supra) is distinguishable from the facts of the 
+present case.
+LEVY FAILS EVEN ON APPLICATION OF COMMON PARLANCE 
+TEST
+46.	 What is stated in the circular is also the common parlance 
+understanding of “event management”. The common parlance test 
+has been applied by this Court for determining classification under 
+sales tax statutes on various occasions. While deciding whether 
+“charcoal” would be included in “coal” it was observed by this Court in 
+the case of Commissioner of Sales Tax v. Jaswant Singh Charan 
+Singh reported in 1967 SCC Online SC 154 as under:
+“The result emerging from these decisions is that while 
+construing the word “coal” in entry 1 of Part III of Schedule 
+
+[2026] 1 S.C.R. 
+921
+HT Media Limited v.  
+Principal Commissioner Delhi South Goods and Service Tax
+II, the test that would be applied is what would be the 
+meaning which persons dealing with coal and consumers 
+purchasing it as fuel would give to that word. A sales tax 
+statute, being one levying a tax on goods, must, in the 
+absence of a technical term or a term of science or art, be 
+presumed to have used an ordinary term as coal according 
+to the meaning ascribed to it in common parlance. Viewed 
+from that angle both a merchant dealing in coal and a 
+consumer wanting to purchase it would regard coal not in its 
+geological sense but in the sense as ordinarily understood 
+and would include “charcoal” in the term “coal”.”
+(Emphasis supplied)
+47.	 Similarly, while deciding whether clinical syringes could be considered 
+as “glassware” or not, this Court observed in the case of Indo 
+International Industries v. Commissioner of Sales Tax reported 
+in (1981) 2 SCC 528 as under:
+“It is true that the dictionary meaning of the expression 
+“glassware” is “articles made of glass” (see Webster’s 
+New World Dictionary). However, in commercial sense 
+glassware would never comprise articles like clinical 
+syringes, thermometers, lactometers and the like which 
+have specialized significance and utility. In popular or 
+commercial parlance a general merchant dealing in 
+“glassware” does not ordinarily deal in articles like clinical 
+syringes, thermometers, lactometers, etc., which articles 
+though made of glass, are normally available in medical 
+stores or with the manufacturers thereof like the assessee. 
+It is equally unlikely that a consumer would ask for such 
+articles from a glassware shop. In popular sense when 
+one talks of glassware such specialized articles like 
+clinical syringes, thermometers, lactometers and the like 
+do not come up to one’s mind. Applying the aforesaid 
+test, therefore, we are clearly of the view that the clinical 
+syringes which the assessee manufactures and sells 
+cannot be considered as “glassware” falling within entry 
+39 of the First Schedule to the Act.”
+(Emphasis supplied) 
+
+922
+[2026] 1 S.C.R.
+Supreme Court Reports
+48.	 Even if this test of interpretation of sales tax statutes is applied for 
+interpreting the clause for imposing Service Tax, the contract in 
+question cannot be considered to be commonly understood as that 
+of event management. The expressions ‘event management’ and 
+‘event managers’ is commonly understood in the sense of appointing 
+someone to manage or organize the event. Individual contract for 
+booking of persons required for participation in the event are not 
+commonly understood as “event management” contracts.
+49.	 In the result, these appeals succeed and are hereby allowed. The 
+impugned judgment and order passed by the Tribunal is hereby set 
+aside. 
+Result of the case: Appeals allowed.
+†Headnotes prepared by: Ankit Gyan
+
+

@@ -1,0 +1,307 @@
+[2026] 3 S.C.R. 293 : 2026 INSC 212
+Dr. Sushil Kumar Purbey & Anr.
+v.
+The State of Bihar and Ors.
+(Criminal Appeal No. 1234 of 2026)
+09 March 2026
+[Vikram Nath* and Sandeep Mehta, JJ.]
+Issue for Consideration
+Issue arose whether the High Court erred in granting the relief of 
+quashing solely to sister-in-law, on the ground that the allegations 
+against her were general in nature, while declining the same relief 
+to the appellants-parents-in-laws.
+Headnotes†
+Code of Criminal Procedure, 1973 – s.482 – Penal Code, 1860 – 
+ss.341, 323, 498A and 34 – Dowry Prohibition Act, 1961 – ss.3 
+and 4 – Dowry case against in-laws – Quashing of criminal 
+proceedings – FIR by complainant-wife against her husband, 
+parents-in-law-appellants, and sister-in-law alleging that she 
+was subjected to persistent torture and cruelty, on account of 
+dowry demands, that the husband physically assaulted her, 
+and on the day FIR was filed, accused persons, attempted 
+to strangulate her – Seperate complaint filed before Judicial 
+Magistrate making further allegations against the accused 
+persons – Appellants filed application for anticipatory bail, 
+which was allowed – Judicial Magistrate took cognizance of 
+the offences – Petition by parents-in-laws and sister-in-law 
+seeking quashing of the order whereby Judicial Magistrate 
+taking cognizance of the offences – High Court quashed the 
+proceedings against sister-in-law, however dismissed the 
+petition as regards the appellants – Correctness:
+Held: High Court erred in restricting the quashing of criminal 
+proceedings only to the sister-in-law – Comparative reading of the 
+FIR reveals that the allegations levelled against the sister-in-law 
+and those against the appellants are, in all material particulars, 
+* Author
+
+294
+[2026] 3 S.C.R.
+Supreme Court Reports
+identical – FIR does not assign any specific or overt act to either 
+appellant; there are no particular dates, places, or individual acts 
+attributed to them – Lone allegation that stands separately against 
+the appellants is that they would quarrel does not constitute 
+a criminal offence and cannot, by itself, sustain cognizance of 
+the offences for which the appellants have been summoned – 
+Standard applied by the High Court in quashing proceedings 
+against the sister-in-law, on the ground that the allegations against 
+her were general and omnibus, applies with equal force to the 
+appellants, and there is no principled basis for distinguishing 
+between them – Husband filed the divorce petition as early as 21 
+months after the marriage – Criminal complaint against appellants 
+was, however, lodged nearly a year after the filing of the divorce 
+petition – Though this delay, standing alone, would not constitute 
+a sufficient ground for quashing the criminal proceedings against 
+appellants, however, viewed in conjunction with the absence 
+of any specific allegations attributable to them, the delay lends 
+credence to the submission that the criminal complaint against 
+the in-laws may have been instituted by way of a counter-blast to 
+the divorce proceedings initiated by the husband – When these 
+considerations are read together, continuation of the criminal 
+proceedings against the appellants cannot be sustained – High 
+Court erred in applying different standards to persons who stand on 
+an identical footing insofar as the nature of the allegations against 
+them is concerned – Since the allegations against the appellants 
+and sister-in-law are, in substance, the same, the reasoning that 
+led the High Court to quash the proceedings against sister-in-law 
+ought equally to have led to the quashing of proceedings against 
+the appellants – Impugned order, to the extent that it declined to 
+extend such relief to the appellants, cannot be sustained and set 
+aside. [Paras 10, 11]
+List of Acts
+Penal Code, 1860; Dowry Prohibition Act, 1961; Hindu Marriage 
+Act, 1955; Code of Criminal Procedure, 1973.
+List of Keywords
+Dowry demands; Anticipatory bail; Cognizance of the offences by 
+Judicial Magistrate; Quashing of proceedings.
+
+[2026] 3 S.C.R. 
+295
+Dr. Sushil Kumar Purbey & Anr. v. The State of Bihar and Ors.
+Case Arising From
+CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 
+1234 of 2026
+From the Judgment and Order dated 08.08.2023 of the High Court 
+of Judicature at Patna in CRLM No. 70355 of 2022
+Appearances for Parties
+Advs. for the Appellant(s):
+Shivam Singh, Rohit Kumar Singh, Lal Babu Singh, Rana Prashant, 
+Akash Kumar, Mahender Rathour.
+Advs. for the Respondent(s):
+Bharat Sangal, Sr. Adv., Anshul Narayan, Mrs. Vineeta Singh, 
+Anshuman Harsh, Prem Prakash, Hemant Kumar Tripathi, 
+Nagarkatti Kartik Uday.
+Judgment / Order of the Supreme Court
+Judgment
+Vikram Nath, J.
+1.	
+Leave granted.
+2.	
+The present appeal arises from the judgment and order dated 8th 
+August 2023 passed by the High Court of Judicature at Patna in 
+Criminal Miscellaneous No. 70355 of 2022. By the impugned order, 
+the High Court quashed the criminal proceedings against one of the 
+accused, namely, the sister-in-law of the complainant (respondent 
+no. 3), while declining to extend the same relief to the present 
+accused-appellants, who are the father-in-law and mother-in-law of 
+the complainant (respondent no. 2).
+3.	
+The facts giving rise to the present appeal, shorn of unnecessary 
+details, are as follows:
+3.1.	
+The complainant married Dr. Rishi Raj, the son of the present 
+appellants, on 8th July 2019.
+3.2.	
+On 31st March 2021, the husband instituted a divorce petition 
+against the complainant under Section 13 of the Hindu 
+
+296
+[2026] 3 S.C.R.
+Supreme Court Reports
+Marriage Act, 19551, before the Principal Judge, Family Court, 
+Darbhanga, Bihar.
+3.3.	
+On 18th March 2022, the complainant submitted a written 
+report, on the basis of which First Information Report2 No. 
+81/2022 was registered under Sections 341, 323, 498A and 34 
+of the Indian Penal Code, 18603, and Sections 3 and 4 of the 
+Dowry Prohibition Act, 19614, at Police Station Lalit Narayan 
+University, District Darbhanga, Bihar, against the husband, 
+the two appellants herein, and the sister-in-law.
+3.4.	
+The complainant alleged that, soon after the marriage, she 
+was subjected to persistent torture and cruelty, particularly 
+on account of demands for a BMW car and other valuable 
+articles, which she was unable to fulfil. It was further alleged 
+that the husband physically assaulted her, and that on 18th 
+March 2022, the accused persons, acting in concert, tied a 
+sheet around her neck and strangulated her with the intent 
+to cause her death.
+3.5.	
+The complainant additionally filed Complaint Case No. 
+790/2022 before the Chief Judicial Magistrate, Hajipur, Vaishali, 
+Bihar, wherein she made further allegations against the same 
+accused persons.
+3.6.	
+The appellants filed an application for anticipatory bail, which 
+was allowed by the Trial Court vide order dated 12th April 2022.
+3.7.	
+Pursuant to the investigation arising out of FIR No. 81/2022, 
+the police report was submitted on 5th June 2022.
+3.8.	
+The Judicial Magistrate, vide order dated 7th September 2022, 
+took cognizance of offences under Sections 341, 323, 498A 
+and 34 of the IPC and Sections 3 and 4 of the Dowry Act 
+against the husband, the appellants herein, and the sister-in-
+law, in L.M.N.U. P.S. Case No. 81 of 2022.
+1	
+In short “HMA”
+2	
+In short “FIR”
+3	
+Hereinafter, referred to as “IPC”. 
+4	
+Hereinafter, referred to as “Dowry Act”. 
+
+[2026] 3 S.C.R. 
+297
+Dr. Sushil Kumar Purbey & Anr. v. The State of Bihar and Ors.
+3.9.	
+On 23rd November 2022, the appellants, along with the sister-
+in-law (respondent no.3), filed a petition under Section 482 
+of the Code of Criminal Procedure, 19735 seeking quashing 
+of the order dated 7th September 2022, whereby the Judicial 
+Magistrate had taken cognizance of the aforesaid offences.
+3.10.	 The High Court, by the impugned order, partly allowed the 
+petition for quashing, but only insofar as the sister-in-law of 
+the complainant was concerned. The High Court held that the 
+allegations against her were general and omnibus in nature, 
+and therefore insufficient to sustain criminal proceedings. 
+However, the petition was dismissed with respect to the present 
+appellants being the father-in-law and mother-in-law of the 
+complainant with the High Court taking a view that prima facie 
+case had been made out against them.
+3.11.	 Aggrieved by the said order, the present appellants have 
+approached this Court.
+4.	
+We have heard the learned counsel appearing for the appellants, 
+the learned counsel for the respondent-State, and the learned senior 
+counsel for the complainant-Respondent No. 2 at length, and have 
+also perused the material placed on record.
+5.	
+Learned counsel for the appellants submits that the High Court erred 
+in confining the grant of quashing relief solely to sister-in-law, on the 
+ground that the allegations against her were general in nature, while 
+declining the same relief to the appellants. It is contended that the 
+allegations against the present appellants are equally general and 
+omnibus and that no specific role has been attributed to them in the 
+complaint. It is accordingly submitted that the criminal proceedings 
+against the appellants also merit quashing. It is further submitted 
+that the FIR in question is, in substance, a counter-blast to the 
+divorce petition filed by the husband. In this regard, it is pointed out 
+that whereas the FIR makes no mention of any dowry in the form 
+of a motor vehicle, the complainant within a period of twelve days, 
+supplemented and improved upon her initial version in the complaint 
+filed before the Chief Judicial Magistrate, adding fresh allegations 
+5	
+Hereinafter, referred to as “CrPC”.
+
+298
+[2026] 3 S.C.R.
+Supreme Court Reports
+to the effect that her family had given a Maruti car as dowry. It is 
+submitted that such material improvements to the initial account cast 
+serious doubt on the credibility of the complaint.
+6.	
+Per contra, the learned senior counsel for the complainant submits 
+that the allegations against the present appellants are specific and 
+cannot be characterised as general or omnibus. It is further submitted 
+that the trial is at an advanced stage and that the recording of 
+prosecution evidence is already underway. Attention is also drawn to 
+the fact that the High Court has directed the Trial Court to conclude 
+the proceedings within a period of one year. In view of these 
+circumstances, it is urged that the appellants ought to be required 
+to face trial and that this Court should not interfere with the criminal 
+proceedings at this stage.
+7.	
+Having considered the submissions advanced by the parties and 
+upon a careful perusal of the material on record, we are of the 
+view that the High Court fell into error in restricting the quashing of 
+criminal proceedings only to the sister-in-law (respondent no.3). A 
+comparative reading of the FIR reveals that the allegations levelled 
+against the sister-in-law and those against the present appellants 
+are, in all material particulars, identical. The FIR does not assign 
+any specific or overt act to either appellant; there are no particular 
+dates, places, or individual acts attributed to them. The lone allegation 
+that stands separately against the present appellants is that they 
+would quarrel. This, however, does not constitute a criminal offence 
+and cannot, by itself, sustain cognizance of the offences under 
+Sections 341, 323, 498A & 34 of the IPC and Sections 3 & 4 of 
+the Dowry Act for which the appellants have been summoned. The 
+standard applied by the High Court in quashing proceedings against 
+the sister-in-law, on the ground that the allegations against her 
+were general and omnibus, applies with equal force to the present 
+appellants, and there is no principled basis for distinguishing between 
+them.
+8.	
+It is further pertinent to note that the marriage was solemnised in 
+July 2019, and the husband filed the divorce petition as early as 
+March 2021. The criminal complaint against the appellants was, 
+however, lodged only in March 2022, nearly a year after the filing 
+of the divorce petition. Though this delay, standing alone, would not 
+
+[2026] 3 S.C.R. 
+299
+Dr. Sushil Kumar Purbey & Anr. v. The State of Bihar and Ors.
+constitute a sufficient ground for quashing the criminal proceedings 
+against the appellants. However, viewed in conjunction with the 
+absence of any specific allegations attributable to them, the delay 
+lends credence to the submission that the criminal complaint 
+against the in-laws may have been instituted by way of a counter-
+blast to the divorce proceedings initiated by the husband. When 
+these two considerations are read together, we are satisfied that 
+the continuation of the criminal proceedings against the present 
+appellants cannot be sustained.
+9.	
+Before moving forward, we consider it necessary to clarify that the 
+observations made hereinabove are confined to the question of 
+the maintainability of the criminal proceedings against the present 
+appellants, and must not be construed as an expression of any 
+opinion on the merits of the case as a whole. The criminal proceedings 
+against the husband shall continue in accordance with law. We 
+note, in this context, that the husband did not seek quashing of the 
+proceedings against him before the High Court under Section 482 
+of the CrPC; it was only the present appellants and the sister-in-
+law who did so. The husband is also not before this Court in the 
+present appeal. We therefore find no occasion to comment upon the 
+allegations levelled against him, and the proceedings against him 
+shall be governed by law.
+10.	 In view of the foregoing, we are of the considered opinion that the 
+High Court erred in applying different standards to persons who 
+stand on an identical footing insofar as the nature of the allegations 
+against them is concerned. Since the allegations against the present 
+appellants and the sister-in-law are, in substance, the same, the 
+reasoning that led the High Court to quash the proceedings against 
+the sister-in-law ought equally to have led to the quashing of 
+proceedings against the present appellants. The impugned order, 
+to the extent that it declined to extend such relief to the appellants, 
+cannot be sustained.
+11.	 Accordingly, the impugned judgment and order dated 8th August 2023 
+passed by the High Court is set aside to the extent that it refused 
+to quash the criminal proceedings against the present appellants. 
+Consequently, all proceedings arising out of L.N.M.U. P.S. Case No. 
+81 of 2022, registered under Sections 341, 323, 498A and 34 of the 
+
+300
+[2026] 3 S.C.R.
+Supreme Court Reports
+Indian Penal Code, 1860, read with Sections 3 and 4 of the Dowry 
+Prohibition Act, 1961, are hereby quashed insofar as the present 
+appellants are concerned.
+12.	 In the result, the present criminal appeal is allowed in the above 
+terms.
+13.	 Pending application(s), if any, stand(s) disposed of. 
+Result of the case: Criminal appeal allowed.
+†Headnotes prepared by: Nidhi Jain
+
+

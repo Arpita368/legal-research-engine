@@ -1,0 +1,1137 @@
+[2026] 1 S.C.R. 439 : 2026 INSC 42
+Yerram Vijay Kumar 
+v. 
+The State of Telangana & Anr. 
+(Criminal Appeal No. 147 of 2026)
+09 January 2026
+[J.K. Maheshwari* and K. Vinod Chandran, JJ.]
+Issue for Consideration
+Whether cognizance of the alleged offences u/ss.448 and 451, 
+Companies Act, 2013 could have been taken on a private complaint 
+in view of the statutory scheme of the Companies Act and if not, 
+whether the criminal proceedings must be quashed in respect of 
+those sections; if the proceedings for the offences u/ss.448 and 
+451, Companies Act ought to be quashed, would the criminal 
+proceedings also have to be quashed in respect of the offences 
+under the IPC in light of the provisions as contained in s.436(2), 
+Companies Act; whether continuation of the criminal proceedings 
+would amount to abuse of process of law, warranting interference 
+u/s.482, CrPC.
+Headnotes†
+Companies Act, 2013 – ss.447, 448, 451, second proviso to 
+s.212(6) – Disputes arose between the parties w.r.t management 
+and control of the Company incorporated by the Complainant 
+and his wife, who at that time were the promoters, first Directors 
+and majority shareholders, and the Appellants who were later 
+inducted as Directors however, were subsequently removed – 
+Complainant filed private complaint before the Special Court 
+alleging that one of the Appellants illegally convened an 
+Extra-Ordinary General Meeting without authority, appointed 
+third parties as Directors in the Company, fabricated the 
+Board and shareholders’ resolutions, and uploaded statutory 
+filings along with other forged and false documents on the 
+website of the MCA – Special Court took cognizance of the 
+alleged offences and issued summons to the Appellants – 
+Quashing petition filed by the Appellants, dismissed by High 
+Court inter alia holding that the allegations disclosed a prima 
+* Author
+
+440
+[2026] 1 S.C.R.
+Supreme Court Reports
+facie commission of serious offences involving forgery and 
+fraud – Whether cognizance of the alleged offences u/ss.448 
+and 451 could have been taken on a private complaint in 
+view of the statutory scheme of the Companies Act and if 
+not, whether the criminal proceedings must be quashed in 
+respect of those sections:
+Held: s.447 lays down the punishment for ‘fraud’ in various forms – 
+Thus, punishment section for s.448 (Punishment for false statement) 
+is s.447 and both sections cannot be read in isolation, since they 
+are inextricably linked – In case an allegation of fraud u/s.447 is 
+to be made out, the complaint has to be made by the Director, 
+Serious Fraud Investigation Office or any officer of the Central 
+Government authorized by a written order of the Government – 
+The offence u/s.448 is an ‘offence covered u/s.447’ as mentioned 
+in s.212(6) and therefore, the bar against taking cognizance under 
+the second proviso of s.212(6), unless specific conditions are met, 
+is attracted in the present case – Cognizance, therefore, in such 
+a case, cannot be taken merely by filing of a private complaint by 
+the Complainant – Since, cognizance cannot be taken for s.448 
+without following the requirements under the second proviso to s. 
+212(6), cognizance of ‘repeated default’ u/s.451, Companies Act 
+is not made out – Complaint case, the order of the Special Court 
+taking cognizance and all consequential proceedings to the extent 
+of ss.448 and 451 quashed – Impugned judgment set aside – Penal 
+Code, 1860 – ss.420, 406, 426, 468, 470, 471 & 120B – Code 
+of Criminal Procedure, 1973 – s.482 – Companies (Amendment) 
+Act, 2015. [Paras 33, 35, 42, 45-47, 60]
+Companies Act, 2013 – ss.213, 447, 448, 451, second proviso 
+to s.212(6):
+Held: Punishment section for s.448 (Punishment for false 
+statement) is s.447 and both sections cannot be read in isolation, 
+since they are inextricably linked – In case an allegation of fraud 
+u/s.447 is to be made out, the complaint has to be made by the 
+Director, Serious Fraud Investigation Office or an officer authorized 
+by a written order of the Government – The offence u/s.448 is an 
+‘offence covered u/s.447’ as mentioned in s.212(6) and therefore, 
+the bar against taking cognizance under the second proviso of 
+s.212(6), unless specific conditions are met, is attracted in the 
+present case – Cognizance, therefore, in such a case, cannot be 
+taken merely by filing of a private complaint by the Complainant – 
+
+[2026] 1 S.C.R. 
+441
+Yerram Vijay Kumar v. The State of Telangana & Anr.
+However, the Complainant is not absolutely remediless – The right 
+recourse for a person, who makes an allegation of fraud in the 
+affairs of a company is to file an application u/s.213 before the 
+NCLT upon satisfying the eligibility u/s.213(a) and 213(b). [Para 45]
+Companies Act, 2013 – s.447 – Invocation of:
+Held: Where the Special Court under the Companies Act is taking 
+cognizance of an offence under a section in the Companies 
+Act which, if proved, would make the person(s) ‘liable u/s.447’ 
+or ‘liable for action u/s.447’, it must also invoke s.447 with the 
+corresponding section and in such a case, it must comply with 
+the bar against taking cognizance as specified in the second 
+proviso to s.212(6) – Anything that cannot be done directly, also 
+cannot be done indirectly – Merely because there is a bar under 
+the second proviso to s.212(6) against taking cognizance of the 
+offence u/s.447 unless specific conditions mentioned therein are 
+met, does not mean that cognizance may be taken by the Special 
+Court u/s.448 of the Act without including the punishment section, 
+i.e. s.447 on filing of a private complaint – Non-inclusion of the 
+punishment section u/s.447 since the very inception will also lead 
+to procedural absurdity since ultimately the said s.447 must be 
+invoked in order to impose any punishment after trial is conducted. 
+[Paras 59, 43, 44]
+Companies Act, 2013 – ss.447, 448, second proviso to 
+212(6) – Interpretation – Bar under the second proviso to 
+s.212(6) against taking cognizance by the Special Court 
+in cases involving s.447, a safeguard – Object of, stated – 
+‘offence covered under Section 447’ introduced by means 
+of a substitution in s.212(6) in the 2015 Amendment Act 
+w.e.f 29.05.2015 vis-à-vis Pre-Amendment – Scheme of the 
+Companies Act, discussed – Companies (Amendment) Act, 
+2015. [Paras 27-35]
+Companies Act, 2013 – ss.447, 448, second proviso to 
+s.212(6) – s.448 not to be read in isolation and must be read 
+along with s.447:
+Held: s.447 lays down the punishment for ‘fraud’ in various 
+forms – In the present case, cognizance has been taken by the 
+Special Court u/ss.448 and 451 – s.448 itself does not lay down 
+any punishment for its contravention, it simply lays down the 
+ingredients of the offence of making a false statement and provides 
+
+442
+[2026] 1 S.C.R.
+Supreme Court Reports
+that in case such a false statement is made, the ‘person(s)’ shall 
+be liable u/s.447 – That is to say, even if, after trial, an offence 
+u/s.448 is proved to have been committed by a ‘person’, it is only 
+with the aid of s.447 that the punishment for the said offence may 
+be imposed – Therefore, s.448 cannot be read in isolation and 
+must be read along with s.447 – The offence u/s.448 is an offence 
+‘covered under Section 447’ of the Companies Act mentioned in 
+s.212(6), since the offence u/s.448 is inextricably linked to the 
+punishment for ‘fraud’ as mentioned in s.447 and as such, the 
+second proviso to s.212(6) is attracted – Companies (Amendment) 
+Act, 2015. [Paras 33, 34] 
+Companies Act, 2013 – s. 436(2) – Penal Code, 1860 – ss.420, 
+406, 426, 468, 470, 471 & 120B – If the proceedings for the 
+offences u/ss.448 and 451 ought to be quashed, would the 
+criminal proceedings also have to be quashed in respect of the 
+offences under the IPC in light of the provisions as contained 
+in s.436(2) – Plea of the Appellants that in view of s.436(2), 
+if the offences under the Companies Act are quashed, the 
+Special Court may not try the offences under the sections of 
+the IPC under which cognizance was taken:
+Held: s.436(2) lays down the pre-requisite that the Special Court 
+should be trying offences under the Companies Act, for it to also try 
+offences under the IPC – Once the offences under the Companies 
+Act are quashed, it is the Court of appropriate territorial jurisdiction 
+which would have jurisdiction to try the private complaint filed by 
+the Respondent No. 2 against the Appellants – The judge of the 
+Special Court where the complaint case is pending shall take steps, 
+in consultation with the Principal District Judge of the district to 
+transfer the complaint case to the appropriate court having territorial 
+jurisdiction to try the complaint case – Further directions issued. 
+[Paras 54, 60]
+Code of Criminal Procedure, 1973 – s.482 – Criminal 
+proceedings when ought not to be quashed – Appellants 
+submitted that the complaint case insofar as it relates to 
+offences under the IPC, is abuse of process of law since 
+there are two civil suits and one company petition (filed 
+by the Appellants) pending between the parties – Whether 
+continuation of the criminal proceedings would amount to 
+abuse of process of law, warranting interference u/s.482 of 
+CrPC:
+
+[2026] 1 S.C.R. 
+443
+Yerram Vijay Kumar v. The State of Telangana & Anr.
+Held: Mere institution or pendency of civil proceedings between 
+the parties cannot be a ground to quash the criminal proceedings 
+instituted by the Respondent No. 2 by filing a complaint case or 
+to conclude that the dispute is purely civil in nature – Respondent 
+No. 2 and the Appellants were in a commercial relationship and 
+the inception of the dispute can be traced to a tussle for control 
+over the Company – The civil suits filed by the Appellants are 
+for seeking a permanent injunction against the Company and 
+the Complainant from violating the terms and conditions of MoU 
+and, a declaration that the agreements to sell executed by the 
+Complainant with respect to the properties of the Company be 
+declared void, respectively, while the Company Petition has been 
+filed before the NCLT challenging the removal of the Appellants 
+from directorship in the Company – Pendency of these proceedings 
+would not absolve the criminality as alleged in the complaint, in 
+the facts and circumstances of this case – No ground to quash 
+the offences under the IPC of which cognizance was taken by the 
+Special Court. [Paras 55-57]
+Case Law Cited
+S. Satyanarayana v. Energo Masch Power Engg. & Consulting (P) 
+Ltd. [2015] 3 SCR 1094 : (2015) 13 SCC 1 – referred to.
+Sumana Paruchuri v. Jakka Vinod Kumar Reddy, 2022 : TSHC : 
+30033; Sivananda Rajaram v. M/s New Shipping Kaisha Ship 
+Management Pvt. Ltd., Criminal Petition (OP) No. 19154/2021; 
+M. Gopal v. Ganga Reddy, 2022 : KHC : 35824; Yogesh Chander 
+Goyal and Ors. v. State and Anr., 2024 SCC OnLine Del 3197; 
+Sunil Mandwani v. State of M.P., 2019 SCC OnLine MP 1248 – 
+referred to.
+List of Acts
+Companies Act, 2013; Code of Criminal Procedure, 1973; Penal 
+Code, 1860; Companies (Amendment) Act, 2015.
+List of Keywords
+Section 447, Companies Act, 2013; Section 447, Companies 
+Act, 2013; Section 451, Companies Act, 2013; Section 212(6), 
+Companies Act, 2013; Section 436(2), Companies Act, 2013; 
+Special Court under the Companies Act; ‘liable under Section 447’ 
+or ‘liable for action under Section 447’; Fraud under the Companies 
+
+444
+[2026] 1 S.C.R.
+Supreme Court Reports
+Act, 2013; Punishment for false statement; Punishment for repeated 
+default; Punishment for fraud; Private complaint; Serious Fraud 
+Investigation Office (SFIO); Bar on taking cognizance by the 
+Special Court in cases involving Section 447, Companies Act, 2013; 
+Notification for designation of Special Courts under the Companies 
+Act, 2013; Extra-Ordinary General Meeting; Amendments to the 
+AoA; Quashing; Fraud.
+Case Arising From
+CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 
+147 of 2026
+From the Judgment and Order dated 20.06.2024 of the High Court 
+for the State of Telangana at Hyderabad in CRLP No. 720 of 2023
+With
+Criminal Appeal No. 148 of 2026
+Appearances for Parties
+Advs. for the Appellant(s):
+Shailesh Madhiyal, Sr. Adv., Awanish Kumar, Anchit Singa, Ms. 
+Garima, M/s Dharmaprabhas Law Associates.
+Advs. for the Respondent(s):
+Jayanth Muth Raj, Sr. Adv., Kumar Vaibhaw, Ms. Devina Sehgal, 
+Dhananjay Yadav, Sadineni Ravi Kumar.
+Judgment / Order of the Supreme Court
+Judgment
+J.K. Maheshwari, J.
+1.	
+Leave granted.
+2.	
+The present appeals have been filed against the impugned judgment 
+dated 20.06.2024 passed by the Single Bench of High Court for the 
+State of Telangana at Hyderabad (hereinafter referred to as “High 
+Court”) whereby the petition under Section 482 of the Code of 
+Criminal Procedure, 1973 (hereinafter referred to as “CrPC”) of the 
+Appellants – accused was dismissed. The prayer in the said petition 
+was to quash the criminal proceedings in complaint case bearing C.C. 
+
+[2026] 1 S.C.R. 
+445
+Yerram Vijay Kumar v. The State of Telangana & Anr.
+No. 58 of 2022 filed by Respondent No. 2 – Complainant against 
+the Appellants where the Special Court for Economic Offences at 
+Hyderabad (hereinafter referred to as “Special Court”) has taken 
+cognizance of offences under Sections 448 & 451 of the Companies 
+Act, 2013 (hereinafter referred to as “Companies Act”) and Sections 
+420, 406, 426, 468, 470, 471 & 120B of the Indian Penal Code, 1860 
+(hereinafter referred to as “IPC”).
+FACTS
+3.	
+The genesis of the dispute lies in the affairs of a private limited 
+company, namely M/s Shreemukh Namitha Homes Private Limited 
+(hereinafter referred to as “Company”), which was incorporated 
+on 19.08.2015 under the provisions of the Companies Act by the 
+Complainant and his wife, Namitha. At the time of incorporation, 
+they were the promoters, first Directors and majority shareholders of 
+the Company. Accused No. 1, i.e., Appellant in the Criminal Appeal 
+arising out of SLP (Crl.) No. 11530/2024 was inducted as a Director 
+in the Company on 03.09.2016. Accused No. 2, i.e., Appellant in 
+the Criminal Appeal arising out of SLP (Crl.) No. 14783/2024 was 
+inducted as a Director in the Company on 27.08.2015. The initial 
+disputes between the parties arose with regard to management and 
+control of the Company. 
+4.	
+The original Articles of Association (hereinafter referred to as “AoA”) 
+of the Company did not provide any fixed tenure for Directors, 
+nor did it contemplate their retirement by rotation. On 17.08.2016, 
+Accused No. 1 entered into a Memorandum of Understanding with 
+the Complainant and certain other stakeholders, pursuant to which 
+he agreed to make substantial financial investment, approximately 
+to the tune of Rs. 30 crores, in a real estate project of the Company. 
+The arrangement contemplated sharing of profits in mutually agreed 
+proportions. 
+5.	
+An Extra-Ordinary General Meeting (hereinafter referred to as 
+“EOGM”) is stated to have been held on 22.08.2016, preceded 
+by a Board Meeting on 21.07.2016, in which amendments to the 
+AoA were approved and uploaded on the website of the Ministry of 
+Corporate Affairs (hereinafter referred to as “MCA”) on 12.09.2016. 
+As alleged by Accused No. 1, no notice of either meeting was 
+served upon him despite being a Director of the Company at 
+
+446
+[2026] 1 S.C.R.
+Supreme Court Reports
+the relevant time. The relevant portion of the amended AoA is 
+reproduced as thus: - 
+“64. (i) Subject to the provisions of Section 149, the board 
+shall have the power at any time, and from time to tim, 
+to appoint a person as an additional director, provided 
+the number of directors and additional directors together 
+shall not at any time exceed the maximum strength fixed 
+by the Board for the articles.
+(ii) Such person shall hold office only up to the date of the 
+next annual general meeting of the company but shall be 
+eligible for appointment by the company as a director at 
+that meeting subject to provisions of the Act.”
+6.	
+As a result of the amendment in the AoA, the tenure of a Director was 
+fixed until the date of next annual general meeting of the company. 
+7.	
+On 02.11.2021, the complainant and his wife convened another 
+EOGM wherein the AoA were further amended, in terms of which, 
+all Directors other than the Complainant and his wife were required 
+to retire annually and seek re-appointment. Pursuant thereto, an 
+Annual General Meeting was held on 30.11.2021 wherein resolutions 
+for re-appointment of the Accused were placed. The said resolutions 
+failed as the Complainant and his wife, holding majority shareholding, 
+voted against them. As such, the accused ceased to be Directors of 
+the Company with effect from 30.11.2021. 
+8.	
+Such removal was challenged by Accused No. 1 before the National 
+Company Law Tribunal at Hyderabad (hereinafter referred to as 
+“NCLT”) by filing Company Petition No. 10 of 2022, which is pending 
+adjudication.
+9.	
+Subsequent to such challenge, on 19.05.2022, the Complainant filed 
+a private complaint before the Special Court alleging that Accused 
+No. 1 illegally convened an EOGM on 01.12.2021 without authority, 
+appointed third parties as Directors in the Company, fabricated 
+the Board and shareholders’ resolutions, and uploaded statutory 
+filings along with other forged and false documents on the website 
+of the Ministry of Corporate Affairs. In parallel, two civil suits were 
+also instituted by the Appellants before the competent civil courts 
+seeking a permanent injunction against the Company and the 
+Complainant from violating the terms and conditions of MoU dated 
+
+[2026] 1 S.C.R. 
+447
+Yerram Vijay Kumar v. The State of Telangana & Anr.
+17.08.2016 and a declaration that the agreements to sell executed 
+by the Complainant with respect to the properties of the Company 
+be declared void, respectively.
+10.	 The Special Court recorded the sworn statement of the Complainant 
+and, by order dated 10.10.2022, took cognizance of the alleged 
+offences and issued summons to the Appellants, leading to registration 
+of C.C. No. 58 of 2022. Aggrieved by the summoning order and further 
+proceedings, the Appellants invoked inherent jurisdiction of the High 
+Court under Section 482 of CrPC and filed the quashing petition. The 
+Appellants inter alia contended that the dispute was essentially civil 
+and corporate in nature; the criminal complaint was a counterblast 
+to the proceedings pending before NCLT; cognizance of offences 
+involving alleged fraud under the Act, particularly Section 447 was 
+barred by Section 212(6) of the Act in the absence of a complaint 
+by the Serious Fraud Investigation Office (hereinafter referred to as 
+“SFIO”) or other authorised agency; and that the mandatory statutory 
+procedure as per the Companies Act preceding investigation were 
+not followed. 
+11.	 The High Court vide the impugned judgment dismissed the quashing 
+petition, holding that the allegations disclosed a prima facie 
+commission of serious offences involving forgery and fraud, and that 
+disputed questions of fact could not be examined in a petition under 
+Section 482 of CrPC. The Appellants have, therefore, approached 
+this Court by way of the present appeals.
+ARGUMENTS ADVANCED
+12.	 Mr. Shailesh Madhiyal, learned Senior Advocate appearing on behalf 
+of the Appellants, vociferously urged that the High Court failed to 
+appreciate that the learned Special Court had taken cognizance of 
+various offences including Section 448 of the Companies Act. It is his 
+submission that Section 448 of the Companies Act clearly specifies 
+that whoever fails to act as per mandate of the said provision shall 
+be liable to be punished under Section 447 of the Companies Act. 
+Therefore, the Special Court should not have taken cognizance 
+under said provisions against the Appellants despite there being an 
+express legal bar contained in the second proviso to Section 212(6) 
+of the Companies Act, which prohibits the taking of cognizance of 
+offences covered under Section 447 of the Companies Act except on 
+
+448
+[2026] 1 S.C.R.
+Supreme Court Reports
+a complaint made by the categories of persons prescribed thereunder, 
+namely, the Director of SFIO or any officer of the Central Government 
+authorised by an order in writing in that behalf. 
+13.	 It is further submitted that a bare reading of Section 448 makes it 
+clear that any person who makes a false statement as specified 
+therein “shall be liable under Section 447”. In other words, the liability 
+for an offence under Section 448 is directly linked to Section 447, 
+which prescribes the punishment for fraud. Therefore, the legal bar 
+imposed by the second proviso to Section 212(6) of the Companies 
+Act, as applicable to Section 447, is squarely applicable to offences 
+alleged under Section 448 of the Act, hence, the Special Court is 
+precluded from taking cognizance of such offences on filing of a 
+private complaint by the Complainant.
+14.	 It is also submitted that the cognizance by the Special Court was 
+without jurisdiction as the procedure mandated under Section 206 
+of the Companies Act was not followed. Section 206 provides that 
+the Registrar of Companies, on receiving information, shall seek 
+explanation and conduct enquiry. On being satisfied about violation 
+of the Companies Act in running the affairs of the company, the 
+Registrar may conduct enquiry and can then report to the Central 
+Government for conducting further investigation, which, if satisfied, 
+may entrust the case to SFIO for further investigation. In the instant 
+case, the said procedure has been completely bypassed.
+15.	 Learned Senior Counsel further submitted that the Complainant has 
+given a criminal cloak to a civil dispute inasmuch as there are several 
+civil cases pending between the parties in respect of the present 
+dispute. The Appellants have filed O.S. No. 55 of 2022 before the 
+III Junior Civil Judge, Kukatpally, O.S. No. 99 of 2022 before the 
+XV Additional District Judge, Kukatpally, and C.P. No. 10 of 2022 
+before the National Company Law Tribunal, which are all pending for 
+adjudication. Therefore, the impugned proceeding was maliciously 
+instituted and liable to be quashed. 
+16.	 Per contra, Mr. Kumar Vaibhaw, learned Advocate appearing for 
+Respondent No. 1 - State of Telangana, submitted that the Special 
+Court has taken cognizance of the offences based on the material 
+placed on record and had issued summons to the Appellants. It 
+is submitted that there is no bar on the Special Court in taking 
+cognizance of the offence under Section 448 of the Companies Act, 
+
+[2026] 1 S.C.R. 
+449
+Yerram Vijay Kumar v. The State of Telangana & Anr.
+on a private complaint. It is further submitted that all the contentions 
+raised by the Appellants have to be examined at the time of framing 
+of charges, and the Appellants ought not to be permitted to ask for 
+quashing of the private complaint and the order taking cognizance 
+under Section 482 CrPC. There are several disputed questions of 
+fact which need to be looked into for the purpose of adjudication, 
+and such an adjudicatory process cannot be undertaken by the Court 
+in proceedings under Section 482 CrPC. 
+17.	 Learned Senior Advocate, Mr. Jayant Muth Raj, appearing for 
+Respondent No. 2 - Complainant, adopted the submissions made 
+on behalf of Respondent No. 1 - State and further submitted that 
+the Companies (Amendment) Act, 2015 (hereinafter referred to as 
+“2015 Amendment Act”) came into effect on 29.05.2015, and from 
+such date, Section 212(6) of the Companies Act was amended to 
+delete Section 448 and other provisions from its ambit. Prior to 
+the amendment, Section 212(6) covered offences under various 
+provisions of the Companies Act, including Section 448, which 
+attracted the punishment for fraud provided in Section 447 of the 
+Act. However, after the amendment, the bar on taking cognizance 
+is applicable only for the offence under Section 447 of the Act. It is 
+submitted that the present complaint has been filed for the offence 
+under Sections 448 and 451 of the Companies Act, and not under 
+Section 447. In view of the amendment made to Section 212(6), there 
+is no bar on the Special Court from taking cognizance of offences 
+under Section 448 of the Act on the basis of a private complaint. 
+The bar is applicable only for offences under Section 447.
+18.	 It is also submitted that the Appellants had surreptitiously conducted 
+an EGOM on 01.12.2021 without the requisite quorum and illegally 
+appointed two Directors in an attempt to usurp managing control over 
+the Company from Respondent No. 2. The Appellants fraudulently 
+submitted FORM DIR-12 to the Ministry of Corporate Affairs, declaring 
+the aforesaid appointments, despite being well aware of the fact that 
+they no longer held the position of Director after 30.11.2021.
+19.	 It is submitted that the Appellants have played fraud on the members 
+of the Company and have falsified the records of the Company. The 
+Appellants, with an intention to deceive the shareholders and other 
+Directors of the Company and with an intent to usurp the management 
+of the Company, passed resolutions appointing the wife of Accused 
+
+450
+[2026] 1 S.C.R.
+Supreme Court Reports
+No. 1 and another person as Directors of the Company falsifying the 
+records of the Company. Therefore, it constitutes serious offences 
+under the Companies Act as well as under the IPC. The allegations 
+require trial, and cannot be quashed at this stage. The impugned 
+judgment does not suffer from any legal infirmity and does not warrant 
+interference by this Court. As such, the present appeals deserve to 
+be dismissed.
+ISSUES FOR CONSIDERATION
+20.	 After hearing learned counsel for the parties at length and on perusal 
+of the facts and material placed on record, the following issues arise 
+for consideration:
+(i)	
+Whether cognizance of the alleged offences under Sections 
+448 and 451 of the Companies Act could have been taken 
+on a private complaint in view of the statutory scheme of the 
+Companies Act and if not, whether the criminal proceedings 
+must be quashed in respect of those sections?
+(ii)	
+If the proceedings for the offences under Sections 448 and 451 
+of the Companies Act ought to be quashed, would the criminal 
+proceedings also have to be quashed in respect of the offences 
+under the IPC in light of the provisions as contained in Section 
+436(2) of the Companies Act?
+(iii)	 Whether continuation of the criminal proceedings would amount 
+to abuse of process of law, warranting interference under 
+Section 482 of CrPC?
+ANALYSIS OF ISSUE 1:
+Since Issue 1 has a material bearing on the other issues framed, 
+we are analysing the contentions in that respect, first.
+Scheme of the Companies Act
+21.	 In the present case, cognizance has been taken by the Special 
+Court under Sections 448 and 451 of the Companies Act. Section 
+448 of the Companies Act prescribes the punishment for false 
+statement by any person in any return, report, certificate, financial 
+statement, prospectus, statement or other document required by 
+the Companies Act or Rules. Section 448 of the Companies Act 
+
+[2026] 1 S.C.R. 
+451
+Yerram Vijay Kumar v. The State of Telangana & Anr.
+is relevant for the purposes of this case and is therefore quoted 
+for reference: -
+“448. Punishment for false statement. – Save as 
+otherwise provided in the Act, if in any return, report, 
+certificate, financial statement, prospectus, statement or 
+other document required by, or for, the purposes of any 
+of the provisions of this Act or the rules made thereunder, 
+any person makes a statement, -
+(a) which is false in any material particulars, knowing 
+it to be false; or
+(b) which omits any material fact, knowing it to be 
+material,
+he shall be liable under Section 447.”
+22.	 Section 451 of the Companies Act punishes repeated commission 
+of an offence punishable either with fine or with imprisonment within 
+three years by a company or an officer of the company. Section 451 
+is also relevant, and is therefore quoted: -
+“451. Punishment for repeated default. – If a company 
+or an officer of a company commits an offence punishable 
+either with fine or with imprisonment and where the 
+same offence is committed for the second or subsequent 
+occasions within a period of three years, then, that 
+company and every officer thereof who is in default 
+shall be punishable with twice the amount of fine for 
+such offence in addition to any imprisonment provided 
+for that offence.”
+23.	 Section 448 of the Companies Act, in turn, makes a reference to 
+Section 447 of the Companies Act, which prescribes the punishment 
+for fraud. The said Section is integral to Section 448 therefore 
+reproduced as under: -
+“447. Punishment for fraud. – Without prejudice to any 
+liability including repayment of any debt under this Actor 
+any other law for the time being in force, any person who 
+is found to be guilty of fraud, involving an amount of at 
+least ten lakh rupees or one per cent. of the turnover of 
+the company, whichever is lower shall be punishable with 
+
+452
+[2026] 1 S.C.R.
+Supreme Court Reports
+imprisonment for a term which shall not be less than six 
+months but which may extend to ten years and shall also 
+be liable to fine which shall not be less than the amount 
+involved in the fraud, but which may extend to three times 
+the amount involved in the fraud:
+Provided that where the fraud in question involves public 
+interest, the term of imprisonment shall not be less than 
+three years.
+Provided further that where the fraud involves an amount 
+less than ten lakh rupees or one per cent of the turnover 
+of the company, whichever is lower, and does not involve 
+public interest, any person guilty of such fraud shall be 
+punishable with imprisonment for a term which may extend 
+to five years or with fine which may extend to 3[fifty lakh 
+rupees] or with both.
+Explanation – For the purposes of this section –
+(i) “fraud”, in relation to affairs of a company or any body 
+corporate, includes any act, omission, concealment of 
+any fact or abuse of position committed by any person 
+or any other person with the connivance in any manner, 
+with intent to deceive, to gain undue advantage from, or 
+to injure the interests of, the company or its shareholders 
+or its creditors or any other person, whether or not there 
+is any wrongful gain or wrongful loss;
+(ii) “wrongful gain” means the gain by unlawful means of 
+property to which the person gaining is not legally entitled;
+(iii) “wrongful loss” means the loss by unlawful means of 
+property to which the person losing is legally entitled.”
+24.	 The thrust of the argument presented by the Appellants is that there 
+is a specific bar contained in the second proviso to Section 212(6) 
+of the Companies Act which prevents the Special Court from taking 
+cognizance of an ‘offence covered under Section 447’ except upon a 
+complaint in writing made by the Director, SFIO or any officer of the 
+Central Government authorized, by general or special order in writing 
+in this behalf by the Government. Section 212(6) of the Companies 
+Act is relevant and is therefore quoted herein:
+
+[2026] 1 S.C.R. 
+453
+Yerram Vijay Kumar v. The State of Telangana & Anr.
+“212. Investigation into affairs of Company by Serious 
+Fraud Investigation Office. –
+(6) Notwithstanding anything contained in the Code of 
+Criminal Procedure, 1973 (2 of 1974), offence covered 
+under section 447 of this Act shall be cognizable and no 
+person accused of any offence under those sections shall 
+be released on bail or on his own bond unless—
+(i) the Public Prosecutor has been given an opportunity 
+to oppose the application for such release; and
+(ii) where the Public Prosecutor opposes the 
+application, the court is satisfied that there are 
+reasonable grounds for believing that he is not guilty 
+of such offence and that he is not likely to commit 
+any offence while on bail:
+Provided that a person, who, is under the age of sixteen 
+years or is a woman or is sick or infirm, maybe released 
+on bail, if the Special Court so directs:
+Provided further that the Special Court shall not take 
+cognizance of any offence referred to this subsection 
+except upon a complaint in writing made by —
+(i) the Director, Serious Fraud Investigation Office; or
+(ii) any officer of the Central Government authorised, 
+by a general or special order in writing in this behalf 
+by that Government.”
+25.	 Making a reference to the second proviso of Section 212(6) of the 
+Companies Act, it is argued by the Appellants that in the absence 
+of a complaint as specified therein, merely on a private complaint 
+by the Respondent No. 2, cognizance could not have been taken 
+by the Special Court.
+26.	 Therefore, what falls for our consideration is whether the offence 
+under Section 448 of the Companies Act is an ‘offence covered 
+under Section 447’ of the Companies Act as mentioned in the 
+Section 212(6) of the Companies Act, which would then attract the 
+bar against taking cognizance under the second proviso to Section 
+212(6) of the Companies Act. 
+
+454
+[2026] 1 S.C.R.
+Supreme Court Reports
+27.	 It is pertinent to note that the phrase ‘offence covered under Section 
+447’ was introduced by means of a substitution in Section 212(6) 
+of the Companies Act in the 2015 Amendment Act with effect from 
+29.05.2015. Prior to the amendment, instead of the phrase ‘offence 
+covered under Section 447’, Section 212 of the Companies Act 
+mentioned “the offences covered under sub-sections (5) and (6) of 
+section 7, section 34, section 36, sub-section (1) of section 38, sub-
+section (5) of section 46, sub-section (7) of section 56, sub-section 
+(10) of section 66, sub-section (5) of section 140, sub-section (4) 
+of section 206, section 213, section 229, sub-section (1) of section 
+251, sub-section (3) of section 339 and section 448 which attract 
+the punishment for fraud provided in section 447”.
+28.	 After the amendment to Section 212 in 2015, instead of individually 
+mentioning different sections which attract the punishment for fraud 
+under Section 447 of the Companies Act, ‘offence covered under 
+Section 447’ was substituted. However, if we look to the Companies 
+(Amendment) Bill, 2014 (Bill No. 185 of 2014) it provides the Statement 
+of Objects and Reasons. In Clause (xii) of the same, it is mentioned:
+“(xii)	to amend sub-section (6) of section 212 of the said 
+Act to provide for bail restrictions to apply only for offence 
+relating to fraud u/s 447;”
+29.	 The intent of legislature, as evinced from the ‘Statement of Objects 
+and Reasons’ of the said Bill is to limit the applicability of the rigorous 
+twin-conditions for grant of bail set out in Section 212(6) to the offence 
+under Section 447 of the Companies Act. 
+30.	 In the context of the facts of this case, in the matter of taking 
+cognizance with respect to ‘offence covered under section 447’, the 
+interplay has been brought by the legislature under Section 212(6) of 
+the Companies Act. The said section is in two parts – (I) the ‘offence 
+covered under section 447’ shall be cognizable and (II) no person 
+accused of any offence under those sections shall be released on 
+bail, subject to twin conditions as mentioned therein. The first proviso 
+to Section 212(6) provides a relaxation to children below 16 years 
+of age, women, sick or infirm in the matter of releasing on bail. The 
+second proviso relates to taking cognizance and makes a reference 
+to first part of Section 212(6) whereby the Special Court has been 
+permitted to take cognizance only on a complaint in writing by the 
+Director, SFIO or any officer of the Central Government authorised by 
+
+[2026] 1 S.C.R. 
+455
+Yerram Vijay Kumar v. The State of Telangana & Anr.
+general or special order in writing in this behalf by the government. 
+The said special provision has been enacted because as per Section 
+439 (1) and (2) of the Companies Act the other offences of the 
+Companies Act were made non-cognizable. 
+31.	 In addition to Section 447 of the Companies Act, the provision under 
+Section 448 of the Companies Act also has relevance, it criminalizes 
+a statement made by any person in any return, report, certificate, 
+financial statement, prospectus, statement or other document required 
+by the Companies Act or Rules, which is (a) false in any material 
+particulars, knowing it to be false or (b) which omits any material 
+fact, knowing it to be material. In such case, the person shall then 
+be liable under Section 447 of the Companies Act, which lays down 
+the punishment for fraud. As per Section 447 of the Companies Act, 
+depending on whether (a) the amount involved is more or less than 
+ten lakh rupees or one per cent of turnover of the company, whichever 
+is lesser or (b) involves public interest or not, the punishment has 
+been prescribed in terms of imprisonment and fine.
+32.	 Particularly, the stipulation that the ‘person (s)’ shall be ‘liable under 
+Section 447’ is contained not only in Section 448 of the Companies 
+Act, but also for offences as contained in Sections 34, 56(7), 66(10). 
+Additionally, it has been mentioned that the ‘person (s)’ shall be ‘liable 
+for action under Section 447’ in case of offences as mentioned in 
+Sections 7(5), 7(6), 8(11), 34, 36, 38(1)(c), 46(5), 76A, 86(2), 90(12), 
+140(5), 229, 251, 339(3) of the Companies Act. As such, some offences 
+under the Companies Act have been elevated to the level of ‘fraud’. 
+It appears that Section 447 is the catch-all provision laying down the 
+punishment for fraud, in various manifestations thereof, in a multitude 
+of Sections of the Companies Act. The word ‘fraud’ itself has been 
+given a very wide and all-encompassing meaning in Section 447 of 
+the Act, where it is defined in explanation (i) to Section 447 as: 
+ “‘fraud’ in relation to affairs of a company or any body 
+corporate, includes any act, omission, concealment of 
+any fact or abuse of position committed by any person 
+or any other person with the connivance in any manner, 
+with intent to deceive, to gain undue advantage from, or 
+to injure the interests of, the company or its shareholders 
+or its creditors or any other person, whether or not there 
+is any wrongful gain or wrongful loss;”
+
+456
+[2026] 1 S.C.R.
+Supreme Court Reports
+33.	 From a bare perusal of the aforementioned provisions of the 
+Companies Act, it is clear that Section 447 of the Companies Act 
+lays down the punishment for ‘fraud’ in various forms. In the present 
+case, cognizance has been taken by the Special Court under Section 
+448 and 451 of the Companies Act. Section 448 itself does not lay 
+down any punishment for its contravention, it simply lays down the 
+ingredients of the offence of making a false statement and provides 
+that in case such a false statement is made, the ‘person(s)’ shall 
+be liable under Section 447 of the Companies Act. That is to say, 
+even if, after trial, an offence under Section 448 is proved to have 
+been committed by a ‘person’, it is only with the aid of Section 447 
+of the Companies Act that the punishment for the said offence may 
+be imposed. Section 448 of the Companies Act, therefore, cannot 
+be read in isolation and must be read along with Section 447 of 
+the Companies Act. Therefore, the offence under Section 448 is an 
+offence ‘covered under Section 447’ of the Companies Act mentioned 
+in Section 212(6), since the offence under Section 448 is inextricably 
+linked to the punishment for ‘fraud’ as mentioned in Section 447 and 
+as such, the second proviso to Section 212(6) of the Companies 
+Act is attracted.
+34.	 If the intention of the legislature were to bar the Special Court from 
+taking cognizance of only the offence under Section 447 of the 
+Companies Act, there would be no need to mention offences ‘covered 
+under’ Section 447 in Section 212(6) of the Companies Act. Prior 
+to the 2015 Amendment Act, various offences of the Companies 
+Act were mentioned in Section 212(6) which, when proved, made 
+the accused liable for the punishment prescribed for ‘fraud’ under 
+Section 447 of the Companies Act. After the amendment, which was 
+intended to ensure that the restrictive twin-condition for grant of bail 
+is applied only in cases where Section 447 of the Companies Act 
+has been invoked, the words ‘offence covered under Section 447’ 
+was substituted. 
+35.	 That being said, the bar on taking cognizance by the Special Court in 
+cases involving Section 447 of the Companies Act was a safeguard 
+which was put in place to prevent filing of frivolous complaints by 
+disgruntled company members / shareholders or competitors with 
+vested interests. As such, in case an allegation of fraud under Section 
+447 of the Companies Act is to be made out, the complaint has to 
+be made by the Director, SFIO or an officer authorized by a written 
+
+[2026] 1 S.C.R. 
+457
+Yerram Vijay Kumar v. The State of Telangana & Anr.
+order of the Government. This adds a further level of scrutiny and 
+investigation prior to taking cognizance in cases where allegations 
+of fraud are made and ensures that cognizance is not taken by the 
+Special Court simply upon filing of a private complaint.
+View taken by different High Courts
+36.	 During hearing, it has been brought to our notice that the Single 
+Bench of the High Court in its earlier judgment dated 06.06.2022, 
+Sumana Paruchuri v. Jakka Vinod Kumar Reddy1 had interpreted 
+the provisions as contained in Section 212(6) and Section 447/448 
+of the Companies Act in a challenge made by the accused therein 
+to the criminal proceedings initiated on a private complaint and held 
+as thus:-
+“16. As seen from Section 212 (6) of the Companies Act, 
+2013, it provides a safeguard against frivolous complaints 
+and ensures that a prosecution for fraud can only be 
+launched after due investigation. Learned counsel for the 
+respondent No. 1 contended that the respondent No. 1 was 
+entitled to file complaint as a shareholder of the company 
+under Section 439 (2) of the Companies Act, 2013. But, 
+an exception is carved out under Section 439 (1) itself that 
+every offence under the Act except the offences referred 
+to in sub-section (6) of Section 212 of the Act shall be 
+deemed to be non-cognizable. As such, Section 439 of 
+the Companies Act, 2013 is not applicable to offences 
+covered under Section 447 of the said Act. The contention 
+of the learned counsel for the respondent No. 1 was that 
+under Section 439 of the Companies Act, 2013, the Court 
+can take cognizance of any offence including Section 447 
+of the Act so long as the SFIO had not been assigned 
+investigation by the Central Government under Section 212 
+of the Act. But the heading of Section 439 of the Act itself 
+would read as “offences to be non cognizable”. Hence, 
+cognizance of the offence under Section 447 of the Act 
+could not have been taken by the trial Court on a private 
+complaint, as it is a cognizable offence.
+1	
+2022 : TSHC : 30033.
+
+458
+[2026] 1 S.C.R.
+Supreme Court Reports
+17. Under Section 206 of the Companies Act, 2013, 
+the Registrar of Companies based on the information 
+received by him, seek for explanation, call for production 
+of document and conduct enquiry. If the Registrar is 
+satisfied on the basis of information available with him, 
+or furnished to him or on a representation made to him 
+by any person that the business of a company is being 
+carried out not in compliance with the provisions of the Act, 
+he can proceed with enquiry. If the enquiry conducted by 
+the Registrar discloses material for further investigation, 
+he, under Section 210 of the Companies Act, 2013 can 
+report to the Central Government to conduct investigation 
+into the affairs of the company. If the Central Government 
+considers the allegations as true and considering the gravity 
+of the offence that the matter was fit to be investigated 
+by the SFIO, directs the matter to be investigated by the 
+SFIO under Section 212 of the Companies Act,2013. The 
+Investigating Officers who were having better investigation 
+skills in forensic auditing, corporate affairs and capital 
+market would conduct investigation. If the Complainant is 
+aggrieved, he should have resorted to the procedure as 
+contemplated under the Act. The Registrar of Companies 
+is a competent person to call for the records, conduct 
+an enquiry and to arrive at an opinion. If there is any 
+material, he would submit a report to the Government for 
+investigation by SFIO. If SFIO is able to collect material 
+sufficient to prosecute then it would file charge sheet after 
+taking necessary sanctions from the Central Government. If 
+the contention of the Complainant that any shareholder can 
+file a complaint for fraud is accepted, it would open flood 
+gates for any person commencing criminal proceedings 
+merely by filing a complaint. There were several companies 
+with millions of shareholders. The condition prescribed 
+under Section 212(6) of the Act is a safeguard against 
+frivolous criminal complaints. As such, I do not find any 
+merit in the contention of the leamed counsel for the 
+respondent No. l that a private complaint for fraud is 
+maintainable before the Special Court.
+x x x x
+
+[2026] 1 S.C.R. 
+459
+Yerram Vijay Kumar v. The State of Telangana & Anr.
+21. Since the punishment for the offence under Section 448 
+of the Companies Act, 2013 was also under Section 447 
+of the Act, it was covered by the bar of taking cognizance 
+under Section 212(6) of the Act.”
+37.	 This judgment of the High Court pronounced on an earlier date than 
+the impugned order has not been noticed by the High Court while 
+passing the impugned judgment. We acknowledge the judgment 
+dated 06.06.2022 and its pronouncement on the proposition of law 
+as contained therein. The issue in the present appeal is the same 
+as in the earlier case, the High Court ought to have considered its 
+previous judgment which is on an identical question of law in almost 
+similar factual situation. Principles of judicial comity and stare decisis 
+are applicable to the High Court and the Court while passing the 
+impugned order should have noticed its earlier judgment and, if so 
+required, referred the matter to a larger bench.
+38.	 The Madras High Court in Sivananda Rajaram v. M/s New Shipping 
+Kaisha Ship Management Pvt. Ltd.2 quashed a complaint case 
+under Section 447 in light of the bar against taking cognizance under 
+Section 212(6) of the Companies Act.
+39.	 The Karnataka High Court has taken a similar view in M. Gopal v. 
+Ganga Reddy3 and quashed the order of the Magistrate taking 
+cognizance under Section 447 of the Companies Act on a private 
+complaint filed by a shareholder. The Court held that the shareholder 
+can go through the procedure under Section 213 of the Act in order 
+to make a complaint which may eventually result in prosecution 
+under Section 447 of the Companies Act.
+40.	 The Delhi High Court in Yogesh Chander Goyal and Ors. Vs. State 
+and Anr.4 has referred to the judgments of the Madras High Court 
+and Karnataka High Court and held that the order taking cognizance 
+under Section 447 of the Companies Act on a private complaint 
+cannot be sustained in law. 
+2	
+Criminal Petition (OP) No. 19154/2021.
+3	
+2022 : KHC : 35824.
+4	
+2024 SCC OnLine Del 3197.
+
+460
+[2026] 1 S.C.R.
+Supreme Court Reports
+Application of principles to the facts of the present case
+41.	 Coming to the facts of this case, the High Court in the impugned 
+judgment has not discussed or addressed the provisions of law 
+as contained in Sections 448/451 read with Section 212(6) of the 
+Companies Act nor has it referred to its previous judgment on similar 
+facts. It has reached a finding that a mini-trial cannot be conducted by 
+the High Court when exercising its inherent jurisdiction under Section 
+482 of the CrPC. The Court has found that allegations against the 
+Appellants are serious in nature and they require trial to elicit the 
+true facts of the case.
+42.	 It goes without saying that the Special Court in the present case has, 
+in its order dated 10.10.2022 taken cognizance under Section 448, 
+451 of the Companies Act and Sections 420, 406, 426, 468, 470, 
+471 & 120B of the IPC. We have found above that the punishment 
+section for Section 448 of the Companies Act is Section 447 of the 
+Companies Act and both sections cannot be read in isolation, since 
+they are inextricably linked. 
+43.	 It is trite law that anything that cannot be done directly, also cannot 
+be done indirectly. Merely because there is a bar under the second 
+proviso to Section 212(6) of the Companies Act against taking 
+cognizance of the offence under Section 447 of the Companies Act 
+unless specific conditions mentioned therein are met, does not mean 
+that cognizance may be taken by the Special Court under Section 
+448 of the Act without including the punishment section, i.e. Section 
+447 on filing of a private complaint. 
+44.	 Non-inclusion of the punishment section under Section 447 since the 
+very inception will also lead to procedural absurdity since ultimately 
+the said Section 447 of the Companies Act must be invoked in order 
+to impose any punishment after trial is conducted. In saying so, 
+we are aware of the proposition of law that cognizance is taken of 
+an offence and not of a section under the law, and at the stage of 
+framing charges, the Court may add or remove sections. However, 
+in the present case, when there is a specific requirement under 
+law which acts as a pre-condition for taking cognizance under 
+Section 447 of the Companies Act, the decision of the Special 
+Court to take cognizance under Section 448 of the Companies 
+Act without invoking the punishment section, Section 447 cannot 
+be countenanced. 
+
+[2026] 1 S.C.R. 
+461
+Yerram Vijay Kumar v. The State of Telangana & Anr.
+45.	 As such, the offence under Section 448 of the Companies Act is 
+an ‘offence covered under Section 447’ as mentioned in Section 
+212(6) of the Companies Act and therefore, the bar against taking 
+cognizance under the second proviso of Section 212(6) of the 
+Companies Act, unless specific conditions are met, is attracted 
+in the present case. Cognizance, therefore, in such a case, 
+cannot be taken merely by filing of a private complaint by the 
+Complainant. However, it is not to say that the Complainant is 
+left absolutely remediless. The right recourse for a person, who 
+makes an allegation of fraud in the affairs of a company is to file 
+an application under Section 213 of the Companies Act before 
+the NCLT upon satisfying the eligibility under Section 213(a) and 
+213(b) of the Companies Act. 
+46.	 The offence under Section 451 of the Companies Act is for punishment 
+in case of repeated default. Since we are finding that cognizance 
+cannot be taken for Section 448 of the Companies Act without following 
+the requirements under the second proviso to Section 212(6) of the 
+Companies Act, cognizance of ‘repeated default’ under Section 451 
+of the Companies Act is not made out.
+47.	 As an upshot of the above discussion, the inescapable conclusion 
+reached is that the complaint case bearing C.C. No. 58/2022, the 
+order dated 10.10.2022 of the Special Court and all consequential 
+proceedings to the extent of Section 448 and 451 of the Companies 
+Act shall stand quashed.
+ANALYSIS OF ISSUE 2 AND 3
+48.	 It has been contended before us by the Appellants that in view of 
+the provisions as contained in Section 436(2) of the Companies Act, 
+if the offences under the Companies Act are quashed, the Special 
+Court may not try the offences under the sections of the IPC under 
+which cognizance has been taken vide order dated 10.10.2022 of 
+the Special Court.
+49.	 Section 436(2) of the Companies Act is relevant and is therefore 
+reproduced as under:
+“436. Offences triable by Special Courts. –
+(2) When trying an offence under this Act, a Special Court 
+may also try an offence other than an offence under 
+
+462
+[2026] 1 S.C.R.
+Supreme Court Reports
+this Act with which the accused may, under the Code of 
+Criminal Procedure, 1973 (2 of 1974) be charged at the 
+same trial.”
+50.	 It is contended by the Appellants, in light of the aforementioned 
+provision, that a Special Court under the Companies Act may try 
+offences under the IPC only when it is also trying an offence under 
+the Companies Act and not when the offences under the Companies 
+Act have been quashed. 
+51.	 A similar question arose before this Court in S. Satyanarayana v. 
+Energo Masch Power Engg. & Consulting (P) Ltd.,5 albeit in slightly 
+different factual scenario and in the context of the Companies Act, 
+1956, where this Court held that when multiple persons are made 
+accused in respect of the same set of facts, even if some of them 
+are prosecuted against for the offences under the Companies Act 
+and others are being prosecuted against only for the offences under 
+the IPC, the Special Court can try all the accused persons together 
+in order to avoid multiplicity of proceedings.
+“11. We accordingly set aside the findings of the High 
+Court that taking of cognizance against Accused A-4, A-5, 
+A-6 and A-9 is without jurisdiction on the ground that the 
+complaint does not make out a prima facie case for the 
+offences under Section 628 of the Companies Act, 1956 
+against the said accused. At this stage, it may be noted 
+that the Special Court is empowered to try the offences 
+under the Companies Act along with other Acts by virtue 
+of a notification issued by the erstwhile Government of 
+Andhra Pradesh dated 13-3-1981 which empowers such 
+Special Courts to try offences under specified enactments 
+such as the Companies Act, 1956the Income Tax Act, 
+1961, the Wealth Tax Act, 1957, etc., which reads as 
+follows:
+“… even if such cases include offences 
+punishable under the Penal Code, 1860 and 
+any other enactments, if such offences form 
+part of the same transaction….”
+5	
+(2015) 13 SCC 1.
+
+[2026] 1 S.C.R. 
+463
+Yerram Vijay Kumar v. The State of Telangana & Anr.
+(vide Notification reproduced in Supt. of Customs v. Kannur 
+Abdul Kader Mohammed Haneefa [2014 SCC OnLine Hyd 
+622 : (2014) 310 ELT 49] ), SCC OnLine Hyd para 15.
+Thus, even if a number of persons are accused of offences 
+under a special enactment such as “the Companies Act 
+and as also the IPC” in respect of the same transaction 
+or facts and even if some could not be tried under the 
+special enactment, it is the Special Court alone which 
+would have jurisdiction to try all the offences based on 
+the same transaction to avoid multiplicity of proceedings. 
+We make this observation because at some stage in the 
+hearing the learned counsel addressed us on this point. 
+We make it clear that in the present case all the accused 
+are liable to be tried by the Special Court in respect of 
+the offences under IPC as well as the Companies Act as 
+alleged in the complaint.”
+52.	 The High Court of Madhya Pradesh dealt with a similar question in 
+Sunil Mandwani v. State of M.P.,6 where the FIR was registered 
+under various sections of the IPC only yet the accused approached 
+the Court seeking discharge on the ground that only offences under 
+the Companies Act are made out and therefore only a Special Court 
+under the Companies Act has jurisdiction to try the case. In that 
+context, the Court held that since no trial has been initiated against 
+the accused under the Companies Act, in the absence of offences 
+under the Companies Act, the relevant Special Court does not have 
+jurisdiction to try the IPC offences and only the Court having territorial 
+jurisdiction may try such offences. 
+53.	 Pertinently, it is to be noticed that in S. Satyanarayana (Supra), this 
+Court has relied upon the notification of the erstwhile Government 
+of Andhra Pradesh dated 13.03.1981 which had empowered Special 
+Courts under the Companies Act, 1956 to try cases under the IPC and 
+other enactments if such offences form part of the same transaction. 
+Even though no such notification has been brought on record for 
+designation of Special Courts under the Companies Act, 2013, on 
+research it is found that ‘The Special Court for trial of Economic 
+Offences- cum-VIII Additional Metropolitan Sessions Judge Court-
+6	
+2019 SCC OnLine MP 1248.
+
+464
+[2026] 1 S.C.R.
+Supreme Court Reports
+cum-XXII Additional Chief Judge, City Civil Court, Hyderabad’ has 
+been designated as the Special Court for the State of Telangana by 
+the Central Government vide Notification bearing F. No. 01/12/2009-
+CL-I (Vol. IV) dated 23.03.2017. In this notification issued in exercise 
+of powers conferred under Section 435(1) of Companies Act, there is 
+no mention of offences under the IPC, it merely mentions ‘…hereby 
+designates the following Courts mentioned in the Table below as 
+Special Courts for the purposes of providing speedy trial of offences 
+punishable with imprisonment of two years or more under the said Act’.
+54.	 That being said, under the Companies Act, Section 436(2) governs 
+the jurisdiction of the Special Court. The requirement of ‘same 
+transaction’ is not present in Section 436(2) which only lays down 
+the pre-requisite that the Special Court should be trying offences 
+under the Companies Act, for it to also try offences under the IPC. 
+As such, once the offences under the Companies Act are quashed, 
+it is the Court of appropriate territorial jurisdiction which would have 
+jurisdiction to try the private complaint filed by the Respondent No. 2 
+against the Appellants. The learned Judge of the Special Court where 
+the C.C. No. 58 of 2022 is pending shall take steps, in consultation 
+with the Principal District Judge of the district to transfer the complaint 
+case to the appropriate court having territorial jurisdiction to try the 
+complaint case. 
+55.	 Arguments have also been made by the Appellants about the propriety 
+and legality of continuance of the proceedings in respect of offences 
+under the IPC and it has been submitted by the Appellants that 
+the complaint case insofar as it relates to offences under the IPC, 
+is abuse of process of law since there are two civil suits and one 
+company petition pending between the parties. However, we are 
+not convinced by this argument. It is trite law that mere institution 
+or pendency of civil proceedings between the parties cannot be a 
+ground to quash the criminal proceedings instituted by the Respondent 
+No. 2 by filing a complaint case or to conclude that the dispute is 
+purely civil in nature.
+56.	 The Respondent No. 2 and the Appellants were in a commercial 
+relationship and the inception of the dispute can be traced to a tussle 
+for control over the Company. The civil suits filed by the Appellants 
+are for seeking a permanent injunction against the Company and the 
+Complainant from violating the terms and conditions of MoU dated 
+
+[2026] 1 S.C.R. 
+465
+Yerram Vijay Kumar v. The State of Telangana & Anr.
+17.08.2016 and, a declaration that the agreements to sell executed 
+by the Complainant with respect to the properties of the Company 
+be declared void, respectively, while the Company Petition has been 
+filed before the NCLT challenging the removal of the Appellants from 
+directorship in the Company. Pendency of these proceedings would 
+not absolve the criminality as alleged in the complaint, in the facts 
+and circumstances of this case.
+57.	 Therefore, without expressing any views on merits of the complaint 
+case, we hold that there is no reason or ground to quash the offences 
+under the IPC of which cognizance has been taken by the Special 
+Court.
+58.	 Issues 2 and 3 are answered as above.
+CONCLUSION
+59.	 In the interest of abundant clarity, as per the discussion hereinabove, 
+we have held that where the Special Court under the Companies Act 
+is taking cognizance of an offence under a section in the Companies 
+Act which, if proved, would make the person(s) ‘liable under Section 
+447’ or ‘liable for action under Section 447’, it must also invoke 
+Section 447 with the corresponding section and in such a case, it 
+must comply with the bar against taking cognizance as specified in 
+the second proviso to Section 212(6) of the Companies Act.
+60.	 In view of the discussion, the present appeals are partly allowed, the 
+impugned judgment of the High Court is set aside with the following 
+directions:
+I.	
+The complaint case bearing C.C. No. 58/2022, the order 
+dated 10.10.2022 of the Special Court and all consequential 
+proceedings to the extent of Section 448 and 451 of the 
+Companies Act shall stand quashed.
+II.	
+The learned judge of the Special Court where the C.C. No. 58 
+of 2022 is pending shall take steps, in consultation with the 
+Principal District Judge of the district to transfer the complaint 
+case to the appropriate court having territorial jurisdiction 
+to try the complaint case. The said transfer shall be made 
+within a period of 4 weeks and then the complaint case shall 
+be adjudicated on its own merits, uninfluenced by any of the 
+observations made hereinabove, as expeditiously as possible. 
+
+466
+[2026] 1 S.C.R.
+Supreme Court Reports
+III.	
+We make it clear that the observations made hereinabove 
+in paragraph 56 are not an expression of any views on the 
+merits of the complaint, however, the competent Court, which 
+is continuing the offences under the IPC and maintaining the 
+private complaint may examine all relevant objections, if any, 
+raised at appropriate stage or during trial by way of defence, 
+uninfluenced by the above observations.
+61.	 All pending applications shall stand disposed of. There shall be no 
+order as to costs.
+Result of the case: Appeals partly allowed.
+†Headnotes prepared by: Divya Pandey

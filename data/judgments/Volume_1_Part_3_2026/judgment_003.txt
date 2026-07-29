@@ -1,0 +1,2104 @@
+[2026] 1 S.C.R. 770 : 2026 INSC 47
+The State of Uttar Pradesh
+v.
+Anurudh & Anr
+(Criminal Appeal No. 163 of 2026)
+09 January 2026
+[Sanjay Karol* and Nongmeikapam Kotiswar Singh, JJ.]
+Issue for Consideration
+Whether u/s.439, CrPC the High Court could have issued directions, 
+mandating age determination test to be conducted in all cases 
+involving the POCSO Act. This larger question involves twin 
+considerations, one on the aspect of jurisdiction and the other on the 
+aspect of law i.e., the postulate of the act regarding determination 
+of age, and how the directions issued in the impugned judgement 
+correspond to or are in contravention of the same.
+Headnotes†
+Code of Criminal Procedure, 1973 – s.439 – Penal Code, 1860 – 
+ss.363, 366 – Protection of Children from Sexual Offences Act, 
+2012 – ss.7 and 8 – Juvenile Justice (Care and Protection) 
+Act 2015 – s.94 – Allegation of the mother of victim that her 
+12 year old girl was abducted from her home – Respondent 
+no.1 is the accused person – Bail rejected by the trial Court – 
+However, the High Court directed to constitute a medical board 
+for determination of the age of the victim and then released 
+the accused on interim bail – The High Court also issued 
+directions mandating age determination test to be conducted 
+in all cases involving the POCSO Act – Correctness:
+Held: The High Court in bail jurisdiction was coram non judice 
+for issuing directions mandating the investigating authorities 
+within the State of Uttar Pradesh to necessarily have a medical 
+examination of the victim conducted, with the particular intent to 
+determine the age of the victim as also holding, that a bail Court 
+would be empowered to entertain challenges to the documents 
+produced to establish the age of the victim – The Court could not 
+have passed directions that go against clearly stated legislative 
+* Author
+
+[2026] 1 S.C.R. 
+771
+The State of Uttar Pradesh v. Anurudh & Anr
+intent u/s.94 of the JJ Act – The determination of the age of the 
+victim is a matter for trial, and the presumption which is accorded 
+to the documents enumerated under the Section, has to be 
+rebutted there, for that is the appropriate forum to do so, not the 
+bail Court – If the question of age is raised at the stage of bail, it 
+is only open for the Court to, from the perusal of the documents, 
+take a prima facie view as to the age of the victim, not one on 
+the correctness of the documents since that would amount to a 
+mini trial – It could also not have fused statutory jurisdiction with 
+a constitutional one, lifting one to the other, or downgrading the 
+higher to the lower in order to grant itself the wherewithal, in an 
+otherwise fairly circumscribed jurisdiction, to do what could not be 
+done – The impugned judgment and order of the High Court is set 
+aside on grounds of transgression of the jurisdiction present and 
+thereby lacking the appropriate directions. [Paras 18, 19]
+Code of Criminal Procedure, 1973 – s.439 – Jurisdiction of the 
+Court of Sessions or the High Court – Whether, in the instant 
+case, the High Court erred in undertaking an exercise of issuing 
+directions and getting the age of the victim examined in an 
+application seeking grant of bail:
+Held: A Court’s jurisdiction, i.e., either the Court of Sessions or the 
+High Court u/s.439 CrPC is limited to adjudicating the question of 
+the person concerned being released into society pending trial or 
+whether they should continue to be incarcerated – In the instant 
+case the error of jurisdiction by the High Court was in exercise of 
+a statutory power and not under the Constitution – The powers 
+arising from the Constitution and those flowing from a statute are 
+distinct and separate – On the aspect of jurisdiction, the High Court 
+had erred in undertaking such an exercise of issuing directions 
+and getting the age of the victim examined in an application 
+seeking grant of bail – As far as determining the age of the victim 
+is concerned, it is settled that it is a matter of trial and not at the 
+stage of bail – If the age is under question, the bail Court may 
+examine the documents produced to establish age, but it will 
+not enter into the question of those documents being correct or 
+not so – The mandate of s.94 JJ Act is clear – The documents 
+provided therein are to be utilized for determination of the age of 
+the victim, and only in the absence thereof, will medical evidence 
+be resorted. [Para 16]
+
+772
+[2026] 1 S.C.R.
+Supreme Court Reports
+Juvenile Justice (Care and Protection) Act 2015 – s.94 – 
+Consideration of documents enumerated in s.94 – Whether 
+the High Court, in the instant case, fell in error in holding 
+that a Court in bail jurisdiction is empowered to entertain a 
+challenge to the documents at bail stage:
+Held: The consideration of the documents enumerated in s.94, 
+JJ Act is a matter of consideration of evidence since it may 
+involve the examination of witnesses to prove the veracity of the 
+documents – That can only be done by the Trial Court – Contra 
+evidence to challenge the documents, can also be presented only 
+before the Trial Court – In considered view of this Court, therefore, 
+the High Court fell in error in holding that a Court in bail jurisdiction 
+is empowered to entertain a challenge to the documents as s.94 
+would not apply at the bail stage. [Para 14.10]
+Bail – Mini Trial – Impermissible at the stage of Bail:
+Held: Its trite in law that a Court, at the stage of bail cannot conduct 
+a mini trial – s.439 is limited to granting bail or anticipatory bail 
+and requires the Court to consider only prima facie evidence, the 
+risk of the accused absconding, tampering with evidence, or other 
+relevant factors – Since s.439 is narrower in scope, the Court 
+cannot undertake a mini trial at the bail stage. [Para 15.3]
+Protection of Children from Sexual Offences Act, 2012 – 
+Juvenile Justice (Care and Protection) Act 2015 – s.94 – 
+Medically Determining the Age of the Victim:
+Held: A medical determination of age of a victim cannot be resorted 
+to as a matter of course, much less mandated – It can only be 
+employed in a given circumstance when the other stipulations of 
+s.94 JJ Act are not/cannot be met. [Para 17]
+Constitutional Power – Statutory power – High Court – 
+Distinction between Constitutional Power and Statutory power:
+Held: Constitutional powers are sovereign, foundational, and 
+insulated from the vicissitudes of ordinary legislation; they can 
+neither be curtailed nor expanded by parliamentary enactment – 
+Statutory powers, by contrast, are subordinate and mutable, 
+existing at the pleasure of the Legislature, which may at any time 
+amend, restrict, or repeal them through the ordinary legislative 
+
+[2026] 1 S.C.R. 
+773
+The State of Uttar Pradesh v. Anurudh & Anr
+process – Judicial review, while applicable to both, assumes different 
+contours in each case: in relation to constitutional powers, the 
+Courts examine whether their exercise conforms to constitutional 
+limitations including the protection of fundamental rights and the 
+inviolable tenets of the basic structure whereas, in the case of 
+statutory powers, the inquiry is confined to whether the authority 
+has acted within the scope and purpose of the statute from which 
+its power is drawn – The constitutional power cannot overshadow 
+the statutory power, enlarging its scope beyond what has been 
+envisaged by the statute – In other words, while both powers rest 
+with the High Court, one power cannot usurp the ambit of another, 
+unless otherwise permitted by law. [Para 11.3]
+Juvenile Justice (Care and Protection) Act 2015 – Protection 
+of Children from Sexual Offences Act, 2012 – Difference 
+between – Discussed. [Paras 14.5.1-14.5.4]
+Protection of Children from Sexual Offences Act, 2012 – 
+Misrepresentation of age of victim – Law used by families 
+in opposition to relationships between young people – 
+Consenting adolescence – Discussed. [Para 19]
+Professional Ethics – Bar – Responsibility of advocates – 
+Consensual relationships between teenagers – Exercise of 
+restraint, when grievance masks vengeance – Discussed. 
+[Para 19]
+Judicial Notice – Misuse of POCSO Act – Consideration for 
+introduction of a Romeo–Juliet clause – Discussed. [Para 19]
+Case Law Cited
+State of U.P. v. Amarmani Tripathi [2005] Supp. 3 SCR 454 : (2005) 
+8 SCC 21; Vaman Narain Ghiya v. State of Rajasthan [2008] 17 
+SCR 369 : (2009) 2 SCC 281; RBI v. Coop. Bank Deposit A/C 
+HR. Sha [2010] 9 SCR 1107 : (2010) 15 SCC 85; Just Rights for 
+Children Alliance v. S. Harish [2024] 10 SCR 154 : 2024 SCC 
+OnLine SC 2611; Jarnail Singh v. State of Haryana [2013] 8 SCR 
+1044 : (2013) 7 SCC 263; Abuzar Hossain @ Gulam Hossain v. 
+State of West Bengal [2012] 9 SCR 244 : (2012) 10 SCC 489; 
+Parag Bhati (Juvenile) through Legal Guardian-Mother-Rajni 
+Bhati v. State of U.P. [2016] 2 SCR 1089 : (2016) 12 SCC 744; 
+Rishipal Singh Solanki v. State of U.P. [2021] 12 SCR 502 : (2022) 
+8 SCC 602 – relied on.
+
+774
+[2026] 1 S.C.R.
+Supreme Court Reports
+Sanjeev Kumar Gupta v. State of U.P. [2019] 9 SCR 735 : (2019) 
+12 SCC 370; Mukarrab v. State of U.P. [2016] 8 SCR 557 : (2017) 
+2 SCC 210; State v. M. Murugesan [2020] 2 SCR 553 : (2020) 15 
+SCC 251; State of Punjab v. Davinder Pal Singh Bhullar [2011] 
+15 SCR 540 : (2011) 14 SCC 770; Sangitaben Shaileshbhai 
+Datanta v. State of Gujarat (2019) 14 SCC 522; Union of India v. 
+Man Singh Verma [2025] 2 SCR 1534 : 2025 SCC OnLine SC 
+456; Mahadeo v. State of Maharashtra [2013] 17 SCR 667 : (2013) 
+14 SCC 637; Union of India v. K.A. Najeeb [2021] 1 SCR 443 : 
+(2021) 3 SCC 713; Amlesh Kumar v. State of Bihar [2025] 7 SCR 
+394 : 2025 SCC OnLine SC 1326; P. Yuvaprakash v. State [2023] 
+10 SCR 478 : 2023 SCC OnLine SC 846; Rajni v. State of UP, 
+2025 INSC 737; Rajesh Chaddha v. State of U.P [2025] 6 SCR 
+382 : 2025 SCC OnLine SC 1094 – referred to.
+Pradeep Kumar Chauhan & Anr. v. State Of U.P & Ors., Habeas 
+Corpus Writ Petition No. 733 of 2020; Chandrapal Singh v. State 
+of U.P., 2022 SCC OnLine All 934; Satish alias Chand v. State of 
+U.P., Crl.Misc.Bail Appl.No.18596 of 2024; Aman@Vansh v. State 
+of UP, 2024:AHC:62260; Monish v. State of U.P., 2023:AHC:32270; 
+Mrigraj Gautam @ Rippu v. State of U.P., 2023:AHC:204171; 
+Sahil  v. the State NCT of Delhi, 2024:DHC:6100; Jayantibhai 
+Babulbhai Alani v. State of Gujarat, 2018 SCC Online Guj. 1223 – 
+referred to.
+List of Acts
+Code of Criminal Procedure, 1973; Penal Code, 1860; Protection 
+of Children from Sexual Offences Act, 2012; Juvenile Justice (Care 
+and Protection) Act 2015; Juvenile Justice (Care and Protection 
+of Children) Rules, 2007; Constitution of India; Dowry Prohibition 
+Act, 1961.
+List of Keywords
+Section 439 of CrPC; Section 94 of Juvenile Justice (Care and 
+Protection) Act 2015; Constitutional Power; Statutory power; 
+Determination of age of victim; Coram Non Judice; Mini-Trial; 
+Ossification Test; Section 34 of the POCSO Act; Consensual 
+Adolescent Relationships; Bail; Jurisdiction; Age of victim; Statutory 
+jurisdiction; Circumscribed jurisdiction; Prima facie evidence; 
+Documents; Jurisdictional question; Judicial review; Professional 
+Ethics; Bar; Responsibility of advocates; Romeo – Juliet clause.
+
+[2026] 1 S.C.R. 
+775
+The State of Uttar Pradesh v. Anurudh & Anr
+Case Arising From
+CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 
+163 of 2026
+From the Judgment and Order dated 29.05.2024 of the High Court 
+of Judicature at Allahabad in CRMBA No. 4880 of 2024
+Appearances for Parties
+Advs. for the Appellant(s):
+Ms. Ruchira Goel, Sharanya, Ms. Veera Mahuli, Ms. Ritika Rao.
+Advs. for the Respondent(s):
+D.S. Parmar, Saurabh Singh, Vedant Tiwari, Ms. Shambhavi 
+Shrivastava, Ms. Archana.
+Judgment / Order of the Supreme Court
+Judgment
+For ease of reference, this judgment is divided into the following parts:
+Contents*
+The Appeal .......................................................................................
+3
+Facts And Previous Proceedings .....................................................
+4
+The Impugned Judgment ................................................................
+5
+Question To Be Determined ............................................................
+8
+Analysis And Determination .............................................................
+8
+Relevant Provisions .........................................................................
+9
+What were the bases for the High Court’s Conclusions and 
+Directions? ....................................................................................... 12
+The Jurisdictional Question ............................................................. 20
+Whether the impugned directions rest on sound legal grounds? ... 29
+Determination of the age of the victim - At what stage and by 
+whom ....................................................................................... 31
+Mini Trial- Impermissible at the stage of Bail .........................
+50
+Medically Determining the Age of the Victim .......................... 51
+Summation ....................................................................................... 58
+A Necessitated Post-Script ............................................................... 60
+* Ed. Note: Pagination as per the original Judgment.
+
+776
+[2026] 1 S.C.R.
+Supreme Court Reports
+Sanjay Karol, J.
+Leave Granted. 
+The Appeal
+2.	
+The State of Uttar Pradesh, in this appeal by special leave, challenges 
+the correctness of final judgment and order dated 29th May 2024 in 
+CRMBA No. 4880 of 2024 passed by the High Court of Judicature 
+at Allahabad, whereby the learned Single Judge granted bail to 
+Respondent No.1 in connection with the First Information Report1 
+No.622 of 2022, PS Kotwali, Orai, District Jalaun, dated 24th November 
+2022 and issued a number of directions. 
+3.	
+The question presented in this appeal, however, is not one of relative 
+ease as an appeal against grant of bail and instead hinges on the 
+scope of Section 439 of the Code of Criminal Procedure, 19732. In 
+the High Court’s own words- “The question of law which arises for 
+consideration in this bail application is the nature of the legal duty 
+cast on the police to draw up a medical report determining the age 
+of a victim while investigating POCSO Act offences. The jurisdiction 
+of this Court to determine this question will predicate the discussion 
+on the merits of the bail.”
+Facts And Previous Proceedings
+4.	
+The facts, in a nutshell, are that Respondent no. 1 is accused of 
+having committed offences under Sections 363, 366 of the Indian 
+Penal Code, 18603 and Sections 7 and 8 of the Protection of Children 
+from Sexual Offences Act, 20124 in the subject FIR, lodged at the 
+instance of the mother of the victim, where the allegation is that her 
+12-year old girl had been abducted from her home. The Trial Court 
+rejected bail by order dated 29th September 2023. In the proceedings 
+for bail before the High Court, by order dated 22nd April 2024 the 
+Chief Medical Officer, Jalaun was directed to constitute a medical 
+board for determination of the age of the victim. On 8th May 2024 
+the Court then released the accused on interim bail, observing that 
+1	
+FIR
+2	
+CrPC
+3	
+IPC 
+4	
+POCSO Act
+
+[2026] 1 S.C.R. 
+777
+The State of Uttar Pradesh v. Anurudh & Anr
+there was wide inconsistency in the age of the victim as in the school 
+records, or as stated by her in her statement under Sections 161 
+and 164 CrPC regarding age/intimacy with the accused among other 
+factors. In terms of the impugned judgment, the Court confirmed the 
+said order, while adjudicating on the issue indicated above. 
+The Impugned Judgment 
+5.	
+The observations of the High Court can be summarised thus:
+5.1	 The Court began by affirming that the jurisdiction exercised 
+under Section 439 CrPC engages constitutional protection under 
+Article 21. The right to bail has evolved beyond a purely statutory 
+entitlement into a constitutionally safeguarded right. On this 
+basis, the Court reiterated that when issues affecting personal 
+liberty arise, such as legality of investigative procedures, they 
+must be addressed directly within bail adjudication. 
+5.2	 In assessing the age of the victim, the Court evaluated prior 
+precedents of the High Court which collectively prescribe 
+that medical determination of age under Section 164-A CrPC 
+read with Section 27 POCSO Act is mandatory and is often 
+a more reliable indicator than documentary entries. Reliance 
+on Pradeep Kumar Chauhan & Anr. v. State Of U.P & Ors.5 
+(passed by a learned Single Judge of that High Court) is rejected 
+as misplaced due to its habeas corpus context and its non-
+examination of statutory medical-age provisions. 
+5.3	 The statutory scheme was analysed to conclude that Sections 
+164-A CrPC and 27 POCSO Act obligate police to obtain 
+the victim’s medical age report at the commencement of 
+investigation. Section 94 of the Juvenile Justice (Care and 
+Protection) Act 20156 supplements this mechanism. Failure to 
+secure such a report rendered the statutory framework futile and 
+opens scope for false implication via manipulated age claims. 
+5.4	 On the factual matrix, the Court noted recurring systemic lapses 
+wherein the police failed to obtain medical age reports, Trial 
+Courts ignored scientifically assessed age, and consensual 
+5	
+Habeas Corpus Writ Petition No. 733 of 2020
+6	
+JJ Act
+
+778
+[2026] 1 S.C.R.
+Supreme Court Reports
+adolescent relationships were criminalised under the POCSO 
+Act due to falsified age records. This systemic malfunction, 
+according to the Court, necessitated corrective judicial directives. 
+5.5	 Finally, applying law to fact, the Court accepted the medically 
+determined age of the prosecutrix as above 18 years and 
+consequently, allowed bail subject to conditions. 
+5.6	 The directions issued are extracted in toto, as under:
+“I) The police authorities/investigation officers shall 
+ensure compliance of the directions rendered by 
+this Court in Aman (supra) and ensure that the 
+medical report determining the age of the victim is 
+drawn up by the competent medical authority at the 
+commencement of the investigations of POCSO 
+Act offences in accordance with the provisions of 
+the Section 164-A CrPC read with Section 27 of the 
+POCSO Act.
+II) The medical report of the victim determining her 
+age and drawn up under Section 164-A CrPC. read 
+with Section 27 of the POCSO Act shall be produced 
+by the police authorities/investigation officers before 
+the court hearing the bail application. The learned 
+courts while hearing bail applications shall make due 
+enquiries about the compliance of these directions 
+and Aman (supra) during the bail proceedings.
+III) The judgement of this Court rendered in Monish 
+(supra), Aman (supra) as well as this case have to 
+be read together and not in isolation. The directions 
+in Aman (supra) as well as this case will be of little 
+avail, if not examined and implemented in light of the 
+directions made in Monish (supra).
+IV) The age of the victim in bails arising out of POCSO 
+Act offences has been determined by a composite 
+reading of Section 94 of the Juvenile Justice (Care 
+and Protection of Children) Act and Section 164-A 
+of CrPC. read with Section 27 of the POCSO Act in 
+light of the judgements rendered in Monish (supra), 
+Aman (supra) and this case.
+
+[2026] 1 S.C.R. 
+779
+The State of Uttar Pradesh v. Anurudh & Anr
+V) The court hearing the bail application has to accord 
+full weight to the medical age determination report 
+of the victim and also carefully examine all other 
+documents relating to the victim’s age. The court 
+has to determine the credibility of the respective 
+age related documents while deciding the bail 
+application in the facts of the case. In appropriate 
+facts and circumstances as in the instant case, the 
+age determined by the competent medical authority 
+under Section 164-A of CrPC. read with Section 27 
+of the POCSO Act can prevail over other agerelated 
+documents (including school records).”
+Question To Be Determined
+6.	
+The question that this Court is called upon to consider is whether 
+under Section 439, CrPC the High Court could have issued 
+directions, mandating age determination test to be conducted in all 
+cases involving the POCSO Act. This larger question involves twin 
+considerations, one on the aspect of jurisdiction and the other on the 
+aspect of law i.e., the postulate of the act regarding determination 
+of age, and how the directions issued in the impugned judgement 
+correspond to or are in contravention of the same. 
+Analysis And Determination
+7.	
+We have heard the learned senior counsel and learned counsel for 
+the parties.
+Relevant Provisions 
+8.	
+Before proceeding further, the provisions of law involved in this 
+appeal must be referred to.
+8.1	 Section 27 of the POCSO Act 
+“27. Medical examination of a child.—(1) The medical 
+examination of a child in respect of whom any 
+offence has been committed under this Act, shall, 
+notwithstanding that a First Information Report or 
+complaint has not been registered for the offences 
+under this Act, be conducted in accordance with 
+
+780
+[2026] 1 S.C.R.
+Supreme Court Reports
+section 164A of the Code of Criminal Procedure, 
+1973 (2 of 1973). 
+(2) In case the victim is a girl child, the medical 
+examination shall be conducted by a woman doctor. 
+(3) The medical examination shall be conducted in 
+the presence of the parent of the child or any other 
+person in whom the child reposes trust or confidence. 
+(4) Where, in case the parent of the child or other 
+person referred to in sub-section (3) cannot be present, 
+for any reason, during the medical examination of the 
+child, the medical examination shall be conducted in 
+the presence of a woman nominated by the head of 
+the medical institution.”
+(emphasis supplied)
+8.2	 Section 164 of the CrPC
+“[164A. Medical examination of the victim of rape.—
+(1) Where, during the stage when an offence of 
+committing rape or attempt to commit rape is under 
+investigation, it is proposed to get the person of the 
+woman with whom rape is alleged or attempted to 
+have been committed or attempted, examined by a 
+medical expert, such examination shall be conducted 
+by a registered medical practitioner employed in a 
+hospital run by the Government or a local authority 
+and in the absence of such a practitioner, by any other 
+registered medical practitioner, with the consent of 
+such woman or of a person competent to give such 
+consent on her behalf and such woman shall be sent 
+to such registered medical practitioner within twenty-
+four hours from the time of receiving the information 
+relating to the commission of such offence. 
+(2) The registered medical practitioner, to whom 
+such woman is sent, shall, without delay, examine 
+her person and prepare a report of his examination 
+giving the following particulars, namely:— 
+
+[2026] 1 S.C.R. 
+781
+The State of Uttar Pradesh v. Anurudh & Anr
+(i) the name and address of the woman and 
+of the person by whom she was brought; 
+(ii) the age of the woman; 
+(iii) the description of material taken from 
+the person of the woman for DNA profiling; 
+(iv) marks of injury, if any, on the person 
+of the woman; 
+(v) general mental condition of the woman; 
+and 
+(vi) other material particulars in reasonable 
+detail. 
+(3) The report shall state precisely the reasons for 
+each conclusion arrived at. 
+(4) The report shall specifically record that the consent 
+of the woman or of the person competent to give 
+such consent on her behalf to such examination had 
+been obtained. 
+(5) The exact time of commencement and completion 
+of the examination shall also be noted in the 
+report. 
+(6) The registered medical practitioner shall, without 
+delay forward the report to the investigating officer 
+who shall forward it to the Magistrate referred to in 
+section 173 as part of the documents referred to in 
+clause (a) of sub-section (5) of that section. 
+(7) Nothing in this section shall be construed as 
+rendering lawful any examination without the consent 
+of the woman or of any person competent to give 
+such consent on her behalf. Explanation.—For 
+the purposes of this section, “examination” and 
+“registered medical practitioner” shall have the same 
+meanings as in section 53.]” 
+(emphasis supplied)
+
+782
+[2026] 1 S.C.R.
+Supreme Court Reports
+8.3	 Section 94 of the Juvenile Justice (Care & Protection) Act 2015 
+“94. (1) Where, it is obvious to the Committee or 
+the Board, based on the appearance of the person 
+brought before it under any of the provisions of this 
+Act (other than for the purpose of giving evidence) 
+that the said person is a child, the Committee or the 
+Board shall record such observation stating the age 
+of the child as nearly as may be and proceed with 
+the inquiry under section 14 or section 36, as the 
+case may be, without waiting for further confirmation 
+of the age. 
+(2) In case, the Committee or the Board has 
+reasonable grounds for doubt regarding whether 
+the person brought before it is a child or not, the 
+Committee or the Board, as the case may be, shall 
+undertake the process of age determination, by 
+seeking evidence by obtaining —
+(i)	
+the date of birth certificate from 
+the school, or the matriculation 
+or equivalent certificate from the 
+concerned examination Board, if 
+available; and in the absence thereof; 
+(ii)	
+the birth certificate given by a 
+corporation or a municipal authority 
+or a panchayat; 
+(iii)	 and only in the absence of (i) and 
+(ii) above, age shall be determined 
+by an ossification test or any other 
+latest medical age determination 
+test conducted on the orders of the 
+Committee or the Board: Provided 
+such age determination test conducted 
+on the order of the Committee or the 
+Board shall be completed within fifteen 
+days from the date of such order. 
+(3) The age recorded by the Committee or the Board 
+to be the age of person so brought before it shall, 
+
+[2026] 1 S.C.R. 
+783
+The State of Uttar Pradesh v. Anurudh & Anr
+for the purpose of this Act, be deemed to be the true 
+age of that person. 
+(emphasis supplied)
+8.4	 Section 29 of the POCSO Act
+“29. Presumption as to certain offences.—Where a 
+person is prosecuted for committing or abetting or 
+attempting to commit any offence under sections 3, 
+5, 7 and section 9 of this Act, the Special Court shall 
+presume, that such person has committed or abetted 
+or attempted to commit the offence, as the case may 
+be unless the contrary is proved.”
+What were the bases for the High Court’s Conclusions and 
+Directions?
+9.	
+Although we have, in earlier paragraphs of this judgement, summarised 
+the reasoning of the High Court, let us now unpack the same with 
+reference to the earlier judgements of the Court in Aman@Vansh v. 
+State of UP7 and Monish v. State of U.P8. Both these judgments 
+as also the judgment impugned before us, have been passed by the 
+very same learned Single Judge. Since Monish (supra) was earlier 
+in point of time, we will take that up first.
+9.1	 The learned Single Judge in Monish (supra) held in substance, 
+as follows: 
+The Court examined two key questions of law: (i) whether the 
+age of a victim under the POCSO Act should be determined as 
+per Section 94 of JJ Act at the stage of bail, and (ii) whether 
+the presumption of culpable intent under Section 29 of the 
+POCSO Act applies at that stage. After extensive review, the 
+Court held that Section 94 of the JJ Act, 2015 which prescribes 
+a conclusive method for age determination does not apply 
+strictly to bail proceedings. Instead, the documents enumerated 
+in Section 94 (such as school certificates or birth certificates) 
+may be considered as evidence, but their correctness can 
+7	
+2024:AHC:62260
+8	
+2023:AHC:32270
+
+784
+[2026] 1 S.C.R.
+Supreme Court Reports
+be challenged by the accused at the bail stage. The Court 
+emphasized that such an assessment of age during bail 
+proceedings is tentative, meant only for evaluating the prima 
+facie case and not conclusive for trial purposes.
+The High Court had examined and synthesized the leading 
+authorities of this Court, including Abuzar Hossain @ Gulam 
+Hossain v. State of West Bengal9; Parag Bhati (Juvenile) 
+through Legal Guardian–Mother–Rajni Bhati v. State of 
+U.P.10; Sanjeev Kumar Gupta v. State of U.P.11; Rishipal Singh 
+Solanki v. State of U.P.12; and Mukarrab v. State of U.P.13. The 
+collective import of these judgments is that the presumption of 
+correctness attached to age-related documents under Section 
+94 of JJ Act, is not absolute but rebuttable, and that a Court 
+may consider other credible materials or order further inquiry, 
+whenever contradictions or doubts arise about the recorded 
+age. The Court further observed that accused persons have 
+the right to question the veracity of age-related documents 
+relied on by the prosecution. It clarified that bail courts must 
+independently assess the credibility of such documents and 
+may consider corroborative materials like medical reports or 
+other records to resolve doubts regarding the victim’s age. The 
+Court frowned upon a rigid or formulaic approach to bail under 
+the POCSO Act, stressing that decisions must be based on the 
+specific facts and circumstances of each case.
+Regarding the presumption of culpable intent under Section 29 
+of the POCSO Act, the Court held that such presumption does 
+not apply at the pre-trial bail stage. The presumption becomes 
+operative only once the trial begins and foundational facts are 
+established through evidence. The right of the accused to contest 
+this presumption and present a defence cannot be curtailed 
+at the bail stage. The Court reaffirmed that constitutional and 
+evidentiary principles must govern bail decisions, ensuring 
+fairness and due process.
+9	
+(2012) 10 SCC 489
+10	
+(2016) 12 SCC 744
+11	
+(2019) 12 SCC 370
+12	
+(2022) 8 SCC 602
+13	
+(2017) 2 SCC 210
+
+[2026] 1 S.C.R. 
+785
+The State of Uttar Pradesh v. Anurudh & Anr
+From a constitutional perspective, the Court reiterated that 
+grant of bail is the rule and refusal the exception, aligning with 
+settled principles under Article 21 of the Constitution of India. It 
+noted that while the POCSO Act is a special statute aimed at 
+protecting minors, it does not exclude the operation of standard 
+bail principles under Section 439 CrPC. The Court, therefore, 
+emphasized judicial discretion, proportionality, and individual 
+case assessment as central to deciding bail. The Court held:
+“78. The discussion then proceeded to probe the 
+effect of Article 21 of the Constitution of India on the 
+offending provisions for grant of bail. This enquiry 
+was overlaid with a consideration of authorities “on 
+the concept of due process in our constitutional 
+jurisprudence whenever the court has to deal with a 
+question affecting life and liberty of citizens”.
+…
+85. In view of the constitutional moorings of the right of 
+bail, curtailment of the said right cannot be permitted in 
+absence of an express statutory mandate or contrary 
+to the constitutional scheme. Nor can restrictions of 
+on right of bail be readily inferred from a statute if 
+other interpretations are possible.”
+The Court also discussed parameters of bail under the POCSO 
+Act, holding that the nature and gravity of the offence, likelihood 
+of conviction, chances of tampering with evidence, or absconding 
+must be assessed in the light of constitutional protections. No 
+additional restrictions on bail can be read into the POCSO Act 
+beyond those under the general law. It was observed: 
+“88. Bails under POCSO Act offences have to 
+be considered under Section 439 Cr.P.C. and in 
+accordance with the settled parameters of grant of 
+bail which include nature and gravity of the offences, 
+and the likelihood of an accused having committed the 
+offence. The possibility of the accused reoffending, 
+influencing witnesses and tampering with evidence 
+or being a flight risk are also relevant factors to be 
+considered while deciding a bail application. 
+
+786
+[2026] 1 S.C.R.
+Supreme Court Reports
+89. In POCSO Act related offences the age of a victim 
+is a critical factor which will influence the decision 
+to grant bail. 
+90. No provisions circumscribing the right of bail can 
+be distilled from the scheme of POCSO Act. The 
+existing norms of bail jurisprudence are sufficient to 
+effectively implement the POCSO Act and to serve 
+justice. Of course, the threshold of satisfaction of the 
+Court while granting bail may vary in the facts and 
+circumstances of each case.” 
+In conclusion, the Court found inconsistencies in the age-
+related evidence of the victim and the existence of a prima 
+facie defence by the accused that the victim was a major. The 
+prosecution’s reliance on unverified documents could not justify 
+continued detention, particularly when material contradictions 
+were apparent. Bail was therefore granted on legal and 
+constitutional grounds.
+9.2	 Now, let us examine Aman (supra).
+The Court noted a recurring problem in POCSO cases: frequent 
+contradictions in the recorded age of victims and false depiction 
+of majority as minority, often leading to the weaponisation of the 
+legislation against young couples in consensual relationships. 
+Medical determinations of age, drawn per the latest scientific 
+protocols, were deemed more reliable and essential to prevent 
+injustice.
+Referring to Sections 164-A CrPC and 27 POCSO Act, the 
+Court held that a medical report determining the victim’s age 
+is a mandatory component of investigation in every POCSO 
+case. Such reports assist Courts in making accurate findings, 
+preventing false implication, and ensuring fair application of law.
+Accordingly, the Court issued directions:
+“1. The police authorities/investigation officers shall 
+ensure that in every POCSO Act offence a medical 
+report determining the victim’s age shall be drawn 
+up at the outset under Section 164A of the Criminal 
+Procedure Code read with Section 27 of the Protection 
+
+[2026] 1 S.C.R. 
+787
+The State of Uttar Pradesh v. Anurudh & Anr
+of Children from Sexual Offences Act, 2012. The 
+report may be dispensed with if medical opinion 
+advises against it in the interests of the victim’s health.
+2. The medical report determining the age of the victim 
+shall be created as per established procedure of law 
+and in adherence to latest scientific parameters and 
+medical protocol. 
+3. The medical report determining the age of the victim 
+shall be submitted under Section 164-A of the Code 
+of Criminal Procedure to the Court without delay. 
+4. The Director General (Health), Government of 
+Uttar Pradesh, Lucknow shall also ensure that the 
+doctors who comprise the Medical Board are duly 
+trained and follow the established medical protocol 
+and scientific parameters for determining the age of 
+the victims in such cases. Constant research shall 
+be done in this field to keep the reports in line with 
+the latest scientific developments. A copy of this 
+order be communicated by the learned Government 
+Advocate to the Director General of Police, Lucknow, 
+Uttar Pradesh for compliance and Director General 
+(Health), Government of Uttar Pradesh,”
+9.3	 Although it did not place reliance on Pradeep Kumar Chauhan 
+(supra) a significant portion of the judgement was devoted to 
+answering its application, as contended by the advocate for the 
+State; hence, it is important to refer thereto. The Court undertook 
+a detailed examination of the applicability of Pradeep Kumar 
+Chauhan (supra) and ultimately distinguished its ratio. The 
+Court observed that while Pradeep Kumar Chauhan (supra)
+had been invoked in several bail applications to argue that the 
+age recorded in school certificates is conclusive under Section 
+94 JJ Act, such reliance was misplaced. The Court relied almost 
+entirely on an earlier Full Bench decision Chandrapal Singh v. 
+State of U.P.14 which had already undertaken a comprehensive 
+analysis of the governing law on age determination under 
+Section 94 of the JJ Act.
+14	
+2022 SCC OnLine All 934
+
+788
+[2026] 1 S.C.R.
+Supreme Court Reports
+Relying on the reasoning in Chandrapal Singh (supra) the 
+learned single Judge reaffirmed that Pradeep Kumar Chauhan 
+(supra) did not correctly reflect this settled legal position. That 
+decision had treated documentary proof of age such as school 
+or matriculation certificates as final and conclusive, thereby 
+excluding the possibility of further scrutiny. It held that such 
+a restrictive view was inconsistent with the this Court’s liberal 
+and contextual interpretation of Section 94 JJ Act. Accordingly, 
+Pradeep Kumar Chauhan (supra) was distinguished and held 
+to be inapplicable. The Court concluded that the determination 
+of age, whether of a victim or an accused - must rest on the 
+totality of credible evidence, and that the statutory presumptions 
+under Section 94 JJ Act,though significant, are rebuttable and 
+subject to judicial verification to ensure fairness and prevent 
+miscarriage of justice.
+The Jurisdictional Question
+10.	 The High Court, while exercising bail jurisdiction issued the directions 
+reproduced supra. One of the issues raised by the Appellant-State 
+is that the same was beyond the scope of jurisdiction. The question 
+of jurisdiction to issue these directions also confronted the learned 
+Single Judge who answered the same stating that while exercising 
+statutory jurisdiction, the High Court is not denuded of its constitutional 
+status and, therefore, it is entirely open, to consider questions of law 
+as in the present case. Observations in this regard are extracted 
+hereunder:
+“10. While sitting in bail determination, this Court is not 
+denuded of its constitutional status. The High Court is 
+a court of record and a constitutional court irrespective 
+of the nomenclature of the jurisdiction it is exercising. 
+Needless to add that the High Court always exercises its 
+jurisdiction as per law. While deciding bail applications the 
+High Court exercises a composite jurisdiction of statutory 
+powers and constitutional obligations. At times legal issues 
+which directly impinge on the fair administration of justice 
+arise in bail jurisdiction. The High Court cannot neglect 
+consideration of such issues on the footing that they are 
+beyond the scope of bail jurisdiction. The High Court always 
+possesses the necessary powers to decide such issues 
+
+[2026] 1 S.C.R. 
+789
+The State of Uttar Pradesh v. Anurudh & Anr
+for dispensing fair justice and to realize the fundamental 
+rights of an accused in bail jurisdiction. Refusal to decide 
+the said issues would amount to abdication of constitutional 
+obligations of this Court. Issues arising in the instant case 
+(and those referred in the judgment) directly impact the 
+right of a prisoner to seek bail. They have to be decided by 
+this Court with clarity in lawful exercise of bail jurisdiction 
+and in the interests of equal justice.”
+11.	 Let us now, independently examine this issue.
+11.1	 Section 439 CrPC reads as under:
+“439. Special powers of High Court or Court of 
+Session regarding bail.—(1) A High Court or Court 
+of Session may direct—
+(a) that any person accused of an offence and in 
+custody be released on bail, and if the offence is 
+of the nature specified in sub-section (3) of Section 
+437, may impose any condition which it considers 
+necessary for the purposes mentioned in that sub-
+section;
+(b) that any condition imposed by a Magistrate when 
+releasing any person on bail be set aside or modified:
+Provided that the High Court or the Court of Session 
+shall, before granting bail to a person who is accused 
+of an offence which is triable exclusively by the 
+Court of Session or which, though not so triable, is 
+punishable with imprisonment for life, give notice 
+of the application for bail to the Public Prosecutor 
+unless it is, for reasons to be recorded in writing, of 
+opinion that it is not practicable to give such notice:
+1[Provided further that the High Court or the Court of 
+Session shall, before granting bail to a person who is 
+accused of an offence triable under sub-section (3) 
+of Section 376 or Section 376-AB or Section 376-DA 
+or Section 376-DB of the Indian Penal Code (45 of 
+1860), give notice of the application for bail to the 
+Public Prosecutor within a period of fifteen days from 
+the date of receipt of the notice of such application.]
+
+790
+[2026] 1 S.C.R.
+Supreme Court Reports
+2[(1-A) The presence of the informant or any person 
+authorised by him shall be obligatory at the time of 
+hearing of the application for bail to the person under 
+sub-section (3) of Section 376 or Section 376-AB 
+or Section 376-DA or Section 376-DB of the Indian 
+Penal Code (45 of 1860).]
+(2) A High Court or Court of Session may direct that 
+any person who has been released on bail under 
+this Chapter be arrested and commit him to custody.
+11.1.1	 In State of U.P. v. Amarmani Tripathi15, it was held:
+“18. It is well settled that the matters to be 
+considered in an application for bail are (i) 
+whether there is any prima facie or reasonable 
+ground to believe that the accused had 
+committed the offence; (ii) nature and gravity 
+of the charge; (iii) severity of the punishment 
+in the event of conviction; (iv) danger of the 
+accused absconding or fleeing, if released on 
+bail; (v) character, behaviour, means, position 
+and standing of the accused; (vi) likelihood of 
+the offence being repeated; (vii) reasonable 
+apprehension of the witnesses being tampered 
+with; and (viii) danger, of course, of justice 
+being thwarted by grant of bail [see Prahlad 
+Singh Bhati v. NCT, Delhi [(2001) 4 SCC 280 : 
+2001 SCC (Cri) 674] and Gurcharan Singh v. 
+State (Delhi Admn.) [(1978) 1 SCC 118 : 1978 
+SCC (Cri) 41 : AIR 1978 SC 179] ]. While a 
+vague allegation that the accused may tamper 
+with the evidence or witnesses may not be a 
+ground to refuse bail, if the accused is of such 
+character that his mere presence at large would 
+intimidate the witnesses or if there is material 
+to show that he will use his liberty to subvert 
+justice or tamper with the evidence, then bail 
+will be refused…”
+15	
+(2005) 8 SCC 21
+
+[2026] 1 S.C.R. 
+791
+The State of Uttar Pradesh v. Anurudh & Anr
+11.1.2	 Vaman Narain Ghiya v. State of Rajasthan16, held thus:
+“11. While considering an application for 
+bail, detailed discussion of the evidence and 
+elaborate documentation of the merits is to 
+be avoided. This requirement stems from 
+the desirability that no party should have 
+the impression that his case has been pre-
+judged. Existence of a prima facie case is 
+only to be considered. Elaborate analysis or 
+exhaustive exploration of the merits is not 
+required. (See Niranjan Singh v. Prabhakar 
+Rajaram Kharote [(1980) 2 SCC 559 : 1980 
+SCC (Cri) 508 : AIR 1980 SC 785] .) Where 
+the offence is of serious nature the question 
+of grant of bail has to be decided keeping in 
+view the nature and seriousness of the offence, 
+character of the evidence and amongst others 
+the larger interest of the public. (See State 
+of Maharashtra  v. Anand Chintaman Dighe 
+[(1990) 1 SCC 397 : 1990 SCC (Cri) 142 : 
+AIR 1990 SC 625] and State v. Surendranath 
+Mohanty [(1990) 3 OCR 462] .)”
+11.1.3	 In State v. M. Murugesan17, a two Judge bench of 
+this Court analysed various judgements wherein it was 
+concluded that the Court had overstepped the bounds 
+of Section 439, viz., State of Punjab v. Davinder Pal 
+Singh Bhullar18 wherein the concerned High Court 
+had continued to pass orders with respect to offenders 
+not connected with the instant case; Sangitaben 
+Shaileshbhai Datanta v. State of Gujarat19 wherein 
+the Court, in a bail application had directed the accused 
+and his family to undergo a narco-analysis test and a 
+brain mapping test; RBI v. Coop. Bank Deposit A/C HR. 
+16	
+(2009) 2 SCC 281
+17	
+(2020) 15 SCC 251
+18	
+(2011) 14 SCC 770
+19	
+(2019) 14 SCC 522
+
+792
+[2026] 1 S.C.R.
+Supreme Court Reports
+Sha20 once again in a bail application, issued directions 
+to the concerned bank to begin disbursing the amount 
+thus far recovered from the accused in the case. Having 
+referred to these judgements, it was held as under:
+“11. We find that the learned Single Judge [M. 
+Murugesan v. State, 2019 SCC OnLine Mad 
+12414] has collated data from the State and 
+made it part of the order after the decision 
+[M. Murugesan v. State, Criminal Original 
+Petition No. 1618 of 2019, order dated 
+18-2-2019 (Mad)] of the bail application, as 
+if the Court had the inherent jurisdiction to 
+pass any order under the guise of improving 
+the criminal justice system in the State. The 
+jurisdiction of the court under Section 439 of 
+the Code is limited to grant or not to grant 
+bail pending trial. Even though the object 
+of the Hon’ble Judge was laudable but the 
+jurisdiction exercised was clearly erroneous. 
+The effort made by the Hon’ble Judge may 
+be academically proper to be presented at an 
+appropriate forum but such directions could not 
+be issued under the colour of office of the court.
+(emphasis supplied)
+11.1.4	 In Union of India v. Man Singh Verma21, this Court 
+through one of us, (Sanjay Karol J.,) set aside an 
+order, passed while exercising bail jurisdiction, granting 
+compensation to the extent of Rs. 5,00,000/- for wrongful 
+confinement, as being without the authority of law. 
+11.2	 The upshot of the above discussion is that a Court’s jurisdiction, 
+i.e., either the Court of Sessions or the High Court under 
+Section 439 CrPC is limited to adjudicating the question of the 
+person concerned being released into society pending trial or 
+whether they should continue to be incarcerated.
+20	
+(2010) 15 SCC 85
+21	
+2025 SCC OnLine SC 456
+
+[2026] 1 S.C.R. 
+793
+The State of Uttar Pradesh v. Anurudh & Anr
+11.3	 It is unquestionable that High Court is a constitutional Court. 
+However, in the instant case the error of jurisdiction by the 
+High Court was in exercise of a statutory power and not under 
+the Constitution. The powers arising from the Constitution 
+and those flowing from a statute are distinct and separate. A 
+constitutional power is the one which emanates directly from 
+the text and spirit of the Constitution of India, the supreme 
+and fundamental charter of governance, and inheres in those 
+institutions or functionaries whose existence and competence 
+are defined by it. Such powers are self-sustaining; they are not 
+contingent upon any act of the Legislature, nor can they be 
+abridged or extinguished except through a formal amendment 
+under Article 368. For example, the President’s power to 
+dissolve the Lok Sabha under Article 85(2)(b); the Governor’s 
+authority to reserve a bill for the consideration of the President 
+under Article 200, or the jurisdiction of the Supreme Court under 
+Article 32 are all in exercise of constitutional power. These 
+powers represent the apex of the legal hierarchy, deriving their 
+legitimacy not from the will of the people as expressed by 
+Parliament, but from the sovereignty of the Constitution itself.
+In contrast, a statutory power is derivative and conditional, 
+drawing its vitality from a law duly enacted by the Parliament 
+or a State Legislature. Such power exists only within the four 
+corners of the enabling statute and is circumscribed by its 
+language, purpose, and legislative intent. Illustratively, the 
+powers conferred upon the Central Government under the 
+Environmental (Protection) Act, 1986, to frame rules, issue 
+directions, or regulate industrial operations are purely statutory 
+in nature, as are the regulatory functions vested in the Securities 
+and Exchange Board of India under the SEBI Act, 1992, or 
+those entrusted to the Competition Commission of India under 
+the Competition Act, 2002. The exercise of these powers must 
+conform strictly to the parameters laid down by the statute; 
+any transgression beyond its express or implied authority is 
+rendered ultra vires and, therefore, void in the eyes of law.
+The essential distinction between these two species of power 
+lies not merely in their origin but also in their constitutional 
+status and susceptibility to control. Constitutional powers are 
+sovereign, foundational, and insulated from the vicissitudes of 
+
+794
+[2026] 1 S.C.R.
+Supreme Court Reports
+ordinary legislation; they can neither be curtailed nor expanded 
+by parliamentary enactment. Statutory powers, by contrast, 
+are subordinate and mutable, existing at the pleasure of the 
+Legislature, which may at any time amend, restrict, or repeal 
+them through the ordinary legislative process. Judicial review, 
+while applicable to both, assumes different contours in each 
+case: in relation to constitutional powers, the Courts examine 
+whether their exercise conforms to constitutional limitations 
+including the protection of fundamental rights and the inviolable 
+tenets of the basic structure whereas, in the case of statutory 
+powers, the inquiry is confined to whether the authority has 
+acted within the scope and purpose of the statute from which 
+its power is drawn.
+The constitutional power cannot overshadow the statutory 
+power, enlarging its scope beyond what has been envisaged 
+by the statute. In other words, while both powers rest with 
+the High Court, one power cannot usurp the ambit of another, 
+unless otherwise permitted by law. 
+11.4	 Let us understand this by way of an example. Suppose a 
+dispute arises between the Government of State ‘A’ and the 
+Government of the Union of India, concerning a statutory 
+scheme. The State files a suit in the Supreme Court under 
+Article 131 claiming the Union has over-stepped its power. 
+Because Article 131 deals with original jurisdiction and 
+involves questions of fact and law between governments, the 
+Supreme Court may frame issues, permit evidence, summon 
+and examine witnesses, and make findings of fact as part of 
+its adjudication.
+In the same case, imagine if a private party (or even the 
+State) tries to approach the Supreme Court under Article 136, 
+claiming injustice in a judgment of a High Court or Tribunal in 
+the same matter. While Article 136 gives the Court the power 
+to grant leave to appeal, the Court cannot treat its jurisdiction 
+under Article 136 as though it were a suit under Article 131.
+If the Court were to proceed under Article 136 but adopt the 
+full evidentiary/litigation machinery of Article 131 (leading fresh 
+evidence, summoning witnesses, conducting trial proceedings), 
+
+[2026] 1 S.C.R. 
+795
+The State of Uttar Pradesh v. Anurudh & Anr
+it would step into the turf of Article 131 and thereby blur the 
+distinction between the two powers. That would amount to an 
+improper exercise of jurisdiction.
+11.5	 On the aspect of jurisdiction, consequent to the discussion 
+above, we have no hesitation in holding that the High Court 
+had erred in undertaking such an exercise of issuing directions 
+and getting the age of the victim examined in an application 
+seeking grant of bail . 
+Whether the impugned directions rest on sound legal grounds?
+12.	 Let us now turn our attention to the provisions of law involved. The 
+purpose of doing so is to examine whether the directions issued by 
+the High Court to mandatorily conduct a test for age verification at 
+the inception of the investigation is sustainable in law, if this question 
+of law is examined as divorced from the aspect of jurisdiction.
+13.	 At the outset of this analysis, it is important to delve into the scope 
+and ambit of the POCSO Act. Pardiwala J, writing for the Court 
+in Just Rights for Children Alliance v. S. Harish22, examined in 
+detail, the objects, reasons and scope of the legislation. Relevant 
+paragraphs of the decision are extracted hereinbelow:
+“43. The Statement of Objects and Reasons for the 
+enactment of the POCSO makes it abundantly clear 
+that since the sexual offences against children were not 
+adequately addressed by the existing laws and a large 
+number of such offences were neither specifically provided 
+for nor were they adequately penalized, the POCSO has 
+been enacted to protect the children from the offences of 
+sexual assault, sexual harassment and pornography and 
+to provide for establishment of Special Courts for trial of 
+such offences and for matters connected therewith and 
+incidental thereto.
+44. It further states that the POCSO is a ‘self-contained 
+comprehensive legislation’ for the purpose of enforcing 
+the rights of all children to safety, security and protection 
+from sexual abuse and exploitation countered through 
+22	
+2024 SCC OnLine SC 2611
+
+796
+[2026] 1 S.C.R.
+Supreme Court Reports
+commensurate penalties as an effective deterrence for 
+sexual offences and pornography and has been enacted 
+keeping in mind Articles 15 and 39 of the Constitution 
+respectively and the United Nations Convention on the 
+Rights of the Children. …
+45. The primary legislative intent behind the enactment 
+of the POCSO was to create a comprehensive legal 
+framework that would not only punish offenders but 
+also provide a child-friendly system for the recording of 
+evidence, investigation, and trial of offenses. The POCSO 
+was designed to cover all forms of sexual abuse against 
+children, including sexual harassment, child pornography, 
+and aggravated sexual assault, among others. It aimed 
+to ensure the safety and dignity of child victims during 
+the legal process, with specific provisions that mandate 
+in-camera trials, the presence of a trusted adult during the 
+proceedings, and the prohibition of aggressive questioning 
+of child victims.
+(emphasis in original)
+Determination of the age of the victim - At what stage and by 
+whom
+13.1	 Section 2(d)of the POCSO Act defines a child as any person 
+below eighteen years. So, for the provisions of this Act to be 
+applied, the person against whom the offence in question has 
+been perpetrated must necessarily be below 18 years of age. 
+This is the sine qua non. The natural question which then arises 
+is how the age of victim is to be determined. Jarnail Singh v. 
+State of Haryana23 put this question to rest as follows:
+“23. Even though Rule 12 is strictly applicable 
+only to determine the age of a child in conflict with 
+law, we are of the view that the aforesaid statutory 
+provision should be the basis for determining age, 
+even of a child who is a victim of crime. For, in our 
+23	
+(2013) 7 SCC 263
+
+[2026] 1 S.C.R. 
+797
+The State of Uttar Pradesh v. Anurudh & Anr
+view, there is hardly any difference insofar as the 
+issue of minority is concerned, between a child in 
+conflict with law, and a child who is a victim of crime. 
+Therefore, in our considered opinion, it would be just 
+and appropriate to apply Rule 12 of the 2007 Rules, 
+to determine the age of the prosecutrix VW, PW 6. 
+The manner of determining age conclusively has 
+been expressed in sub-rule (3) of Rule 12 extracted 
+above. Under the aforesaid provision, the age of a 
+child is ascertained by adopting the first available 
+basis out of a number of options postulated in 
+Rule 12(3). If, in the scheme of options under Rule 
+12(3), an option is expressed in a preceding clause, 
+it has overriding effect over an option expressed 
+in a subsequent clause. The highest rated option 
+available would conclusively determine the age of 
+a minor. In the scheme of Rule 12(3), matriculation 
+(or equivalent) certificate of the child concerned is 
+the highest rated option. In case, the said certificate 
+is available, no other evidence can be relied upon. 
+Only in the absence of the said certificate, Rule 
+12(3) envisages consideration of the date of birth 
+entered in the school first attended by the child. In 
+case such an entry of date of birth is available, the 
+date of birth depicted therein is liable to be treated 
+as final and conclusive, and no other material is to 
+be relied upon. Only in the absence of such entry, 
+Rule 12(3) postulates reliance on a birth certificate 
+issued by a corporation or a municipal authority 
+or a panchayat. Yet again, if such a certificate is 
+available, then no other material whatsoever is to 
+be taken into consideration for determining the age 
+of the child concerned, as the said certificate would 
+conclusively determine the age of the child. It is only 
+in the absence of any of the aforesaid, that Rule 
+12(3) postulates the determination of age of the 
+child concerned, on the basis of medical opinion.”
+(emphasis supplied)
+
+798
+[2026] 1 S.C.R.
+Supreme Court Reports
+Rule 12 of the Juvenile Justice (Care and Protection of Children) 
+Rules, 200724 it must be noted, provides the same hierarchy 
+of documents as has been provided by Section 94 of the JJ 
+Act. The same is reproduced below for felicity of reference:
+“12.Procedure to be followed in determination of 
+age.—(1) In every case concerning a child or a 
+juvenile in conflict with law, the court or the Board 
+or as the case may be, the Committee referred to in 
+Rule 19 of these Rules shall determine the age of 
+such juvenile or child or a juvenile in conflict with law 
+within a period of thirty days from the date of making 
+of the application for that purpose.
+(2) The court or the Board or as the case may be the 
+Committee shall decide the juvenility or otherwise of 
+the juvenile or the child or as the case may be the 
+juvenile in conflict with law, prima facie on the basis 
+of physical appearance or documents, if available, 
+and send him to the observation home or in jail.
+(3) In every case concerning a child or juvenile in 
+conflict with law, the age determination inquiry shall 
+be conducted by the court or the Board or, as the 
+case may be, the Committee by seeking evidence 
+by obtaining—
+(a)(i) the matriculation or equivalent certificates, if 
+available; and in the absence whereof;
+(ii) the date of birth certificate from the school (other 
+than a play school) first attended; and in the absence 
+whereof;
+(iii) the birth certificate given by a corporation or a 
+municipal authority or a panchayat;
+(b) and only in the absence of either (i), (ii) or (iii) of 
+clause (a) above, the medical opinion will be sought 
+from a duly constituted Medical Board, which will 
+declare the age of the juvenile or child. In case exact 
+assessment of the age cannot be done, the court or 
+24	
+Rules 2007
+
+[2026] 1 S.C.R. 
+799
+The State of Uttar Pradesh v. Anurudh & Anr
+the Board or, as the case may be, the Committee, for 
+the reasons to be recorded by them, may, if considered 
+necessary, give benefit to the child or juvenile by 
+considering his/her age on lower side within the margin 
+of one year,and, while passing orders in such case 
+shall, after taking into consideration such evidence as 
+may be available, or the medical opinion, as the case 
+may be, record a finding in respect of his age and 
+either of the evidence specified in any of the clauses 
+(a)(i), (ii), (iii) or in the absence whereof, clause (b) 
+shall be the conclusive proof of the age as regards 
+such child or the juvenile in conflict with law.
+(4) If the age of a juvenile or child or the juvenile in 
+conflict with law is found to be below 18 years on the 
+date of offence, on the basis of any of the conclusive 
+proof specified in sub-rule (3), the court or the Board 
+or as the case may be the Committee shall in writing 
+pass an order stating the age and declaring the status 
+of juvenility or otherwise, for the purpose of the Act 
+and these Rules and a copy of the order shall be 
+given to such juvenile or the person concerned.
+(5) Save and except where, further inquiry or 
+otherwise is required, inter alia, in terms of Section 
+7-A, Section 64 of the Act and these Rules, no further 
+inquiry shall be conducted by the court or the Board 
+after examining and obtaining the certificate or any 
+other documentary proof referred to in sub-rule (3) 
+of this Rule.
+(6) The provisions contained in this Rule shall also 
+apply to those disposed of cases, where the status 
+of juvenility has not been determined in accordance 
+with the provisions contained in sub-rule (3) and the 
+Act, requiring dispensation of the sentence under the 
+Act for passing appropriate order in the interest of 
+the juvenile in conflict with law.”
+14.	 The High Court held that since the presumption of correctness 
+attached to age-related documents under Section 94 JJ Act is 
+rebuttable, challenge to the same would be open at the stage of 
+
+800
+[2026] 1 S.C.R.
+Supreme Court Reports
+bail and the view taken by the Court in such a challenge, would be 
+“tentative”. Analysis of the judgments referred to by the Court would 
+be apposite. 
+14.1	 In Abuzar Hossain (supra) a bench of three judges held as 
+under:
+“39.3. As to what materials would prima facie satisfy 
+the court and/or are sufficient for discharging the 
+initial burden cannot be catalogued nor can it be 
+laid down as to what weight should be given to a 
+specific piece of evidence which may be sufficient 
+to raise presumption of juvenility but the documents 
+referred to in Rules 12(3)(a)(i) to (iii) shall definitely 
+be sufficient for prima facie satisfaction of the court 
+about the age of the delinquent necessitating further 
+enquiry under Rule 12. The statement recorded under 
+Section 313 of the Code is too tentative and may not 
+by itself be sufficient ordinarily to justify or reject the 
+claim of juvenility. The credibility and/or acceptability 
+of the documents like the school leaving certificate or 
+the voters’ list, etc. obtained after conviction would 
+depend on the facts and circumstances of each case 
+and no hard-and-fast rule can be prescribed that they 
+must be prima facie accepted or rejected. In Akbar 
+Sheikh [(2009) 7 SCC 415 : (2009) 3 SCC (Cri) 431] 
+and Pawan [(2009) 15 SCC 259 : (2010) 2 SCC (Cri) 
+522] these documents were not found prima facie 
+credible while in Jitendra Singh [(2010) 13 SCC 523 : 
+(2011) 1 SCC (Cri) 857] the documents viz. school 
+leaving certificate, marksheet and the medical report 
+were treated sufficient for directing an inquiry and 
+verification of the appellant’s age. If such documents 
+prima facie inspire confidence of the court, the court 
+may act upon such documents for the purposes of 
+Section 7-A and order an enquiry for determination 
+of the age of the delinquent.”
+14.2	 In Parag Bhati (supra) a co-ordinate bench held as under:
+“34. It is no doubt true that if there is a clear and 
+unambiguous case in favour of the juvenile accused 
+
+[2026] 1 S.C.R. 
+801
+The State of Uttar Pradesh v. Anurudh & Anr
+that he was a minor below the age of 18 years on the 
+date of the incident and the documentary evidence 
+at least prima facie proves the same, he would be 
+entitled to the special protection under the JJ Act. 
+But when an accused commits a grave and heinous 
+offence and thereafter attempts to take statutory 
+shelter under the guise of being a minor, a casual 
+or cavalier approach while recording as to whether 
+an accused is a juvenile or not cannot be permitted 
+as the courts are enjoined upon to perform their 
+duties with the object of protecting the confidence 
+of common man in the institution entrusted with the 
+administration of justice.
+35. The benefit of the principle of benevolent 
+legislation attached to the JJ Act would thus apply 
+to only such cases wherein the accused is held to 
+be a juvenile on the basis of at least prima facie 
+evidence regarding his minority as the benefit of 
+the possibilities of two views in regard to the age of 
+the alleged accused who is involved in grave and 
+serious offence which he committed and gave effect 
+to it in a well-planned manner reflecting his maturity 
+of mind rather than innocence indicating that his 
+plea of juvenility is more in the nature of a shield to 
+dodge or dupe the arms of law, cannot be allowed 
+to come to his rescue.
+36. It is settled position of law that if the matriculation 
+or equivalent certificates are available and there is 
+no other material to prove the correctness of date of 
+birth, the date of birth mentioned in the matriculation 
+certificate has to be treated as a conclusive proof of 
+the date of birth of the accused. However, if there is 
+any doubt or a contradictory stand is being taken by 
+the accused which raises a doubt on the correctness 
+of the date of birth then as laid down by this Court 
+in Abuzar Hossain [Abuzar Hossain v. State of W.B., 
+(2012) 10 SCC 489 : (2013) 1 SCC (Cri) 83] , an 
+enquiry for determination of the age of the accused 
+
+802
+[2026] 1 S.C.R.
+Supreme Court Reports
+is permissible which has been done in the present 
+case.”
+(emphasis supplied)
+14.3	 In Sanjeev Kumar Gupta (supra) the question was whether 
+the accused was entitled to claim the benefit of juvenility for an 
+offence committed on 18th August 2015. The Juvenile Justice 
+Board25 at first allowed the plea but then on demand, eventually 
+decided otherwise and rejected the said having considered 
+evidence in that regard. The High Court reversed holding 
+that the matriculation certificate issued by the CBSE would 
+be given precedence over the opinion of the Medical Board. 
+The former recorded his date of birth as 17th December 1998 
+whereas the latter recorded that on 9th November 2016, he 
+was approximately 19 years of age. This Court set aside the 
+findings of the High Court and restored the rejection of the plea 
+of juvenility as returned by the JJB, having considered evidence 
+on affidavit and arriving at the conclusion that his age would 
+be determined as per the date of birth - 17th December 1995.
+14.4	 In Rishipal Singh Solanki (supra) this Court while dealing 
+with an appeal filed by the father of the deceased noted the 
+difference between the Rules 2007 and the JJ Act 2015. It 
+was observed:
+“29. The difference in the procedure under the two 
+enactments could be discerned as under:
+29.1. As per the JJ Act, 2015 in the absence of 
+requisite documents as mentioned in clauses (i) 
+and (ii) of Section 94(2), there is provision for 
+determination of the age by an ossification test or 
+any other medical age related test to be conducted 
+on the orders of the Committee or the JJ Board as 
+per Section 94 of the said Act; whereas, under Rule 
+12 of the JJ Rules, 2007, in the absence of relevant 
+documents, a medical opinion had to be sought from 
+a duly constituted Medical Board which would declare 
+the age of the juvenile or child.
+25	
+JJB
+
+[2026] 1 S.C.R. 
+803
+The State of Uttar Pradesh v. Anurudh & Anr
+29.2. With regard to the documents to be provided 
+as evidence, what was provided under Rule 12 of 
+the JJ Rules, 2007 has been provided under sub-
+section (2) of Section 94 of the JJ Act, 2015 as a 
+substantive provision.
+29.3. Under Section 49 of the JJ Act, 2000, where 
+it appeared to a competent authority that a person 
+brought before it was a juvenile or a child, then such 
+authority could, after making an inquiry and taking 
+such evidence as was necessary, record a finding 
+as to the juvenility of such person and state the age 
+of such person as nearly as may be. Sub-section (2) 
+of Section 49 stated that no order of a competent 
+authority shall be deemed to have become invalid 
+merely by any subsequent proof that the person in 
+respect of whom the order had been made is not 
+a juvenile and the age recorded by the competent 
+authority to be the age of person so brought before 
+it, for the purpose of the Act, be deemed to be the 
+true age of that person.
+30. But, under Section 94 of the JJ Act, 2015, which 
+also deals with presumption and determination of age, 
+the Committee or the JJ Board has to record such 
+observation stating the age of the child as nearly as 
+may be and proceed with the inquiry without waiting 
+for further confirmation of the age. It is only when the 
+Committee or the JJ Board has reasonable grounds 
+for doubt regarding whether the person brought before 
+it is a child or not, it can undertake the process of 
+age determination, by seeking evidence.
+31. Sub-section (3) of Section 94 states that the 
+age recorded by the Committee or the JJ Board to 
+be the age of the persons so brought before it shall, 
+for the purpose of the Act, be deemed to be the true 
+age of that person. Thus, there is a finality attached 
+to the determination of the age recorded and it is 
+only in a case where reasonable grounds exist for 
+doubt as to whether the person brought before the 
+
+804
+[2026] 1 S.C.R.
+Supreme Court Reports
+Committee or the Board is a child or not, that a 
+process of age determination by seeking evidence 
+has to be undertaken.”
+Then further, it was held-
+“33.1. A claim of juvenility may be raised at any stage of 
+a criminal proceeding, even after a final disposal of the 
+case. A delay in raising the claim of juvenility cannot be 
+a ground for rejection of such claim. It can also be raised 
+for the first time before this Court.
+33.2. An application claiming juvenility could be made 
+either before the court or the JJ Board.
+33.2.1. When the issue of juvenility arises before a court, 
+it would be under sub-sections (2) and (3) of Section 9 
+of the JJ Act, 2015 but when a person is brought before 
+a committee or JJ Board, Section 94 of the JJ Act, 2015 
+applies.
+33.2.2. If an application is filed before the court claiming 
+juvenility, the provision of sub-section (2) of Section 94 of 
+the JJ Act, 2015 would have to be applied or read along 
+with sub-section (2) of Section 9 so as to seek evidence 
+for the purpose of recording a finding stating the age of 
+the person as nearly as may be.
+33.2.3. When an application claiming juvenility is made 
+under Section 94 of the JJ Act, 2015 before the JJ Board 
+when the matter regarding the alleged commission of 
+offence is pending before a court, then the procedure 
+contemplated under Section 94 of the JJ Act, 2015 
+would apply. Under the said provision if the JJ Board 
+has reasonable grounds for doubt regarding whether the 
+person brought before it is a child or not, the Board shall 
+undertake the process of age determination by seeking 
+evidence and the age recorded by the JJ Board to be 
+the age of the person so brought before it shall, for the 
+purpose of the JJ Act, 2015, be deemed to be true age of 
+that person. Hence the degree of proof required in such 
+a proceeding before the JJ Board, when an application is 
+filed seeking a claim of juvenility when the trial is before the 
+
+[2026] 1 S.C.R. 
+805
+The State of Uttar Pradesh v. Anurudh & Anr
+criminal court concerned, is higher than when an inquiry 
+is made by a court before which the case regarding the 
+commission of the offence is pending (vide Section 9 of 
+the JJ Act, 2015).
+33.3. That when a claim for juvenility is raised, the burden 
+is on the person raising the claim to satisfy the court to 
+discharge the initial burden. However, the documents 
+mentioned in Rules 12(3)(a)(i), (ii) and (iii) of the JJ Rules, 
+2007 made under the JJ Act, 2000 or sub-section (2) of 
+Section 94 of the JJ Act, 2015, shall be sufficient for prima 
+facie satisfaction of the court. On the basis of the aforesaid 
+documents a presumption of juvenility may be raised.
+33.4. The said presumption is however not conclusive proof 
+of the age of juvenility and the same may be rebutted by 
+contra evidence let in by the opposite side.
+33.5. That the procedure of an inquiry by a court is not the 
+same thing as declaring the age of the person as a juvenile 
+sought before the JJ Board when the case is pending for 
+trial before the criminal court concerned. In case of an 
+inquiry, the court records a prima facie conclusion but 
+when there is a determination of age as per sub-section 
+(2) of Section 94 of the 2015 Act, a declaration is made 
+on the basis of evidence. Also the age recorded by the JJ 
+Board shall be deemed to be the true age of the person 
+brought before it. Thus, the standard of proof in an inquiry 
+is different from that required in a proceeding where the 
+determination and declaration of the age of a person 
+has to be made on the basis of evidence scrutinised and 
+accepted only if worthy of such acceptance.
+33.6. That it is neither feasible nor desirable to lay down 
+an abstract formula to determine the age of a person. It 
+has to be on the basis of the material on record and on 
+appreciation of evidence adduced by the parties in each 
+case.
+33.11. Ossification test cannot be the sole criterion for age 
+determination and a mechanical view regarding the age of 
+a person cannot be adopted solely on the basis of medical 
+opinion by radiological examination. Such evidence is not 
+
+806
+[2026] 1 S.C.R.
+Supreme Court Reports
+conclusive evidence but only a very useful guiding factor 
+to be considered in the absence of documents mentioned 
+in Section 94(2) of the JJ Act, 2015.”
+(emphasis supplied)
+14.5	 Now we proceed to examine the merits of this argument. It 
+is clear from the above that all of these cases discuss the 
+determination of age from the point of view of the offender and 
+not the victim. Although the process to be followed therefor 
+is the same as that for an offender as held by Jarnail Singh 
+(supra), the question involved in the instant lis concerns the 
+forum and the stage at which the determination of age is to 
+be made. According to the High Court, the bail Court would, 
+if a challenge is presented by the offender, entertain such 
+challenge and take a prima facie view. Here, it becomes 
+important to appreciate the difference between the JJ Act and 
+the POCSO Act. 
+14.5.1	 The JJ Act is primarily focused on dealing with 
+children in conflict with law and children in need of 
+care and protection, rather than victims of offences 
+who are minors. The Preamble and Section 1(4) of 
+the Act expressly state that its purpose is to provide 
+for the care, protection, treatment, development, and 
+rehabilitation of such children and for the adjudication 
+of matters relating to children in conflict with law. 
+The Act establishes the JJB (under Sections 4–9) 
+to handle cases involving juvenile offenders, and 
+the Child Welfare Committee26 (under Sections 
+27–30) to deal with children who require care and 
+protection. Neither of these bodies are vested with 
+jurisdiction over cases concerning child victims of 
+crime. The definitions provided under the Act, of a 
+child in conflict with law and a child in need of care 
+and protection, also clearly underscore this. The Act 
+draws a fundamental distinction between two principal 
+categories of children – children in conflict with law 
+and children in need of care and protection each 
+26	
+CWC
+
+[2026] 1 S.C.R. 
+807
+The State of Uttar Pradesh v. Anurudh & Anr
+grounded in the philosophy of welfare, rehabilitation, 
+and reintegration. A child in conflict with law refers 
+to a person who has not completed eighteen years 
+of age and is alleged or found to have committed 
+an offence under any existing law. To fall under this 
+category, the requirements are, first, that the person 
+must be below eighteen years of age at the time of 
+the commission of the alleged offence, and second, 
+that there is an allegation or finding of involvement in 
+an act constituting an offence. The Act thus rejects the 
+traditional punitive model of criminal jurisprudence and 
+adopts a reformative, restorative approach, recognizing 
+that a child’s deviant conduct often arises from a coming 
+together in an unfortunate array of circumstances, of 
+structural neglect, social disadvantage, or exposure 
+to adversity The focus, therefore, is on correction, 
+guidance, and social reintegration through child-friendly 
+processes before the JJB , ensuring that such children 
+are treated not as offenders but as individuals in need 
+of direction and support.
+14.5.2	 Conversely, a child in need of care and protection 
+denotes a child whose condition of neglect, abuse, 
+abandonment, or deprivation necessitates intervention 
+by the State to secure their safety, welfare, and 
+development. This classification embraces children 
+who are orphaned or abandoned; those found begging, 
+working, or living on the streets; those who are victims 
+of cruelty, exploitation, or trafficking; those who are 
+physically or mentally challenged and without adequate 
+family support; and those at imminent risk of early 
+marriage or neglect within the home ,(which in a given 
+case, could also be a victim). The essence of this 
+definition lies in the child’s exposure to vulnerability 
+and the corresponding necessity of care, protection, 
+and rehabilitation through the mechanisms of the 
+CWC. The Act’s protective framework thus ensures that 
+children who are deprived of a nurturing environment 
+are restored to stability, dignity, and opportunity through 
+institutional or family-based care.
+
+808
+[2026] 1 S.C.R.
+Supreme Court Reports
+14.5.3	 While these two categories emerge from different 
+factual matrices, one involving alleged delinquency and 
+the other deprivation, they converge upon a shared 
+humanitarian foundation. Both are guided by the 
+principle that every child is entitled to protection, dignity, 
+and development, and that the justice system must 
+operate with sensitivity and compassion. This Court 
+has many-a-time emphasised that the administration 
+of juvenile justice must rest on care and rehabilitation 
+rather than punishment, highlighting the State’s duty 
+to protect all children from circumstances that impede 
+their growth and well-being.
+14.5.4	 It is, however, imperative to recognise that neither of 
+these statutory classifications - the child in conflict 
+with law or the child in need of care and protection 
+expressly includes within its ambit the category of 
+child victims. Although both categories are designed 
+to shield children from neglect and marginalisation, 
+the Act does not explicitly address the position of 
+children who are victims of offences, as those under 
+POCSO Act. Unless such victims independently 
+satisfy the definitional parameters of vulnerability or 
+abandonment, they fall outside the direct purview of 
+these classifications. This reveals a conceptual gap, 
+as the legislative scheme, while comprehensive in its 
+welfare orientation, does not formally integrate the 
+rehabilitative and procedural rights of child victims 
+within its framework. Nevertheless, the broader spirit 
+of the Act, anchored in compassion, protection, and 
+restorative justice demands that child victims, too, be 
+accorded equivalent care, support, and rehabilitative 
+attention, ensuring that every child, irrespective of 
+circumstance, is empowered to reclaim their dignity 
+and future.
+14.6	
+Having discussed thus, the two separate fields that these two 
+legislations govern, we now turn back to the question of age 
+determination. If the POCSO Act is examined, it can be found 
+that the Act does not prescribe a manner for determination 
+of the age of the victim. As we have already noticed, it is an 
+
+[2026] 1 S.C.R. 
+809
+The State of Uttar Pradesh v. Anurudh & Anr
+established position in law that the procedure under Section 94 
+of the JJ Act is to be applied.[See: Section 34 of the Act] When 
+the question of determination of age of a child in conflict with 
+the law emerges for the first time before a Court, the concerned 
+legislation provides the procedure as housed in its Section 
+9 of the Act lays down the procedure to be followed when a 
+person is brought before a Magistrate who is not empowered 
+under the Act, and there arises a claim or reasonable doubt 
+that such person is a child. In such cases, the Magistrate 
+must conduct an inquiry to determine the person’s age in 
+accordance with Section 94 of the Act, which prescribes the 
+method for age determination. If, upon inquiry, the Magistrate 
+finds that the person was a child at the time of commission of 
+offence, the case must be immediately forwarded to the JJB 
+having jurisdiction, which will thereafter deal with the matter 
+as per the provisions of the JJ Act. Conversely, if the person is 
+found not to be a child, the Magistrate proceeds with the case 
+as per the regular criminal procedure. The object of Section 
+9 is to ensure that no juvenile offender is tried as an adult 
+merely due to an initial misclassification and to safeguard the 
+rehabilitative and welfare-oriented spirit of the juvenile justice 
+system by ensuring that every child in conflict with law is tried 
+by the appropriate forum, i.e., the JJB
+14.7	
+As held in Rishipal Singh, extracted (supra) the determination 
+of the age when done by a Court stands differently to that 
+done by the JJB. There are two possibilities provided for. 
+There is no determination of age by a JJB - like body when 
+it comes to the victim. If there is a question about the age, 
+it has to be dealt with by the Court, as per the procedure of 
+Section 94, JJ Act. It is when the Court is undertaking the 
+exercise of determination, that the defense of an accused 
+can challenge the veracity of these documents, since the 
+presumption under this section is rebuttable. 
+14.8	
+As is obvious and as we have observed, the victim being a 
+child is sine qua non for the application of the POCSO Act. 
+If a charge-sheet is filed and it contains charges against a 
+person under the POCSO Act, it is but obvious that such 
+an accused would challenge the same at the first available 
+instance in the Court concerned, or in other words, at the 
+
+810
+[2026] 1 S.C.R.
+Supreme Court Reports
+inception of trial, so as to ensure that the foundation of the 
+trial is correctly in place before it proceeds further. The Court 
+would then undertake the exercise as provided for, and in 
+accordance with the result obtained therefrom, proceed further, 
+either under the POCSO Act or under the provisions of the 
+IPC, as the case may be. Should the accused be dissatisfied 
+with the manner in which the result has been drawn by the 
+Trial Court, an appeal from such determination would have 
+to be filed and only when the question of age is set at rest 
+can the trial proceed forward on firm footing. 
+14.9	
+Unlike an offender who can claim benefit of juvenility at any 
+point in time, even after completion of proceedings given the 
+beneficial nature of the JJ Act, a victim of a crime cannot claim 
+to be a juvenile at any point in time, for the charges against 
+which an offender is tried, are intrinsically tied to the age of 
+the victim. If a victim of a sexual offence was allowed to claim 
+juvenility at any stage of the proceedings, in the same manner 
+that an offender can under Section 9 of the JJ Act, it would 
+have serious procedural and substantive consequences. For 
+instance, an accused may have been charged under Section 
+376 IPC which applies when the victim is an adult. However, if 
+the victim is later determined to be below eighteen, the offence 
+would fall under the POCSO Act, where consent is irrelevant 
+and the punishments are more stringent. This would mean that 
+the earlier trial, framing of charges, and recording of evidence 
+were all conducted under an incorrect legal framework. The 
+proceedings would therefore be vitiated, and the trial could 
+be rendered a nullity, necessitating the reframing of charges 
+and a fresh trial under the correct statute.
+14.10	 As can be seen from Mahadeo v. State of Maharashtra27, 
+and Sanjeev Kumar Gupta (supra) the consideration of the 
+documents enumerated in Section 94, JJ Act is a matter of 
+consideration of evidence since it may involve the examination 
+of witnesses to prove the veracity of the documents. That can 
+only be done by the Trial Court. Contra evidence to challenge 
+the documents, can also be presented only before the Trial 
+27	
+(2013) 14 SCC 637
+
+[2026] 1 S.C.R. 
+811
+The State of Uttar Pradesh v. Anurudh & Anr
+Court. In our considered view, therefore, the High Court fell in 
+error in holding that a Court in bail jurisdiction is empowered 
+to entertain a challenge to the documents as Section 94 would 
+not apply at the bail stage. 
+Mini Trial- Impermissible at the stage of Bail
+15.	 There is an additional aspect which, if the proposition as posited by 
+the impugned judgment is upheld, would fall foul of. Such aspect 
+would be that a Court, at the stage of bail cannot conduct a mini 
+trial. This position is trite in law. Reference to the judgments as under 
+would reiterate the same-
+15.1	 In Union of India v. K.A. Najeeb28, it was held by a bench 
+of three judges that the High Court could not at the stage 
+of bail conduct a mini trial and adjudicate, for instance, the 
+admissibility of certain evidence. 
+15.2	 In Amlesh Kumar v. State of Bihar29, this Court observed 
+that when a Court is exercising powers under Section 439 
+CrPC, such power does not permit the ordering of roving 
+enquiries, or in the context of that case, the use of involuntary 
+investigative techniques. 
+15.3	 Let us also understand this by juxtaposition. Section 482 CrPC 
+empowers the High Court to prevent abuse of the process of 
+law and secure the ends of justice, including quashing criminal 
+proceedings or staying investigations. Even under these broad 
+powers, courts are not permitted to re-examine witnesses or 
+conclusively decide disputed factual issues. Section 439, by 
+contrast, is limited to granting bail or anticipatory bail and 
+requires the Court to consider only prima facie evidence, the 
+risk of the accused absconding, tampering with evidence, or 
+other relevant factors. Since Section 439 is narrower in scope, 
+the Court cannot undertake a mini trial at the bail stage. 
+Medically Determining the Age of the Victim
+16.	 Apropos the above discussion, it is clearly held that determination of 
+age of the victim is a matter of trial and not at the stage of bail. If the 
+28	
+(2021) 3 SCC 713 
+29	
+2025 SCC OnLine SC 1326
+
+812
+[2026] 1 S.C.R.
+Supreme Court Reports
+age is under question, the bail Court may examine the documents 
+produced to establish age, but it will not enter into the question of 
+those documents being correct or not so. The mandate of Section 
+94 JJ Act is clear. The documents provided therein are to be utilized 
+for determination of the age of the victim, and only in the absence 
+thereof, will medical evidence be resorted to. The decisions in 
+P. Yuvaprakash v. State30 and Rajni v. State of UP31 make this as 
+evident as can be. 
+16.1	 Yuvaprakash (supra) was a case involving the alleged 
+kidnapping of one ‘M’, by the appellant, alleged forced marriage 
+by tying a ‘thali’ around her neck, and thereafter, repeated 
+sexual intercourse over a period of time, before abandoning 
+her when the accused persons came to know that M’s loved 
+ones had filed a complaint regarding her being kidnapped. On 
+appeal from a judgment of conviction returned by the Madurai 
+Bench of the High Court of Judicature at Madras, this Court 
+examined the proper method for determining a victim’s age 
+under Section 94(2) of the JJ Act The statute established a 
+clear hierarchy of documents: first, a matriculation or equivalent 
+school certificate showing the date of birth; second, a birth 
+certificate issued by a municipal corporation or panchayat; 
+and third only if these were unavailable could a medical 
+or ossification test be relied upon. In the present case, the 
+only document produced was a school Transfer Certificate 
+indicating the date of birth as 11th July1997. However, this 
+Certificate was not one of the documents prescribed by the 
+Section. Moreover, the Transfer Certificate was produced by 
+a court summoned witness rather than the prosecution, and 
+the Revenue official confirmed that official birth records for 
+1997 were missing. Consequently, the Transfer Certificate 
+could not establish that the victim was under 18 years of age 
+at the relevant time.
+16.1.1	 The Court cited precedents, including Rishipal Singh 
+Solanki (supra) and Sanjeev Kumar Gupta (supra), to 
+reaffirm the statutory hierarchy i.e., only in the absence 
+30	
+2023 SCC OnLine SC 846
+31	
+2025 INSC 737
+
+[2026] 1 S.C.R. 
+813
+The State of Uttar Pradesh v. Anurudh & Anr
+of matriculation/school certificates or municipal birth 
+records could medical agedetermination be used. In the 
+facts, it was observed, the headmaster (DW2) admitted 
+that the date of birth in the school record was based on 
+a horoscope rather than an independent verification, 
+and no official birth register existed to support it.
+16.1.2	 Since the documents presented did not fall within the 
+first two categories under Section 94(2), the Court 
+held that the prosecution should rely on the medical 
+ossification test. The doctor (PW9) conducted such a 
+test, concluding that the victim’s age was “more than 18 
+years and less than 20 years,” with crossexamination 
+confirming the possibility of age being 19 years. The 
+Court below had discounted this medical evidence, 
+holding that the school record alone could determine 
+age, but that reasoning was rejected, emphasizing 
+that the Transfer Certificate did not meet the statutory 
+standard.
+16.1.3	 Ultimately, the Court concluded that the only acceptable 
+evidence on age was the medical ossification report, 
+which indicated that the victim was above 18 years. 
+As a result, the prosecution failed to prove that the 
+victim was a “child” under the POCSO Act, meaning 
+the statutory age requirement for the offence was not 
+satisfied. He was, therefore, acquitted. 
+16.2	 In Rajni, the juvenility of her son, Respondent No.2, was the 
+central question and arose in the context of his being made 
+an accused in connection with Crime No. 80/2021 registered 
+before the Medical College Police Station, Meerut under 
+Sections 302/201/34 of the IPC as well as Crime Case No. 
+97/ 2021 registered before the same police station under 
+Sections 3/25/27 of the Arms Act, 1959. Rajni’s application 
+to have her son dealt with as a minor was rejected by the 
+JJB, and the case eventually made its way up the judicial 
+hierarchy, to this Court. 
+16.2.1	 The respondent produced a School Certificate from 
+DPS Higher Secondary School, Parvesh Vihar, Meerut, 
+showing his date of birth as 8th September 2003. 
+
+814
+[2026] 1 S.C.R.
+Supreme Court Reports
+This Certificate, along with the admission date of 4th 
+April 2016 and the High School passing year 2018, 
+suggested that the respondent was about 17 years 
+and 3 months old at the time of the incident. Notably, 
+an earlier proceeding (Miscellaneous Case No.9/2000) 
+had already accepted the same date of birth.
+16.2.2	 However, the JJB was skeptic about these documents, 
+noting that records from Class 4 to Class 8 had been 
+destroyed in a fire, and the respondent’s mother could 
+not recall the school’s name. The school principal 
+confirmed that original records for those classes were 
+missing. In addition, the JJB rejected the municipal birth 
+certificate from the concerned municipal corporation, 
+which also indicated 8th September 2003, on the 
+grounds that it had been issued on 8th June 2020 that 
+is, after the incident. As a result, a medical examination 
+of the respondent was ordered to determine his age.
+16.2.3	 The Court held this approach to be incorrect in view of 
+the clear stipulation under Section 94(2) of the JJ Act. 
+Here, both the municipal birth certificate and the school 
+certificate were available, and both corroborated the 
+earlier JJB decision. By disregarding these documents 
+and relying on a medical test, the JJB had erred. The 
+Additional District & Sessions Judge rightly reversed 
+the JJB’s decision, giving precedence to the school 
+certificate and declaring the respondent a juvenile.
+16.2.4	 The Court also emphasized that the JJB could not 
+challenge its earlier acceptance of the date of birth 
+simply because the mother or informant was not a 
+party in the prior proceeding. The JJB does not have 
+the power to review its earlier decision under the 
+JJ Act, and the earlier acceptance of 8th September 
+2003 should be binding. Consequently, the High Court 
+upheld the Additional District & Sessions Judge’s ruling 
+and affirmed the date of birth reflected in the school 
+certificate.
+16.2.5	 The Court referred to precedents such as Rishipal 
+Singh Solanki (supra) which clarified that juvenility 
+
+[2026] 1 S.C.R. 
+815
+The State of Uttar Pradesh v. Anurudh & Anr
+can be claimed at any stage, and that initial burden lies 
+on the claimant. Documents like school certificates or 
+municipal birth certificates are prima facie sufficient to 
+establish juvenility, while medical tests cannot serve as 
+the sole criterion. When evidence is borderline, Courts 
+are to lean in favor of juvenility, although misuse must 
+be guarded against.
+16.2.6	 The discussion continued by distinguishing prior 
+cases where medical tests were relied upon when 
+documentary evidence was unreliable. In contrast, 
+the present case involved consistent documentary 
+evidence - the school certificate, municipal certificate, 
+and earlier JJB decision - all supporting the date of 
+birth as 8th September 2003. The JJB’s reasoning that 
+the informant was not a party in the earlier proceeding 
+was found to be unsound. The Additional District & 
+Sessions Judge had correctly reversed the JJB’s 
+approach, and the High Court had rightly affirmed that 
+the respondent should be treated as a juvenile at the 
+time of the incident.
+17.	 The necessary sequitur from the above exposition is that a medical 
+determination of age of a victim cannot be resorted to as a matter 
+of course, much less mandated. It can only be employed in a given 
+circumstance when the other stipulations of Section 94 JJ Act are 
+not/cannot be met. This direction, therefore, has to be set aside. 
+Summation 
+18.	 In fine, our conclusions are that the High Court in bail jurisdiction was 
+coram non judice for issuing directions mandating the investigating 
+authorities within the State of Uttar Pradesh to necessarily have 
+a medical examination of the victim conducted, with the particular 
+intent to determine the age of the victim as also holding, that a bail 
+Court would be empowered to entertain challenges to the documents 
+produced to establish the age of the victim The importance of medical 
+examination in the harrowing crimes of sexual assault cannot be 
+overstated, it is not merely a record of injury or a catalogue of 
+biological traces; it is the voice of the body, speaking when words 
+falter and memory trembles. In cases where the victim’s courage 
+
+816
+[2026] 1 S.C.R.
+Supreme Court Reports
+may be tested by stigma, shame, or the weight of societal scrutiny, 
+medical evidence provides an impartial testament, grounding the 
+pursuit of justice in the certainty of observable fact. It is, in essence, 
+the bridge that links the personal suffering of the victim with the 
+impartial adjudication of the law. But at the same time, its purpose, 
+which is to gather essential evidence in a scientifically sound manner, 
+with due regard to the principles of human dignity on one hand and 
+evidence on the other, cannot be reduced to a common, matter of 
+course step - especially when a procedure with a legislative imprimatur 
+has been laid down. The Court could not have passed directions 
+that go against clearly stated legislative intent under Section 94 of 
+the JJ Act. The determination of the age of the victim is a matter 
+for trial, and the presumption which is accorded to the documents 
+enumerated under the Section, has to be rebutted there, for that is 
+the appropriate forum to do so, not the bail Court. If the question 
+of age is raised at the stage of bail, it is only open for the Court to, 
+from the perusal of the documents, take a prima facie view as to 
+the age of the victim, not one on the correctness of the documents 
+since that would amount to a mini trial. It could also not have fused 
+statutory jurisdiction with a constitutional one, lifting one to the other, 
+or downgrading the higher to the lower in order to grant itself the 
+wherewithal, in an otherwise fairly circumscribed jurisdiction, to do 
+what could not be done. 
+A Necessitated Post-Script
+19.	 As the conclusions drawn above indicate the impugned judgment 
+and order of the High Court has to be set aside on grounds of 
+transgression of the jurisdiction present and thereby lacking the 
+appropriate directions. It is to be set aside also because it goes 
+against the statutory prescription under the JJ Act. Be that as it 
+may, this Court has not lost sight of the well-intentioned purport of 
+this order. The POCSO Act is one of the most solemn articulations 
+of justice aimed at protecting the children of today and the leaders 
+of tomorrow. Yet, when an instrument of such noble and one may 
+even say basic good intent is misused, misapplied and used as 
+a tool for exacting revenge, the notion of justice itself teeters on 
+the edge of inversion. Courts have in many cases sounded alarm 
+regarding this situation. Misuse of the POCSO Act highlights a grim 
+societal chasm - on the one end children are silenced by fear and 
+
+[2026] 1 S.C.R. 
+817
+The State of Uttar Pradesh v. Anurudh & Anr
+their families are constrained by poverty or stigma, meaning thereby 
+that justice remains distant and uncertain, and on the other hand, 
+those equipped with privilege, literacy, social and monetary capital 
+are able to manipulate the law to their advantage. The impugned 
+judgment is one amongst many where Courts have spoken out. Not 
+only are instances rife where the age of the victim is misrepresented 
+to make the incident fall under the stringent provisions of this law 
+but also there are numerous instances where this law is used by 
+families in opposition to relationships between young people. In 
+Satish alias Chand v. State of U.P.32, the High Court, noted that 
+on few occasions concern had been expressed by the Court with 
+respect to application of the Act on consenting adolescence when it 
+comes to consensual relationships between teenagers, four factors 
+have been highlighted which, is crucial for the Courts to consider: 
+“A. Assess the Context: Each case should be evaluated 
+on its individual facts and circumstances. The nature of 
+the relationship and the intentions of both parties should 
+be carefully examined. 
+B. Consider Victim’s Statement: The statement of the 
+alleged victim should be given due consideration. If the 
+relationship is consensual and based on mutual affection, 
+this should be factored into decisions regarding bail and 
+prosecution. 
+C. Avoid Perversity of Justice: Ignoring the consensual 
+nature of a relationship can lead to unjust outcomes, such 
+as wrongful imprisonment. The judicial system should aim 
+to balance the protection of minors with the recognition of 
+their autonomy in certain contexts. Here the age comes 
+out to be an important factor. 
+D. Judicial Discretion: Courts should use their discretion 
+wisely, ensuring that the application of POCSO does 
+not inadvertently harm the very individuals it is meant to 
+protect.”
+[See also: Mrigraj Gautam @ Rippu v. State of U.P.]33
+32	
+Crl.Misc.Bail Appl.No.18596 of 2024
+33	
+2023:AHC:204171
+
+818
+[2026] 1 S.C.R.
+Supreme Court Reports
+The Delhi High Court in Sahil v. the State NCT of Delhi34 the Court 
+noted in para 11 of the order that POCSO cases filed at the behest 
+of a girl’s family objecting to romantic involvement with a young boy 
+have become common place and consequent thereto these young 
+boys languish in jails. Therein, reference is also made to an order 
+of the Gujarat High Court35, where the Court noted that considering 
+the closeness in age of the prosecutrix and the accused as also 
+the fact that she had left home of her own accord observed that the 
+application deserved consideration. 
+This chasm between access and abuse is also mirrored in the misuse 
+of Section 498-A IPC and the Dowry Prohibition Act, 1961. Amongst 
+numerous examples, we may only refer to Rajesh Chaddha v. 
+State of U.P36, where this Court lamented the use of these Sections 
+without specific instances or relevant details, among other cases. 
+It is also to be stated though that no amount of judicial vigilance 
+against misuse can alone bridge this ever-widening gap. The first line 
+of defence lies with the Bar i.e., the body that translates grievance 
+into action and is the gatekeeper of justice at the point of entry. 
+When it comes to matters such as these, the responsibility of the 
+advocate is profound – to examine the allegations with detachment 
+and necessary discretion and to counsel restraint when grievance 
+masks vengeance and to refuse participation in litigation when it can 
+be seen that an ulterior motive is sought to be agitated under the 
+guise of seeking protection of the law. It is only when the Bar takes 
+a principled, proactive role, that the legislation intended as a shield 
+can be stopped from being twisted into a weapon. A lawyer who 
+tempers aggression with calm, reason and rationality, protects not 
+only the opposing party from unwarranted harm but also the client 
+from the long-term consequences of frivolous or malicious litigation, 
+including adverse orders, and judicial censure. By taking a principled 
+stand, the Bar acts as a crucial filter, preventing the legal system from 
+being overwhelmed by abuse masquerading as enforcement. Such 
+self-regulation strengthens public faith in the profession, ensures 
+that judicial time is reserved for genuine disputes, and reinforces 
+the foundational idea that law is a means of justice, not a weapon 
+34	
+2024:DHC:6100
+35	
+Jayantibhai Babulbhai Alani v. State of Gujarat 2018 SCC Online Guj. 1223
+36	
+2025 SCC OnLine SC 1094
+
+[2026] 1 S.C.R. 
+819
+The State of Uttar Pradesh v. Anurudh & Anr
+of convenience. In this sense, the ethical vigilance of lawyers is not 
+ancillary to justice, it is indispensable to it. When they do not do 
+so, the chasm alluded to above widens. Society also must match 
+institutional reform with moral awakening. The intent and object of 
+these legislations must be at the forefront when a person wishes 
+to lodge a complaint thereunder. The misuse of these laws is a 
+mirror to the opportunistic and self-centered view that pervades the 
+application of law. It is only through discipline, integrity and courage 
+that these problems can be remedied and rooted out. Any legislative 
+amendment or judicial direction will remain lack-luster without this 
+deeper change. 
+We have referred to certain instances of the High Courts noting the 
+misuse/misapplication of the POCSO Act, somewhat in line with the 
+indices appended to the impugned judgment as also its progenitors. 
+Considering the fact that repeated judicial notice has been taken of 
+the misuse of these laws, let a copy of this judgment be circulated to 
+the Secretary, Law, Government of India, to consider initiation of steps 
+as may be possible to curb this menace inter alia, the introduction of 
+a Romeo – Juliet clause exempting genuine adolescent relationships 
+from the stronghold of this law; enacting a mechanism enabling the 
+prosecution of those persons who, by the use of these laws seeks 
+to settle scores etc. 
+20.	 In that view of the matter, we pass the following order:
+(a)	 The appeal is allowed. The directions issued in the impugned 
+judgment are set aside. 
+(b)	 In view of ‘III)’ as extracted in para 5.6 as also in view of their 
+intrinsic connection, such effect will extend to Aman (supra) 
+and Manish (supra)
+(c)	
+The bail granted in terms of these judgments and orders, is 
+left undisturbed in view of the other factors considered by the 
+learned Single Judge subject to judicial review, if any. 
+(d)	 Insofar as the cases listed in the appendices to these judgments 
+are concerned, this Court refrains from making any comment. 
+The effect of this judgment will be prospective and shall not 
+therefore, impact negatively, any of those cases wherein, 
+following the procedure laid down in the impugned judgment 
+or its progenitors, bail has been secured. 
+
+820
+[2026] 1 S.C.R.
+Supreme Court Reports
+(e)	 The Registrar (Judicial) is directed to dispatch forthwith a copy 
+of this judgment to the learned Registrar General, High Court 
+of Judicature at Allahabad, for necessary follow-up action, as 
+also information to the Trial Courts.
+Pending applications, if any, stand disposed of. 
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Ankit Gyan

@@ -1,0 +1,507 @@
+[2026] 2 S.C.R. 257 : 2026 INSC 105
+Sandeep Singh Bora
+v.
+Narendra Singh Deopa & Ors.
+(Civil Appeal No. 691 of 2026)
+02 February 2026
+[Vikram Nath* and Sandeep Mehta, JJ.]
+Issue for Consideration
+The instant appeal is directed against the interim order dated 
+18.07.2025 passed by the High Court wherein it directed the 
+Returning Officer to allot a symbol to respondent no.1 (the writ 
+petitioner) and permit him to participate in the election to the office 
+of Zila Panchayat Member.
+Headnotes†
+Constitution of India – Art.243-O – Uttarakhand Panchayati 
+Raj Act, 2016 – The Uttarakhand State Election Commission 
+issued a revised notification resuming the Panchayat elections 
+in the State – Pursuant thereto, respondent no.1 submitted 
+his nomination for election to the post of Zila Panchayat – On 
+failure to make requisite disclosures, the Returning Officer, 
+vide order dated 09.07.2025, cancelled the candidature of 
+respondent no.1 – Aggrieved, respondent no.1 filed a writ 
+petition before the High Court, which was dismissed, observing 
+that the election process had already set in motion – The 
+present appellant was declared elected unopposed to the 
+office of Zila Panchayat Member – In an intra-court appeal, the 
+Division Bench, vide the impugned interim order, stayed the 
+operation of the judgment rendered by the Single Judge and 
+directed the Returning Officer to allot a symbol to respondent 
+no.1 (the writ petitioner) and to permit him to participate in the 
+election to the office of Zila Panchayat Member – Correctness:
+Held: In considered view of this Court, the Division Bench 
+transgressed the limits of its jurisdiction in interfering with the 
+electoral process, in disregard of the settled position of law – 
+By virtue of the express constitutional embargo contained in 
+Art.243-O of the Constitution of India, the High Court is precluded 
+* Author
+
+258
+[2026] 2 S.C.R.
+Supreme Court Reports
+from exercising jurisdiction u/Art.226 of the Constitution where 
+a law enacted by the State Legislature provides for the remedy 
+of an election petition to redress grievances arising during the 
+course of an election – The State of Uttarakhand has enacted the 
+Uttarakhand Panchayati Raj Act, 2016 – Consequently, the bar 
+envisaged u/Art.243-O of the Constitution stands attracted – The 
+election process cannot be lightly interdicted or stalled at the behest 
+of an individual grievance – The right to contest or question an 
+election being statutory in nature, must be strictly construed and 
+exercised in accordance with the statute governing the field – The 
+High Court must, therefore, eschew the grant of liberal interim 
+reliefs in favour of individuals and instead remain mindful of the 
+overarching public interest in ensuring the smooth and uninterrupted 
+conduct of elections across the State – In respect of individual 
+grievances, the ultimate and exclusive remedy lies by way of an 
+election petition – Given the non-obstante nature of Art.243-O of the 
+Constitution, its mandate is required to be adhered to in both letter 
+and spirit – Where the statute provides a complete and efficacious 
+mechanism for redressal, the extraordinary exercise of jurisdiction 
+u/Art.226 of the Constitution would defeat the very object for which 
+Art.243-O was enacted as a non-obstante provision – Accordingly, 
+the interim order dated 18.07.2025, passed by the High Court of 
+Uttarakhand at Nainital in Special Appeal No.192 of 2025 is set 
+aside. [Paras 9, 10, 12]
+Case Law Cited
+Harnek Singh v. Charanjit Singh, 2005 INSC 498 : [2005] Supp. 
+4 SCR 223 : (2005) 8 SCC 383 – relied on.
+Laxmibai v. Collector, 2020 INSC 197 : [2020] 2 SCR 880 : (2020) 
+12 SCC 186; N.P. Ponnuswami v. Returning Officer, Namakkal 
+Constituency, 1952 INSC 2 : [1952] 1 SCR 218 : (1952) 1 SCC 9 – 
+referred to.
+List of Acts
+Constitution of India; Uttarakhand Panchayati Raj Act, 2016.
+List of Keywords
+Article 243-O of Constitution of India; Article 226 of Constitution 
+of India; Election Petition; Writ jurisdiction; Individual grievance; 
+Liberal interim reliefs; Efficacious mechanism for redressal; Non-
+obstante provision; Electoral process.
+
+[2026] 2 S.C.R. 
+259
+Sandeep Singh Bora v. Narendra Singh Deopa & Ors.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 691 of 2026
+From the Judgment and Order dated 18.07.2025 of the High Court 
+of Uttarakhand at Nainital in SPA No. 192 of 2025
+Appearances for Parties
+Advs. for the Appellant(s):
+B D Pande, S. K. Verma, Ms. Rakshanda Pande, Saurabh 
+Upadhyay, Ms. Hardikaa Kalia, Gaurav Kandpal, Manish Chaurasia, 
+Vinay Kumar Singh.
+Adv. for the Respondent(s):
+Ms. Farhat Jahan Rehmani.
+Judgment / Order of the Supreme Court
+Judgment
+Vikram Nath, J.
+1.	
+Leave granted.
+2.	
+The present appeal is directed against the interim order dated 18th 
+July, 2025, passed by High Court of Uttarakhand at Nainital1 in 
+Special Appeal No. 192 of 2025, whereby the High Court stayed 
+the operation of the judgment dated 11th July, 2025, rendered by the 
+learned Single Judge in Writ Petition (MS) No. 2083 of 2025 and 
+further directed the Returning Officer to allot a symbol to respondent 
+No. 1 (the writ petitioner) and permit him to participate in the election 
+to the office of Zila Panchayat Member.
+3.	
+The brief facts, in a nutshell, insofar as they are relevant for the 
+disposal of the present appeal, are as follows: 
+3.1.	 The Uttarakhand State Election Commission issued a revised 
+notification dated 28th June, 2026, thereby resuming the 
+Panchayat elections in twelve districts of the State. Pursuant 
+thereto, respondent No. 1 submitted his nomination for election 
+to the post of Zila Panchayat Member from Constituency No. 11- 
+Bharhgaon, District Pithoragarh.
+1	
+Hereinafter, referred to as “High Court”.
+
+260
+[2026] 2 S.C.R.
+Supreme Court Reports
+3.2.	 Subsequently, the appellant raised an objection alleging 
+failure on the part of respondent No. 1 to make the requisite 
+disclosures. Upon consideration thereof, the Returning Officer, 
+vide order dated 9th July, 2025, cancelled the candidature of 
+respondent No. 1.
+3.3.	 Aggrieved by the said action, respondent No. 1 approached the 
+High Court by filing Writ Petition (MS) No. 2083 of 2025. The 
+learned Single Judge, vide order dated 11th July, 2025, dismissed 
+the writ petition, observing that in view of the election process 
+having already been set in motion, the writ petition was not 
+liable to be entertained at that stage. On the very same date, 
+namely 11th July, 2025, the present appellant was declared 
+elected unopposed to the office of Zila Panchayat Member, the 
+remaining two candidates, including respondent No. 1, having 
+been declared disqualified by the Election Officer.
+3.4.	 In the meantime, respondent No. 1 preferred an intra-court 
+appeal, being Special Appeal No. 192 of 2025, without 
+impleading the present appellant as a party. The learned Division 
+Bench, vide the impugned interim order, stayed the operation 
+of the judgment rendered by the learned Single Judge and 
+directed the Returning Officer to allot a symbol to respondent 
+No. 1 (the writ petitioner) and to permit him to participate in the 
+election to the office of Zila Panchayat Member.
+4.	
+Therefore, the appellant is before this Court.
+5.	
+This Court, vide order dated 23rd July, 2025, issued notice to the 
+respondents and stayed the operation of the interim order dated 18th 
+July, 2025, passed by the High Court. It was further clarified that the 
+election process would continue in accordance with law, and that 
+the result thereof would remain subject to the final outcome of the 
+present appeal.
+6.	
+Finally, when the matter was taken up for hearing on 12th January, 
+2026, learned counsel for respondent No. 1, who had earlier entered 
+appearance, was not present. As per the office report, respondents 
+Nos. 2 to 5 were reported to be unserved. However, since the said 
+respondents are only pro-forma parties, we proceeded to hear 
+learned counsel appearing for the appellant and reserved judgment 
+on the same day.
+
+[2026] 2 S.C.R. 
+261
+Sandeep Singh Bora v. Narendra Singh Deopa & Ors.
+7.	
+We have heard the learned counsel appearing for the appellant and 
+have carefully perused the material available on record.
+8.	
+At the outset, we are unable to concur with the view taken by the 
+Division Bench of the High Court and, for the reasons that shall be 
+delineated hereinafter, are inclined to set aside the same.
+8.1.	 The learned Single Judge, while dismissing the writ petition 
+instituted by respondent No. 1, assigned the following reasons: -
+a.	
+That Article 243-O of the Constitution of India2 contains an 
+express bar, stipulating that no election to any Panchayat 
+shall be called in question except by way of an election 
+petition, to be governed by the law enacted by the 
+Legislature of the concerned State.
+b.	
+That Section 131H of the Uttarakhand Panchayati Raj Act, 
+20163 provides an efficacious alternative remedy by way 
+of an election petition in cases of improper rejection of 
+nomination, and therefore, at that stage, the writ petition 
+before the High Court was not maintainable.
+8.2.	 In the intra-court appeal preferred by respondent No. 1, the 
+Division Bench, by the impugned interim order, stayed the 
+operation of the order dated 11th July, 2025, passed by the 
+learned Single Judge and directed the Returning Officer to allot 
+a symbol to respondent No. 1 (the writ petitioner therein) and 
+permit him to participate in the election process for the office 
+of Zila Panchayat Member. In arriving at this conclusion, the 
+Division Bench assigned the following reasons: -
+a.	
+That the bar contained in Article 243-O of the Constitution 
+was held to be inapplicable to the present case, as the 
+challenge was not directed against the election of any 
+candidate, but was confined to the alleged illegal rejection 
+of the nomination of respondent No. 1, for which, according 
+to the Division Bench, no efficacious alternative remedy 
+was available.
+2	
+Hereinafter, referred to as “Constitution”.
+3	
+Hereinafter, referred to as “Panchayati Raj Act”.
+
+262
+[2026] 2 S.C.R.
+Supreme Court Reports
+b.	
+That Section 90 of the Panchayati Raj Act enumerates 
+the circumstances and grounds attracting disqualification 
+for the office of Zila Panchayat Member, and in the facts 
+of the present case, the alleged non-disclosure of an 
+acquittal in a prior criminal case did not fall within any of 
+the disqualifications so specified.
+9.	
+In our considered view, the Division Bench transgressed the limits of 
+its jurisdiction in interfering with the electoral process, in disregard of 
+the settled position of law. The election jurisprudence in this country 
+has undergone a significant evolution. With a view to maintaining a 
+delicate balance between decisions rendered by statutory authorities 
+and judicial intervention by way of judicial review, a stage was reached 
+where Parliament considered it appropriate to accord constitutional 
+status to the Panchayati Raj institutions.
+9.1.	 Accordingly, Part IX, titled “The Panchayats”, was inserted into 
+the Constitution by the Constitution (73rd Amendment) Act, 1992. 
+The said constitutional amendment gives effect to Article 40 of 
+the Directive Principles of State Policy, which enjoins the State 
+to take steps to organise village panchayats and to endow them 
+with such powers and authority as may be necessary to enable 
+them to function as units of self-government. By virtue of this 
+amendment, the Panchayati Raj institutions were elevated from 
+a non-justiciable to a constitutionally enforceable framework. 
+At the same time, the States were accorded sufficient latitude 
+to structure and implement the Panchayati Raj system having 
+due regard to their distinct geographical, political, administrative 
+and other local conditions.
+9.2.	 Article 243-O of the Constitution, introduced by the aforesaid 
+constitutional amendment, places an express embargo on 
+judicial interference in matters relating to elections to the 
+Panchayats. The provision reads as follows: -
+243O. Bar to interference by courts in electoral 
+matters.– Notwithstanding anything in this 
+Constitution– 
+(a) the validity of any law relating to the delimitation 
+of constituencies or the allotment of seats to such 
+
+[2026] 2 S.C.R. 
+263
+Sandeep Singh Bora v. Narendra Singh Deopa & Ors.
+constituencies, made or purporting to be made under 
+article 243K, shall not be called in question in any 
+court; 
+(b) no election to any Panchayat shall be called in 
+question except by an election petition presented 
+to such authority and in such manner as is 
+provided for by or under any law made by the 
+Legislature of a State.
+(emphasis supplied)
+Therefore, Article 243-O(b) of the Constitution makes it 
+abundantly clear that no election to any Panchayat can be called 
+in question except by way of an election petition presented to 
+such authority and in such manner as may be provided by the 
+State Legislature.
+9.3.	 This Court, in Harnek Singh v. Charanjit Singh,4 while 
+examining the object and purpose underlying the incorporation 
+of the bar contained in Article 243-O of the Constitution, also 
+considered the said provision in juxtaposition with the plenary 
+jurisdiction of the High Courts under Article 226. The Court 
+observed as follows: 
+“15. Prayers (b) and (c) aforementioned, evidently, 
+could not have been granted in favour of the 
+petitioner by the High Court in exercise of its 
+jurisdiction under Article 226 of the Constitution. It 
+is true that the High Court exercises a plenary 
+jurisdiction under Article 226 of the Constitution. 
+Such jurisdiction being discretionary in nature 
+may not be exercised inter alia keeping in view 
+the fact that an efficacious alternative remedy 
+is available therefor. (See Sanjana M. Wig v. 
+Hindustan Petroleum Corpn. Ltd. [(2005) 8 SCC 
+242 : (2005) 7 Scale 290] )
+16. Article 243-O of the Constitution mandates 
+that all election disputes must be determined 
+4	
+(2005) 8 SCC 383
+
+264
+[2026] 2 S.C.R.
+Supreme Court Reports
+only by way of an election petition. This by itself 
+may not per se bar judicial review which is the 
+basic structure of the Constitution, but ordinarily 
+such jurisdiction would not be exercised. There 
+may be some cases where a writ petition would be 
+entertained but in this case we are not concerned 
+with the said question.
+17. In C. Subrahmanyam [(1998) 8 SCC 703] 
+a three-Judge Bench of this Court observed 
+that a writ petition should not be entertained 
+when the main question which fell for decision 
+before the High Court was non-compliance with 
+the provisions of the Act which was one of the 
+grounds for an election petition in terms of Rule 
+12 framed under the Act.”
+(emphasis supplied)
+Thus, it is evident that where a specific statutory remedy is 
+available by way of an election petition, the High Court must 
+exercise great circumspection and restraint in invoking its 
+jurisdiction under Article 226 of the Constitution. The need for 
+such judicial restraint is further reinforced by the non-obstante 
+clause with which Article 243-O opens, namely, the expression 
+“Notwithstanding anything in this Constitution”.
+9.4.	 Article 243-O(b), thus, places a bar on the exercise of jurisdiction 
+by Courts under the Constitution in matters relating to elections 
+to Panchayats, where a law has been enacted by the Legislature 
+of a State providing for such elections. The existence of a 
+law made by the State Legislature is a condition precedent 
+for the operation of the embargo contemplated under Article 
+243-O. The provision does not abrogate the sacrosanct power 
+of judicial review, which forms part of the basic structure of 
+the Constitution; rather, it channels such review through a 
+statutorily prescribed and efficacious mechanism, namely, an 
+election petition to be presented before the authority designated 
+under the law enacted by the State Legislature for that 
+purpose.
+
+[2026] 2 S.C.R. 
+265
+Sandeep Singh Bora v. Narendra Singh Deopa & Ors.
+10.	 In the present case, the State of Uttarakhand has enacted the 
+Uttarakhand Panchayati Raj Act, 2016. Consequently, the bar 
+envisaged under Article 243-O of the Constitution stands attracted. 
+Therefore, if respondent No. 1 was aggrieved by the order dated 9th 
+July, 2025, passed by the Election Officer rejecting his nomination, 
+the appropriate remedy lay within the framework of the Panchayati 
+Raj Act itself. At this stage, it would be apposite to advert to Section 
+131H of the Panchayati Raj Act, being the statutory provision which 
+directly governs the issue at hand. The said provision is reproduced 
+hereinbelow: -
+“131H. Application regarding election and their 
+revision.– (1) The election of a person as Pradhan or 
+Up-Pradhan or as member of a Gram Panchayat shall 
+not be called in question except by an application 
+presented to such authority within such time and 
+in such manner as may be prescribed, on the 
+ground:- 
+(a) that this election has not been free election by reason 
+that the corrupt practice of bribery or undue influence has 
+extensively prevailed at the election; or 
+(b) that the result of the election has been materially 
+affected- 
+(i) by the acceptance or rejection of any nomination 
+in improper manner; or 
+(ii) by gross failure to comply with the provisions of this 
+Act or the rules framed there under.
+(2) . . .
+(3) The application under sub-section (1) may be presented 
+by any candidate at the election or any elector and shall 
+contain such particulars as may be prescribed; 
+Explanation:- Any person, who filed a nomination paper 
+at the election whether such nomination paper was 
+accepted or rejected, shall be deemed to be a candidate 
+at the election.
+
+266
+[2026] 2 S.C.R.
+Supreme Court Reports
+(5) Without prejudice to the generality of the powers to be 
+prescribed under sub-section (4) the rules may be provided 
+for summarily hearing and disposal of an application under 
+subsection (1). 
+(6) Any party aggrieved by an order of the prescribed 
+authority who shall be Assistant Collector (first class)/ 
+Pargana Magistrate of concerned Tehsil/ Pargana upon 
+an application under subsection (1) may, within thirty 
+days from the date of the order, apply to the District 
+Judge for revision of such order or any one or more 
+on the following grounds; namely: -
+(a) that the prescribed authority has exercised such 
+jurisdiction not vested in it by law; 
+(b) that the prescribed authority has failed to exercise a 
+such jurisdiction so vested; 
+(c) that the prescribed authority has acted in the exercise 
+of its jurisdiction illegally or with material irregularity. 
+(7) The District Judge may dispose of the application 
+for revision himself or may assign it for disposal to any 
+Additional District Judge, Civil Judge or Additional Civil 
+Judge under his administrative control and may recall it 
+from any such officer or transfer it to any other such officer.”
+(emphasis supplied)
+10.1.	 Section 131H specifically governs disputes relating to the 
+election of a Pradhan, Up-Pradhan or a Member of a Gram 
+Panchayat. The provision, being couched in negative terms, 
+warrants heightened judicial circumspection while entertaining 
+proceedings contrary to its mandate. It expressly stipulates that 
+no election shall be called in question except by an application 
+presented before the prescribed authority, within such time 
+and in such manner as may be laid down.
+10.2.	 Sub-section (1)(b) of Section 131H of the Panchayati Raj 
+Act contemplates a situation where the result of an election 
+has been materially affected by the improper acceptance or 
+rejection of a nomination. It is the specific case of respondent 
+No. 1 in the writ petition that the Election Officer rejected 
+
+[2026] 2 S.C.R. 
+267
+Sandeep Singh Bora v. Narendra Singh Deopa & Ors.
+his candidature on a ground which, according to him, is not 
+contemplated under Section 90 of the Panchayati Raj Act, 
+the provision which enumerates the disqualifications for 
+membership of a Zila Panchayat.
+10.3.	 Therefore, if, according to respondent No. 1, there was a 
+specific infraction of the statutory provisions by the Election 
+Officer, the remedy availed by him was also required to be in 
+consonance with the scheme of the very statute. It would thus 
+not be permissible for respondent No. 1 to seek enforcement 
+of compliance with the provisions of the Panchayati Raj Act by 
+the authorities conducting the election, while at the same time 
+electing to bypass the statutorily prescribed remedy available 
+under the said enactment.
+10.4.	 Sub-section (6) of Section 131H of the Panchayati Raj Act 
+explicitly stipulates that the prescribed authority before whom 
+an election petition is to be presented shall be an Assistant 
+Collector (First Class) or a Pargana Magistrate. In view of 
+the comprehensive statutory framework providing both the 
+forum and the procedure for redressal of grievances arising 
+out of non-compliance with the provisions of the Act, we find 
+ourselves unable to concur with the undue haste with which 
+the Division Bench proceeded to deal with the matter at hand.
+10.5.	 A three-Judge Bench of this Court, in Laxmibai v. Collector,5 
+cited with approval the decision in N.P. Ponnuswami v. 
+Returning Officer, Namakkal Constituency,6 wherein it was 
+held that in cases of rejection of a nomination, the sole remedy 
+available is by way of an election petition to be presented after 
+the conclusion of the election process, and that even the High 
+Court lacks jurisdiction under Article 226 of the Constitution 
+during the interregnum. The Court categorically observed that the 
+ground of rejection of a nomination paper cannot be agitated in 
+any other manner, at any other stage, or before any other forum.
+11.	 In the present case, the appellant had already been declared elected 
+unopposed on 11th July, 2025 since the remaining two candidates, 
+including respondent No. 1, had been declared disqualified by the 
+5	
+(2020) 12 SCC 186
+6	
+(1952) 1 SCC 9
+
+268
+[2026] 2 S.C.R.
+Supreme Court Reports
+competent authorities. The High Court, therefore, committed a manifest 
+error in interfering in exercise of its extraordinary jurisdiction on three 
+counts. First, the High Court acted in the teeth of the constitutional 
+embargo contained in Article 243-O of the Constitution. Second, by 
+directing the Returning Officer to allot a symbol to respondent No. 1 
+and permitting him to participate in the election process, the High 
+Court issued directions contrary to a process which had already 
+attained finality with the appellant having been declared elected 
+unopposed. Lastly, the High Court proceeded to stay the order of the 
+learned Single Judge dismissing the writ petition filed by respondent 
+No. 1, without affording an opportunity of hearing to the appellant, 
+who stood directly and adversely affected by such directions, having 
+already been elected to the post in question.
+12.	 In view of the foregoing discussion, we summarise our conclusions 
+as under: -
+I.	
+By virtue of the express constitutional embargo contained in 
+Article 243-O of the Constitution of India, the High Court is 
+precluded from exercising jurisdiction under Article 226 of the 
+Constitution where a law enacted by the State Legislature 
+provides for the remedy of an election petition to redress 
+grievances arising during the course of an election.
+II.	
+The election process cannot be lightly interdicted or stalled 
+at the behest of an individual grievance. The right to contest 
+or question an election being statutory in nature, must be 
+strictly construed and exercised in accordance with the statute 
+governing the field. The High Court must, therefore, eschew 
+the grant of liberal interim reliefs in favour of individuals and 
+instead remain mindful of the overarching public interest in 
+ensuring the smooth and uninterrupted conduct of elections 
+across the State.
+III.	
+In respect of individual grievances, the ultimate and exclusive 
+remedy lies by way of an election petition. Given the non-
+obstante nature of Article 243-O of the Constitution, its mandate 
+is required to be adhered to in both letter and spirit. Where 
+the statute provides a complete and efficacious mechanism 
+for redressal, the extraordinary exercise of jurisdiction under 
+Article 226 of the Constitution would defeat the very object for 
+which Article 243-O was enacted as a non-obstante provision.
+
+[2026] 2 S.C.R. 
+269
+Sandeep Singh Bora v. Narendra Singh Deopa & Ors.
+13.	 Accordingly, the interim order dated 18th July, 2025, passed by the 
+High Court of Uttarakhand at Nainital in Special Appeal No. 192 of 
+2025 is set aside, and the writ appeal stands dismissed.
+14.	 Consequently, the present appeal stands allowed.
+15.	 Pending application(s), if any, shall stand disposed of. 
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Ankit Gyan

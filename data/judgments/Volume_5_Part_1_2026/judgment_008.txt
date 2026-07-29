@@ -1,0 +1,334 @@
+[2026] 5 S.C.R. 146 : 2026 INSC 356
+Nitendra Kumar Tomer, Suspended Director,  
+Ambro Asia Private Limited  
+v. 
+Unox S.P.A. and Another
+(Civil Appeal No. 3607 of 2026)
+10 April 2026
+[Sanjay Kumar* and K. Vinod Chandran, JJ.]
+Issue for Consideration
+Once the prescribed limitation period u/s.61(2) of Insolvency 
+and Bankruptcy Code, 2016 expired, whether it was open to the 
+suspended director to take steps to convert the incompetent appeal 
+and maintain an appeal in his own name.
+Headnotes†
+Insolvency and Bankruptcy Code, 2016 – ss.16, 17, 61 – 
+A  suspended director of Ambro Asia Private Limited, the 
+corporate debtor, filed the present appeal u/s.62 of the 
+Insolvency and Bankruptcy Code, 2016, aggrieved by the 
+judgment dated 07.01.2026 passed by the NCLAT – By the said 
+judgment, the NCLAT confirmed the order dated 18.04.2024 
+passed by the NCLT, admitting CP (IB) No. 722/ND/2021, 
+an application filed u/s.9 of the Code by Unox S.P.A., an 
+operational creditor, respondent no.1 – Earlier, the NCLAT 
+had permitted the appeal to be prosecuted by the suspended 
+director of the corporate debtor – Correctness:
+Held: Once the interim resolution professional was named by the 
+NCLT in the admission order, s.17(1)(a) of the Code would become 
+operative – Therefore, with effect from the date of admission in the 
+case on hand, i.e., 18.04.2024, the management of the affairs of the 
+corporate debtor, Ambro Asia Private Limited, stood vested in Interim 
+Resolution Professional, and it was not open to the suspended 
+director of the corporate debtor to file an appeal in the name of 
+the corporate debtor, Ambro Asia Private Limited, claiming to be 
+its director and authorized representative – The appeal as framed 
+and filed on 24.04.2024 before the NCLAT was, therefore, wholly 
+incompetent – It was not merely a ‘defective’ appeal as it was not 
+maintainable in its very inception – The normal period of limitation 
+* Author
+
+[2026] 5 S.C.R. 
+147
+Nitendra Kumar Tomer, Suspended Director, Ambro Asia  
+Private Limited v. Unox S.P.A. and Another
+prescribed u/s.61(2) is 30 days but the proviso thereto permits the 
+NCLAT to condone the delay of up to 15 days, if sufficient cause 
+is shown for not filing the appeal within the prescribed period of 
+30 days – This being the legal position, the indulgence shown by 
+the NCLAT on 12.08.2025 completely desecrated the aforestated 
+statutory prescription – The suspended director of the corporate 
+debtor, could have filed an appeal against the admission order dated 
+18.04.2024 only within the limitation period prescribed u/s.61(2) of 
+the Code – The misconceived appeal filed by him in the name of 
+the corporate debtor, Ambro Asia Private Limited, professing to be 
+its director and authorized representative, was wholly incompetent 
+and was not an appeal with a ‘curable’ defect, which could have 
+been attended to at a later point of time – It was, therefore, not 
+open to the said suspended director to seek modification of the 
+cause title in this incompetent appeal – Unfortunately, the NCLAT 
+lost sight of this aspect and treated the wholly incompetent appeal 
+as a merely defective one, whereby it deemed it appropriate to 
+grant time to the suspended director to amend the memo of the 
+appeal – Once the prescribed limitation period u/s.61(2) expired, 
+it was not open to the suspended director to take steps to convert 
+the incompetent appeal and maintain an appeal in his own name – 
+The NCLAT ought not to have permitted him to do so, whereby 
+a time-barred appeal in the name of the suspended director was 
+presented and entertained. [Paras 6, 7, 8]
+Case Law Cited
+Uday Shankar Triyar v. Ram Kalewar Prasad Singh and another 
+[2005] Supp. 5 SCR 157 : (2006) 1 SCC 75; Varun Pahwa v. Renu 
+Chaudhary [2019] 4 SCR 128 : (2019) 15 SCC 628; Innovators 
+Cleantech Pvt. Ltd. v. Pasari Multi Projects Pvt. Ltd., 2024 SCC 
+OnLine NCLAT 909 – held inapplicable.
+List of Acts
+Insolvency and Bankruptcy Code, 2016.
+List of Keywords
+Corporate debtor; Operational creditor; Interim resolution professional; 
+Limitation; Curable defect; Maintainability; Modification of cause title; 
+Incompetent appeal; Suspended director; Amended memo of appeal; 
+Section 61(2) of Insolvency and Bankruptcy Code, 2016.
+
+148
+[2026] 5 S.C.R.
+Supreme Court Reports
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 3607 of 2026
+From the Judgment and Order dated 07.01.2026 of the National 
+Company Law Apellate Tribunal in CAAT(I) No. 931 of 2024.
+Appearances for Parties
+Advs. for the Appellant(s):
+Rakesh Kumar Khanna, Sr. Adv., Abhishek Swarup, Manoj Swarup, 
+Aditya Pushkar Khanna, Ms. Arushi Jindal, Govind Kashyap,  
+S.S. Nehra, Chetan Sharma, M/s. Manoj Swarup And Co.
+Advs. for the Respondent(s):
+Rahul Chitnis, Savinder Singh, Parth Awasthi, Ms. Barnali 
+Mukherjee, Hersh Desai, M/s. F.M. Associates.
+Judgment / Order of the Supreme Court
+Judgment
+Sanjay Kumar, J.
+1.	
+Nitendra Kumar Tomer, a suspended director of Ambro Asia Private 
+Limited, the corporate debtor, filed the present appeal under Section 
+62 of the Insolvency and Bankruptcy Code, 20161, aggrieved by the 
+judgment dated 07.01.2026 passed by the National Company Law 
+Appellate Tribunal, Principal Bench, New Delhi (hereinafter, ‘the 
+NCLAT’), in Company Appeal (AT) (Insolvency) No. 931 of 2024. By 
+the said judgment, the NCLAT confirmed the order dated 18.04.2024 
+passed by the National Company Law Tribunal, New Delhi Bench 
+(hereinafter, ‘the NCLT’), admitting CP (IB) No. 722/ND/2021, an 
+application filed under Section 9 of the Code by Unox S.P.A., an 
+operational creditor, respondent No. 1 herein. 
+2.	
+At the outset, we entertained a doubt as to how the appeal before the 
+NCLAT had been filed in the name of the corporate debtor, Ambro 
+Asia Private Limited, after admission of the Section 9 application by 
+the NCLT, vide order dated 18.04.2024. Thereupon, we were informed 
+that this aspect was taken note of by the NCLAT. Our attention was 
+1	
+For short, ‘the Code’
+
+[2026] 5 S.C.R. 
+149
+Nitendra Kumar Tomer, Suspended Director, Ambro Asia  
+Private Limited v. Unox S.P.A. and Another
+drawn to the order dated 12.08.2025 passed by the NCLAT. Therein, 
+the NCLAT noted that the appeal had been filed in the name of 
+the corporate debtor whereas, after admission of the application 
+under Section 9, the corporate debtor could be represented only 
+by the interim resolution professional but the appeal, as instituted, 
+was verified by Nitendra Kumar Tomer, a suspended director of the 
+corporate debtor. The NCLAT further noted that an appeal in the 
+name of the corporate debtor was not maintainable against an order 
+of admission of an application under Section 9. 
+3.	
+Having stated so, the NCLAT surprisingly went on to state that for the 
+ends of justice, it deemed it appropriate to provide an opportunity to 
+the appellant to amend the memo of appeal by filing an appropriate 
+application and granted time. Thereafter, IA No. 4983 of 2025 was 
+filed seeking amendment of the memo of appeal and the NCLAT 
+allowed that application on 29.08.2025, permitting the appeal to be 
+prosecuted by Nitendra Kumar Tomer, the suspended director of 
+the corporate debtor. The appeal memo was taken on record, but 
+we find that the final judgment dated 07.01.2026, presently under 
+challenge before us, did not take note of the amended appeal memo 
+and the judgment, as it stands, reflects the name of the corporate 
+debtor as the appellant. 
+4.	
+Having given thoughtful consideration to the matter, we are of the 
+considered opinion that the NCLAT grossly erred in permitting a 
+wholly incompetent appeal to be converted in the manner it was done. 
+We may note that this incompetent appeal was filed on 24.04.2024 
+or thereabouts, assailing the order of admission dated 18.04.2024, 
+and it was verified in the name of the corporate debtor, viz., Ambro 
+Asia Private Limited, by Nitendra Kumar Tomer, claiming to be its 
+director and authorized representative. However, respondent No. 2 
+in the appeal was none other than Piyush Moona, Interim Resolution 
+Professional, who was appointed by the NCLT, vide the admission 
+order dated 18.04.2024. 
+5.	
+In this regard, reference may be made to Section 16 of the Code, 
+titled ‘Appointment and tenure of interim resolution professional’. 
+Insofar as an application under Section 9 of the Code is concerned, 
+Section 16(3) is of relevance and it reads as under: -
+‘(3) Where the application for corporate insolvency 
+resolution process is made by an operational creditor and – 
+
+150
+[2026] 5 S.C.R.
+Supreme Court Reports
+(a) no proposal for an interim resolution professional 
+is made, the Adjudicating Authority shall make a 
+reference to the Board for the recommendation of an 
+insolvency professional who may act as an interim 
+resolution professional;
+(b) a proposal for an interim resolution professional is 
+made under sub-section (4) of section 9, the resolution 
+professional as proposed, shall be appointed as 
+the interim resolution professional, if no disciplinary 
+proceedings are pending against him.’
+6.	
+Section 17(1)(a) of the Code provides that, from the date of 
+appointment of the interim resolution professional, the management of 
+the affairs of the corporate debtor shall vest in the interim resolution 
+professional. In the case on hand, it is clear that the application filed 
+by Unox S.P.A. under Section 9 of the Code itself named the proposed 
+interim resolution professional, as the order dated 18.04.2024, which 
+is conveniently not placed on record along with this appeal, named 
+Piyush Moona as the Interim Resolution Professional and he was, 
+accordingly, shown as respondent No. 2 in the appeal filed before 
+the NCLAT. Once the interim resolution professional was named by 
+the NCLT in the admission order, Section 17(1)(a) of the Code would 
+become operative. Therefore, with effect from the date of admission 
+in the case on hand, i.e., 18.04.2024, the management of the affairs 
+of the corporate debtor, Ambro Asia Private Limited, stood vested in 
+Piyush Moona, Interim Resolution Professional, and it was not open 
+to the suspended director of the corporate debtor to file an appeal 
+in the name of the corporate debtor, Ambro Asia Private Limited, 
+claiming to be its director and authorized representative. The appeal 
+as framed and filed on 24.04.2024 was, therefore, wholly incompetent. 
+It was not merely a ‘defective’ appeal as it was not maintainable in 
+its very inception. 
+7.	
+In this regard, the limitation prescribed under Section 61(2) of the 
+Code assumes importance. In terms thereof, an appeal before the 
+NCLAT must be filed within the time frames fixed thereunder. The 
+normal period of limitation prescribed under Section 61(2) is 30 days 
+but the proviso thereto permits the NCLAT to condone the delay of 
+up to 15 days, if sufficient cause is shown for not filing the appeal 
+within the prescribed period of 30 days. Notably, no discretion is left 
+
+[2026] 5 S.C.R. 
+151
+Nitendra Kumar Tomer, Suspended Director, Ambro Asia  
+Private Limited v. Unox S.P.A. and Another
+in the NCLAT to condone delay beyond the prescribed condonable 
+period of 15 days. This being the legal position, the indulgence shown 
+by the NCLAT on 12.08.2025 completely desecrated the aforestated 
+statutory prescription. 
+8.	
+Nitendra Kumar Tomer, the suspended director of the corporate 
+debtor, could have filed an appeal against the admission order 
+dated 18.04.2024 only within the limitation period prescribed under 
+Section 61(2) of the Code. The misconceived appeal filed by him 
+in the name of the corporate debtor, Ambro Asia Private Limited, 
+professing to be its director and authorized representative, was wholly 
+incompetent and was not an appeal with a ‘curable’ defect, which 
+could have been attended to at a later point of time. It was, therefore, 
+not open to the said suspended director to seek modification of the 
+cause title in this incompetent appeal. Unfortunately, the NCLAT lost 
+sight of this aspect and treated the wholly incompetent appeal as 
+a merely defective one, whereby it deemed it appropriate to grant 
+time to the suspended director to amend the memo of the appeal. 
+Once the prescribed limitation period under Section 61(2) expired, 
+it was not open to the suspended director to take steps to convert 
+the incompetent appeal and maintain an appeal in his own name 
+in August, 2025, long after expiry of the prescribed limitation. The 
+NCLAT ought not to have permitted him to do so, whereby a time-
+barred appeal in the name of the suspended director was presented 
+and entertained. 
+9.	
+Though, the learned senior counsel appearing for the suspended 
+director placed reliance on case law in support of his contention that 
+the NCLAT was justified in permitting the amendment of the memo of 
+appeal, we find the decisions relied upon to be wholly inapplicable. 
+In Uday Shankar Triyar vs. Ram Kalewar Prasad Singh and 
+another2, this Court was dealing with a defective appeal, wherein 
+two appellants were shown in the appeal memo but the vakalatnama 
+was signed by only one of them. The High Court permitted the 
+other appellant to come on record and pursue the appeal before 
+the appellate Court. The said decision was subjected to challenge 
+before this Court. In this context, this Court observed that any defect 
+in signing the memorandum of appeal or any defect in the authority 
+2	
+(2006) 1 SCC 75
+
+152
+[2026] 5 S.C.R.
+Supreme Court Reports
+of the person signing the memorandum of appeal or the omission to 
+file the vakalatnama executed by the appellant along with the appeal 
+would not invalidate the memorandum of appeal, if such omission 
+or defect is not deliberate. These observations were made in the 
+context of an omission or defect, being one relatable to procedure 
+which could be corrected subsequently. As already noted, the appeal 
+in the case on hand was not a merely defective appeal but a wholly 
+incompetent appeal, having been presented in the name of the 
+corporate debtor by a suspended director even though he had no 
+right to file such an appeal after the interim resolution professional 
+was appointed. Therefore, the observations in the aforestated decision 
+have no application. 
+10.	 In Varun Pahwa vs. Renu Chaudhary3, the plaint was not properly 
+drafted inasmuch as, in the memo of parties, the plaintiff was 
+described as Varun Pahwa through director of Siddharth Garments 
+Private Limited, though it should have read as Siddharth Garments 
+Private Limited through its director, Varun Pahwa. Holding this to 
+be an inadvertent mistake in the plaint, which the trial Court should 
+have allowed to be corrected so as to permit the company to sue 
+as a plaintiff, this Court set aside the order declining to correct the 
+memo of parties. Reference was made to the earlier decision in 
+Uday Shankar Triyar (supra), wherein it was held that procedural 
+defects and irregularities which are curable should not be allowed to 
+defeat substantive rights or to cause injustice. Significantly, this Court 
+had also observed therein that non-compliance with any procedural 
+requirement relating to a pleading, memorandum of appeal or 
+application or petition for relief should not entail automatic dismissal 
+or rejection, unless the relevant statute or rule so mandates.
+11.	 Presently, we find that the appeal, as framed and filed in the name 
+of the corporate debtor by a suspended director claiming to be 
+its authorized representative, was contrary to the mandate of the 
+Code and was, therefore, not at all maintainable. Permitting it to be 
+converted to an appeal by the suspended director at a later point 
+of time, throwing the prescription of limitation to the winds, was a 
+further violation of the Code. The question of rectifying or modifying 
+a wholly incompetent appeal in violation of the mandate of the Code 
+3	
+(2019) 15 SCC 628
+
+[2026] 5 S.C.R. 
+153
+Nitendra Kumar Tomer, Suspended Director, Ambro Asia  
+Private Limited v. Unox S.P.A. and Another
+did not arise and the NCLAT, therefore, ought not to have extended 
+indulgence in that regard. Varun Pahwa (supra), therefore, does not 
+further the appellant’s case.
+12.	 Lastly, reliance is placed on Innovators Cleantech Pvt. Ltd. vs. 
+Pasari Multi Projects Pvt. Ltd.4. This was a case involving defects 
+in an appeal filed before the NCLAT and the curing of such defects 
+within the time prescribed under the rules. This decision also does 
+not further the case of the appellant, as we have already held that 
+this was not a defective appeal that the NCLAT was dealing with 
+but a wholly incompetent appeal.
+13.	 Though, the order dated 12.08.2025 passed by the NCLAT and its 
+later order dated 29.08.2025, permitting the amendment of the appeal, 
+were not subjected to challenge by Unox S.P.A., the operational 
+creditor, or by Piyush Moona, the Interim Resolution Professional, 
+we are of the opinion that, despite such failure on their part, we must 
+give primacy to the provisions of the Code, which lay down strict 
+mandates in terms of time, which are sacrosanct and cannot be 
+lightly discarded. Therefore, notwithstanding the aforestated orders 
+attaining finality, the legal position obtaining under the Code is that 
+the appeal, as framed and filed, was not maintainable being wholly 
+incompetent and it could not have been converted into a ‘maintainable 
+appeal’ after expiry of the period of limitation under Section 61(2) of 
+the Code. The NCLAT erred grievously in permitting such an exercise 
+to be undertaken and adjudicating the appeal on merits thereafter. 
+Though the decision finally rendered by the NCLAT in the said appeal 
+went against the suspended director, whereby he is now before this 
+Court, we are not prepared to look into the merits of the said order, 
+as the said appeal ought not to have been entertained.
+The appeal is dismissed on the aforestated grounds. 
+Result of the case: Appeal dismissed.
+†Headnotes prepared by: Ankit Gyan
+4	
+2024 SCC OnLine NCLAT 909

@@ -1,0 +1,600 @@
+[2026] 1 S.C.R. 424 : 2026 INSC 39
+C.S. Prasad  
+v.  
+C. Satyakumar and Others
+(Criminal Appeal No. 140 of 2026)
+08 January 2026
+[Sanjay Karol and Prashant Kumar Mishra,* JJ.]
+Issue for Consideration
+Issue arose whether the High Court erred in quashing the criminal 
+proceedings against respondent Nos.1 to 3 in the criminal case 
+arising out of FIR.
+Headnotes†
+Code of Criminal Procedure, 1973 – s.482 – Quashing the 
+criminal proceedings – Family property dispute – Civil 
+matter and criminal prosecution – Complaint by appellant 
+alleging that respondents by abusing advanced age and 
+medical vulnerability of the executants, caused execution and 
+registration of settlement deeds to their unlawful advantage, 
+used the documents as genuine for deriving proprietary 
+benefits, disclosing dishonest intention at the inception of 
+the transaction as well as fabrication and wrongful use of 
+documents – Criminal case registered arising out of FIR  
+u/ss.417, 420, 465, 468 and 471 IPC – Prior thereto, civil suit 
+had also been filed challenging the validity of the settlement 
+deeds – Respondents sought quashment of entire criminal 
+proceedings u/s.482 – High Court quashed the same holding 
+that the dispute was of civil nature, there was delay and 
+suppression of facts – Correctness:
+Held: High Court must avoid usurping the function of a trial court 
+or conducting a mini-trial when disputed factual questions attend 
+the maintainability of a complaint – Only requirement is to examine 
+whether the uncontroverted allegations, as contained in the FIR, 
+taken at their face value, disclose the commission of any cognizable 
+offence – Whether these allegations can ultimately be proved is a 
+matter strictly within the province of the trial court – High Court not 
+right in quashing the proceedings primarily on the ground that the 
+* Author
+
+[2026] 1 S.C.R. 
+425
+C.S. Prasad v. C. Satyakumar and Others
+validity of the settlement deeds has been upheld in the proceedings 
+before the Civil Court – Civil liability and criminal liability may arise 
+from the same set of facts and that the pendency or conclusion of 
+civil proceedings does not bar prosecution where the ingredients 
+of a criminal offence are disclosed – Civil adjudication cannot 
+always be treated as determinative of criminal culpability at the 
+stage of quashment – Moreover, the civil proceedings have not 
+attained finality – Adjudication of forgery, cheating or use of forged 
+documents in relation to a settlement deed will always carry a 
+civil element – Thus, there cannot be any general proposition that 
+whenever dispute involves a civil element, a criminal proceeding 
+cannot go on – Criminal liability must be examined independently – 
+To permit quashing on the sole ground of a civil suit would encourage 
+unscrupulous litigants to defeat criminal prosecution by instituting 
+civil proceedings – High Court erred in law by embarking upon an 
+inquiry with regard to the conduct of the appellant and credibility 
+or otherwise of the allegations in the complaint and the FIR – 
+Delay in filing a complaint, by itself, never a ground for quashing 
+criminal proceedings at the threshold – When factual foundation 
+for prosecution exists, criminal law cannot be short-circuited by 
+invoking inherent jurisdiction u/s.482 – Where allegations require 
+adjudication on evidence, proper course is to permit the trial to 
+proceed in accordance with law – On facts, the issues relating to 
+the state of mind of the executants at the time of execution of the 
+settlement deeds, the role of respondents in the execution and the 
+use of the settlement deeds, the existence of fraudulent intent, and 
+the manner in which proprietary advantage obtained by them, all 
+require a full-fledged trial on evidence – Thus, impugned order of 
+the High Court quashing the proceedings in the criminal case set 
+aside – Criminal case restored for trial. [Paras 22, 24-29, 30-31]
+Case Law Cited
+State of Haryana and Others v. Bhajan Lal and Others [1990] Supp. 
+3 SCR 259 : (1992) Supp. 1 SCC 335; Neeharika Infrastructure 
+Private Limited v. State of Maharashtra and Others [2021] 4 
+SCR 1044 : (2021) 19 SCC 401; Kathyayini v. Sidharth P.S. 
+Reddy and Others [2025] 7 SCR 463 : 2025 SCC OnLine SC  
+1428 – referred to.
+List of Acts
+Code of Criminal Procedure, 1973, Penal Code, 1860.
+
+426
+[2026] 1 S.C.R.
+Supreme Court Reports
+List of Keywords
+Quashing criminal proceedings; Family property dispute; Civil 
+matter; Criminal prosecution; Validity of the settlement deeds; 
+Dispute of civil nature; Delay; Suppression of facts; Mini-trial; Civil 
+liability; Criminal liability; Civil adjudication; Criminal culpability; 
+Adjudication of forgery, cheating or use of forged documents.
+Case Arising From
+CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 
+140 of 2026
+From the Judgment and Order dated 22.10.2024 of the High Court 
+of Judicature at Madras in CRLOP No. 10961 of 2023
+Appearances for Parties
+Advs. for the Appellant(s):
+Ms. Bansuri Swaraj, Sr. Adv., Dr. G. Sivabalamurugan, Selvaraj 
+Mahendran, Harikrishnan P.V, Kavin Ananth. C, C. Aadhikesavan.
+Advs. for the Respondent(s):
+Amit Anand Tiwari, Sr. Adv./ A.A.G., S. R. Rajagopal, Sr. Adv., 
+Ms. Abhilasha Shrawat, S. Santanam Swaminadhan, Vidhusan 
+C., Shanmitha, Ms. Vaisnavi Jay, Shikhar Bhardwaj, Mrs. Aarthi 
+Rajan, Ms. Purnima Krishna, M.F.Philip, Togin M. Babichen,  
+Mrs. Aarthi Rajan, Ms. Purnima Krishna, Sabarish Subramanian.
+Judgment / Order of the Supreme Court
+Judgment
+Prashant Kumar Mishra, J.
+1.	
+Leave granted.
+2.	
+The present Appeal arises out of the impugned order dated 22.10.2024 
+passed by the High Court of Judicature at Madras1 in Crl.O.P. No. 
+10961 of 2023 filed under Section 482 of the Code of Criminal 
+Procedure, 19732, whereby the High Court had proceeded to quash 
+1	
+‘High Court’
+2	
+‘Cr.PC’
+
+[2026] 1 S.C.R. 
+427
+C.S. Prasad v. C. Satyakumar and Others
+the proceedings against respondent Nos. 1 to 3 herein in C.C. No. 2 
+of 2023 arising out of FIR No. 229 of 2021 registered for offences 
+under Sections 417, 420, 465, 468, 471 and 120B of the Indian 
+Penal Code, 18603 on the file of the learned Special Metropolitan 
+Magistrate-I, Special Court for Exclusive Trial of Land Grabbing 
+Cases, Allikulam, Egmore, Chennai. 
+3.	
+The appellant herein is Dr. C.S. Prasad, the de-facto complainant, 
+whereas the accused persons are Dr. C. Satyakumar, Dr. Swarnakumari 
+(wife of Dr. C. Satyakumar) and Shri S. Ravi Chitturi (their son), who 
+are respondent Nos. 1 to 3 respectively in this Appeal. Dr. Ranjith 
+Chittoori, who is respondent No. 5 herein, is the nephew of respondent 
+No. 1 and the appellant.
+FACTUAL MATRIX
+4.	
+The record discloses that the present criminal proceedings arise out 
+of a dispute rooted in the execution of three registered settlement 
+deeds concerning valuable immovable properties situated in Chennai, 
+originally owned by Late Dr. C. Satyanarayana and his wife Late Smt. 
+C. Lakshmi Devi. The couple had three sons, namely, respondent 
+No. 1 (elder son), the appellant herein, and Dr. C. Ranga Rao, who 
+predeceased them in the year 2011. Dr. Ranjith Chittoori is the son 
+of the predeceased Dr. C. Ranga Rao, and nephew of respondent 
+No. 1 and the appellant.
+5.	
+During their lifetime, Late Dr. C. Satyanarayana and Late Smt. C. 
+Lakshmi Devi are said to have executed three registered settlement 
+deeds in respect of different properties. The first settlement deed 
+was executed on 31.12.2010 bearing Document No. 2701 of 2010, 
+settling property bearing R.S. Nos. 376/2 and 376/3 Part, Egmore 
+village, Door No. 192, Poonamallee High Road, Chennai, in favour 
+of their elder son, respondent No. 1. Thereafter, a second settlement 
+deed came to be executed on 14.02.2012, registered as Document 
+No. 535 of 2012, in respect of Plot No. 2441, T.S. No.384, Block 
+No.I-D, Anna Nagar, Chennai. Subsequently, a third settlement deed 
+was executed on 30.03.2012, registered as Document No. 707 of 
+2012, in respect of Door No.57, New Avadi Road, Kilpauk, Chennai-10.
+3	
+‘IPC’
+
+428
+[2026] 1 S.C.R.
+Supreme Court Reports
+6.	
+In the interregnum, on 28.03.2012, Late Dr. C. Satyanarayana 
+executed a Power of Attorney4 in favour of respondent No. 1, 
+authorising him to present documents for registration. The third 
+settlement deed dated 30.03.2012 was accordingly presented for 
+registration through the said PoA holder. Shortly thereafter, Late 
+Dr. C. Satyanarayana passed away on 18.04.2012, followed by the 
+demise of his wife Late Smt. C. Lakshmi Devi on 22.04.2012.
+7.	
+Two years later, in 2014, respondent No. 5 instituted O.S. No. 2190 
+of 2014 before the learned II Additional Judge, City Civil Court, 
+Chennai, seeking declaration that the three settlement deeds dated 
+31.12.2010, 14.02.2012 and 30.03.2012 were null and void, along 
+with a prayer for partition and separate possession of the properties. 
+The appellant was arrayed as defendant No. 2 in the said suit and 
+had entered appearance. However, the record reflects that he did not 
+actively contest the proceedings and allowed the matter to proceed 
+ex parte against him.
+8.	
+During the pendency of civil proceedings, the appellant lodged a 
+Police complaint on 08.01.2020, alleging fraud, impersonation and 
+forgery in the execution of the settlement deeds. After preliminary 
+inquiry, the Police closed the complaint on 17.03.2020, treating 
+the dispute to be of a purely civil nature. Thereafter, the appellant 
+invoked the jurisdiction of the Magistrate by filing Crl.M.P. No. 13803 
+of 2021 under Section 156(3) of the Cr.PC. On 12.10.2021, the 
+learned Magistrate directed registration of an FIR. Pursuant thereto, 
+FIR No. 229 of 2021 dated 16.12.2021 came to be registered by 
+the Central Crime Branch, Land Grabbing Cell, Egmore, Chennai, 
+for offences under Sections 417, 420, 465, 468 and 471 of the IPC 
+against respondent Nos. 1 to 3 herein and others.
+9.	
+Meanwhile, upon completion of the trial in O.S. No. 2190 of 2014, 
+the Civil Court by judgment dated 24.01.2023 dismissed O.S. No. 
+2190 of 2014, upholding the validity of all the three settlement 
+deeds. Aggrieved by the said decree, respondent No. 5 preferred 
+A.S. No. 403 of 2023 before the High Court. By interim order dated 
+26.07.2023, the High Court had granted an order of injunction against 
+respondent Nos. 1 to 3 restraining alienation of the properties during 
+the pendency of the appeal.
+4	
+‘PoA’
+
+[2026] 1 S.C.R. 
+429
+C.S. Prasad v. C. Satyakumar and Others
+10.	 On completion of investigation in FIR No. 229 of 2021, the Police filed 
+a Final Report (FR-18/2023) dated 11.03.2023 before the learned 
+Special Metropolitan Magistrate-I, Special Court for Exclusive Trial 
+of Land Grabbing Cases, Allikulam, Egmore. The learned Magistrate 
+took cognizance of the offences, and the case was registered as 
+C.C. No. 2 of 2023.
+11.	 Earlier, respondent Nos. 1 to 3 had filed Crl.O.P. No. 16932 of 
+2022 before the High Court seeking quashing of the FIR No. 229 
+of 2021. However, the said petition was withdrawn on 28.07.2022. 
+After cognizance was taken on the Final Report, respondent Nos. 1 
+to 3 again approached the High Court by filing Crl.O.P. No. 10961 
+of 2023 under Section 482 of the Cr.PC seeking quashment of the 
+entire criminal proceedings pending in C.C. No. 2 of 2023 arising 
+from FIR No. 229 of 2021.
+12.	 Vide its order dated 22.10.2024, the High Court allowed Crl.O.P. No. 
+10961 of 2023 and proceeded to quash the criminal proceedings in 
+C.C. No. 2 of 2023 qua respondent Nos. 1 to 3, holding inter alia 
+that the ingredients of the alleged offences in FIR No. 229 of 2021 
+were not made out and that the allegations in the complaint amount 
+to giving a civil dispute a criminal color. The High Court also noted 
+that that the appellant had suppressed material facts relating to 
+the earlier civil proceedings in O.S. No. 2190 of 2014 initiated by 
+respondent No. 5 in which the appellant was also a party. According 
+to the High Court, all the three settlement deeds were executed 
+during the lifetime of the original owners and were duly registered in 
+accordance with law and that their validity had already been tested 
+and upheld in a full-fledged civil trial by dismissal of O.S. No. 2190 
+of 2014 and that the appellant, despite being a party to the said 
+suit, had consciously allowed it to proceed ex parte against him. 
+Furthermore, the High Court noted that the appellant had knowledge 
+of the impugned transactions since 2014, yet chose to initiate criminal 
+proceedings only in 2020, after an inordinate and unexplained delay. 
+In summation, the High Court was of the view that the continuation 
+of criminal prosecution against respondent Nos. 1 to 3 would amount 
+to misuse of the criminal justice process.
+13.	 Aggrieved, the appellant has preferred the present Appeal challenging 
+the quashing of proceedings against respondent Nos. 1 to 3 in C.C. 
+No. 2 of 2023 arising out of FIR No. 229 of 2021.
+
+430
+[2026] 1 S.C.R.
+Supreme Court Reports
+SUBMISSION OF PARTIES
+14.	 Learned counsel for the appellant has argued that the High Court 
+had failed to take note of the fact that the PoA executed by Late 
+Dr. C. Satyanarayana in favour of respondent No. 1 granted only 
+limited authority for registration of the deeds. However, according to 
+the learned counsel for the appellant, respondent No. 1 has misused 
+the authority to execute the settlement deeds in his own favour.
+15.	 Learned counsel for the appellant further submits that the PoA 
+and the subsequent settlement deeds are fraudulent documents 
+and are alleged to have been obtained by deceiving Late Dr. C. 
+Satyanarayana. Learned counsel further highlights that the High 
+Court had failed to take note of the mental state of Late Dr. C. 
+Satyanarayana at the time of executing the settlement deeds.
+16.	 Lastly, the learned counsel for appellant submits that the High Court 
+had erroneously quashed the proceedings against respondent Nos. 
+1 to 3 on the pretext that the matter was a civil dispute. Learned 
+counsel further submits that both civil and criminal proceedings can 
+co-exist if the ingredients of the offence alleged are made out.
+17.	 Per contra, learned counsel for respondent Nos. 1 to 3 has supported 
+the impugned order passed by the High Court quashing C.C. No. 2 of 
+2023 arising from FIR No. 229 of 2021. Learned counsel argues that 
+the present petition is a misuse of criminal process to re-open a family 
+property dispute that has already been decided in civil proceedings 
+in its judgment dated 24.01.2023 passed in O.S. No. 2190 of 2014. 
+18.	 Learned counsel points out that the appellant had full knowledge of 
+the transactions since the filing of the said suit, and had deliberately 
+remained ex parte in the civil proceedings. To supplement, learned 
+counsel further points out that the complaint dated 08.01.2020 
+preferred by the appellant was grossly delayed, and was filed only 
+as a retaliatory measure after the civil litigation.
+19.	 Lastly, learned counsel has submitted that the offences alleged against 
+respondent Nos. 1 to 3 in the complaint are not made out and the 
+same was filed by the appellant only to harass respondent nos. 1 to 3.
+ANALYSIS
+20.	 We have heard the learned counsel for the parties and have carefully 
+perused the material on record. 
+
+[2026] 1 S.C.R. 
+431
+C.S. Prasad v. C. Satyakumar and Others
+21.	 The short issue that arises for our consideration is whether the High 
+Court erred in quashing the criminal proceedings against respondent 
+Nos. 1 to 3 in C.C. No. 2 of 2023 arising out of FIR No. 229 of 2021.
+22.	 The jurisdiction under Section 482 of the Cr.PC is extraordinary 
+in nature and is to be exercised with great caution. This Court in 
+catena of judgments has emphasised that the High Court must avoid 
+usurping the function of a trial court or conducting a mini-trial when 
+disputed factual questions attend the maintainability of a complaint. 
+The only requirement is to examine whether the uncontroverted 
+allegations, as contained in the FIR, taken at their face value, disclose 
+the commission of any cognizable offence. In State of Haryana 
+and Others vs. Bhajan Lal and Others5, a Division Bench of this 
+Court had discussed about the scope of Section 482 of the Cr.PC 
+as follows:
+“102. In the backdrop of the interpretation of the various 
+relevant provisions of the Code under Chapter XIV and of 
+the principles of law enunciated by this Court in a series of 
+decisions relating to the exercise of the extraordinary power 
+under Article 226 or the inherent powers under Section 
+482 of the Code which we have extracted and reproduced 
+above, we have given the following categories of cases by 
+way of illustration wherein such power could be exercised 
+either to prevent abuse of the process of any court or 
+otherwise to secure the ends of justice, though it may not 
+be possible to lay down any precise, clearly defined and 
+sufficiently channelised and inflexible guidelines or rigid 
+formulae and to give an exhaustive list of myriad kinds of 
+cases wherein such power should be exercised. 
+(1) Where the allegations made in the first information 
+report or the complaint, even if they are taken at 
+their face value and accepted in their entirety do 
+not prima facie constitute any offence or make out 
+a case against the accused. 
+(2) Where the allegations in the first information report 
+and other materials, if any, accompanying the FIR 
+5	
+(1992) Supp. 1 SCC 335
+
+432
+[2026] 1 S.C.R.
+Supreme Court Reports
+do not disclose a cognizable offence, justifying an 
+investigation by police officers under Section 156(1) 
+of the Code except under an order of a Magistrate 
+within the purview of Section 155(2) of the Code. 
+(3) Where the uncontroverted allegations made in the 
+FIR or complaint and the evidence collected in support 
+of the same do not disclose the commission of any 
+offence and make out a case against the accused. 
+(4) Where, the allegations in the FIR do not constitute 
+a cognizable offence but constitute only a non-
+cognizable offence, no investigation is permitted by 
+a police officer without an order of a Magistrate as 
+contemplated under Section 155(2) of the Code. 
+(5) Where the allegations made in the FIR or complaint 
+are so absurd and inherently improbable on the 
+basis of which no prudent person can ever reach 
+a just conclusion that there is sufficient ground for 
+proceeding against the accused. 
+(6) Where there is an express legal bar engrafted in 
+any of the provisions of the Code or the concerned 
+Act (under which a criminal proceeding is instituted) 
+to the institution and continuance of the proceedings 
+and/or where there is a specific provision in the Code 
+or the concerned Act, providing efficacious redress 
+for the grievance of the aggrieved party. 
+(7) Where a criminal proceeding is manifestly 
+attended with mala fide and/or where the proceeding 
+is maliciously instituted with an ulterior motive for 
+wreaking vengeance on the accused and with a view 
+to spite him due to private and personal grudge.”
+(emphasis supplied)
+23.	 Furthermore, in Neeharika Infrastructure Private Limited vs. State 
+of Maharashtra and Others6, a three-Judge Bench of this Court 
+had held that the power to quash criminal proceedings must be 
+exercised sparingly, and only where the complaint, even if accepted 
+6	
+(2021) 19 SCC 401
+
+[2026] 1 S.C.R. 
+433
+C.S. Prasad v. C. Satyakumar and Others
+in full, discloses no offence or continuation would amount to abuse 
+of process. This Court had issued the following directions to the High 
+Courts to be kept in mind while exercising the power under Section 
+482 of the Cr.PC:
+“Conclusions
+33. In view of the above and for the reasons stated above, 
+our final conclusions on the principal/core issue, whether 
+the High Court would be justified in passing an interim 
+order of stay of investigation and/or “no coercive steps 
+to be adopted”, during the pendency of the quashing 
+petition under Section 482CrPC and/or under Article 226 
+of the Constitution of India and in what circumstances and 
+whether the High Court would be justified in passing the 
+order of not to arrest the accused or “no coercive steps 
+to be adopted” during the investigation or till the final 
+report/charge-sheet is filed under Section 173CrPC, while 
+dismissing/disposing of/not entertaining/not quashing the 
+criminal proceedings/complaint/FIR in exercise of powers 
+under Section 482CrPC and/or under Article 226 of the 
+Constitution of India, our final conclusions are as under:
+33.1….
+33.2. Courts would not thwart any investigation into the 
+cognizable offences.
+33.3. It is only in cases where no cognizable offence or 
+offence of any kind is disclosed in the first information report 
+that the Court will not permit an investigation to go on.
+33.4. The power of quashing should be exercised sparingly 
+with circumspection, as it has been observed, in the “rarest 
+of rare cases” (not to be confused with the formation in 
+the context of death penalty).
+33.5. While examining an FIR/complaint, quashing of which 
+is sought, the court cannot embark upon an enquiry as to 
+the reliability or genuineness or otherwise of the allegations 
+made in the FIR/complaint.
+33.6. Criminal proceedings ought not to be scuttled at the 
+initial stage.
+
+434
+[2026] 1 S.C.R.
+Supreme Court Reports
+33.7. Quashing of a complaint/FIR should be an exception 
+rather than an ordinary rule.
+33.8 to 33.11….
+33.12. The first information report is not an encyclopedia 
+which must disclose all facts and details relating to the 
+offence reported. Therefore, when the investigation by the 
+police is in progress, the court should not go into the merits 
+of the allegations in the FIR. Police must be permitted 
+to complete the investigation. It would be premature 
+to pronounce the conclusion based on hazy facts that 
+the complaint/FIR does not deserve to be investigated 
+or that it amounts to abuse of process of law. After 
+investigation, if the investigating officer finds that there is 
+no substance in the application made by the complainant, 
+the investigating officer may file an appropriate report/
+summary before the learned Magistrate which may be 
+considered by the learned Magistrate in accordance with 
+the known procedure.
+33.13 and 33.14….
+33.15. When a prayer for quashing the FIR is made by the 
+alleged accused and the court when it exercises the power 
+under Section 482CrPC, only has to consider whether the 
+allegations in the FIR disclose commission of a cognizable 
+offence or not. The court is not required to consider on 
+merits whether or not the merits of the allegations make 
+out a cognizable offence and the court has to permit the 
+investigating agency/police to investigate the allegations 
+in the FIR.
+…..”
+(emphasis supplied)
+24.	 On these lines, it is apt clear that even though the powers under 
+Section 482 of the Cr.PC are very wide, its conferment requires the 
+High Courts to be more cautious and diligent. While examining any 
+FIR, the High Court exercising its power under this provision cannot go 
+embarking upon the genuineness of the allegations made. The High 
+Court must only consider whether there exists any sufficient material 
+
+[2026] 1 S.C.R. 
+435
+C.S. Prasad v. C. Satyakumar and Others
+to proceed against the accused or not and must not be concerned 
+with the reliability, sufficiency, or acceptability of the evidence.
+25.	 Testing on the aforesaid parameters, we find that the complaint dated 
+08.01.2020 made by the appellant contains categorical allegations 
+that respondent Nos. 1 to 3, by abusing the advanced age and 
+medical vulnerability of the executants, caused the execution and 
+registration of the three settlement deeds to their unlawful advantage, 
+and thereafter used such documents as genuine for the purpose of 
+deriving proprietary benefits. The allegations in the complaint also 
+disclose dishonest intention at the inception of the transaction as 
+well as fabrication and wrongful use of documents. At this stage, we 
+must note that the High Court in its jurisdiction under Section 482 of 
+the Cr.PC is bound to take the allegations on its face value. Whether 
+these allegations can ultimately be proved is a matter strictly within 
+the province of the Trial Court.
+26.	 In the impugned order, the High Court has quashed the proceedings 
+primarily on the ground that the validity of the settlement deeds 
+has been upheld in the proceedings before the Civil Court. We are 
+of the view that this approach adopted by the High Court is not 
+correct. It is a settled principle of criminal jurisprudence that civil 
+liability and criminal liability may arise from the same set of facts and 
+that the pendency or conclusion of civil proceedings does not bar 
+prosecution where the ingredients of a criminal offence are disclosed. 
+In Kathyayini vs. Sidharth P.S. Reddy and Others7, this Court 
+had made it crystal clear that “pendency of civil proceedings on the 
+same subject matter, involving the same parties is no justification to 
+quash the criminal proceedings if a prima facie case exists against 
+the accused persons.” 
+27.	 Adjudication in civil matters and criminal prosecution proceed on 
+different principles. The decree passed by the Civil Court neither 
+records findings on criminal intent nor on the existence of offences 
+such as forgery, cheating, or use of forged documents. Therefore, civil 
+adjudication cannot always be treated as determinative of criminal 
+culpability at the stage of quashment. Moreover, in the case at hand, 
+the civil proceedings have not attained finality.
+7	
+2025 SCC OnLine SC 1428 (Para 23)
+
+436
+[2026] 1 S.C.R.
+Supreme Court Reports
+28.	 Adjudication of forgery, cheating or use of forged documents in 
+relation to a settlement deed will always carry a civil element. 
+Therefore, there cannot be any general proposition that whenever 
+dispute involves a civil element, a criminal proceeding cannot go 
+on. Criminal liability must be examined independently. Respondent 
+Nos. 1 to 3 were entitled to acquittal only upon failure of proof in the 
+trial and not at the threshold jurisdiction under Section 482 of the 
+Cr.PC. To permit quashing on the sole ground of a civil suit would 
+encourage unscrupulous litigants to defeat criminal prosecution by 
+instituting civil proceedings.
+29.	 A further perusal of the impugned order would show that the High 
+Court has also attached significance to the conduct of the appellant 
+and the delay of almost 6 years on his part in initiation of criminal 
+proceedings without any plausible explanation. The High Court had 
+noted that the appellant remained ex parte instead of participating 
+in the civil proceedings in O.S. No. 2190 of 2014 of which he was 
+already a party. Instead, the appellant had preferred a private 
+complaint suppressing the fact that the settlement deeds are already 
+a subject matter of the said suit. The High Court had found this 
+conduct of the appellant to be in favour of respondent Nos. 1 to 3 and 
+had proceeded to quash the proceedings against them. Before we 
+express our opinion on this, it is apposite to reproduce the relevant 
+observations of the High Court on this aspect:
+“8. ……. In the said suit O.S.No.2190 of 2014, the defacto 
+complainant C.S. Prasad was arrayed as 2nd defendant. 
+He had entered appearance through a counsel, but 
+had not contested the suit neither he filed statement or 
+adduced evidence challenging the validity of the registered 
+documents. He remained exparte. If really he had any 
+material to establish that he was cheated by his elder 
+brother by making false documents and forgery, he should 
+have participated in the suit proceedings or atleast filed 
+complaint immediately. He had filed a complaint to the 
+Commissioner of Police only on 08.01.2020 and the same 
+after enquiry was closed on 17.03.2020 as civil dispute. 
+When his complaint was closed as dispute is civil in nature, 
+the suit O.S.No.2190 of 2014 was pending. Hence, he had 
+all opportunities to file application to set aside the exparte 
+
+[2026] 1 S.C.R. 
+437
+C.S. Prasad v. C. Satyakumar and Others
+order passed against him on 08.06.2015 and participate 
+in the suit where the validity of the 3 settlements deeds 
+were one of the issues under consideration. 
+9. Instead of participating in the civil proceeding, the private 
+complaint filed on 12.10.2021 under Section 156(3) of 
+Cr.P.C., suppressing the fact that settlement deeds are 
+subject matter in the pending suit. In this regard it can 
+be safely presumed that the 2nd respondent herein had 
+knowledge about the settlement deeds if not earlier at least 
+on the date of receipt of suit summons in O.S.No.2190 of 
+2014. Whereas no plausible explanation placed by him in 
+his complaint for delay of 6 years in filing the complaint.”
+(emphasis supplied)
+30.	 We are not impressed with the above findings reached by the High 
+Court. In Neeharika Infrastructure Private Limited (supra), this 
+Court had made it clear that while exercising the powers under 
+Section 482 of the Cr.PC, the High Court cannot undertake a roving 
+inquiry into the disputed questions of fact or record findings on the 
+merits of the allegations. On perusal of the above observations of 
+the High Court, we find that the High Court has erred in law by 
+embarking upon an inquiry with regard to the conduct of the appellant 
+and credibility or otherwise of the allegations in the complaint and 
+the FIR. Delay in filing a complaint, by itself, is never a ground for 
+quashing criminal proceedings at the threshold. Whether the delay 
+stands satisfactorily explained or whether it impacts the credibility of 
+the prosecution, is a matter of appreciation of evidence before the 
+Trial Court and not for summary determination by the High Court 
+under Section 482 of the Cr.PC.
+31.	 It is a settled proposition that when a factual foundation for prosecution 
+exists, criminal law cannot be short-circuited by invoking inherent 
+jurisdiction under Section 482 of the Cr.PC. Where allegations 
+require adjudication on evidence, the proper course is to permit the 
+trial to proceed in accordance with law. In the present case, the 
+issues relating to the state of mind of the executants at the time of 
+execution of the settlement deeds, the role of respondent Nos. 1 to 3 
+in the execution and the use of the settlement deeds, the existence 
+of fraudulent intent, and the manner in which proprietary advantage 
+was obtained by them, all require a full-fledged trial on evidence.
+
+438
+[2026] 1 S.C.R.
+Supreme Court Reports
+CONCLUSION
+32.	 In light of the aforesaid discussion and for the reasons above, we 
+come to the following conclusion:
+a)	
+The Appeal is allowed. 
+b)	
+The impugned order of the High Court dated 22.10.2024 passed 
+in Crl.O.P. No. 10961 of 2023 quashing the proceedings in C.C. 
+No. 2 of 2023 arising out of FIR No. 229 of 2021 is set aside. 
+c)	
+C.C. No. 2 of 2023 shall stand restored for trial before the learned 
+Special Metropolitan Magistrate-I, Special Court for Exclusive 
+Trial of Land Grabbing Cases, Allikulam, Egmore, Chennai.
+33.	 All contentions of the parties on merit are left open. We make it clear 
+that none of the observations contained herein shall have a bearing 
+on the main trial. The Trial Court shall independently arrive at its 
+conclusion based on the evidence tendered before it.
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Nidhi Jain

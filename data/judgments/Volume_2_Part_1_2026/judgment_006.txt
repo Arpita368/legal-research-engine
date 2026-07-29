@@ -1,0 +1,844 @@
+[2026] 2 S.C.R. 107 : 2026 INSC 40
+Sumit Bansal
+v.
+M/s MGI Developers and Promoters and Another
+(Criminal Appeal No. 141 of 2026)
+08 January 2026
+[Sanjay Karol and Prashant Kumar Mishra,* JJ.]
+Issue for Consideration
+a) Whether the High Court was right in quashing Complaint Case 
+No.3298 of 2019 and the consequential summoning order dated 
+06.03.2019 against respondent nos.1 and 2 herein arising out of 
+the dishonour of the firm’s cheque Nos.057140 and 057141, on 
+the ground that it related to the same underlying liability for which 
+another complaint i.e., Complaint Case No.2823 of 2019 had 
+already been instituted and whether the same would not amount 
+to conducting a ‘mini trial’ which is clearly prohibited under the 
+scheme of s.482 of the Cr.PC; and b) Whether the High Court 
+erred in not quashing the criminal proceedings against respondent 
+no.2 arising out of Complaint Case No.2823 of 2019, Complaint 
+Case No.13508 of 2019 and Complaint Case No.743 of 2020.
+Headnotes†
+Code of Criminal Procedure, 1973 – s.482 – Negotiable 
+Instruments Act, 1881 – Parties entered into an Agreement to 
+Sell dated 07.11.2016 in respect of three commercial units – 
+The total sale consideration agreed between the parties was 
+Rs.1,72,21,200/- was admittedly paid by the complainant to 
+the proprietorship firm – Upon the failure of respondent nos.1 
+(firm) and 2 (proprietor) to execute the Sale Deed(s), respondent 
+no.1 issued cheques, which were returned dishonored – A total 
+of five complaint cases came to be filed by the complainant 
+against the same set of accused, each complaint relating to 
+distinct cheque instruments and separate dates of presentation 
+and dishonour: (i) Complaint Case No.2823/2019; (ii) Complaint 
+Case No.3298/2019; (iii) Complaint Case No.13508/2019; 
+(iv) Complaint Case No.740/20204; and (v) Complaint Case 
+No.743/2020, the last two arising out of the same set of 
+* Author
+
+108
+[2026] 2 S.C.R.
+Supreme Court Reports
+transactions – Respondents filed petitions u/s.482 CrPC before 
+the High Court seeking quashing of the complaints and the 
+summoning orders – The High Court quashed the complaint 
+relating to the firm’s cheques (Complaint Case No.3298 of 
+2019) in entirety, and also partially quashed the complaint 
+relating to the personal cheques (Complaint Case No.2823 
+of 2019) – Correctness:
+Held: In Complaint case 3298 of 2019, having perused the 
+impugned judgment of High Court qua quashing of Complaint Case 
+No.3298 of 2019, this Court is unable to concur with the reasoning 
+reached by the High Court – It is well settled that u/s.138 of the 
+NI Act, a separate cause of action arises upon each dishonour 
+of a cheque provided the statutory sequence of presentation, 
+dishonour, notice, and failure to pay is complete – The fact that 
+multiple cheques arise from one transaction will not merge them 
+into a single cause of action – In the present case, the cheques 
+forming the subject of the two complaints (Complaint Case No.2823 
+of 2019 and Complaint Case No.3298 of 2019) were distinct 
+instruments drawn on different accounts, presented on different 
+dates, dishonoured separately, and followed by independent 
+statutory notices – The scheme of s.138 of the NI Act does not bar 
+prosecution in such circumstances – Whether those cheques were 
+issued as alternative or supplementary instruments, or represented 
+fresh undertakings, is a disputed question of fact requiring evidence 
+at the time of trial and cannot be resolved at the threshold – The 
+inherent jurisdiction of the High Court u/s.482 of the Cr.PC cannot 
+be used to decide such disputed issues – This Court is of the view 
+that the High Court exceeded its jurisdiction and was not justified 
+in quashing Complaint Case No.3298 of 2019 – As far as other 
+complaint cases i.e. Complaint Case No.743 of 2020, Complaint 
+Case No.13508 of 2019 and Complaint Case No.2823 of 2019 
+are concerned, the record clearly indicates that these complaints 
+(Complaint Case No.2823 of 2019, Complaint Case No.13508 of 
+2019 and Complaint Case No.743 of 2020) arise out of cheques 
+issued and dishonoured on different dates in 2018 and 2019, each 
+followed by independent statutory notices and complaint – On 
+a careful reading of the ingredients required for commission of 
+offence u/s.138 of the NI Act, this Court finds that the record clearly 
+indicates that the cheques were dishonoured, statutory notices 
+were served, cheques were returned, and the summons were 
+thereafter issued – On such material, this Court is of the view that 
+
+[2026] 2 S.C.R. 
+109
+Sumit Bansal v. M/s MGI Developers and Promoters and Another
+the complaint prima facie stands – Any disputed question of fact 
+qua the offence alleged must be done during the trial – Thus, the 
+High Court was justified in not quashing Complaint Case No.2823 
+of 2019, Complaint Case No.13508 of 2019 and Complaint Case 
+No.743 of 2020 registered against respondent no.2 herein – All 
+contentions of the parties are left open, which shall be decided 
+by the Trial Court on its own merits and in accordance with law. 
+[Paras 30, 34, 35, 38, 40, 44, 46]
+Case Law Cited
+State of Haryana and Others v. Bhajan Lal and Others [1990] Supp. 
+3 SCR 259 : (1992) Supp. 1 SCC 335; Neeharika Infrastructure 
+Private Limited v. State of Maharashtra and Others [2021] 4 SCR 
+1044 : (2021) 19 SCC 401; Kusum Ingots & Alloys Ltd. v. Pennar 
+Peterson Securities Ltd. and Others [2000] 1 SCR 1120 : (2000) 
+2 SCC 745 – relied on.
+M.M.T.C. Ltd. and Another v. Medchl Chemicals and Pharma (P) 
+Ltd. and Another [2001] Supp. 5 SCR 265 : (2002) 1 SCC 234 – 
+referred to.
+List of Acts
+Code of Criminal Procedure, 1973; Negotiable Instruments Act, 
+1881; Legally Enforcealble Debt.
+List of Keywords
+Section 482 of Code of Criminal Procedure, 1973; Mini trial; 
+Power to quash criminal proceedings; Dishonour of cheque; 
+Complaint; Statutory notice; Failure to pay; Separate cause of 
+action; Dishonoured separately; Independent statutory notice; 
+Disputed question of fact.
+Case Arising From
+CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 
+141 of 2026
+From the Judgment and Order dated 17.04.2025 of the High Court 
+of Delhi at New Delhi in CRLMC No. 8002 of 2023
+With
+Criminal Appeal No(s). 142, 143, and 144 of 2026
+
+110
+[2026] 2 S.C.R.
+Supreme Court Reports
+Appearances for Parties
+Advs. for the Appellant(s):
+Dr. Harshvir Pratap Sharma, Sr. Adv., Sameer Rohatgi, Namit Suri, 
+Rameezuddin Raja, Ms. Pepakayala Geetanjali, Anish Singh, Tejas 
+Patel, Harshvir Pratap Sharma, Akul Krishnan.
+Advs. for the Respondent(s):
+Dr. Harshvir Pratap Sharma, Sr. Adv., Tejas Patel, Akul Krishnan, 
+Ms. Sakshi Apurva, Sameer Rohatgi, Namit Suri, Rameezuddin 
+Raja, Ms. Pepakayala Geetanjali, Anish Singh.
+Judgment / Order of the Supreme Court
+Judgment
+Prashant Kumar Mishra, J.
+1.	
+Leave granted.
+2.	
+The present batch of Appeals arises out of two separate judgments 
+dated 17.04.2025 passed by the High Court of Delhi1 in the petitions 
+filed under Section 482 of the Code of Criminal Procedure, 19732 
+seeking quashing of a set of four complaints instituted under Section 
+138 read with Sections 141 and 142 of the Negotiable Instruments 
+Act, 18813. 
+3.	
+The complainant in all the four complaints is one Shri Sumit Bansal, 
+who is appellant in the lead Appeal and respondent in the connected 
+Appeals, whereas the accused are M/s. MGI Developers and 
+Promoters, a proprietorship concern, and its proprietor Shri Manoj 
+Goyal, who are the respondents in the lead Appeal and the appellants 
+in the connected Appeals. For our convenience in adjudicating all the 
+Appeals, Shri Sumit Bansal will be referred to as ‘the complainant’, 
+whereas M/s. MGI Developers and Promoters and Shri Manoj Goyal 
+will be referred to as ‘Respondent No. 1’ and ‘Respondent No. 2’ 
+respectively.
+1	
+‘High Court’
+2	
+‘Cr.PC’
+3	
+‘NI Act’
+
+[2026] 2 S.C.R. 
+111
+Sumit Bansal v. M/s MGI Developers and Promoters and Another
+FACTUAL MATRIX
+4.	
+The record discloses that the parties had entered into an Agreement 
+to Sell dated 07.11.2016 in respect of three commercial units bearing 
+Nos. S-1, S-2 and S-3 situated in a commercial project named 
+“MGI Mansion”, located at Khasra Nos. 966 and 967, Village Noor 
+Nagar, Tehsil and District Ghaziabad, Uttar Pradesh. The total sale 
+consideration agreed between the parties was Rs. 1,72,21,200/- 
+(Rupees One Crore Seventy-two Lakh Twenty-one Thousand and 
+Two Hundred only), which was admittedly paid by the complainant 
+to the proprietorship firm. Under the terms of the Agreement, the 
+vendor was obliged to execute and register the Sale Deed(s) in 
+favour of the complainant on or before 30.09.2018, and in the event 
+of failure to do so, the entire amount received was to be refunded 
+to the complainant together with an appreciation amount by way of 
+compensation.
+5.	
+On 27.07.2018, Respondent No.2 executed a personal guarantee 
+undertaking to ensure refund of the amount together with the 
+appreciation amount in case the sale deeds were not executed to the 
+complainant within the stipulated period. To secure the said liability, 
+he also undertook to issue personal cheques corresponding to the 
+firm’s cheques, to provide an alternative mechanism for repayment.
+6.	
+Upon the failure of Respondent Nos. 1 and 2 to execute the Sale 
+Deed(s) by 30.09.2018, Respondent No. 1 issued two cheques 
+of that date, namely Cheque No. 057140 for Rs. 1,72,21,200/- 
+representing the principal consideration, and Cheque No. 057141 
+for Rs. 35,00,000/- representing the appreciation amount. In 
+addition, in terms of his personal guarantee, Respondent No. 2 
+issued two personal cheques, also dated 30.09.2018, being Cheque 
+No. 114256 for Rs. 1,72,21,200/- and Cheque No. 114257 for 
+Rs. 35,00,000/-. These cheques were handed over to the complainant 
+with an understanding that the personal cheques could be presented 
+earlier, while the firm’s cheques would be available for presentation 
+later.
+7.	
+Acting on such understanding, the complainant presented the personal 
+cheques for encashment on 05.12.2018. However, both the cheques 
+were returned dishonoured on 06.12.2018 with the bank’s remark 
+“Exceeds Arrangement”. Subsequently, the complainant presented 
+the firm’s cheques on 15.12.2018, which too were returned unpaid 
+
+112
+[2026] 2 S.C.R.
+Supreme Court Reports
+on 17.12.2018 with the remark “Funds Insufficient”. The complainant 
+thereafter issued a statutory notice dated 21.12.2018 to all the 
+accused persons demanding payment within the statutory period, 
+but despite service, no payment was made.
+8.	
+Consequently, the complainant instituted the first two complaints 
+under Section 138 of the NI Act. The first was Complaint Case No. 
+2823 of 2019, filed on 25.01.2019, in respect of the personal cheque 
+Nos. 114256 and 114257 issued by Respondent No. 2, wherein 
+cognizance was taken and summons issued on 20.06.2019. The 
+second was Complaint Case No. 3298 of 2019, filed on 30.01.2019, 
+in respect of the firm’s cheques Nos. 057140 and 057141, for which 
+the summoning order was passed on 06.03.2019.
+9.	
+Thereafter, in continuation of the earlier transaction, Respondent 
+Nos.  1 and 2 again issued fresh cheques. On 28.02.2019, 
+Respondent No. 1 issued Cheque No. 562629 for Rs. 35,00,000/-, 
+and Respondent No. 2 issued Cheque No. 114275 for the same 
+amount, again towards the appreciation sum. Cheque No. 114275, 
+when presented on 11.03.2019, was dishonoured on 12.03.2019 
+with the endorsement “Exceeds Arrangement”. Respondent No. 1’s 
+cheque No. 562629, presented on 08.05.2019, was also dishonoured 
+on 09.05.2019 with the remark “Funds Insufficient”. A statutory notice 
+having been issued and no payment made, the complainant filed 
+another complaint, Complaint Case No. 13508 of 2019, for which 
+cognizance and summoning were ordered on 17.08.2019.
+10.	 Subsequently, on 31.07.2019, further cheques were issued in 
+relation to the same underlying transaction with Respondent No. 1 
+issued Cheque No. 562656 for Rs. 35,00,000/-, and Respondent 
+No. 2 issued Cheque No. 000084 for Rs. 35,00,000/-. These were 
+presented in October 2019 and were dishonoured on 28.10.2019 and 
+26.10.2019, respectively. The complainant issued statutory notices 
+dated 30.10.2019, and upon failure of payment, instituted two more 
+complaints being Complaint Case Nos. 740 of 2020 and 743 of 2020, 
+both filed on 09.01.2020, wherein cognizance and summoning orders 
+were passed on 24.11.2022.
+11.	 In this manner, a total of five complaint cases came to be filed by the 
+complainant against the same set of accused, each complaint relating 
+to distinct cheque instruments and separate dates of presentation and 
+dishonour: (i) Complaint Case No. 2823/2019; (ii) Complaint Case 
+
+[2026] 2 S.C.R. 
+113
+Sumit Bansal v. M/s MGI Developers and Promoters and Another
+No. 3298/2019; (iii) Complaint Case No. 13508/2019; (iv) Complaint 
+Case No. 740/20204; and (v) Complaint Case No.743/2020, the last 
+two arising out of the same set of transactions.
+12.	 Aggrieved by the institution and continuation of the said criminal 
+complaints and the summoning orders passed thereafter, Respondent 
+Nos. 1 and 2 preferred petitions before the High Court of Delhi under 
+Section 482 of the Cr.PC seeking quashing of the complaints and 
+the summoning orders.
+13.	 Vide its judgment dated 17.04.2025 passed in Crl.MC No. 7912 of 
+2023 and Crl.MC No. 8002 of 2023, the High Court, upon consideration 
+of the material, observed that the cheques which formed the basis 
+of the first two complaints (i.e., Complaint Case Nos. 2823 of 2019 
+and 3298 of 2019) were drawn and presented in respect of the same 
+underlying liability, namely, refund of the same sale consideration 
+under the Agreement to Sell dated 07.11.2016. The Court held that 
+the complainant could not simultaneously maintain two separate 
+complaints in respect of the same debt or liability, merely because 
+separate sets of cheques i.e., one issued in the name of the firm 
+and another personally by its proprietor, had been presented and 
+dishonoured. It was, thus, concluded that continuation of both 
+complaints would amount to parallel prosecution for the same cause 
+of action. On that reasoning, the High Court quashed the complaint 
+relating to the firm’s cheques (Complaint Case No. 3298 of 2019) 
+in entirety, and also partially quashed the complaint relating to the 
+personal cheques (Complaint Case No. 2823 of 2019) only insofar 
+as it concerned Smt. Kavita Rani Goyal, who was not a signatory to 
+the cheques nor shown to be involved in the transaction.
+14.	 In a separate judgment dated 17.04.2025 passed in Crl.MC No. 2161 
+of 2024 and Crl.MC No. 7632 of 2023 as regard to the later complaints 
+(Complaint Case No. 13508 of 2019 and Complaint Case No. 743 of 
+2020) against both the respondents, the High Court noted that those 
+cheques were issued subsequently, on distinct dates, representing 
+independent and fresh causes of action upon successive dishonours. 
+The High Court, therefore, held that the same could not be said to 
+be barred by reason of multiplicity or identity of cause and declined 
+to quash those complaints at the threshold, observing that whether 
+4	
+This Complaint Case is not a subject-matter of the present Appeals.
+
+114
+[2026] 2 S.C.R.
+Supreme Court Reports
+those instruments were issued in discharge of legally enforceable 
+debt would be a matter of trial.
+15.	 Being aggrieved, the complainant has preferred the present Appeal, 
+which is the lead matter, before this Court challenging the quashing 
+of Complaint Case No. 3298 of 2019 by the High Court, whereas 
+Respondent No. 2 has filed separate Appeals, which are companion 
+Appeals, assailing the refusal of the High Court to quash the other 
+complaints against him. The complainant did not challenge the order 
+insofar as it related to Smt. Kavita Rani Goyal, therefore, that portion 
+remains uncontested before us. 
+16.	 While issuing notice on the lead Appeal, preferred by the complainant, 
+this Court had stayed the effect and operation of the impugned 
+judgment dated 17.04.2025 in Crl.MC No. 8002 of 2023, whereby 
+the High Court had quashed Complaint Case No. 3298 of 2019 
+against Respondent No. 2.
+SUBMISSION OF PARTIES
+17.	 Learned counsel for the complainant argued that the impugned 
+judgment of the High Court failed to recognise that the respondents 
+throughout the litigation have nowhere disputed the issuance, 
+presentation and dishonour of the cheques and nor have denied 
+the underlying liability.
+18.	 Learned counsel has submitted that the High Court erred in quashing 
+Complaint Case No. 3298 of 2019 against the respondents on the 
+ground that since the personal cheques issued by Respondent 
+No. 2 were already presented, the other cheques issued from the 
+firm’s account ought to have been returned. Learned counsel points 
+out that neither of the cheques were cancelled nor returned by the 
+complainant to the respondents. Therefore, learned counsel submits 
+that once the ingredients of Section 138 of the NI Act are satisfied, 
+presumption of liability continues to exist against the respondents.
+19.	 With respect to the Appeals filed by the respondents challenging the 
+High Court’s refusal to quash other complaint cases, learned counsel 
+for the complainant submits that the impugned judgment of the High 
+Court was correct in not quashing Complaint No. 2823 of 2019 as 
+regards Respondent No.2, Complaint Case No. 13508/2019, and 
+Complaint Case No. 743/2020, registered against the respondents.
+
+[2026] 2 S.C.R. 
+115
+Sumit Bansal v. M/s MGI Developers and Promoters and Another
+20.	 Lastly, learned counsel for the complainant submits that the arguments 
+of the respondents that the payment has already been made to the 
+complainant is a disputed question of fact and the High Court was 
+right in not interfering with the same under Section 482 of the Cr.PC.
+21.	 Per contra, learned senior counsel for the respondents has argued 
+that all the four complaints against them are not in conformity with 
+Section 138 of the NI Act. He points out that the principal amount in 
+the alleged Agreement dated 07.11.2016 was of Rs 1,72,21,200/- and 
+Rs 35,00,000/- as appreciation amount, however, the total amount 
+claimed in these five complaints goes to Rs 5,19,42,400/-.
+22.	 Learned senior counsel for the respondents has argued that the 
+Complaint Case No. 3298 of 2019 was rightly quashed by the High 
+Court. He submits that the complainant had already exhausted his 
+remedy by instituting the personal cheque issued by Respondent 
+No.2 and, therefore, was barred by estoppel in instituting the other 
+cheques issued by the firm.
+23.	 Lastly, with respect to the other complaints, learned senior counsel 
+for the respondents submits that no amount is due to be paid to the 
+complainant as the same is already returned. Therefore, he submits 
+that there exists no liability whatsoever of the respondents. 
+ANALYSIS
+24.	 We have heard the learned counsel for the parties and have carefully 
+perused the material on record. 
+25.	 The issues that arise for our consideration are:
+a)	
+Whether the High Court was right in quashing Complaint Case 
+No. 3298 of 2019 and the consequential summoning order dated 
+06.03.2019 against Respondent Nos. 1 and 2 herein arising out 
+of the dishonour of the firm’s cheque Nos. 057140 and 057141, 
+on the ground that it related to the same underlying liability for 
+which another complaint i.e., Complaint Case No. 2823 of 2019 
+had already been instituted and whether the same would not 
+amount to conducting a ‘mini trial’ which is clearly prohibited 
+under the scheme of Section 482 of the Cr.PC; and
+b)	
+Whether the High Court erred in not quashing the criminal 
+proceedings against Respondent No. 2 arising out of Complaint 
+
+116
+[2026] 2 S.C.R.
+Supreme Court Reports
+Case No. 2823 of 2019, Complaint Case No. 13508 of 2019 
+and Complaint Case No. 743 of 2020.
+26.	 Before adverting to the rival contentions, it is appropriate to recall 
+the settled legal principles which govern the exercise of the inherent 
+jurisdiction of the High Court under Section 482 of the Cr.PC. This 
+Court in catena of judgments has emphasised that the High Court 
+must avoid usurping the function of a Trial Court or conducting a 
+mini trial when disputed factual questions attend the maintainability 
+of a complaint. In State of Haryana and Others vs. Bhajan Lal 
+and Others5, a Division Bench of this Court had discussed about 
+the scope of Section 482 of the Cr.PC as follows:
+“102. In the backdrop of the interpretation of the various 
+relevant provisions of the Code under Chapter XIV and of 
+the principles of law enunciated by this Court in a series of 
+decisions relating to the exercise of the extraordinary power 
+under Article 226 or the inherent powers under Section 
+482 of the Code which we have extracted and reproduced 
+above, we have given the following categories of cases by 
+way of illustration wherein such power could be exercised 
+either to prevent abuse of the process of any court or 
+otherwise to secure the ends of justice, though it may not 
+be possible to lay down any precise, clearly defined and 
+sufficiently channelised and inflexible guidelines or rigid 
+formulae and to give an exhaustive list of myriad kinds of 
+cases wherein such power should be exercised. 
+(1) Where the allegations made in the first information 
+report or the complaint, even if they are taken at 
+their face value and accepted in their entirety do 
+not prima facie constitute any offence or make out 
+a case against the accused.
+(2) Where the allegations in the first information report 
+and other materials, if any, accompanying the FIR 
+do not disclose a cognizable offence, justifying an 
+investigation by police officers under Section 156(1) 
+of the Code except under an order of a Magistrate 
+within the purview of Section 155(2) of the Code. 
+5	
+(1992) Supp. 1 SCC 335
+
+[2026] 2 S.C.R. 
+117
+Sumit Bansal v. M/s MGI Developers and Promoters and Another
+(3) Where the uncontroverted allegations made in the 
+FIR or complaint and the evidence collected in support 
+of the same do not disclose the commission of any 
+offence and make out a case against the accused.
+(4) Where, the allegations in the FIR do not constitute 
+a cognizable offence but constitute only a non-
+cognizable offence, no investigation is permitted by 
+a police officer without an order of a Magistrate as 
+contemplated under Section 155(2) of the Code. 
+(5) Where the allegations made in the FIR or complaint 
+are so absurd and inherently improbable on the 
+basis of which no prudent person can ever reach 
+a just conclusion that there is sufficient ground for 
+proceeding against the accused.
+(6) Where there is an express legal bar engrafted in 
+any of the provisions of the Code or the concerned 
+Act (under which a criminal proceeding is instituted) 
+to the institution and continuance of the proceedings 
+and/or where there is a specific provision in the Code 
+or the concerned Act, providing efficacious redress 
+for the grievance of the aggrieved party. 
+(7) Where a criminal proceeding is manifestly 
+attended with mala fide and/or where the proceeding 
+is maliciously instituted with an ulterior motive for 
+wreaking vengeance on the accused and with a view 
+to spite him due to private and personal grudge.”
+(emphasis supplied)
+27.	 In a much recent decision of this Court in Neeharika Infrastructure 
+Private Limited vs. State of Maharashtra and Others6, a three-
+Judge Bench had held that the power to quash criminal proceedings 
+must be exercised sparingly, and only where the complaint, even if 
+accepted in full, discloses no offence or continuation would amount 
+to abuse of process of law. This Court had issued the following 
+directions to the High Courts to be kept in mind while exercising the 
+power under Section 482 of the Cr.PC:
+6	
+(2021) 19 SCC 401
+
+118
+[2026] 2 S.C.R.
+Supreme Court Reports
+“Conclusions
+33. In view of the above and for the reasons stated above, 
+our final conclusions on the principal/core issue, whether 
+the High Court would be justified in passing an interim 
+order of stay of investigation and/or “no coercive steps 
+to be adopted”, during the pendency of the quashing 
+petition under Section 482CrPC and/or under Article 226 
+of the Constitution of India and in what circumstances and 
+whether the High Court would be justified in passing the 
+order of not to arrest the accused or “no coercive steps 
+to be adopted” during the investigation or till the final 
+report/charge-sheet is filed under Section 173CrPC, while 
+dismissing/disposing of/not entertaining/not quashing the 
+criminal proceedings/complaint/FIR in exercise of powers 
+under Section 482CrPC and/or under Article 226 of the 
+Constitution of India, our final conclusions are as under:
+33.1….
+33.2. Courts would not thwart any investigation into the 
+cognizable offences.
+33.3. It is only in cases where no cognizable offence or 
+offence of any kind is disclosed in the first information report 
+that the Court will not permit an investigation to go on.
+33.4. The power of quashing should be exercised sparingly 
+with circumspection, as it has been observed, in the “rarest 
+of rare cases” (not to be confused with the formation in 
+the context of death penalty).
+33.5. While examining an FIR/complaint, quashing of which 
+is sought, the court cannot embark upon an enquiry as to 
+the reliability or genuineness or otherwise of the allegations 
+made in the FIR/complaint.
+33.6….
+33.7. Quashing of a complaint/FIR should be an exception 
+rather than an ordinary rule.
+33.8 to 33.11….
+33.12. The first information report is not an encyclopedia 
+which must disclose all facts and details relating to the 
+
+[2026] 2 S.C.R. 
+119
+Sumit Bansal v. M/s MGI Developers and Promoters and Another
+offence reported. Therefore, when the investigation by the 
+police is in progress, the court should not go into the merits 
+of the allegations in the FIR. Police must be permitted 
+to complete the investigation. It would be premature to 
+pronounce the conclusion based on hazy facts that the 
+complaint/FIR does not deserve to be investigated or that 
+it amounts to abuse of process of law. After investigation, if 
+the investigating officer finds that there is no substance in 
+the application made by the complainant, the investigating 
+officer may file an appropriate report/summary before the 
+learned Magistrate which may be considered by the learned 
+Magistrate in accordance with the known procedure.
+33.13 and 33.14….
+33.15. When a prayer for quashing the FIR is made by the 
+alleged accused and the court when it exercises the power 
+under Section 482CrPC, only has to consider whether the 
+allegations in the FIR disclose commission of a cognizable 
+offence or not. The court is not required to consider on 
+merits whether or not the merits of the allegations make 
+out a cognizable offence and the court has to permit the 
+investigating agency/police to investigate the allegations 
+in the FIR.
+…..”
+(emphasis supplied)
+28.	 On these lines, it is apt clear that even though the powers under 
+Section 482 of the Cr.PC are very wide, its conferment requires 
+the High Court to be more cautious and diligent. While examining 
+any complaint or FIR, the High Court exercising its power under 
+this provision cannot go embarking upon the genuineness of the 
+allegations made. The Court must only consider whether there exists 
+any sufficient material to proceed against the accused or not.
+29.	 As we have now discussed the trite law on the powers of High Court 
+under Section 482 of the Cr.PC, we will now individually deal with 
+the facts of the present Appeals. Considering that there are two 
+sets of Appeals before us, one by the complainant and other three 
+by Respondent No. 2, we would be dealing both sets separately.
+
+120
+[2026] 2 S.C.R.
+Supreme Court Reports
+A.	
+Criminal Appeal arising out of S.L.P. (Criminal) No.10770 
+of 2025 (preferred by the complainant)
+30.	 From the material on record, it is evident that the complainant was 
+in possession of two cheques bearing nos. 057140 and 057141, 
+both dated 30.09.2018, for Rs.1,72,21,200/- and Rs.35,00,000/- 
+respectively, issued by Respondent No. 2 on behalf of the firm. 
+The complainant asserts that, citing temporary financial constraints 
+in the firm, Respondent No. 2 issued two additional cheques from 
+his personal joint account (with his wife Smt. Kavita Rani Goyal) 
+with nos. 114256 and 114257, also dated 30.09.2018, for the same 
+amounts as a personal guarantee, to be invoked if repayment was 
+sought prior to 15.12.2018. The complainant presented the personal 
+cheques for encashment on 05.12.2018, which were dishonoured, 
+and return memos were issued on 06.12.2018. Upon being apprised 
+of the dishonour, the accused had expressed regret and advised the 
+complainant to present the firm’s cheques, assuring their honour. 
+When the firm’s cheques were presented for encashment, they were 
+also dishonoured. This led to two complaints being filed, first was 
+Complaint Case No. 2823 of 2019, filed on 25.01.2019, in respect of 
+the personal cheques Nos. 114256 and 114257, and the second was 
+Complaint Case No. 3298 of 2019, filed on 30.01.2019, in respect 
+of the firm’s cheque Nos. 057140 and 057141.
+31.	 The complainant is before us challenging the impugned judgment 
+by which the High Court had quashed Complainant Case No. 3298 
+of 2019 registered against Respondent Nos.1 and 2. In dealing with 
+the case of the complainant before us, it would be appropriate to 
+advert to the observations made by the High Court in paragraph 10 
+of the impugned judgment in Crl.MC Nos.7912/2023 and 8002/2023:
+“10. As pointed hereinabove, it is the case of the respondent 
+himself in CRL.M.C. 7912/2023 that the cheques issued 
+from the personal bank account of petitioner no. 1 (jointly 
+held by petitioner nos. 1 and 2) were given as an option 
+to the respondent in case he wanted the money to be 
+credited in his account before the date as stated in the 
+said complaint, i.e., 15.12.2018. In essence therefore, the 
+cheques issued by petitioner no. 1 from his personal bank 
+account were in lieu of the cheques issued by petitioner 
+no. 1 from the bank account of the petitioner firm. In 
+
+[2026] 2 S.C.R. 
+121
+Sumit Bansal v. M/s MGI Developers and Promoters and Another
+these circumstances the cheques issued by petitioner 
+no. 1 on behalf of the petitioner firm in the first instance 
+should either have been returned by the respondent and 
+in any case, ought not to have been presented. There is 
+absolutely no disclosure on behalf of the respondent in the 
+complaint filed subsequently with respect to the cheques 
+issued by petitioner no. 1 on behalf of the petitioner firm, 
+i.e., in Complaint Case no. 3298/2019 (subject-matter of 
+CRL. M.C. 8002/2023) with regard to the cheques already 
+issued by petitioner no. 1 from his personal bank account. 
+In view of the averments made in the complaints, there 
+cannot be in any manner, doubt left that the respondent 
+exercised his option to present the cheques issued from 
+the personal bank account of the petitioner towards the 
+personal guarantee for discharge of the liability. In these 
+circumstances, the respondent cannot be permitted to 
+present the other set of cheques issued from the bank 
+account of the petitioner firm again for the same transaction. 
+In these circumstances, in the considered opinion of this 
+Court, continuance of proceedings in Criminal Complaint 
+no. 3298/2019 (subject matter of CRL.M.C. 8002/2023) 
+would be an abuse of process of law and therefore, in the 
+interest of justice, exercise of powers under Section 482 of 
+the Cr.P.C. by this Court is warranted in the present case.”
+(emphasis supplied)
+32.	 From a bare perusal of the above observation of the High Court, it 
+can be seen that one of the important factors that weighed in with 
+the High Court while allowing the quashing of Complainant Case 
+No. 3298 of 2019 against Respondent Nos.1 and 2 was that firm’s 
+cheques (Nos. 057140 and 057141) and the personal cheques 
+(Nos. 114256 and 114257) issued by Respondent No. 2 represented 
+the same liability under the Agreement to Sell dated 07.11.2016 
+and, therefore, two parallel prosecutions could not simultaneously 
+stand. The High Court was of the view that the cheques issued by 
+Respondent No. 2 from his personal bank account were in lieu of 
+the cheques issued from the bank account of the firm and, therefore, 
+once the complainant had exercised his option to present the cheques 
+issued by Respondent No. 2 from his personal account, the cheques 
+
+122
+[2026] 2 S.C.R.
+Supreme Court Reports
+issued from Respondent No. 1’s bank account ought not to have 
+been presented later and they should have been returned back. The 
+High Court had also highlighted that in Complainant Case No. 3298 
+of 2019 which was filed on 30.01.2019, there was no disclosure on 
+the part of the complainant about the earlier Complaint Case No. 
+2823 of 2019 filed on 25.01.2019 regarding the cheques issued by 
+Respondent No. 2 from his personal bank account. In light of the 
+above, the High Court had proceeded to quash Complaint Case 
+No. 3298 of 2019, holding that its continuation along with Complaint 
+Case No. 2823 of 2019 for the same transaction would be an abuse 
+of process of law.
+33.	 In Neeharika Infrastructure Private Limited (supra), this Court had 
+made it clear that quashing was to be permissible only where the 
+complaint on its face fails to disclose any offence or where there is 
+unimpeachable material demonstrating abuse of process of law. On 
+these lines, having perused the impugned judgment of High Court 
+qua quashing of Complaint Case No. 3298 of 2019, we are unable 
+to concur with the reasoning reached by the High Court. It is well 
+settled that under Section 138 of the NI Act, a separate cause of 
+action arises upon each dishonour of a cheque provided the statutory 
+sequence of presentation, dishonour, notice, and failure to pay is 
+complete. The fact that multiple cheques arise from one transaction 
+will not merge them into a single cause of action. In the present case, 
+the cheques forming the subject of the two complaints (Complaint 
+Case No. 2823 of 2019 and Complaint Case No. 3298 of 2019) 
+were distinct instruments drawn on different accounts, presented on 
+different dates, dishonoured separately, and followed by independent 
+statutory notices. The scheme of Section 138 of the NI Act does not 
+bar prosecution in such circumstances. 
+34.	 Whether those cheques were issued as alternative or supplementary 
+instruments, or represented fresh undertakings, is a disputed question 
+of fact requiring evidence at the time of trial and cannot be resolved 
+at the threshold. Questions such as whether the firm’s cheques were 
+issued in substitution of the personal cheques, whether the parties 
+treated them as alternative securities, and whether both were intended 
+to be simultaneously enforceable, are all mixed questions of fact. 
+The inherent jurisdiction of the High Court under Section 482 of the 
+Cr.PC cannot be used to decide such disputed issues.
+
+[2026] 2 S.C.R. 
+123
+Sumit Bansal v. M/s MGI Developers and Promoters and Another
+35.	 For these reasons, we are of the view that the High Court exceeded 
+its jurisdiction and was not justified in quashing Complaint Case 
+No. 3298 of 2019 and the summoning order dated 06.03.2019. The 
+complaint on its face discloses the ingredients of offence under 
+Section 138 of the NI Act and must proceed to trial. 
+B.	
+Criminal Appeals arising out of S.L.P. (Criminal) Nos.11262 
+of 2025, 11647 of 2025 and 11787 of 2025 (preferred by 
+Respondent No.2)
+36.	 We shall now turn to the three Appeals filed by Respondent No. 2 
+challenging the High Court’s refusal to quash Complaint Case No. 743 
+of 2020, Complaint Case No. 13508 of 2019 and Complaint Case 
+No. 2823 of 2019. 
+37.	 Before we delve into the correctness of the impugned judgment of 
+the High Court qua the foregoing complaints, it is apposite for us to 
+refer to the Agreement to Sell dated 07.11.2016, which acts as a base 
+for this entire litigation. The relevant portion of the said Agreement 
+is reproduced hereinbelow:
+“7a) That, in case the First Party is unable to get the Sale 
+Deed of the said Commercial Unit(s) registered in favour 
+of the Second Party till 30-09-2018, then the Second party 
+shall be entitled to the refund of Full & Final Payment given 
+against the said Commercial Unit(s). In such an eventuality, 
+the First Party shall be liable to pay a compensation of 
+Rs. 15000/- (Rupees Fifteen Thousand Only) Per day after 
+30-09-2018 which will be over & above the Full & Final 
+payment amount.
+7b) That the first party will also provide irrevocable Authority 
+Letter in the name of Mr. Narinder Kumar Midha S/o Late 
+Shri K.N. Midha R/o House No. 53, 2nd Floor, Road No.-42, 
+West Punjabi Bagh, New Delhi-110026, enabling him to 
+execute the Power of Attorney, Sale Deed, Agreement to 
+Sell, whichever is applicable and receive consideration/
+Free transfer to third party for the said commercial units. 
+7c) That the First Party also confirms for an appreciation 
+amount of Rs. 35,00,000/- (Rupees Thirty Five Lakh 
+only) to the Second Party if First Party will not be able to 
+
+124
+[2026] 2 S.C.R.
+Supreme Court Reports
+deliver the mentioned commercial units in schedule course 
+of time and a post-dated cheque no. 057141 drawn on 
+Central Bank of India, Ghaziabad Dt. 30-09-2018 issued 
+to Second Party.”
+(emphasis supplied)
+38.	 The record clearly indicates that these complaints (Complaint Case 
+No. 2823 of 2019, Complaint Case No. 13508 of 2019 and Complaint 
+Case No. 743 of 2020) arise out of cheques Nos. 114256, 114257, 
+562629 and 000084 respectively, as issued and dishonoured on 
+different dates in 2018 and 2019, each followed by independent 
+statutory notices and complaint. It is also an admitted fact that each 
+of the above cheques were issued by Respondent No.2 over and 
+above the cheques of the principal amount of Rs.1,72,21,200/- and 
+the appreciation amount of Rs. 35,00,000/-.
+39.	 At this point, it is imperative to refer to the decision in Kusum Ingots 
+& Alloys Ltd. vs. Pennar Peterson Securities Ltd. and Others7, 
+wherein a Division Bench of this Court had highlighted the ingredients 
+which are to be satisfied for making out a case under Section 138 
+of the NI Act. The relevant excerpt is reproduced hereinbelow:
+“10. On a reading of the provisions of Section 138 of 
+the NI Act it is clear that the ingredients which are to be 
+satisfied for making out a case under the provision are: 
+(i) a person must have drawn a cheque on an account 
+maintained by him in a bank for payment of a certain 
+amount of money to another person from out of that account 
+for the discharge of any debt or other liability; 
+(ii) that cheque has been presented to the bank within a 
+period of six months from the date on which it is drawn or 
+within the period of its validity, whichever is earlier; 
+(iii) that cheque is returned by the bank unpaid, either 
+because the amount of money standing to the credit of 
+the account is insufficient to honour the cheque or that it 
+exceeds the amount arranged to be paid from that account 
+by an agreement made with the bank; 
+7	
+(2000) 2 SCC 745
+
+[2026] 2 S.C.R. 
+125
+Sumit Bansal v. M/s MGI Developers and Promoters and Another
+(iv) the payee or the holder in due course of the cheque 
+makes a demand for the payment of the said amount of 
+money by giving a notice in writing, to the drawer of the 
+cheque, within 15 days of the receipt of information by him 
+from the bank regarding the return of the cheque as unpaid; 
+(v) the drawer of such cheque fails to make payment of 
+the said amount of money to the payee or the holder in 
+due course of the cheque within 15 days of the receipt of 
+the said notice.”
+40.	 On a careful reading of the ingredients required for commission of 
+offence under Section 138 of the NI Act, we find that the record 
+before us clearly indicates that the cheques, as provided above, were 
+dishonoured, statutory notices were served, cheques were returned, 
+and the summons were thereafter issued. On such material, we 
+are of the view that the complaint prima facie stands. Any disputed 
+question of fact qua the offence under Section 138 of the NI Act 
+or any defence that Respondent No. 2 wants to raise against the 
+offence alleged must be done during the trial. 
+41.	 One of the averments raised by the respondents is that the said 
+cheques were presented illegally by the complainant despite 
+receiving the entire amount already. Learned senior counsel for the 
+respondents had argued that in fact the complainant had invested only 
+Rs 66,50,000/- for which they have already returned Rs 97,00,000/-. 
+Therefore, it is the case of the respondents that there exists no debt 
+or liability. 
+42.	 However, we are of the view that the burden of proving whether there 
+exists any debt or liability is something which must be discharged in 
+trial. A bare perusal of Section 139 of the NI Act would indicate that 
+once a cheque is issued in discharge of liability and dishonoured, 
+a presumption of liability in favour of the complainant arises. The 
+accused person is then required to rebut the presumption by raising 
+facts that either there was no debt or liability when the cheque was 
+drawn, or the cheque was not drawn in discharge of liability, or 
+notice was not served in time. In this regard, we must refer to the 
+decision in M.M.T.C. Ltd. and Another vs. Medchl Chemicals and 
+Pharma (P) Ltd. and Another8, wherein this Court had made the 
+following observation on this aspect:
+8	
+(2002) 1 SCC 234
+
+126
+[2026] 2 S.C.R.
+Supreme Court Reports
+“17. There is therefore no requirement that the complainant 
+must specifically allege in the complaint that there was a 
+subsisting liability. The burden of proving that there was 
+no existing debt or liability was on the respondents. This 
+they have to discharge in the trial. At this stage, merely 
+on the basis of averments in the petitions filed by them 
+the High Court could not have concluded that there was 
+no existing debt or liability.”
+(emphasis supplied)
+43.	 The statutory presumption attached to the issuance of a cheque, 
+being one made in discharge of a legally enforceable debt or liability, 
+is required to be accorded due weight. Therefore, in circumstances 
+where the accused approaches the Court seeking quashing of 
+proceedings even before the commencement of trial, the Court must 
+exercise circumspection and refrain from prematurely stifling the 
+prosecution at the threshold, particularly by overlooking the legal 
+presumption that operates in favour of the complainant.
+44.	 For these reasons, we are of the view that the High Court was justified 
+in not quashing Complaint Case No. 2823 of 2019, Complaint Case 
+No.13508 of 2019 and Complaint Case No. 743 of 2020 registered 
+against Respondent No. 2 herein. The foregoing complaints prima 
+facie discloses the ingredients of offence under Section 138 of the 
+NI Act and must proceed to trial.
+CONCLUSION
+45.	 In light of our aforesaid discussion and for the reasons above, we 
+come to the following conclusion:
+a)	
+The Appeal arising out of SLP (Crl.) No. 10770 of 2025 preferred 
+by the complainant is allowed. The judgment of the High Court 
+dated 17.04.2025 passed in Crl.MC No. 8002 of 2023 quashing 
+Complaint Case No. 3298 of 2019 and the summoning order 
+dated 06.03.2019, is set aside. Complaint Case No. 3298 of 
+2019 shall stand restored for trial before the concerned Trial 
+Court.
+b)	
+The Appeals arising out of SLP (Crl.) Nos. 11262 of 2025, 
+11647 of 2025 and 11787 of 2025 preferred by Respondent 
+No. 2 are dismissed.
+
+[2026] 2 S.C.R. 
+127
+Sumit Bansal v. M/s MGI Developers and Promoters and Another
+46.	 All contentions of the parties are left open, which shall be decided 
+by the Trial Court on its own merits and in accordance with law. We 
+make it clear that none of the observations contained herein shall 
+have a bearing on the main trial. The Trial Court shall independently 
+arrive at its conclusion based on the evidence tendered before it. 
+Result of the case: Crl.A.No.141 of 2026 is allowed. 
+Crl.A.No. 142 of 2026, Crl.A. No. 143 of 2026 
+and Crl. A. No.144 of 2026 are dismissed.
+†Headnotes prepared by: Ankit Gyan

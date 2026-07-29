@@ -1,0 +1,443 @@
+[2026] 5 S.C.R. 26 : 2026 INSC 327
+Renuka 
+v. 
+The State of Maharashtra and Another
+(Criminal Appeal No. 1783 of 2026)
+07 April 2026
+[J.K. Maheshwari and Atul S. Chandurkar,* JJ.]
+Issue for Consideration
+Whether the Sessions Court as well as the High Court erred in 
+holding that the complaint as filed by the appellant u/s.138 of the 
+N.I. Act was liable to be dismissed at the pre-trial stage on the 
+ground that the cheque issued by the second respondent was not 
+towards any legally enforceable debt.
+Headnotes†
+Negotiable Instruments Act, 1881 – ss.138, 139 – Once the 
+basic ingredients of s.138 are satisfied, the complaint cannot 
+be dismissed at the pre-trial stage on the ground that the 
+cheque issued was not towards a legally enforceable debt – 
+Appellant’s case that in terms of the settlement agreement 
+between her and her husband, her husband had to inter 
+alia pay ₹50 crores to her – Second respondent acted as 
+a guarantor and issued the cheque in question drawn in 
+favour of the appellant – On being presented, the cheque got 
+dishonoured with the remark ‘payment stopped by drawer’ – 
+Eventually, complaint filed by the appellant u/s.138 against 
+the second respondent – Process issued by Metropolitan 
+Magistrate – Order set aside by Sessions Court holding that 
+on the date of issuance of the cheque in question, there was 
+no legally enforceable debt to be satisfied by the drawer – 
+Challenged by the appellant, writ petition dismissed by High 
+Court – Interference with:
+Held: Once the basic ingredients of s.138 are duly satisfied by 
+the complainant, the rebuttal of statutory presumption by the 
+drawer can only be made during the course of trial – The basic 
+ingredients for attracting the provisions of s.138 had been duly 
+* Author
+
+[2026] 5 S.C.R. 
+27
+Renuka v. The State of Maharashtra and Another
+satisfied by the appellant, at least for issuance of process – When 
+the basic ingredients of s.138 stand duly satisfied and the statutory 
+presumption u/s.139 gets triggered, coming to a conclusion that 
+the cheque was not issued for a legally enforceable debt at 
+the pre-trial stage itself without granting an opportunity to the 
+complainant to substantiate her case by leading evidence would 
+amount to ignoring the statutory presumption that the cheque 
+had been issued for a legally enforceable debt or liability – As a 
+consequence, the presumption u/s.139 gets washed away even 
+prior to commencement of the trial – On facts, the dismissal of 
+the complaint as a consequence of setting aside the order issuing 
+process is totally unjustified in the absence of any material being 
+brought on record by the second respondent to rebut the statutory 
+presumption and prove his contention that the cheque was 
+issued not towards any enforceable debt or liability – Sessions 
+Court committed an error in setting aside the order passed by 
+the Metropolitan Magistrate issuing process u/s.138 – High Court 
+also fell into error in upholding the order passed by the Sessions 
+Judge – Both the orders set aside – Complaint filed by the appellant 
+restored for adjudication on merits. [Paras 10, 11]
+Negotiable Instruments Act, 1881 – ss.138, 139 – At the stage of 
+issuance of process, the statutory presumption u/s.139 cannot 
+be dislodged in a summary manner merely by contending 
+that the cheque issued was not for any legally enforceable 
+debt or liability:
+Held: At the stage of issuance of process by the Metropolitan 
+Magistrate, what is prima facie required to be seen is the 
+issuance of cheque by the drawer in favour of the complainant, 
+its dishonour on presentation by the payee, issuance of statutory 
+notice u/s.138 and filing of the complaint within the prescribed 
+statutory period – If the drawer does not dispute issuance of such 
+a cheque nor does he deny his signature on the dishonoured 
+cheque, the statutory presumption as contemplated u/s.139 
+comes into play – As a result, the burden would shift on the 
+drawer of the cheque to prove that the cheque was not issued 
+for any legally enforceable debt or liability – This exercise has to 
+be undertaken during the trial either by relying upon the material 
+brought on record by the complainant or by the drawer leading 
+evidence in rebuttal. [Para 8]
+
+28
+[2026] 5 S.C.R.
+Supreme Court Reports
+Case Law Cited
+Sunil Todi and Others v. State of Gujarat and Another, 2021 INSC 
+823 :  [2021] 9 SCR 1086; Rangappa v. Sri Mohan, 2010 INSC 
+289 : [2010] 6 SCR 507; Rajesh Jain v. Ajay Singh, 2023 INSC 
+888 : [2023] 13 SCR 788 – referred to.
+List of Acts
+Negotiable Instruments Act, 1881.
+List of Keywords
+Cheque dishonoured; Complaint under Section 138 of the 
+Negotiable Instruments Act, 1881 dismissed at pre-trial stage; 
+Cheque not towards any legally enforceable debt; Basic ingredients 
+of Section 138 of the Negotiable Instruments Act, 1881 duly satisfied 
+by complainant; Order issuing process set aside; Dismissal of 
+complaint under Section 138 of the Negotiable Instruments Act, 
+1881 unjustified; Statutory presumption under Section 139 of the 
+Negotiable Instruments Act, 1881; Cheque issued for a legally 
+enforceable debt or liability; Drawer does not dispute issuance 
+of cheque; Drawer does not deny signature on the dishonoured 
+cheque.
+Case Arising From
+CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 
+1783 of 2026
+From the Judgment and Order dated 29.03.2023 of the High Court 
+of Judicature at Bombay in WP No. 1071 of 2023.
+Appearances for Parties
+Advs. for the Appellant(s):
+Mukul Rohatgi, Siddharth Bhatnagar, Sr. Advs., Ms. Ranjeeta 
+Rohatgi, Gaurav Srivastava, Ms. Shrika Gautam.
+Advs. for the Respondent(s):
+Dr. A.M. Singhvi, Kavin Gulati, Sr. Advs., Omkar Deshpande, 
+Siddharth Dharmadhikari, Aaditya Aniruddha Pande, Shrirang 
+B. Varma, C.D. Mehta, Mahesh Agarwal, Ankur Saigal, Bhavik 
+Mehta, Ms. Kajal Dalal, Ms. Deepshika Mishra, Ms. Prakruti,  
+E. C. Agrawala. 
+
+[2026] 5 S.C.R. 
+29
+Renuka v. The State of Maharashtra and Another
+Judgment / Order of the Supreme Court
+Judgment
+Atul S. Chandurkar, J.
+1.	
+Leave granted.
+2.	
+On a complaint filed under Section 138 of the Negotiable Instruments 
+Act, 18811, learned Metropolitan Magistrate on being satisfied 
+that there was prima-facie material to proceed against the second 
+respondent issued process on 17th June 2022. The second respondent 
+invoked the revisional jurisdiction of the Sessions Court for challenging 
+the said order. The Sessions Court was of the view that on the 
+date of issuance of the cheque in question, there was no legally 
+enforceable debt to be satisfied by the drawer. By the order dated 
+30th December 2022, it set aside the order passed by the learned 
+Metropolitan Magistrate issuing process. The complainant approached 
+the High Court of Bombay by filing a writ petition under Article 227 
+of the Constitution of India and challenged the order passed by the 
+Sessions Court. The learned Single Judge, however, dismissed the 
+writ petition observing that no error of jurisdiction was found in the 
+impugned order. Being aggrieved, the complainant has challenged 
+the aforesaid orders in this Criminal Appeal. 
+3.	
+Shorn of necessary details, the facts relevant for considering the 
+challenge as raised are that it is the case of the appellant that she had 
+some disputes with her husband, Mr. Ashwin Natwarlal Sheth in the 
+matter of alleged illegal and fraudulent transfer of shares pertaining to 
+Sheth Developers and Realtors (India) Limited and Sheth Developers 
+Private Limited. She had filed various complaints after which her 
+husband commenced negotiations for amicable settlement of the 
+disputes. On 12th January 2022, a final draft settlement agreement 
+was finalised and drawn up between the parties. One of the terms 
+of the settlement was that the appellant’s husband would gift to 
+the appellant the fifth, sixth and seventh floor premises of Natwar 
+Bungalow along with interest in a plot located in a Co-operative 
+1	
+For short, the N.I. Act
+
+30
+[2026] 5 S.C.R.
+Supreme Court Reports
+Housing Society. He also agreed to pay the appellant a sum of 
+₹50 crores on executing a Declaration-cum-Indemnity document 
+so as to withdraw the complaints filed by her against her husband. 
+With a view to safeguard the interest of the appellant, the second 
+respondent, who was a close friend of the appellant’s husband, agreed 
+to act as a mediator and to keep the amount of ₹50 crores in an 
+escrow account till the actual payment was made by the appellant’s 
+husband. Accordingly, on 12th January 2022, the second respondent 
+issued Cheque No.080261 for an amount of ₹50 crores in favour of 
+the appellant. The appellant claims to have signed the document 
+titled as Declaration-cum-Indemnity on 13th January 2022. It is the 
+further case of the appellant that the sale of shares of the concerned 
+entity was completed contrary to the settlement agreement and the 
+appellant’s husband received the sale consideration. The appellant 
+accordingly deposited the cheque that had been issued by the second 
+respondent for encashment. However, on 06th April 2022, the said 
+cheque was dishonoured and returned with the remark ‘payment 
+stopped by drawer’. The appellant, on 20th April 2022, issued a 
+notice under Section 138 of the N.I. Act to the second respondent. 
+The said notice was replied by the second respondent on 04th May 
+2022, denying any liability to make such payment. The appellant 
+gave her further reply to the second respondent and again called 
+upon him to make the necessary payment. Since no further steps 
+were taken by the second respondent, the appellant on 16th June 
+2022 filed a complaint against the second respondent under Section 
+138 of the N.I. Act.
+4.	
+Mr. Mukul Rohatgi, learned Senior Advocate for the appellant 
+submitted that the Sessions Court erred in setting aside the order 
+passed by the learned Metropolitan Magistrate issuing process on 
+the premise that the dishonoured cheque had been issued for a debt 
+that was not legally enforceable. According to him, on a plain reading 
+of the complaint filed by the appellant under Section 138 of the N.I. 
+Act coupled with the undisputed position as regards the issuance 
+of the cheque by the second respondent, its valid presentation, its 
+subsequent dishonour, issuance of the statutory notice and failure 
+on the part of the second respondent to comply with the statutory 
+notice were the only relevant considerations at the stage of issuance 
+of process in the complaint. In other words, it was urged that the 
+
+[2026] 5 S.C.R. 
+31
+Renuka v. The State of Maharashtra and Another
+presumption under Section 139 of the N.I. Act that operated in favour 
+of the payee could be dislodged by the drawer of the cheque only 
+during the course of trial and not at the pre-trial stage. When the 
+basic ingredients for making out an offence under Section 138 of 
+the N.I. Act had been made out and process had been issued by 
+the learned Metropolitan Magistrate, scuttling the proceedings at 
+this stage was unjustified. To substantiate this contention, reliance 
+was placed on the decision in Sunil Todi and others Vs. State 
+of Gujarat and another2 by urging that the Sessions Court had 
+misread the said judgment. It was, thus, submitted that the Sessions 
+Court was not justified in coming to the conclusion that the cheque 
+in question had not been issued for discharge of any legal liability. 
+Such a finding could be rendered only at the trial and not on the 
+basis of the statements made during the course of proceedings 
+challenging the issuance of process. He, therefore, submitted that 
+the impugned orders be set aside and the complaint be restored for 
+its adjudication on merits.
+5.	
+On the other hand, Dr. A. M. Singhvi, learned Senior Advocate for 
+the second respondent supported the impugned orders and opposed 
+the contentions raised on behalf of the appellant. He submitted that 
+both the Courts were justified in coming to the conclusion that the 
+cheque in question had not been shown to have been issued towards 
+the discharge of any legally enforceable debt. The document dated 
+12th January 2022, which was in the form of a settlement agreement, 
+was admittedly not signed by the second respondent. There was no 
+concluded agreement as such and, therefore, the second respondent 
+could not be bound by the statements made in that agreement. The 
+liability under the cheque issued by the second respondent would 
+arise only after the agreement between the parties was complete. 
+The Courts were justified in relying upon the decision in Sunil Todi 
+(supra) wherein it was held that where the payment of debt was 
+dependent on the happening of an event which never occurred, 
+there would be no legally recoverable liability to be satisfied. In 
+view of this position on record, no useful purpose would be served 
+by continuing the proceedings under Section 138 of the N.I. Act as 
+it would amount to an abuse of the process of law. It was, thus, 
+2	
+2021 INSC 823
+
+32
+[2026] 5 S.C.R.
+Supreme Court Reports
+submitted that the complaint having been rightly dismissed by the 
+learned Sessions Judge, which order was upheld by the High Court, 
+no interference therein was called for. He, therefore, urged that the 
+appeal ought to be dismissed.
+6.	
+We have heard the learned Senior Advocates appearing for the 
+parties at length and we have also perused the relevant documentary 
+material on record. Having given due consideration to the rival 
+submissions, we are of the view that the Sessions Court as well as 
+the High Court were not justified in coming to the conclusion that 
+the complaint as filed by the appellant under Section 138 of the N.I. 
+Act was liable to be dismissed at the pre-trial stage on the ground 
+that the cheque issued by the second respondent was not towards 
+any legally enforceable debt. 
+7.	
+Perusal of the complaint filed by the appellant under Section 138 
+of the N.I. Act indicates reference to an amicable settlement of 
+various disputes between the appellant and her husband, pursuant 
+to which the appellant’s husband executed a registered irrevocable 
+Power of Attorney dated 10th December 2022 in favour of the 
+appellant. It was agreed under the settlement agreement that the 
+appellant’s husband would transfer by way of gift three properties 
+and also pay an amount of ₹50 crores on the execution of a 
+Declaration-cum-Indemnity document. In reciprocation, complaints 
+made by the appellant as regards fraudulent transfer of her shares 
+in two companies were to be withdrawn. To ensure execution of 
+the Declaration-cum-Indemnity document, the second respondent 
+acted as a guarantor and issued the cheque in question drawn 
+in favour of the appellant. The appellant accordingly signed the 
+Declaration-cum Indemnity document on 13th January 2022. 
+On getting knowledge of the sale of certain shares contrary to 
+the settlement agreement, the appellant presented the cheque 
+issued by the second respondent for being honoured. It has been 
+further stated that said cheque was dishonoured with the remark 
+‘payment stopped by drawer’. A reference is thereafter made to 
+the issuance of a statutory notice under Section 138 of the N.I. Act 
+dated 20th April 2022, its service on the second respondent and his 
+reply dated 04th May 2022 denying any liability. Accordingly, the 
+said complaint came to be filed by the appellant. The appellant’s 
+statement was duly verified by the learned Metropolitan Magistrate 
+and on being prima facie satisfied that the ingredients of Section 
+
+[2026] 5 S.C.R. 
+33
+Renuka v. The State of Maharashtra and Another
+138 of the N.I. Act were present, process came to be issued to 
+the second respondent.
+8.	
+It is to be borne in mind that at the stage of issuance of process by 
+the learned Metropolitan Magistrate, what is prima facie required to 
+be seen is the issuance of cheque by the drawer in favour of the 
+complainant, its dishonour on presentation by the payee, issuance 
+of statutory notice under Section 138 of the N.I. Act and filing of 
+the complaint within the prescribed statutory period. If the drawer 
+does not dispute issuance of such a cheque nor does he deny his 
+signature on the dishonoured cheque, the statutory presumption as 
+contemplated under Section 139 of the N.I. Act comes into play. As 
+a result, the burden would shift on the drawer of the cheque to prove 
+that the cheque was not issued for any legally enforceable debt or 
+liability. This exercise has to be undertaken during the trial either by 
+relying upon the material brought on record by the complainant or 
+by the drawer leading evidence in rebuttal. At the stage of issuance 
+of process, the statutory presumption under Section 139 of the N.I. 
+Act cannot be dislodged in a summary manner merely by contending 
+that the cheque issued was not for any legally enforceable debt or 
+liability. 
+9.	
+We may in this regard refer to two decisions of this Court that have 
+reiterated the view that once the basic ingredients of Section 138 
+of the N.I. Act are duly satisfied by the complainant, the rebuttal of 
+statutory presumption by the drawer can only be made during the 
+course of trial. 
+In Rangappa Vs. Sri Mohan3, it has been explicitly reiterated that 
+the presumption mandated by Section 139 of the N.I. Act includes 
+the presumption as regards existence of a legally enforceable debt 
+or liability. It has been held that Section 139 is an example of a 
+reverse onus clause that has been included in furtherance of the 
+legislative object of improving the credibility of negotiable instruments. 
+The presumption is rebuttable and the accused can raise a defence 
+wherein the existence of a legally enforceable debt or liability can 
+be contested.
+3	
+2010 INSC 289
+
+34
+[2026] 5 S.C.R.
+Supreme Court Reports
+In Rajesh Jain Vs. Ajay Singh4, it has been held as under:
+“34. The NI Act provides for two presumptions: Section 
+118 and Section 139. Section 118 of the Act inter alia 
+directs that it shall be presumed, until the contrary is 
+proved, that every negotiable instrument was made or 
+drawn for consideration. Section 139 of the Act stipulates 
+that ‘unless the contrary is proved, it shall be presumed, 
+that the holder of the cheque received the cheque, for the 
+discharge of, whole or part of any debt or liability’. It will 
+be seen that the ‘presumed fact’ directly relates to one of 
+the crucial ingredients necessary to sustain a conviction 
+under Section 138.
+35. Section 139 of the NI Act, which takes the form of a 
+‘shall presume’ clause is illustrative of a presumption of 
+law. Because Section 139 requires that the Court ‘shall 
+presume’ the fact stated therein, it is obligatory on the 
+Court to raise this presumption in every case where the 
+factual basis for the raising of the presumption had been 
+established. But this does not preclude the person against 
+whom the presumption is drawn from rebutting it and 
+proving the contrary as is clear from the use of the phrase 
+‘unless the contrary is proved’.
+36. The Court will necessarily presume that the cheque 
+had been issued towards discharge of a legally enforceable 
+debt/liability in two circumstances. Firstly, when the drawer 
+of the cheque admits issuance/execution of the cheque 
+and secondly, in the event where the complainant proves 
+that cheque was issued/executed in his favour by the 
+drawer. The circumstances set out above form the fact(s) 
+which bring about the activation of the presumptive clause. 
+[Bharat Barrel Vs. Amin Chand] [(1999) 3 SCC 35]
+xxxxxxxxxxxxxxxxxxx
+38. As soon as the complainant discharges the burden to 
+prove that the instrument, say a cheque, was issued by 
+the accused for discharge of debt, the presumptive device 
+4	
+2023 INSC 888
+
+[2026] 5 S.C.R. 
+35
+Renuka v. The State of Maharashtra and Another
+under Section 139 of the Act helps shifting the burden 
+on the accused. The effect of the presumption, in that 
+sense, is to transfer the evidential burden on the accused 
+of proving that the cheque was not received by the Bank 
+towards the discharge of any liability. Until this evidential 
+burden is discharged by the accused, the presumed fact 
+will have to be taken to be true, without expecting the 
+complainant to do anything further.”
+10.	 A perusal of the revisional order passed by the learned Judge of 
+the Sessions Court indicates that he has given much importance to 
+the fact that the agreement dated 12th January 2022 was not signed 
+by the second respondent and, hence, the issuance of the cheque 
+in question was not for any enforceable debt. He also appears 
+to have given importance to the dispute between the appellant 
+and her husband by stating that it was a matrimonial dispute and 
+civil litigation between the said parties was pending in various 
+Courts. In our view, the learned Judge misdirected himself when 
+he proceeded to give more weightage to the document dated 12th 
+January 2022 and in the process, ignored the fact that the basic 
+ingredients for attracting the provisions of Section 138 of the N.I. 
+Act had been duly satisfied by the appellant, at least for issuance 
+of process. The drawing of the cheque by the second respondent, 
+its presentation and subsequent dishonour at the instructions of the 
+second respondent is not in dispute. The second respondent does 
+not also dispute that he had issued the said cheque and that it was 
+duly signed by him. The issuance of statutory notice as well as filing 
+of the complaint within the prescribed period are also not in dispute. 
+In such a situation, when the basic ingredients of Section 138 stand 
+duly satisfied and the statutory presumption under Section 139 gets 
+triggered, coming to a conclusion that the cheque was not issued for 
+a legally enforceable debt at the pre-trial stage itself without granting 
+an opportunity to the complainant to substantiate her case by leading 
+evidence would amount to ignoring the statutory presumption that 
+the cheque had been issued for a legally enforceable debt or liability. 
+As a consequence, the presumption under Section 139 of the N.I. 
+Act gets washed away even prior to commencement of the trial. We 
+are of the view that in the facts of the present case, the dismissal of 
+the complaint as a consequence of setting aside the order issuing 
+process is totally unjustified in the absence of any material being 
+
+36
+[2026] 5 S.C.R.
+Supreme Court Reports
+brought on record by the second respondent to rebut the statutory 
+presumption and prove his contention that the cheque was issued 
+not towards any enforceable debt or liability. 
+Since we are inclined to restore the complaint for being tried on 
+merits, it is not necessary to deal with the decision in Sunil Todi 
+and others (supra) in detail. Suffice it to observe that even in the 
+said decision, it has been held that disputed questions as regards 
+existence of outstanding liability are questions of fact that have to 
+be determined at the trial on the basis of evidence. 
+11.	 For all these reasons, we are of the view that the learned Judge 
+of the Sessions Court committed an error in setting aside the order 
+dated 17th June 2022 passed by the learned Metropolitan Magistrate 
+issuing process under Section 138 of the N.I. Act. The High Court 
+also fell into error in upholding the order passed by the learned 
+Sessions Judge. Accordingly, both the aforesaid orders are set aside. 
+The complaint filed by the appellant being CC1831/SC/2022 stands 
+restored for its adjudication on merits.
+We clarify that the complaint shall be decided on its own merits and 
+in accordance with law after giving due opportunity to all parties 
+concerned. Any observations made in this judgment shall not be 
+construed as an expression of opinion on the merits of the said case.
+12.	 The Criminal Appeal is allowed in aforesaid terms.
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Divya Pandey 

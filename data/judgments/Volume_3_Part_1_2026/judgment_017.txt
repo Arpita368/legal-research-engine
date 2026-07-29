@@ -1,0 +1,640 @@
+[2026] 3 S.C.R. 277 : 2026 INSC 211
+Gobind Singh and Ors.
+v.
+Union of India and Ors.
+(Civil Appeal No(s). 5168-5169 of 2011)
+09 March 2026
+[Vikram Nath* and Sandeep Mehta, JJ.]
+Issue for Consideration
+Whether the High Court’s omission to expressly adjudicate the 
+application filed u/Or.XLI, r.27 of CPC while deciding the first appeal 
+has resulted in any manifest injustice or miscarriage of justice so 
+as to warrant interference by this Court.
+Headnotes†
+Code of Civil Procedure, 1908 – Or.XLI, r.27 – Appellant 
+instituted suit seeking a declaration of title and a decree of 
+permanent injunction against the respondents-defendants – 
+Trial Court decreed the suit – Respondent-defendants preferred 
+first appeal before the High Court – During the pendency of 
+the appeal, the appellant-plaintiffs filed an application u/Or.XLI, 
+r.27 of the CPC seeking to place on record certified copies 
+of the General Land Register maintained by the respondent-
+defendants – The High Court allowed the appeal filed by the 
+respondent-defendants – Aggrieved, the appellant-plaintiffs 
+instituted a review petition before the High Court primarily on 
+the ground that the application for additional evidence was 
+not decided – The High Court dismissed the review petition 
+and application for additional evidence – Correctness:
+Held: The High Court has committed no error in rendering the 
+impugned judgments – The appellate court may permit additional 
+evidence only upon being satisfied that the conditions expressly 
+stipulated under Order XLI Rule 27 of CPC are fulfilled – The parties 
+do not possess any vested or automatic right to seek admission of 
+additional evidence at the appellate stage – The appellant-plaintiffs 
+were, from the outset, fully aware that the respondent-defendants 
+had not been impleaded as parties in the earlier civil suit instituted 
+by their predecessors – Having founded their claim upon a decree 
+which was non-est insofar as the respondent-defendants were 
+* Author
+
+278
+[2026] 3 S.C.R.
+Supreme Court Reports
+concerned, it was impermissible for the appellant-plaintiffs to 
+seek to introduce additional evidence at the appellate stage to 
+cure the inherent defects in their case – The present suit being 
+one for declaration of title, it was incumbent upon the appellant-
+plaintiffs, if they indeed possessed a valid title, to adduce their 
+best and complete evidence at the stage of trial before the court 
+of first instance, where such evidence could have been produced 
+as a matter of right – Further, even at the stage of the earlier suit 
+instituted by the predecessors-in-interest of the appellant-plaintiffs, 
+their consistent case was one of lawful title to the suit property – 
+No plea of adverse possession was ever raised – The additional 
+evidence, namely, the entries in the General Land Register, is a 
+mere recording of the land in suit as private land in the GLR does 
+not in any manner benefit the appellants claim of ownership – 
+Whereas, the respondent-defendants have traced their title to the 
+decision of the Union of India dated 17.07.1953, pursuant to which 
+the suit land, along with other immovable properties, vested in the 
+respondent-defendants in terms of title, ownership and possession – 
+The application for additional evidence was thus rightly rejected by 
+the High Court. [Paras 11, 11.4, 11.8, 11.10, 11.11, 11.15]
+Code of Civil Procedure, 1908 – Or.XLI, r.27:
+Held: Rule 27, being couched in negative terms, makes it 
+abundantly clear that parties to an appeal are not entitled to 
+adduce additional evidence, whether oral or documentary, save and 
+except in the circumstances expressly enumerated therein – The 
+provision contemplates only three eventualities in which additional 
+evidence may be permitted: first, where the court which passed 
+the decree has refused to admit evidence which ought to have 
+been admitted; second, where the party seeking to adduce such 
+evidence establishes that, notwithstanding the exercise of due 
+diligence, the evidence was not within its knowledge or could not 
+have been produced at the time when the decree under appeal 
+was passed; and third, where the appellate court itself requires any 
+document to be produced or any witness to be examined in order 
+to enable it to pronounce judgment or for any other substantial 
+cause. [Para 11.3]
+Case Law Cited
+Union of India v. Ibrahim Uddin [2012] 8 SCR 35 : (2012) 8 SCC 
+148; State of Karnataka v. K.C. Subramanya [2013] 10 SCR 144 : 
+(2014) 13 SCC 468 – relied on.
+
+[2026] 3 S.C.R. 
+279
+Gobind Singh and Ors. v. Union of India and Ors.
+List of Acts
+Code of Civil Procedure, 1908.
+List of Keywords
+Order XLI Rule 27 CPC; General Land Register (GLR); Adverse 
+Possession; Trespassers; State Ownership; Additional evidence; 
+Revenue records; Inherent defect in case; Declaration of title; 
+Valid title; Documentary evidence; Title; Ownership: Possession; 
+unscrupulous litigants.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No(s). 5168-5169 
+of 2011
+From the Judgment and Order dated 12.08.2009 and 15.03.2011 
+of the High Court of Madhya Pradesh at Gwalior in FA No. 80 of 
+1996 and RP No. 300 of 2009, respectively.
+Appearances for Parties
+Advs. for the Appellant(s):
+Anupam Lal Das, Sr. Adv., Kunal Verma, Mrs. Yugandhara Pawar 
+Jha, Bhanu Thakur, Ms. Swati Mishra.
+Advs. for the Respondent(s):
+K M Nataraj, A.S.G., V Chitambresh, Sr. Adv., Mukesh Kumar 
+Maroria, Rajan Kumar Chourasia, Mrs. Swati Ghildiyal, Anuj Srinivas 
+Udupa, Bhuvan Kapoor, Chitransh Sharma, Mrs. Rekha Pandey, 
+Abhimanyu Singh, GA, Harmeet Singh Ruprah, Anil Hooda.
+Judgment / Order of the Supreme Court
+Judgment
+Vikram Nath, J.
+1.	
+The present appeals, by special leave, are directed against the 
+judgment dated 12th August, 2009, and the subsequent judgment 
+rendered in review on 15th March, 2011, by the High Court of Madhya 
+Pradesh, Bench Gwalior,1 in First Appeal No. 80 of 1996 and Review 
+1	
+Hereinafter, referred to as “High Court”.
+
+280
+[2026] 3 S.C.R.
+Supreme Court Reports
+Petition No. 300 of 2009, respectively whereby the appeal filed by 
+the Union of India was allowed and the review of the appellant was 
+dismissed. By the aforesaid orders, the judgment and decree dated 
+25 March 1996 passed by the Court of the Vth Additional District 
+Judge, Gwalior2, in Civil Suit No. 5-A of 1990 was set aside and the 
+suit was dismissed. 
+2.	
+The appellants3 herein instituted in Civil Suit No. 5-A of 1990, seeking 
+a declaration of title and a decree of permanent injunction against 
+the defendants4. Respondent Nos. 1 to 4 were arrayed as defendant 
+Nos. 1 to 4, respectively, in the said suit.
+FACTS OF THE CASE: -
+3.	
+The facts, insofar as they are necessary for the disposal of the 
+present appeals, are set out hereinafter: -
+3.1.	 The case of the appellant-plaintiffs is that the land bearing 
+Survey No. 2029, admeasuring 8 Bighas and 10 Biswas, 
+situated in Patwari Halqa No. 51, opposite Baaj Cinema Hall, 
+Murar, Pargana and District Gwalior, is owned and possessed 
+by them. It is alleged that on 4th December, 1989 officers of 
+the respondent-defendants entered upon the suit property with 
+the intent to remove the wire fencing erected thereon, the two 
+shops constructed by the plaintiffs, as well as the standing 
+crops on the said land. 
+3.2.	 In this backdrop, the appellant-plaintiffs instituted a civil suit, 
+being Civil Suit No. 55A of 19895, on 5th December, 1989 before 
+the Civil Court, seeking a declaration of title and a decree of 
+permanent injunction restraining the defendants from interfering 
+with the suit property. The appellant-plaintiffs asserted that the 
+suit property constituted their ancestral property and that their 
+forefathers had been in continuous ownership and possession 
+thereof for the preceding fifty years.
+2	
+Hereinafter, referred to as “Civil Court”.
+3	
+Hereinafter, referred to as “appellant-plaintiffs”.
+4	
+Hereinafter, referred to as “respondent-defendants”.
+5	
+Re-numbered later as “5-A of 1990”.
+
+[2026] 3 S.C.R. 
+281
+Gobind Singh and Ors. v. Union of India and Ors.
+3.3.	 The Trial Court, vide judgment dated 26th March, 1996, decreed 
+the suit, holding that the title, ownership and possession of 
+the suit property vested in the appellant-plaintiffs, and that the 
+respondent-defendants had failed to establish any title thereto.
+3.4.	 Aggrieved by the said decree, the respondent-defendants 
+preferred first appeal before the High Court. During the pendency 
+of the appeal, the appellant-plaintiffs filed an application under 
+Order XLI Rule 27 of the Code of Civil Procedure, 19086, seeking 
+to place on record certified copies of the General Land Register 
+maintained by the respondent-defendants. It was the case of the 
+appellant-plaintiffs that the said documents would demonstrate 
+that the suit property stood recorded as private land.
+3.5.	 The High Court, vide judgment dated 12th August, 2009, allowed 
+the appeal preferred by the respondent-defendants, holding 
+that the appellant-plaintiffs had claimed perfection of title on 
+the basis of a decree passed in an earlier suit to which the 
+respondent-defendants were not parties.
+3.6.	 Aggrieved thereby, the appellant-plaintiffs instituted a review 
+petition before the High Court primarily on the ground that the 
+application for additional evidence had not been decided. The 
+High Court, however, by judgment dated 15th March, 2011, 
+dismissed not only the review petition but also the application 
+for additional evidence and affirmed the judgment rendered in 
+the first appeal, while imposing costs of Rs.2,000/-.
+4.	
+It is in these circumstances that the appellant-plaintiffs have 
+approached this Court.
+SUBMISSIONS ON BEHALF OF THE PARTIES: -
+5.	
+Shri Anupam Lal Dass, learned Senior Counsel appearing on behalf 
+of the appellants, assailed the judgments passed by the High Court 
+and advanced the following submissions: -
+5.1.	 That the High Court acted contrary to law in proceeding to 
+decide the appeal on merits without first adjudicating upon the 
+application filed by the appellant-plaintiffs under Order XLI Rule 
+27 of CPC for leading additional evidence.
+6	
+For short, “CPC”.
+
+282
+[2026] 3 S.C.R.
+Supreme Court Reports
+5.2.	 That the predecessors-in-interest of the appellant-plaintiffs had 
+instituted a civil suit against the State seeking a declaration of 
+title, which was decreed by a court of competent jurisdiction, 
+and that the said judgment has since attained finality.
+5.3.	 That the material on record clearly establishes that the appellant-
+plaintiffs have remained in continuous and uninterrupted 
+possession of the suit property since the time of their forefathers, 
+and have, therefore, perfected title thereto by way of adverse 
+possession.
+5.4.	 On these premises, the appellant-plaintiffs prayed that the 
+present appeals be allowed and that the impugned judgments 
+of the High Court be set aside.
+6.	
+Per contra, Shri V. Chitambresh, learned Senior Counsel appearing 
+for the respondents, strongly opposed the submissions advanced on 
+behalf of the appellants and advanced the following contentions: -
+6.1.	 That the land comprising Morar Cantonment, within which the suit 
+property is situated, vested in the Union Government in the year 
+1953 upon transfer of ownership from the State Government.
+6.2.	 That the ex parte decree passed in the earlier civil suit against 
+the State of MP instituted by the predecessors-in-interest of the 
+appellant-plaintiffs would not be binding on the Union, having 
+been rendered in the absence of the respondent-defendants, 
+who were neither impleaded nor afforded an opportunity of 
+being heard in the said suit.
+6.3.	 The application for additional evidence was misplaced and 
+without any merit. It did not fall within the four corners of the 
+principles and parameters laid down in the Order XLI Rule 27 
+CPC. The same has been rightly rejected by the High Court 
+while deciding the review petition. 
+6.4.	 On these grounds, the respondent-defendants vehemently 
+urged that the present appeals be dismissed and the impugned 
+judgments of the High Court be affirmed.
+ANALYSIS AND DISCUSSION: -
+7.	
+We have heard the learned senior counsel appearing for the parties 
+and have carefully perused the material placed on record.
+
+[2026] 3 S.C.R. 
+283
+Gobind Singh and Ors. v. Union of India and Ors.
+8.	
+The limited question that arises for consideration is whether the 
+High Court’s omission to expressly adjudicate the application filed 
+under Order XLI Rule 27 of CPC while deciding the first appeal has 
+resulted in any manifest injustice or miscarriage of justice so as to 
+warrant interference by this Court.	
+9.	
+In order to properly appreciate the controversy involved, it would be 
+apposite to advert to the reasoning adopted by the courts below. 
+While decreeing the suit instituted by the appellant-plaintiffs, the Trial 
+Court recorded the following findings: -
+i.	
+That it was an undisputed fact that, in respect of the suit property, 
+a decree dated 9th July, 1984, had already been passed by a 
+competent court in favour of the predecessors-in-interest of the 
+appellant-plaintiffs.
+ii.	
+That upon an appraisal of the material placed on record, 
+the appellant-plaintiffs were found to be in possession and 
+occupation of the suit property in the capacity of owners thereof.
+iii.	
+That the respondent-defendants failed to place on record any 
+documentary evidence to substantiate their claim of ownership 
+or possession over the suit property.
+iv.	
+That the objection raised by the respondent-defendants 
+regarding the alleged failure of the plaintiffs to disclose the 
+source of their title was rejected, as the documentary evidence on 
+record sufficiently established that the plaintiffs held ownership 
+over the suit property and had been in continuous possession 
+and occupation thereof for a considerable length of time thus 
+consequently, the plaintiffs’ ownership stood proved.
+10.	 When the said decree was assailed by the respondent-defendants 
+before the High Court by way of an appeal, the High Court, while 
+allowing the appeal, recorded the following findings: -
+i.	
+That the earlier suit instituted by the predecessors-in-interest of 
+the plaintiffs against the State of Madhya Pradesh was decreed 
+ex parte by the Civil Court, without the respondent–Union of 
+India having been impleaded as a party to the said proceedings. 
+It was not binding on the Union of India.
+ii.	
+That from the pleadings and evidence adduced in the present 
+suit, it emerged that the plaintiffs’ claim over the suit property 
+
+284
+[2026] 3 S.C.R.
+Supreme Court Reports
+was founded on adverse possession, predicated on their alleged 
+possession of the land since the time of their forefathers. Their 
+could not be any perfection of rights by adverse possession 
+against the State/Union howsoever long may be the possession.
+iii.	
+That the plaintiffs failed to discharge the burden of proving 
+ownership over the suit property, having neither produced any 
+documentary evidence nor examined any witness to establish 
+the point of time at which their forefathers came into possession 
+of the land and on what basis.
+iv.	
+That the plaintiffs had sought to claim perfection of title on the 
+basis of adverse possession in the earlier suit filed by their 
+predecessor and, by doing so, procured a decree of declaration 
+without impleading the respondent-defendants. Consequently, 
+the said decree was held to be not binding on the respondent-
+defendants, and the plaintiffs were found not to have acquired 
+ownership in the eyes of law.
+v.	
+While deciding the review petition the application for additional 
+evidence was also dismissed as being without any merit. 
+11.	 In our considered view, the High Court has committed no error in 
+rendering the impugned judgments and, for the reasons that follow 
+hereinafter, we are not persuaded to interfere and are, accordingly, 
+inclined to dismiss the present appeals.
+11.1.	 It is true that the High Court, while delivering the judgment 
+dated 12th August, 2009, did not advert to the application filed 
+by the appellant-plaintiffs under Order XLI Rule 27 of CPC. 
+However, when the said judgment was assailed by way of a 
+review petition, the appellant-plaintiffs specifically contended 
+that the judgment could not be sustained on account of the 
+High Court’s failure to consider the application seeking to 
+adduce additional evidence. The High Court, by its subsequent 
+judgment dated 15th March, 2009, dismissed the review petition 
+and, in the process, also rejected the application filed under 
+Order XLI Rule 27 of CPC as being without any merit.
+11.2.	 In order to properly appreciate the controversy involved, it is 
+necessary to first advert to the statutory provision applicable to 
+the case at hand. Order XLI Rule 27 of CPC reads as follows: -
+
+[2026] 3 S.C.R. 
+285
+Gobind Singh and Ors. v. Union of India and Ors.
+“27. Production of additional evidence in Appellate 
+Court.–
+(1) The parties to an appeal shall not be entitled 
+to produce additional evidence, whether oral or 
+documentary, in the Appellate Court. But if –
+(a) . . .
+(aa) the party seeking to produce additional 
+evidence, establishes that notwithstanding 
+the exercise of due diligence, such evidence 
+was not within his knowledge or could 
+not, after the exercise of due diligence, be 
+produced by him at the time when the decree 
+appealed against was passed, or
+(b) . . . 
+the Appellate Court may allow such evidence 
+or document to be produced, or witness to be 
+examined. 
+(2) Wherever additional evidence is allowed to be 
+produced by an Appellate Court, the Court shall 
+record the reason for its admission.”
+(emphasis supplied)
+11.3.	 Rule 27, being couched in negative terms, makes it abundantly 
+clear that parties to an appeal are not entitled to adduce 
+additional evidence, whether oral or documentary, save and 
+except in the circumstances expressly enumerated therein. 
+The provision contemplates only three eventualities in which 
+additional evidence may be permitted: first, where the court 
+which passed the decree has refused to admit evidence which 
+ought to have been admitted; second, where the party seeking 
+to adduce such evidence establishes that, notwithstanding 
+the exercise of due diligence, the evidence was not within its 
+knowledge or could not have been produced at the time when 
+the decree under appeal was passed; and third, where the 
+appellate court itself requires any document to be produced or 
+any witness to be examined in order to enable it to pronounce 
+judgment or for any other substantial cause.
+
+286
+[2026] 3 S.C.R.
+Supreme Court Reports
+11.4.	 Accordingly, it is only upon satisfaction of any of the aforesaid 
+three contingencies that an application under Order XLI Rule 27 
+of CPC can be entertained. Sub-rule (2) of the said provision 
+further mandates that where the appellate court forms an 
+opinion that additional evidence is required to be admitted, it 
+must record the reasons for such admission. While elucidating 
+the scope and object of Order XLI Rule 27 of CPC, this Court, 
+in Union of India v. Ibrahim Uddin,7 undertook an exhaustive 
+analysis of the provision. The relevant extract is reproduced 
+hereinafter: -
+“36. The general principle is that the appellate 
+court should not travel outside the record of 
+the lower court and cannot take any evidence 
+in appeal. However, as an exception, Order 41 
+Rule 27 CPC enables the appellate court to take 
+additional evidence in exceptional circumstances. 
+The appellate court may permit additional 
+evidence only and only if the conditions laid down 
+in this Rule are found to exist. The parties are 
+not entitled, as of right, to the admission of such 
+evidence. Thus, the provision does not apply, 
+when on the basis of the evidence on record, 
+the appellate court can pronounce a satisfactory 
+judgment. The matter is entirely within the discretion 
+of the court and is to be used sparingly. Such a 
+discretion is only a judicial discretion circumscribed 
+by the limitation specified in the Rule itself. 
+. . .
+38. Under Order 41 Rule 27 CPC, the appellate 
+court has the power to allow a document to be 
+produced and a witness to be examined. But the 
+requirement of the said court must be limited 
+to those cases where it found it necessary to 
+obtain such evidence for enabling it to pronounce 
+judgment. This provision does not entitle the 
+appellate court to let in fresh evidence at the 
+7	
+(2012) 8 SCC 148
+
+[2026] 3 S.C.R. 
+287
+Gobind Singh and Ors. v. Union of India and Ors.
+appellate stage where even without such evidence 
+it can pronounce judgment in a case. It does not 
+entitle the appellate court to let in fresh evidence 
+only for the purpose of pronouncing judgment 
+in a particular way. In other words, it is only 
+for removing a lacuna in the evidence that the 
+appellate court is empowered to admit additional 
+evidence. 
+. . .
+41. The words “for any other substantial cause” 
+must be read with the word “requires” in the 
+beginning of the sentence, so that it is only where, 
+for any other substantial cause, the appellate 
+court requires additional evidence, that this Rule 
+will apply e.g. when evidence has been taken by 
+the lower court so imperfectly that the appellate 
+court cannot pass a satisfactory judgment.”
+(emphasis supplied)
+Thus, a holistic reading of the aforesaid decision makes it 
+clear that the appellate court’s inquiry, while considering an 
+application for leading additional evidence, is confined to 
+examining whether such evidence is necessary to remove 
+a lacuna in the case. More importantly, the appellate court 
+may permit additional evidence only upon being satisfied that 
+the conditions expressly stipulated under Order XLI Rule 27 
+of CPC are fulfilled. The parties do not possess any vested 
+or automatic right to seek admission of additional evidence 
+at the appellate stage. Consequently, the provision has no 
+application where the appellate court is in a position to render 
+a satisfactory and reasoned judgment on the basis of the 
+evidence already available on record.
+11.5.	 In State of Karnataka v. K.C. Subramanya,8 the appellants 
+therein had moved an application before the appellate court 
+under Order XLI Rule 27 of CPC seeking leave to produce a 
+8	
+(2014) 13 SCC 468
+
+288
+[2026] 3 S.C.R.
+Supreme Court Reports
+map of the area to establish that the disputed land constituted 
+a public road. This Court, while affirming the High Court’s 
+decision to reject the said application, held as follows: -
+“4. . . .
+On perusal of this provision, it is unambiguously 
+clear that the party can seek liberty to produce 
+additional evidence at the appellate stage, but 
+the same can be permitted only if the evidence 
+sought to be produced could not be produced 
+at the stage of trial in spite of exercise of due 
+diligence and that the evidence could not be 
+produced as it was not within his knowledge and 
+hence was fit to be produced by the appellant 
+before the appellate forum.
+5. It is thus clear that there are conditions 
+precedent before allowing a party to adduce 
+additional evidence at the stage of appeal, which 
+specifically incorporates conditions to the effect 
+that the party in spite of due diligence could not 
+produce the evidence and the same cannot be 
+allowed to be done at his leisure or sweet will.”
+(emphasis supplied)
+This Court thus categorically held that unless the requirements 
+stipulated under Order XLI Rule 27 of CPC are strictly satisfied, 
+a party cannot be permitted to adduce additional evidence at 
+the appellate stage. Such permission cannot be granted as a 
+matter of course, nor can additional evidence be introduced 
+at the whim or convenience of a litigating party.
+11.6.	 Where the appellate court permits additional evidence to be 
+adduced, Order XLI Rule 27(2) of CPC casts a mandatory 
+obligation upon the court to record the reasons for such 
+admission. In Ibrahim Uddin (supra), this Court elucidated 
+the rationale underlying the requirement of recording reasons 
+in the following terms: -
+“42. Whenever the appellate court admits additional 
+evidence it should record its reasons for doing so (sub-
+
+[2026] 3 S.C.R. 
+289
+Gobind Singh and Ors. v. Union of India and Ors.
+rule (2)). It is a salutary provision which operates as 
+a check against a too easy reception of evidence at 
+a late stage of litigation and the statement of reasons 
+may inspire confidence and disarm objection. Another 
+reason of this requirement is that, where a further 
+appeal lies from the decision, the record of reasons 
+will be useful and necessary for the court of further 
+appeal to see, if the discretion under this Rule has 
+been properly exercised by the court below. The 
+omission to record the reasons must, therefore, be 
+treated as a serious defect. But this provision is only 
+directory and not mandatory, if the reception of such 
+evidence can be justified under the Rule.”
+11.7.	 The procedural framework under Order XLI of CPC makes it 
+abundantly clear that an appeal is ordinarily to be decided on 
+the evidence adduced before the Trial Court. The Appellate 
+Court is not expected to embark upon a fresh fact-finding 
+exercise or permit production of additional evidence as a 
+matter of routine. Where the Appellate Court is satisfied that 
+the material already available on record is sufficient to enable 
+it to pronounce judgment, it is well within its jurisdiction to 
+confine its consideration to the evidence forming part of the 
+record of the courts below.
+11.8.	 In the present case, the High Court, upon an examination of 
+the evidence adduced by the parties, proceeded to analyse 
+the decree passed in the earlier civil suit instituted by the 
+predecessors-in-interest of the appellant-plaintiffs. The High 
+Court observed that the said decree was not binding upon the 
+respondent-defendants, as they had not been impleaded as 
+parties to those proceedings. Consequently, no legal sanctity 
+could be attached to any subsequent entries made in the 
+revenue records on the strength of the said decree, including 
+the mutation of the plaintiffs’ names therein. 
+11.9.	 Once the said finding recorded by the Trial Court was set 
+aside, whereby the entire claim of ownership of the appellant-
+plaintiffs rested upon the earlier decree and the consequent 
+entries in the revenue records, the onus squarely shifted upon 
+the appellant-plaintiffs to independently establish their title to 
+the suit property.
+
+290
+[2026] 3 S.C.R.
+Supreme Court Reports
+11.10.	 The appellant-plaintiffs were, from the outset, fully aware 
+that the respondent-defendants had not been impleaded as 
+parties in the earlier civil suit instituted by their predecessors. 
+Having founded their claim upon a decree which was non-
+est insofar as the respondent-defendants were concerned, 
+it was impermissible for the appellant-plaintiffs to seek to 
+introduce additional evidence at the appellate stage to cure 
+the inherent defects in their case. The present suit being one 
+for declaration of title, it was incumbent upon the appellant-
+plaintiffs, if they indeed possessed a valid title, to adduce 
+their best and complete evidence at the stage of trial before 
+the court of first instance, where such evidence could have 
+been produced as a matter of right.
+11.11.	 Further, even at the stage of the earlier suit instituted by 
+the predecessors-in-interest of the appellant-plaintiffs, their 
+consistent case was one of lawful title to the suit property. 
+No plea of adverse possession was ever raised against the 
+respondent-defendants. The appellants wish to rely upon 
+the additional evidence, namely, the entries in the General 
+Land Register maintained by the respondent-defendants to 
+show that the suit property is recorded as private land. Such 
+an endeavour, at the appellate stage and in the absence of 
+foundational pleadings, is wholly impermissible in law. Mere 
+recording of the land in suit as private land in the GLR does 
+not in any manner benefit the appellants claim of ownership.
+11.12.	 Once the appellant-plaintiffs asserted that they derived 
+valid title to the suit property through their forefathers, the 
+burden lay squarely upon them to substantiate such claim 
+by producing cogent title deeds in support thereof. However, 
+no such documentary evidence was forthcoming.
+11.13.	 On the other hand, the consistent stand of the respondent-
+defendants from the inception has been that the appellant-
+plaintiffs are rank trespassers and encroachers upon the suit 
+property. The respondent-defendants have specifically denied 
+the assertion that the appellant-plaintiffs or their predecessors 
+had been in enjoyment of the suit property for the preceding 
+fifty years prior to the institution of the suit.
+
+[2026] 3 S.C.R. 
+291
+Gobind Singh and Ors. v. Union of India and Ors.
+11.14.	 Further, the respondent-defendants have traced their title 
+to the decision of the Union of India dated 17th July, 1953, 
+pursuant to which the suit land, along with other immovable 
+properties, vested in the respondent-defendants in terms of 
+title, ownership and possession. This assertion stands fortified 
+by the Gazette Notification dated 4th November, 1954, issued 
+by the erstwhile State of Madhya Bharat, which also recognises 
+that the suit land and other properties with title, ownership 
+and possession vested in the respondent-defendants.
+11.15.	 The above discussion will also reflect that even if the additional 
+evidence in the form of GLR is accepted, the same will have 
+no impact on the findings returned by the High Court. The 
+application for additional evidence was thus rightly rejected 
+by the High Court. 
+11.16.	 Before parting, we deem it appropriate to record our 
+disapproval of the unscrupulous litigants such as appellant-
+plaintiffs and their predecessors and the manner in which 
+they have conducted themselves. The material on record 
+indicates that the earlier suit instituted by the predecessors-
+in-interest of the appellant-plaintiffs culminated in a decree 
+passed without impleading the respondent-defendants, who 
+were the lawful owners of the suit property. The attempt 
+to secure a decree behind the back of the true owner is a 
+circumstance that cannot be lightly brushed aside. It is also 
+not without significance that appellant-plaintiff No. 1, Govind 
+Singh, was employed in the office of the Commissioner at the 
+relevant time. The proximity of events, namely, the passing 
+of an ex-parte decree followed by the expeditious mutation 
+of revenue entries in favour of the appellant-plaintiffs, casts 
+a shadow over the bona fides of the proceedings.
+11.17.	 In such a backdrop, when the appellant-plaintiffs themselves 
+asserted title on the basis of long and continuous possession 
+through their predecessors, the subsequent attempt to 
+introduce additional evidence at the appellate stage assumes 
+little legal significance. Once the trial had concluded and 
+the decree was under challenge in appeal, the appellants 
+could not be permitted to fill the gaps in their case by 
+seeking to adduce further material to fortify a claim that was 
+fundamentally flawed.
+
+292
+[2026] 3 S.C.R.
+Supreme Court Reports
+12.	 For the foregoing reasons, we find no infirmity in the judgments 
+rendered by the High Court.
+13.	 Accordingly, the judgments dated 12th August, 2009, in First Appeal 
+No. 80 of 1996 and 15th March, 2011, in Review Petition No. 300 of 
+2009 passed by the High Court of Madhya Pradesh at Gwalior are 
+hereby affirmed.
+14.	 Consequently, the present appeals stand dismissed.
+15.	 Pending application(s), if any, shall also stand disposed of. 
+Result of the case: Appeals dismissed.
+†Headnotes prepared by: Ankit Gyan

@@ -1,0 +1,949 @@
+[2026] 1 S.C.R. 1 : 2026 INSC 5
+Motilal Oswal Financial Services Limited
+v.
+Santosh Cordeiro and Another 
+(Civil Appeal No. 36 of 2026)
+05 January 2026
+[J.B. Pardiwala and K.V. Viswanathan,* JJ.]
+Issue for Consideration
+Whether the High Court has rightly allowed the application filed by 
+the respondent u/s.11, Arbitration & Conciliation Act, 1996.
+Headnotes†
+Arbitration & Conciliation Act, 1996 – s.11(6A) – Presidency 
+Small Cause Courts Act, 1882 – s.41 – Single Judge allowed 
+the s.11, A&C Act application filed by the respondent seeking 
+appointment of a sole arbitrator in accordance with clause 
+33 of the arbitration agreement of the Leave and License 
+Agreement, and appointed an arbitrator to adjudicate the 
+dispute between the parties – Appellant took objection that 
+the dispute is non-arbitrable in view of s.41, 1882 Act – 
+Raised the ground of non-arbitrability u/s.41,1882 Act before 
+the arbitrator and filed a s.16 application under the A&C Act 
+before the arbitrator – Dismissed by arbitrator – Whether the 
+High Court had rightly allowed the application filed by the 
+respondent u/s.11, A&C Act:
+Held: Leave and License agreement in Clause 33 contained an 
+Arbitration clause – Paragraph 40 of the Full Bench judgment of 
+the Bombay High Court in Central Warehousing relied on by the 
+appellant cannot be understood on the facts of the present case 
+to mean that Clause 33 of the Leave and License Agreement 
+containing the arbitration clause has ceased to exist – An 
+examination u/s.11(6-A) indicates that there exists an arbitration 
+agreement between the parties – Furthermore, s.41 is a provision 
+conferring jurisdiction on the Small Causes Court for certain types 
+of disputes and cannot be interpreted to mean that ex proprio vigore 
+(by its own force), it neutralizes arbitration clauses in agreements – 
+Conferment of jurisdiction on a specific court or creation of a public 
+* Author
+
+2
+[2026] 1 S.C.R.
+Supreme Court Reports
+forum, may not be the decisive test to answer and decide whether 
+arbitrability is impliedly barred – Since, the Arbitrator has taken a 
+decision on the s.16 application thus, parties have to work out their 
+remedies in accordance with law – As and when such remedies 
+are resorted to, they will be decided uninfluenced by any of the 
+observations made herein – All questions between the parties 
+other than the one answered herein based on s.11(6-A), A&C Act 
+are left open. [Paras 14, 17, 21, 23, 27]
+Arbitration & Conciliation Act, 1996 – s.11(6A) – Presidency 
+Small Cause Courts Act, 1882 – Appellant relied on the 
+Full Bench judgment of the Bombay High Court in Central 
+Warehousing which inter alia held that the Arbitration 
+Agreement in the situation referred therein would be invalid 
+and inoperative on the principle that it would be against public 
+policy to allow the parties to contract out of the exclusive 
+jurisdiction of Small Causes Court by virtue of s.41 of the Act 
+of 1882 – Appellant submitted that in view of this holding, even 
+while examining within the contours of s.11(6-A) this Court will 
+be obliged to conclude that no arbitration agreement existed:
+Held: Submission not countenanced, reasons stated – Paragraph 
+40 of Central Warehousing cannot be understood on the facts 
+of the present case to mean that Clause 33 of the Leave and 
+License Agreement has ceased to exist – The judgement in Central 
+Warehousing is dealt with only to decipher whether on account 
+of the said judgement, Clause 33 of the Leave and License 
+Agreement in the present case, containing the arbitration clause 
+is non-existent – It is not – An examination u/s.11(6-A) indicates 
+that there exists an arbitration agreement between the parties – An 
+appeal is pending in this Court against the judgement in Central 
+Warehousing – That appeal may be decided on its own merits – This 
+Court is not to be taken to have pronounced on the correctness of 
+Central Warehousing one way or the other. [Paras 21, 23]
+Arbitration & Conciliation Act, 1996 – s.11(6-A) – Presidency 
+Small Cause Courts Act, 1882 – s.41:
+Held: Leave and License agreement in Clause 33 contained an 
+Arbitration clause – In a proceeding u/s.11, A&C Act, the Court 
+is to confine the examination to the existence of an Arbitration 
+Agreement  – s.11(6-A) which was brought into force w.e.f 
+23.10.2015, though omitted by Act 33 of 2019, the omission has 
+
+[2026] 1 S.C.R. 
+3
+Motilal Oswal Financial Services Limited v.  
+Santosh Cordeiro and Another
+not yet been notified – Hence, the jurisdiction of this Court is 
+only to inspect or scrutinize the dealings between the parties for 
+determination about the existence of an Arbitration Agreement. 
+[Paras 14, 17]
+Arbitration – Issue of arbitrability or otherwise of a dispute – 
+Conferment of jurisdiction on a specific court or creation of 
+a public forum not the decisive test to answer and decide 
+whether arbitrability is impliedly barred:
+Held: Creation of a specific forum as a substitute for Civil Court 
+or specifying the Civil Court may not be enough to accept the 
+inference of implicit non-arbitrability – Conferment of jurisdiction 
+on a specific court or creation of a public forum though eminently 
+significant, may not be the decisive test to answer and decide 
+whether arbitrability is impliedly barred. [Para 21]
+Case Law Cited
+Natraj Studios Private Limited. v. Navrang Studios and Another 
+[1981] 2 SCR 466 : (1981) 1 SCC 523; Booz Allen and Hamilton 
+Inc v. SBI Home Finance Limited and Others [2011] 7 SCR 310 : 
+(2011) 5 SCC 532; Vidya Drolia and Others v. Durga Trading 
+Corporation [2020] 11 SCR 1001 : (2021) 2 SCC 1; In re Interplay 
+Between Arbitration Agreements under Arbitration and Conciliation 
+Act, 1996 & Stamp Act, 1899 [2023] 15 SCR 1081 : (2024) 6 
+SCC 1; Vidya Drolia and Others v. Durga Trading [2017] 10 SCR 
+139 : (2017) 10 SCC 706 – referred to.
+Central Warehousing Corporation, Mumbai v. Fortpoint Automotive 
+Pvt. Ltd., Mumbai, 2009 SCC OnLine Bom 2023;Globsport 
+India Pvt. Ltd. v. Mayfair Housing Pvt. Ltd. (2015) OnLine Bom 
+4176 – referred to.
+List of Acts
+Arbitration & Conciliation Act, 1996; Presidency Small Cause Courts 
+Act, 1882; Contract Act, 1872.
+List of Keywords
+Section 11(6A), Arbitration & Conciliation Act, 1996; Section 41, 
+Presidency Small Cause Courts Act, 1882; Dispute non-arbitrable; 
+Non-arbitrability under Section 41, Presidency Small Cause 
+
+4
+[2026] 1 S.C.R.
+Supreme Court Reports
+Courts Act, 1882; Arbitration agreement of the Leave and License 
+Agreement; Leave and License agreement contained Arbitration 
+clause; Section 16, Arbitration & Conciliation Act, 1996; There 
+exists an arbitration agreement between the parties; Small Causes 
+Court; ex proprio vigore (by its own force).
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 36 of 2026
+From the Judgment and Order dated 02.05.2024 of the High Court 
+of Judicature at Bombay in CAA No. 9 of 2024
+Appearances for Parties
+Advs. for the Appellant(s):
+Chirag M. Shah, Ms. Sanjana Saddy.
+Advs. for the Respondent(s):
+Rishabh Shah, Dhaval Mehrotra, Ms. Shivani Bansal, Ms. Aditi 
+Desai, For M/s. ADS Legal.
+Judgment / Order of the Supreme Court
+Judgment
+K.V. Viswanathan, J.
+1.	
+Leave granted.
+2.	
+The present appeal calls in question the correctness of the order 
+dated 02.05.2024 passed by the Single Judge of the High Court of 
+Judicature at Bombay in Commercial Arbitration Application No.9 
+of 2024. By the said order, the learned Single Judge allowed the 
+Section 11 Application filed by the respondent under the Arbitration 
+& Conciliation Act, 1996 (for short “the A&C Act”) and appointed 
+an arbitrator to adjudicate the dispute between the parties. The 
+only objection taken by the appellant herein was that the dispute is 
+non-arbitrable in view of Section 41 of the Presidency Small Cause 
+Courts Act, 1882 (for short “the 1882 Act”). The learned Single 
+Judge made a short shrift of the said objection by holding that the 
+place where the property in question, which was the subject matter 
+of the dispute, was situated, i.e. Malad, was outside the jurisdiction 
+of the Small Causes Court. This finding has now turned out to be 
+
+[2026] 1 S.C.R. 
+5
+Motilal Oswal Financial Services Limited v.  
+Santosh Cordeiro and Another
+a damp squib, since parties before us are ad idem that Malad area 
+is covered under the jurisdiction of the Small Causes Court. We 
+could have rest content by remanding the matter to the High Court 
+for fresh consideration. However, that will only prolong the dispute 
+and, hence, we have decided to answer the issues arising in the 
+case ourselves.
+BRIEF FACTS OF THE CASE: -
+3.	
+With regard to the premises situated at Unit No.718, admeasuring 
+2925 sq. ft., 7th Floor, Palm Spring Centre, Link Road, Malad (West), 
+Mumbai, the appellant entered into a Leave and License Agreement 
+on 06.10.2017 with the respondent. The period of the Leave and 
+License was 60 months from 01.10.2017 to 30.10.2022. Though 
+the appellant terminated the said agreement on 31.12.2019, after 
+exchange of correspondence between the parties, the said termination 
+was reversed and an Addendum dated 13.03.2020 was entered 
+into extending the Leave and License period from 60 months to 96 
+months with a lock-in period of 72 months.
+4.	
+According to the appellant, due to COVID-19 pandemic, they were 
+unable to continue the arrangement and citing the force majeure 
+clause in the agreement, they handed over the keys and vacant 
+peaceful possession of the premises to the respondent on 09.09.2020. 
+According to the appellant, they intimated the respondents about the 
+same on 10.10.2020 by writing an email. The appellant also sought 
+refund of the security deposit.
+5.	
+On 28.06.2023, the respondent No.1 called upon the appellant to 
+pay a sum of Rs.94,40,152/- along with interest @ 24% towards the 
+alleged arrears of license fees for the balance lock-in period i.e. from 
+01.09.2020 to 14.06.2023. The appellants wrote back on 17.07.2023 
+denying any liability and seeking refund of security deposit of Rs. 
+10 lakhs.
+6.	
+The appellant on 17.07.2023 received a notice dated 15.07.2023 
+issued by the respondent under Section 21 of the A&C Act invoking 
+Clause 33 of the arbitration agreement of the Leave and License 
+Agreement dated 06.10.2017 and Addendum dated 13.03.2020. 
+Clause 33 of the Leave and License Agreement dated 06.10.2017 
+reads as under: -
+
+6
+[2026] 1 S.C.R.
+Supreme Court Reports
+“In the event of the any dispute or difference arising 
+between the Licensors and the Licensee hereto concerning 
+or relating to the interpretation of these presents or the 
+interpretation or effect of any provisions thereof or relating 
+to the liability or obligation on the part of any of the parties 
+hereto, the same shall be referred to arbitration and Sole 
+Arbitrator shall be appointed by the mutual consent of 
+the Parties. The award passed by the sole arbitrator 
+shall be binding on both the parties. The arbitration shall 
+be in Mumbai and in accordance with and subject to the 
+provisions of the Arbitration and Conciliation Act, 1996 or 
+any statutory modification or re-enhancements thereof for 
+the time being in force.”
+This was followed by an application under Section 11 of the A&C 
+Act filed on 13.08.2023 by the respondent seeking appointment of 
+a sole arbitrator in accordance with clause 33 set out above.
+7.	
+On 01.11.2023, the appellant filed its reply objecting to the appointment 
+of the arbitrator and specifically relied on Section 41 of the 1882 Act 
+and contended that only the Small Causes Court would have exclusive 
+jurisdiction to entertain and try any suit or proceeding arising from 
+the relationship between a licensor and licensee and that since the 
+said statute is a special remedy, the dispute is not arbitrable. The 
+High Court, by its order dated 02.05.2024, allowed the application 
+and appointed the arbitrator. 
+8.	
+Section 41 of the 1882 Act reads as under:-
+“41. Suits or Proceedings between licensors and 
+licensees or landlords and tenants for recovery of 
+possession of immovable property and license fees 
+or rent, except to those to which other Acts apply to 
+lie in Small Cause Court.- (1) Notwithstanding anything 
+contained elsewhere in this Act but subject to the provisions 
+of sub-section (2), the Court of Small Cause shall have 
+jurisdiction to entertain and try all suits and proceedings 
+between a licensor and licensee, or a landlord and tenant, 
+relating to the recovery of possession of any immovable 
+property situated in Greater Bombay, or relating to the 
+recovery of the licence fee or charges or rent therefor, 
+irrespective of the value of the subject-matter of such 
+suits or proceedings.
+
+[2026] 1 S.C.R. 
+7
+Motilal Oswal Financial Services Limited v.  
+Santosh Cordeiro and Another
+(2) Nothing contained in sub-section (1) shall apply to 
+suits or proceedings for the recovery of possession of any 
+immovable property, or of licence fee for charges of rent 
+thereof, to which the provisions of the Bombay Rents, Hotel 
+and Lodging House Rates Control Act, 1947, the Bombay 
+Government Premises (Eviction) Act, 1955, the Bombay 
+Municipal Corporation Act, the Maharashtra Housing and 
+Area Development Act, 1976 or any other law for the time 
+being in force, apply.”
+9.	
+Proceedings before the arbitrator were carried on. On 03.06.2024, 
+the appellant raised the ground of non-arbitrability under Section 41 
+of the 1882 Act and filed a Section 16 application under the A&C 
+Act before the arbitrator. On 11.10.2024, the arbitrator dismissed 
+the Section 16 application by holding that the amount sought to be 
+recovered partakes the character of a ‘debt’ and is not a claim for 
+license fee for use and occupation. On 28.01.2025, the Special Leave 
+Petition was filed before this Court and this Court, on 21.02.2025, 
+stayed the impugned order. That is how the matter presents itself 
+before us.
+10.	 We have heard Mr. Chirag M. Shah, learned advocate, for the appellant 
+and Mr. Rishabh Shah, learned advocate for the respondents. We 
+have perused the records as well as written submissions filed by 
+the respective parties.
+CONTENTIONS OF THE APPELLANT: -
+11.	 The learned counsel for the appellant contends that in the Section 
+11 application filed by the respondents, a clear case for recovery of 
+license fee was sought, and expressly it was stated that the amount 
+claimed did not partake the character of damages; that the reliance 
+on the judgment of the Division Bench of the Bombay High Court 
+in Globsport India Pvt. Ltd. vs. Mayfair Housing Pvt. Ltd1 was 
+untenable in view of the Full Bench judgment of the Bombay High 
+Court in Central Warehousing Corporation, Mumbai v. Fortpoint 
+Automotive Pvt. Ltd., Mumbai2; that Central Warehousing (supra) 
+clearly holds that exclusive jurisdiction is conferred on the Court 
+1	
+(2015) OnLine Bom 4176
+2	
+2009 SCC OnLine Bom 2023
+
+8
+[2026] 1 S.C.R.
+Supreme Court Reports
+of Small Causes to entertain and decide all suits and proceedings 
+between a licensor and licensee or a landlord and tenant relating 
+to recovery of possession or recovery of license fee/rent in respect 
+of premises situated in Greater Bombay; that this Court in Natraj 
+Studios Private Limited. v. Navrang Studios and Another3, while 
+interpreting a pari materia provision held that the parties could not 
+contract out of a special legislation that conferred exclusive jurisdiction 
+over landlord-tenant disputes to the Small Causes Court; that as 
+long as the suit was between a licensor and licensee or a landlord 
+and tenant, concerning immovable property, relating to recovery of 
+possession or recovery of license fee, charges or rent, it will lie only 
+before the Small Causes Court and the jurisdiction of all other courts 
+is ousted; that the 1882 Act is a special legislation with a special 
+purpose and grants exclusive jurisdiction on special courts which 
+have been set up under such legislation and that in Booz Allen 
+and Hamilton Inc vs. SBI Home Finance Limited And Others4, 
+this Court held that tenancy/licensor/licensee disputes governed by 
+special statutes are not arbitrable.
+CONTENTIONS OF THE RESPONDENT: -
+12.	 The learned counsel for the respondent submitted the only exclusion 
+in Clause 355 of the agreement was that the arbitrator was not to 
+have power to interfere or arbitrate on issue of vacating the premises 
+on expiry of license period and there was no bar to arbitrate on the 
+obligation on the parties to pay the license fee/rent/use and occupation 
+charges; that the dispute was only for payment of compensation 
+for the “balance lock-in period”; that the claim of the respondents 
+is neither for recovery of possession nor license fee; that the 
+respondents’ case is supported by the judgment in Globsport (supra); 
+that the judgment in Vidya Drolia And Others vs. Durga Trading 
+Corporation6, (hereinafter called Vidya Drolia - II), makes it clear 
+that mere conferral of jurisdiction on a specific court or creation of a 
+public fora would not be decisive to answer the issue of arbitrability 
+3	
+(1981) 1 SCC 523
+4	
+(2011) 5 SCC 532
+5	
+The reference to arbitration will in no way affect the obligation of the Licensee to vacate the licensed 
+premises on the expiry or earlier determination of the License period and the arbitrators shall have no 
+power to interfere with or arbitrate on issue of vacating the licensed premises on expiry of the licensed 
+period.
+6	
+(2021) 2 SCC 1
+
+[2026] 1 S.C.R. 
+9
+Motilal Oswal Financial Services Limited v.  
+Santosh Cordeiro and Another
+or otherwise of a dispute; and that no statutory protection under the 
+Maharashtra Rent Control Act was denied to the appellant.
+QUESTION FOR CONSIDERATION: -
+13.	 In the above background, the question for consideration is whether the 
+High Court has rightly allowed the application filed by the respondent 
+under Section 11 of the A&C Act?
+ANALYSIS AND DISCUSSION: -
+14.	 There is no dispute that the Leave and License agreement of 
+06.10.2017, in Clause 33, contained an Arbitration clause. In a 
+proceeding under Section 11 of the A&C Act, the Court is to confine 
+the examination to the existence of an Arbitration Agreement. Section 
+11 (6-A) which was brought into force with effect from 23.10.2015, 
+though omitted by Act 33 of 2019, the omission has not yet been 
+notified. 
+15.	 Section 11(6A) of the A&C Act is reproduced hereunder:-
+“11. Appointment of arbitrators.—(1) xxx xxx .
+(2) xxx xxx 
+(3) xxx xxx 
+(4) xxx xxx 
+(5) xxx xxx 
+(6) xxx xxx 
+(6A) The Supreme Court or, as the case may be, the 
+High Court, while considering any application under sub-
+section (4) or sub-section (5) or sub-section (6), shall, 
+notwithstanding any judgment, decree or order of any 
+Court, confine to the examination of the existence of an 
+arbitration agreement.”
+16.	 A Seven Judge Bench of this Court in In re Interplay Between 
+Arbitration Agreements under Arbitration and Conciliation Act, 
+1996 & Stamp Act, 18997, (hereinafter called as ‘In re-Interplay’) 
+7	
+(2024) 6 SCC 1
+
+10
+[2026] 1 S.C.R.
+Supreme Court Reports
+while dealing with the aspect of how Vidya Drolia (Supra) proceeded 
+on the assumption that Section 11(6-A) has been omitted, clarified 
+the position thus:-
+“62. A plain reading of Section 11(6-A) makes it evident 
+that it is referring to an arbitration agreement. Section 
+11(6-A) provides that courts must confine themselves to an 
+examination of the existence of the arbitration agreement. 
+The word “confine” indicates the intention of the legislature 
+to limit the jurisdiction of the Courts at the stage of the 
+appointment of an arbitrator.
+63. In Vidya Drolia [Vidya Drolia v. Durga Trading Corpn., 
+(2021) 2 SCC 1], this Court held : (SCC p. 49, para 21)
+“21. The term “agreement” is not defined in the Arbitration 
+Act, albeit it is defined in Section 10 of the Contract Act, 
+1872 (for short “the Contract Act”), … as contracts made 
+by free consent of parties competent to contract, for a 
+lawful consideration and with a lawful object, and are not 
+thereby expressly declared to be void. Section 10 of the 
+Contract Act also stipulates that aforesaid requirements 
+shall not affect any law in force in India (and not expressly 
+repealed) by which a contract is required to be made in 
+writing, in presence of witnesses or any law relating to 
+registration of documents. Thus, an arbitration agreement 
+should satisfy the mandate of Section 10 of the Contract 
+Act, in addition to satisfying other requirements stipulated 
+in Section 7 of the Arbitration Act.”
+64. The above observations are correct insofar as the 
+arbitration agreement must satisfy the requirements of 
+the Contract Act. However, the authority empowered to 
+adjudicate whether the requirements of the Contract Act 
+are satisfied is the Arbitral Tribunal, under Section 16 of 
+the Arbitration Act. This is addressed in greater detail in 
+the following segments.
+163. We are of the opinion that the above premise of the 
+Court in Vidya Drolia [Vidya Drolia v. Durga Trading Corpn., 
+[(2021) 2 SCC 1] is erroneous because the omission of 
+Section 11(6-A) has not been notified and, therefore, the 
+
+[2026] 1 S.C.R. 
+11
+Motilal Oswal Financial Services Limited v.  
+Santosh Cordeiro and Another
+said provision continues to remain in full force. Since 
+Section 11(6-A) continues to remain in force, pending the 
+notification of the Central Government, it is incumbent 
+upon this Court to give true effect to the legislative intent.
+164. The 2015 Amendment Act has laid down different 
+parameters for judicial review under Section 8 and 
+Section 11. Where Section 8 requires the Referral 
+Court to look into the prima facie existence of a valid 
+arbitration agreement, Section 11 confines the Court’s 
+jurisdiction to the examination of the existence of 
+an arbitration agreement. Although the object and 
+purpose behind both Sections 8 and 11 is to compel 
+parties to abide by their contractual understanding, the 
+scope of power of the Referral Courts under the said 
+provisions is intended to be different. The same is also 
+evident from the fact that Section 37 of the Arbitration 
+Act allows an appeal from the order of an Arbitral 
+Tribunal refusing to refer the parties to arbitration 
+under Section 8, but not from Section 11. Thus, the 
+2015 Amendment Act has legislatively overruled the 
+dictum of Patel Engg. [SBP & Co. v. Patel Engg. Ltd., 
+(2005) 8 SCC 618] where it was held that Section 8 and 
+Section 11 are complementary in nature. Accordingly, 
+the two provisions cannot be read as laying down a 
+similar standard.
+165. The legislature confined the scope of reference 
+under Section 11(6-A) to the examination of the 
+existence of an arbitration agreement. The use of the 
+term “examination” in itself connotes that the scope 
+of the power is limited to a prima facie determination. 
+Since the Arbitration Act is a self-contained code, the 
+requirement of “existence” of an arbitration agreement 
+draws effect from Section 7 of the Arbitration Act. In 
+Duro Felguera [Duro Felguera, S.A. v. Gangavaram 
+Port Ltd., (2017) 9 SCC 729, this Court held that the 
+Referral Courts only need to consider one aspect to 
+determine the existence of an arbitration agreement — 
+whether the underlying contract contains an arbitration 
+agreement which provides for arbitration pertaining to 
+
+12
+[2026] 1 S.C.R.
+Supreme Court Reports
+the disputes which have arisen between the parties to 
+the agreement. Therefore, the scope of examination 
+under Section 11(6-A) should be confined to the 
+existence of an arbitration agreement on the basis 
+of Section 7. Similarly, the validity of an arbitration 
+agreement, in view of Section 7, should be restricted 
+to the requirement of formal validity such as the 
+requirement that the agreement be in writing. This 
+interpretation also gives true effect to the doctrine 
+of competence-competence by leaving the issue of 
+substantive existence and validity of an arbitration 
+agreement to be decided by Arbitral Tribunal under 
+Section 16. We accordingly clarify the position of law 
+laid down in Vidya Drolia [Vidya Drolia v. Durga Trading 
+Corpn., (2021) 2 SCC 1 in the context of Section 8 and 
+Section 11 of the Arbitration Act.
+166. The burden of proving the existence of arbitration 
+agreement generally lies on the party seeking to rely on 
+such agreement. In jurisdictions such as India, which 
+accept the doctrine of competence-competence, only prima 
+facie proof of the existence of an arbitration agreement 
+must be adduced before the Referral Court. The Referral 
+Court is not the appropriate forum to conduct a mini-trial 
+by allowing the parties to adduce the evidence in regard to 
+the existence or validity of an arbitration agreement. The 
+determination of the existence and validity of an arbitration 
+agreement on the basis of evidence ought to be left to the 
+Arbitral Tribunal. This position of law can also be gauged 
+from the plain language of the statute.
+167. Section 11(6-A) uses the expression “examination 
+of the existence of an arbitration agreement”. The 
+purport of using the word “examination” connotes 
+that the legislature intends that the Referral Court 
+has to inspect or scrutinise the dealings between the 
+parties for the existence of an arbitration agreement. 
+Moreover, the expression “examination” does not 
+connote or imply a laborious or contested inquiry. [ P. 
+Ramanatha Aiyar, The Law Lexicon (2nd Edn., 1997) 
+666.] On the other hand, Section 16 provides that the 
+
+[2026] 1 S.C.R. 
+13
+Motilal Oswal Financial Services Limited v.  
+Santosh Cordeiro and Another
+Arbitral Tribunal can “rule” on its jurisdiction, including 
+the existence and validity of an arbitration agreement. 
+A “ruling” connotes adjudication of disputes after 
+admitting evidence from the parties. Therefore, it 
+is evident that the Referral Court is only required 
+to examine the existence of arbitration agreements, 
+whereas the Arbitral Tribunal ought to rule on its 
+jurisdiction, including the issues pertaining to the 
+existence and validity of an arbitration agreement. A 
+similar view was adopted by this Court in Shin-Etsu 
+Chemical Co. Ltd. v. Aksh Optifibre Ltd., (2005) 7 SCC 
+234].
+169. When the Referral Court renders a prima facie opinion, 
+neither the Arbitral Tribunal, nor the Court enforcing the 
+arbitral award will be bound by such a prima facie view. 
+If a prima facie view as to the existence of an arbitration 
+agreement is taken by the Referral Court, it still allows 
+the Arbitral Tribunal to examine the issue in depth. Such 
+a legal approach will help the Referral Court in weeding 
+out prima facie non-existent arbitration agreements. It will 
+also protect the jurisdictional competence of the Arbitral 
+Tribunals to decide on issues pertaining to the existence 
+and validity of an arbitration agreement.”
+[Emphasis supplied]
+17.	 Hence, it is very clear that our jurisdiction is only to inspect or 
+scrutinize the dealings between the parties for determination about 
+the existence of an Arbitration Agreement. We are not to launch a 
+laborious or a contested inquiry. 
+18.	 Our task would have been much simpler but for the reliance placed 
+by the learned counsel for the appellant on the Full Bench judgment 
+of the Bombay High Court in Central Warehousing (supra). Central 
+Warehousing (supra) examined the question whether in view of 
+Section 58 of the A&C Act, if in any agreement between licensor 
+8	
+Extent of judicial intervention.- Notwithstanding anything contained in any other law for the time being 
+in force, in matters governed by this Part, no judicial authority shall intervene except where so provided 
+in this Part. 
+
+14
+[2026] 1 S.C.R.
+Supreme Court Reports
+and licensee an arbitration clause exists, the jurisdiction of the Small 
+Causes Court under the Presidency Small Causes Court Act, 1882, 
+would be ousted. 
+19.	 While answering the said question, the Full Bench traced the 
+legislative history of Section 41(2) of the Act of 1882. It found that 
+the object of introducing Section 41 in the amended form, was to 
+avoid multiplicity of proceedings in different Courts and consequent 
+waste of public time and money and to avoid unnecessary delay and 
+hardship to the suitors. The Full Bench found that the objective was 
+to have uniformity of the procedure so that all suits and proceedings 
+between a landlord and tenant or a licensor and licensee for recovery 
+of possession of premises or for recovery of rent or license fee, 
+irrespective of the value of the subject matter, should go to and be 
+disposed of by Small Causes Court. The Full Bench found that the 
+provision vested exclusive jurisdiction of the Court of Small Causes 
+to entertain such suits. Ultimately, for the purpose of our case we 
+only need to deal with the operative portion set out in Para 40 of 
+the said judgment which reads as under: -
+“40. In summation, we would hold that section 41(1) of the 
+Act of 1882 is a special law which in turn has constituted 
+special Courts for adjudication of disputes specified 
+therein between the licensor and licensee or a landlord 
+and tenant. The effect of section 41(2) of the Act of 1882 
+is only the suits or proceedings for recovery of possession 
+of immovable property or of licence fee thereof, to which, 
+the provisions of specified Acts or any other law for the 
+time being in force apply, have been excepted from the 
+application of non-obstante clause contained in section 
+41(1) of the Act. The expression “or any other law for the 
+time being in force” appearing in section 41(2) will have 
+to be construed to mean that such law should provide for 
+resolution of disputes between licensor and licensee or 
+a landlord and tenant in relation to immovable property 
+or licence fee thereof, to which immovable property, the 
+provisions of that Act are applicable. The Act of 1996 is not 
+covered within the ambit of section 41(2) in particular the 
+expression “or any other law for the time being in force” 
+contained therein. The question whether the exclusive 
+jurisdiction of the Small Causes Court vested in terms of 
+
+[2026] 1 S.C.R. 
+15
+Motilal Oswal Financial Services Limited v.  
+Santosh Cordeiro and Another
+section 41 of the Act of 1882 is ousted, if an agreement 
+between the licensor and licensee contains a clause for 
+arbitration, the same will have to be answered in the 
+negative. For, section 5 of the Act of 1996 in that sense is 
+not an absolute non-obstante clause. Section 5 of the Act 
+of 1996 cannot affect the laws for the time being in force 
+by virtue of which certain disputes may not be submitted 
+to arbitration, as stipulated in section 2(3) of the Act of 
+1996. We hold that section 41 of the Act of 1882 falls 
+within the ambit of section 2(3) of the Act of 1996. As a 
+result of which, even if the Licence Agreement contains 
+Arbitration Agreement, the exclusive jurisdiction of 
+the Courts of Small Causes under section 41 of the 
+Act of 1882 is not affected in any manner. Whereas, 
+Arbitration Agreement in such cases would be invalid 
+and inoperative on the principle that it would be against 
+public policy to allow the parties to contract out of the 
+exclusive jurisdiction of the Small Causes Courts by 
+virtue of section 41 of the Act of 1882.”
+[Emphasis supplied]
+20.	 The appellant relies on the above paragraph which holds that the 
+Arbitration Agreement in the situation referred to in the paragraph 
+would be invalid and inoperative on the principle that it would be 
+against public policy to allow the parties to contract out of the 
+exclusive jurisdiction of Small Causes Court by virtue of Section 41 
+of the Act of 1882.
+21.	 The learned counsel for the appellant submits that in view of this 
+holding, even while examining within the contours of Section 11(6-A) 
+this Court will be obliged to conclude that no arbitration agreement 
+existed. We are not able to countenance the submission of the 
+learned counsel for the appellant for the following reasons: -
+I.	
+(a). Firstly, Central Warehousing (supra) has to be understood 
+in the context in which it came to be decided. The said context 
+does not obtain here. In Central Warehousing (supra), the 
+petitioner therein, issued termination notices terminating the 
+storage warehouse facilities of the respondent therein – FAP 
+Limited. In response thereto, the respondent therein FAP 
+Limited invoked the arbitration clause. Respondent-FAP Limited 
+
+16
+[2026] 1 S.C.R.
+Supreme Court Reports
+thereafter, filed a suit under Section 41 of the Act of 1882 for 
+a declaration that the agreement providing storage facility was 
+subsisting and obtained interim orders restraining the petitioner 
+therein from giving effect to the termination notices. The petitioner 
+therein - Central Warehousing raised an objection based on the 
+provisions of Section 8 of the A&C Act. The preliminary objection 
+was overruled. Aggrieved, Central Warehousing approached 
+the High Court under Article 227 of the Constitution of India. 
+What is significant to notice is that the respondent therein FAP 
+Limited was in possession of the premises. 
+(b). In the present case, it is undisputed by both parties that 
+possession had been handed over by the appellant to the 
+respondents in September 2020. The dispute between the 
+parties is with regard to a monetary claim with the appellant 
+asserting that the security deposit should be repaid by the 
+respondents and the respondents claiming sums of money 
+towards alleged arrears of amounts payable for the balance 
+lock-in period. This aspect is set out only for explaining the 
+context of the present case and contrasting with the context in 
+Central Warehousing (supra). 
+II.	
+(a). Secondly, pursuant to a reference made to a three-
+Judge Bench in Vidya Drolia and Others v. Durga Trading 
+Corporation9., (hereinafter called Vidya Drolia-I), this Court 
+pronounced the judgment in Vidya Drolia–II (supra). Though the 
+judgment in re - Interplay (supra) corrected Vidya Drolia-II on 
+the aspect of the continuance of Section 11(6-A) in the statute 
+and the interpretation of the said sub-section, the other aspects 
+in Vidya Drolia-II have not been diluted in re - Interplay (supra). 
+(b). Vidya Drolia-II was actually occasioned due to another 
+judgment of this Court in Himangni Enterprises v. Kamaljeet 
+Singh Ahluwalia10, which had treated cases of ejectment 
+under the Transfer of Property Act similar to cases of eviction 
+under the Rent Control Act of the State. The Bench in Vidya 
+Drolia-I doubted the said judgment and in a detailed referral 
+order distinguished the applicability of the prior judgments of 
+9	
+(2019) 20 SCC 406
+10	
+(2017) 10 SCC 706
+
+[2026] 1 S.C.R. 
+17
+Motilal Oswal Financial Services Limited v.  
+Santosh Cordeiro and Another
+this Court in Natraj Studios (supra) and Booz Allen (supra) 
+to ejectment suits under the Transfer of Property Act.
+(c). While dealing with the aspect of implied bars on arbitrability, 
+Vidya Drolia-II made the following pertinent observations: -
+“53.Dhulabhai case  [Dhulabhai  v.  State of M.P., 
+(1968) 3 SCR 662 : AIR 1969 SC 78] is not directly 
+applicable as it relates to exclusion of jurisdiction of 
+civil courts, albeit we respectfully agree with the order 
+of reference [Vidya Drolia v. Durga Trading Corpn., 
+(2019) 20 SCC 406] that Condition 2 is apposite while 
+examining the question of non-arbitrability. Implied 
+legislative intention to exclude arbitration can be seen 
+if it appears that the statute creates a special right or 
+a liability and provides for determination of the right 
+and liability to be dealt with by the specified courts or 
+the tribunals specially constituted in that behalf and 
+further lays down that all questions about the said 
+right and liability shall be determined by the court or 
+tribunals so empowered and vested with exclusive 
+jurisdiction. Therefore, mere creation of a specific 
+forum as a substitute for civil court or specifying 
+the civil court, may not be enough to accept the 
+inference of implicit non-arbitrability. Conferment 
+of jurisdiction on a specific court or creation of a 
+public forum though eminently significant, may 
+not be the decisive test to answer and decide 
+whether arbitrability is impliedly barred.”
+[Emphasis supplied]
+What is crucial to notice is that this Court clearly emphasized 
+that creation of a specific forum as a substitute for Civil Court 
+or specifying the Civil Court may not be enough to accept the 
+inference of implicit non-arbitrability. Conferment of jurisdiction 
+on a specific court or creation of a public forum though eminently 
+significant, may not be the decisive test to answer and decide 
+whether arbitrability is impliedly barred. 
+(d). Further for the completion of record, it is also mentioned 
+herein that Vidya Drolia-II expressly overruled Himangni (supra) 
+and held as under: - 
+
+18
+[2026] 1 S.C.R.
+Supreme Court Reports
+“79. Landlord-tenant disputes governed by the 
+Transfer of Property Act are arbitrable as they are 
+not actions in rem but pertain to subordinate rights in 
+personam that arise from rights in rem. Such actions 
+normally [Ed. : Certainly in those cases where the 
+dispute only affects the parties to the arbitration 
+clause, third-party rights would not be affected, as in 
+the facts of the present case. It is in such cases that 
+“such actions under the TPA normally would not affect 
+third-party rights or have erga omnes effect”. However, 
+one may consider cases for instance, where a sub-
+tenancy exists or where the head lessee has taken a 
+mortgage on the lease, and the landlord invokes the 
+arbitration clause against the head lessee seeking 
+to terminate the head lease, can the sub-tenant or 
+mortgagee of the head lessee seek to be impleaded 
+in the arbitration proceedings? For termination of the 
+head lease would also extinguish the rights of the 
+sub-tenant and the mortgagee of the head lessee. The 
+situations posited are relatively simple ones. Often 
+there are numerous prior and subsequent transferees 
+who might be affected by the result of a dispute 
+between a landlord and tenant, or even between other 
+transferees. In such complex situations involving prior 
+and subsequent transfers, it would appear that the 
+matter would be non-arbitrable as it would appear to 
+satisfy the first two tests of non-arbitrability laid down 
+herein—see Shortnotes B and C. In a case where 
+the mortgagee is covered by the RDB Act and the 
+Sarfaesi Act, it might be rendered non-arbitrable by 
+virtue of the fourth test as well—see Shortnotes E 
+and G.] would not affect third-party rights or have 
+erga omnes effect or require centralised adjudication. 
+An award passed deciding landlord-tenant disputes 
+can be executed and enforced like a decree of the 
+civil court. Landlord-tenant disputes do not relate 
+to inalienable and sovereign functions of the State. 
+The provisions of the Transfer of Property Act do not 
+expressly or by necessary implication bar arbitration. 
+
+[2026] 1 S.C.R. 
+19
+Motilal Oswal Financial Services Limited v.  
+Santosh Cordeiro and Another
+The Transfer of Property Act, like all other Acts, has 
+a public purpose, that is, to regulate landlord-tenant 
+relationships and the arbitrator would be bound by 
+the provisions, including provisions which enure and 
+protect the tenants.
+80. In view of the aforesaid, we overrule the ratio 
+laid down in Himangni Enterprises [Himangni 
+Enterprises  v. Kamaljeet Singh Ahluwalia, (2017) 
+10 SCC 706 : (2018) 1 SCC (Civ) 82] and hold 
+that landlord-tenant disputes are arbitrable as the 
+Transfer of Property Act does not forbid or foreclose 
+arbitration. However, landlord-tenant disputes covered 
+and governed by rent control legislation would not 
+be arbitrable when specific court or forum has been 
+given exclusive jurisdiction to apply and decide special 
+rights and obligations. Such rights and obligations can 
+only be adjudicated and enforced by the specified 
+court/forum, and not through arbitration.”
+III.	
+Thirdly, if in this context, Section 41 is appreciated, it will be 
+clear that Section 41 is a provision conferring jurisdiction on the 
+Small Causes Court for certain types of disputes and cannot be 
+interpreted to mean that ex proprio vigore (by its own force), it 
+neutralizes arbitration clauses in agreements. 
+IV.	
+Fourthly, Arbitration clauses have their roots in Section 28 of the 
+Contract Act, 1872, a provision completely missed in Central 
+Warehousing (Supra). Section 28 which speaks of agreements 
+in restraint of legal proceeding being void, has two important 
+exceptions. Relevant part of Section 28 and exceptions are 
+extracted hereinbelow. 
+“28. Agreements in restraint of legal proceedings, 
+void.— Every agreement,— (a) by which any party 
+thereto is restricted absolutely from enforcing his 
+rights under or in respect of any contract, by the usual 
+legal proceedings in the ordinary tribunals, or which 
+limits the time within which he may thus enforce his 
+rights; or (b) which extinguishes the rights of any 
+party thereto, or discharges any party thereto, from 
+any liability, under or in respect of any contract on 
+
+20
+[2026] 1 S.C.R.
+Supreme Court Reports
+the expiry of a specified period so as to restrict any 
+party from enforcing his rights, is void to the extent.” 
+Exception 1.—Saving of contract to refer to 
+arbitration dispute that may arise.—This section 
+shall not render illegal a contract, by which two or 
+more persons agree that any dispute which may 
+arise between them in respect of any subject or class 
+of subjects shall be referred to arbitration, and that 
+only the amount awarded in such arbitration shall 
+be recoverable in respect of the dispute so referred. 
+Exception 2.- Saving of contract to refer questions 
+that have already arisen.- Nor shall this section 
+render illegal any contract in writing, by which two 
+or more persons agree to refer to arbitration any 
+question between them which has already arisen, or 
+affect any provision of any law in force for the time 
+being as to references to arbitration.”
+It will be clear that when two or more persons agree to refer a matter 
+to arbitration, Section 28 will not render that agreement invalid.
+22.	 Considerable arguments were advanced both in the oral submissions 
+and in the written note about whether the nature of the claim is in 
+the form of debt or whether it pertains to a matter covered by the 
+ambit of Section 41(1). Arguments were also advanced on the issue 
+as to how the dispute between the parties is a dispute in personam 
+(as contended by the respondent) pertaining only to the recovery of 
+a debt as opposed to the appellant contending that it is a dispute 
+relating to the recovery of the license fee or charges or rent, covered 
+under Section 41(1) of the 1882 Act. Reliance was placed on Natraj 
+Studios (supra) and Booz Allen (supra) by the appellant and 
+Globsport (supra) by the respondents.
+23.	 In exercise of our jurisdiction under Section 11, we are not concerned 
+with the said dispute. That will be for the arbitrator to decide. We have 
+been told that the Arbitrator has taken a decision on the Section 16 
+application. If that be so, parties have to work out their remedies in 
+accordance with law. As and when such remedies are resorted to, 
+they will be decided uninfluenced by any of the observations made 
+herein. All questions between the parties other than the one answered 
+herein based on Section 11(6-A) of the A&C Act are left open.
+
+[2026] 1 S.C.R. 
+21
+Motilal Oswal Financial Services Limited v.  
+Santosh Cordeiro and Another
+24.	 Section 16 of the A&C Act reads as under: -
+“16. Competence of arbitral tribunal to rule on its 
+jurisdiction.—(1) The arbitral tribunal may rule on its own 
+jurisdiction, including ruling on any objections with respect 
+to the existence or validity of the arbitration agreement, 
+and for that purpose,— 
+(a) an arbitration clause which forms part of a contract 
+shall be treated as an agreement independent of the other 
+terms of the contract; and 
+(b) a decision by the arbitral tribunal that the contract is 
+null and void shall not entail ipso jure the invalidity of the 
+arbitration clause. 
+(2) A plea that the arbitral tribunal does not have 
+jurisdiction shall be raised not later than the submission 
+of the statement of defence; however, a party shall not 
+be precluded from raising such a plea merely because 
+that he has appointed, or participated in the appointment 
+of, an arbitrator. 
+(3) A plea that the arbitral tribunal is exceeding the scope of 
+its authority shall be raised as soon as the matter alleged 
+to be beyond the scope of its authority is raised during 
+the arbitral proceedings. 
+(4) The arbitral tribunal may, in either of the cases referred 
+to in sub-section (2) or sub-section (3), admit a later plea 
+if it considers the delay justified. 
+(5) The arbitral tribunal shall decide on a plea referred to 
+in sub-section (2) or sub-section (3) and, where the arbitral 
+tribunal takes a decision rejecting the plea, continue with 
+the arbitral proceedings and make an arbitral award. 
+(6) A party aggrieved by such an arbitral award may make 
+an application for setting aside such an arbitral award in 
+accordance with section 34.”
+25.	 In re Interplay (supra), this Court held as follows: -
+“123. The doctrine of kompetenz-kompetenz (also known 
+as competence-competence), as originally developed 
+
+22
+[2026] 1 S.C.R.
+Supreme Court Reports
+in Germany, was traditionally understood to imply that 
+arbitrators are empowered to make a final ruling on their 
+own jurisdiction, with no subsequent judicial review of the 
+decision by any court. [ Fouchard, Gaillard, Goldman on 
+International Commercial Arbitration, Emmanuel Gaillard 
+and John Savage (Eds.), (1999) 396.] However, many 
+jurisdictions allow an Arbitral Tribunal to render a decision 
+on its jurisdiction, subject to substantive judicial review. 
+[Gary Born, International Arbitration Law and Practice (3rd 
+Edn., 2021) 1143.]
+124. It is a well-recognised principle of public international 
+law that a legal authority possessing adjudicatory powers 
+has the right to decide its own jurisdiction. [Interpretation 
+of the Greco-Turkish Agreement of December 1st, 1926, 
+In re, 1928 SCC OnLine PCIJ 5] Similarly, it is a general 
+rule of international arbitration law that an Arbitral Tribunal 
+has the power to determine its own jurisdiction. The ability 
+of an Arbitral Tribunal to determine its own jurisdiction is 
+an important facet of arbitration jurisprudence because it 
+gives effect to the separability presumption. The separability 
+presumption insulates the arbitration agreement from the 
+defects of the underlying contract, and thereby ensures 
+the sustenance of the tribunal’s jurisdiction over the 
+substantive rights and obligations of the parties under the 
+underlying contract even after such a contract is put to an 
+end. The doctrine of competence-competence allows the 
+tribunal to decide on all substantive issues arising out of 
+the underlying contract, including the existence and validity 
+of the arbitration agreement.”
+26.	 For the reasons set out hereinabove, paragraph 40 of Central 
+Warehousing (Supra) cannot be understood on the facts of the 
+present case to mean that Clause 33 of the Leave and License 
+Agreement has ceased to exist. 
+27.	 We have been constrained to deal with the judgement in Central 
+Warehousing (supra) only to decipher whether on account of the said 
+judgement, Clause 33 of the Leave and License Agreement dated 
+06.10.2017, in the present case, containing the arbitration clause is 
+non-existent. We hold that it is not and that an examination under 
+Section 11(6-A) indicates that there exists an arbitration agreement 
+
+[2026] 1 S.C.R. 
+23
+Motilal Oswal Financial Services Limited v.  
+Santosh Cordeiro and Another
+between the parties. We are conscious that an appeal is pending 
+in this Court against the judgement in Central Warehousing 
+(supra). That appeal may be decided on its own merits and we are 
+not to be taken to have pronounced on the correctness of Central 
+Warehousing (supra) one way or the other. 
+28.	 The appeal is dismissed for the reasons stated above. No order as 
+to costs. The Arbitrator shall proceed with the adjudication of the 
+disputes and conclude the proceedings within 6 months from today.
+Result of the case: Appeal dismissed.
+†Headnotes prepared by: Divya Pandey

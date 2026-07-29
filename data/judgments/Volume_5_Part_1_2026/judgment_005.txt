@@ -1,0 +1,1385 @@
+[2026] 5 S.C.R. 86 : 2026 INSC 342
+Maharashtra State Electricity Distribution  
+Company Limited (MSEDCL) & Ors. 
+v. 
+R Z Malpani
+(Civil Appeal No. 4307 of 2026)
+09 April 2026
+[J.K. Maheshwari* and Atul S. Chandurkar, JJ.]
+Issue for Consideration
+Whether, on a prima facie view, there exists an arbitration 
+agreement between the parties and as such, whether the reference 
+to arbitration u/s.11 by the High Court warrants interference by 
+this Court.
+Headnotes†
+Arbitration and Conciliation Act, 1996 – s.7 – Arbitration 
+Agreement – General reference in the letter of intent to 
+an arbitration clause contained in the tender documents 
+does not have the effect of ‘incorporation’ of the arbitration 
+clause contained therein in the contract – High Court on 
+application filed by the Respondent u/s.11, appointed a 
+sole arbitrator to adjudicate upon the disputes between the 
+parties – Respondent’s case is that the Letter of Intent (LOI) 
+incorporated the arbitration agreement from the terms of the 
+tender documents – It is the admitted case of the parties that 
+pursuant to the LOI and in terms of the tender documents, 
+neither any work order was issued to the Respondent nor 
+any formal agreement was entered into between the parties – 
+Appellant contended inter alia that even assuming that the LOI 
+itself can be considered a source of binding legal relationship 
+between the parties, the LOI made a general reference to the 
+tender documents and such a general reference cannot have 
+the effect of ‘incorporation’ of the arbitration clause contained 
+therein, in light of s.7(5):
+Held: Impugned order set aside – Arbitration clause contained in 
+some document may be incorporated in the contract between the 
+parties only by a specific reference to the arbitration clause – The 
+* Author
+
+[2026] 5 S.C.R. 
+87
+Maharashtra State Electricity Distribution  
+Company Limited (Msedcl) & Ors. v. R Z Malpani
+intent of the parties to incorporate the arbitration clause has to 
+be explicitly clear and a mere general ‘reference’ to the tender 
+conditions would not suffice – Present is a case of ‘reference’ 
+and not ‘incorporation’ – There is no mention of any arbitration or 
+dispute resolution clause in the LOI itself, neither does it purport 
+specific incorporation thereof from the tender documents – As 
+such, the arbitration clause contained in the  tender documents 
+could not be said to have been incorporated in the LOI to evince 
+the existence of an arbitration agreement between the parties on 
+its conjoint reading with the tender documents – The scope of 
+inquiry at the stage of s.11 is extremely limited and only pertains 
+to an examination about prima facie existence of an arbitration 
+agreement – Courts should follow the principle of ‘When in doubt, 
+do refer’ and lean towards referring matters to arbitration when 
+the arbitration agreement is prima facie existent – However, it 
+is only in the rarest of rare cases where even on a prima facie 
+view, without going into disputed facts between the parties, there 
+appears to be no existence of arbitration agreement between the 
+parties, the Court can reject the application for appointment of an 
+arbitrator and reference of the parties to arbitration – The instant 
+case is a fit case where even without going into the disputed 
+facts and merely on a prima facie view of the matter, there is no 
+existence of arbitration agreement – Moreover, LOI in the instant 
+case was indicative of a preliminary document in course of the 
+contract and was not intended to be an end-all-be-all contract 
+between the parties, it did not create contractual obligations or 
+legal relationship between them. [Paras 38, 39, 41, 42]
+Letter of Intent (LOI) – Does not, in and of itself, create a legal 
+relationship or contractual obligations until there is a clear, 
+unambiguous final acceptance by parties – High Court inter 
+alia found that the offer made by the Respondent in response 
+to the Tender was accepted by the LOI which resulted in a duly 
+concluded contract and; existence of arbitration agreement 
+can be discerned from correspondence between the parties:
+Held: Finding of the High Court that Appellant in its reply to the 
+Respondent’s arbitration notice ‘did not question the formation of 
+arbitration agreement on any ground other than the fact that the 
+project did not proceed further’ is prima facie erroneous and is set 
+aside – Therefore, there is no admission of any concluded contract, 
+
+88
+[2026] 5 S.C.R.
+Supreme Court Reports
+much less an arbitration agreement between the parties by the 
+Appellant in its reply – Appellant throughout maintained that there 
+was no concluded contract between the parties and as such, no 
+reference to arbitration can be made u/cl.23 of Special Conditions 
+of Contract contained in the tender documents merely because of 
+a general reference to the tender documents in the LOI – Further, 
+a letter of intent does not, in and of itself, create a legal relationship 
+or contractual obligations until there is a clear, unambiguous final 
+acceptance by the parties – When the intent of the parties can be 
+evinced from the letter of intent or the tender specifications and it 
+is clear that the letter of intent is to be followed by a final award or 
+a concluded agreement, it cannot be said that the letter of intent 
+itself binds the parties to the terms of the tender – Contractual 
+obligations cannot be foisted upon a party without a clear indication 
+of its intent to enter into a binding concluded contract – LOI in the 
+facts of the instant case was a promise to make a promise and 
+not a promise itself and no agreement had concluded between the 
+parties – It contemplated a work order to be issued at a subsequent 
+stage – Neither the specifications of the tender documents, nor the 
+LOI provides that the LOI itself would result in a concluded contract 
+– The intent behind the LOI is explicitly clarified as merely to ensure 
+that preliminaries are complied with so that the work may begin 
+upon issuance of a work order – From a holistic reading of the 
+tender documents, the LOI and other subsequent communication 
+between the parties, the LOI does not evince the commercial 
+intention of the Appellant to create a binding legal relationship, it 
+informs the Respondent that the work was entrusted to them upon 
+opening of bids and lays down preliminary conditions to be fulfilled 
+in contemplation of a future work order and agreement in order to 
+ensure that prior to the work order being issued, everything is set 
+in place and the work may begin at once upon such issuance – 
+On facts, LOI did not have the effect of creating a binding legal 
+relationship between the parties – Arbitration and Conciliation Act, 
+1996. [Paras 29, 31, 33-36]
+Words and Phrases – “Tender” – “Letter of Intent”:
+Held: Letter of Intent is an expression of one party’s intent to enter 
+into a contract with the other party in the forthcoming future – When 
+the intent of the parties can be evinced from the letter of intent or 
+the tender specifications and it is clear that the letter of intent is to 
+
+[2026] 5 S.C.R. 
+89
+Maharashtra State Electricity Distribution  
+Company Limited (Msedcl) & Ors. v. R Z Malpani
+be followed by a final award or a concluded agreement, it cannot 
+be said that the letter of intent itself binds the parties to the terms 
+of the tender – Contractual obligations cannot be foisted upon a 
+party without a clear indication of its intent to enter into a binding 
+concluded contract – Therefore, what needs to be distinguished 
+is whether the intent of the parties is to make a ‘promise’ or a 
+‘promise to make a promise’ – A tender is essentially in the nature 
+of an ‘invitation to offer’ and submission of a bid by the tenderer 
+is an ‘offer’ – By means of a letter of intent, however, it must be 
+examined by the Court whether the party extending the letter of 
+intent is in consensus ad idem with the other party and intends to 
+create a conclusive and binding agreement. [Para 31]
+Arbitration and Conciliation Act, 1996 – Scope of examination 
+at the stage of s.11 proceedings – Discussed. 
+Case Law Cited
+State of Himachal Pradesh and Anr. v. OASYS Cybernatics Pvt. 
+Ltd., 2025 INSC 1355 : 2025 SCC OnLine SC 2536; South Eastern 
+Coalfields Limited and Ors. v. S. Kumar’s Associates AKM (JV) 
+[2021] 8 SCR 8 : (2021) 9 SCC 166; NBCC (India) Ltd. v. Zillion 
+Infraprojects Pvt. Ltd. [2024] 3 SCR 812 : (2024) 7 SCC 174; Office 
+for Alternative Architecture v. Ircon Infrastructure and Services 
+Ltd. [2025] 6 SCR 395 : 2025 SCC OnLine SC 1098; Maharshi 
+Dayanand University v. Anand Coop. L/C Society Ltd. [2006] Supp. 
+8 SCR 105 : (2007) 5 SCC 295; UNISSI (India) (P) Ltd. v. Post 
+Graduate Institute of Medical Education and Research [2008] 14 
+SCR 108 : 2025 SCC OnLine SC 1815 : (2009) 1 SCC 107; Vidya 
+Drolia & Ors. v. Durga Trading Corporation [2020] 11 SCR 1001 : 
+(2021) 2 SCC 1; NTPC Ltd. v. SPML Infra Ltd. [2023] 2 SCR 846 : 
+(2023) 9 SCC 385; SBI General Insurance Co. Ltd. v. Krish Spg. 
+[2024] 7 SCR 840 : (2024) 12 SCC 1; Interplay Between Arbitration 
+Agreements under Arbitration Act, 1996 & Stamp Act, 1899, In re. 
+[2023] 15 SCR 1081 : (2024) 6 SCC 1; Govind Rubber Ltd. v. 
+Louis Dreyfus Commodities Asia (P) Ltd. [2014] 12 SCR 488 : 
+(2015) 13 SCC 477; M.R. Engineers & Contractors (P) Ltd. v. 
+Som Datt Builders Ltd. [2009] 10 SCR 373 : (2009) 7 SCC 696; 
+Inox Wind Ltd. v. Thermocables Ltd. [2018] 1 SCR 86 : (2018) 2 
+SCC 519 – referred to.
+Glencore International AG v. Shree Ganesh Metals, 2025 SCC 
+OnLine SC 1815 – held not applicable.
+
+90
+[2026] 5 S.C.R.
+Supreme Court Reports
+List of Acts
+Arbitration and Conciliation Act, 1996.
+List of Keywords
+General reference in letter of intent to an arbitration clause 
+contained in tender documents not sufficient for its incorporation 
+in the contract; No arbitration agreement between parties; No 
+existence of arbitration agreement; Arbitration clause contained 
+in Tender documents not incorporated in Letter of Intent (LOI); 
+‘reference’; ‘incorporation’; Incorporation of arbitration clauses 
+contained in tender documents by means of reference in letter of 
+intent; No admission of any concluded contract; Letter of intent; 
+LOI did not create a binding legal relationship between parties; No 
+concluded contract between parties; No reference to arbitration 
+can be made; Special Conditions of Contract in Tender documents; 
+Tender documents along with LOI not sufficient to form a valid 
+contract or arbitration agreement; No work order issued; Scope of 
+inquiry at the stage of Section 11, Arbitration and Conciliation Act, 
+1996; Examination about prima facie existence of an arbitration 
+agreement; No mention of any arbitration or dispute resolution 
+clause in LOI.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 4307  
+of 2026
+From the Judgment and Order dated 01.10.2025 of the 
+High Court of Judicature at Bombay in ARBA(L) No. 1417 of  
+2025.
+Appearances for Parties
+Advs. for the Appellant(s):
+Vikas Singh, Sr. Adv., Samir Malik, Tushar Mathur, Mahip Singh 
+Sikarwar, Ms. Snehal Kaila, Ms. Yachana Gupta, Ms. Deepeika 
+Kalia, Deepanshu Shakargaye, Sudeep Chandra, Ms. Khushi, 
+Samir Malik.
+Advs. for the Respondent(s):
+Abhijit A. Desai, Satyajit A. Desai, Parth Johari, Parth Kumar 
+Singh, Satya Kam Sharma.
+
+[2026] 5 S.C.R. 
+91
+Maharashtra State Electricity Distribution  
+Company Limited (Msedcl) & Ors. v. R Z Malpani
+Judgment / Order of the Supreme Court
+Judgment
+J.K. Maheshwari, J. 
+1.	
+Leave granted.
+2.	
+The instant appeal is directed against the judgment dated 01.10.2025 
+of the Bombay High Court (hereinafter referred to as “High Court”) 
+in Arbitration Application (L) No. 1417 of 2025.
+3.	
+By the impugned order, the High Court disposed of the application 
+filed by the Respondent under Section 11 of the Arbitration and 
+Conciliation Act, 1996 (hereinafter referred to as “1996 Act”) and 
+appointed a sole arbitrator to adjudicate upon the disputes and 
+differences between the parties.
+FACTS
+4.	
+The Appellant, Maharashtra State Electricity Distribution Company 
+Limited (MSEDCL) is a State Government company, which is a fully-
+owned corporate entity owned by the Government of Maharashtra. 
+It is an electricity distribution utility which distributes electricity 
+throughout Maharashtra including a few suburbs of Mumbai. The 
+Respondent is a partnership firm engaged in civil construction and 
+other allied businesses. 
+5.	
+The Appellant floated a Tender dated 11.08.2021 bearing Code 
+EEC/BND/TECH/42/21-22 for ‘Civil & Interior work – Providing / 
+renovating 134 CFC Centres at various O&M Divisions of SEDCL 
+throughout the State’. (hereinafter referred to as the “Tender”) 
+Total estimated cost of the tender was ₹17,41,37,020. The Tender 
+document contained four different constituents, being (i) Instructions 
+to Tenderers & Qualifying Criteria (ii) General Specifications 
+(iii) Technical Specifications (iv) Special Conditions of Contract. 
+(collectively referred to as “Tender documents”) The Tender 
+documents also contained an agreement pro-forma. The timeline 
+for the tender process as per the Tender documents was as 
+follows:
+
+92
+[2026] 5 S.C.R.
+Supreme Court Reports
+Particulars
+Date / Time
+Bid Start Date
+15.07.2011, 13:00
+Bid End Date
+06.08.2021, 11:30
+Techno-commercial Bid opening
+18.08.2021, 15:00
+Price Bid opening on
+Will be declared later
+Winner Selection Date
+18.08.2021, 15:30
+6.	
+The Respondent participated in the tender process and submitted a 
+bank guarantee of ₹17,45,100 valid up to 06.03.2022. Respondent 
+then submitted its bid/quotation against the said Tender with a validity 
+of 120 days on 03.09.2021. Upon opening of the techno-commercial 
+and price bids, the Appellant, vide letter bearing No. CEC/CCO/
+Tech/350 dated 16.11.2022 (hereinafter referred to as “LOI”) accepted 
+the bid of the Respondent and entrusted the work under the said 
+tender process to the Respondent for a value of ₹17,76,19,699.
+7.	
+On 29.11.2022, the Respondent furnished a further bank guarantee 
+to the tune of ₹44,40,500 as security deposit valid up to 27.05.2023. 
+The Appellant wrote to the Respondent on 13.12.2022 requesting 
+that bank guarantee be furnished on stamp paper of ₹500 value 
+instead of ₹100 and sent a reminder in that respect on 31.12.2022. 
+The Respondent submitted revised bank guarantee on stamp paper 
+with value of ₹500 on 31.01.2023. 
+8.	
+On 02.02.2023, the Holding Company of the Appellant wrote to 
+the Executive Engineer of the Appellant seeking correction in 
+the forwarding letter of the bank guarantees. Pursuant thereto, 
+the Respondent sent a corrected forwarding letter with the bank 
+guarantees on 06.02.2023.
+9.	
+Thereafter, the Respondent sent various letters and representations 
+to the Appellant seeking issuance of a Work Order in terms of the 
+LOI, but no Work Order was issued by the Appellant. On 08.08.2023, 
+the Respondent submitted revised / renewed bank guarantees as 
+security deposit.
+10.	 Despite repeated requests being made by the Respondent, the Work 
+Order was not issued by the Appellant and ultimately, on 05.08.2024, 
+the Respondent terminated the contract, citing Appellant’s failure to 
+hand over the sites for the work to begin. Thereafter, on 30.08.2024, 
+
+[2026] 5 S.C.R. 
+93
+Maharashtra State Electricity Distribution  
+Company Limited (Msedcl) & Ors. v. R Z Malpani
+the Respondent issued a notice under Clause 23 of the Special 
+Conditions of Contract in the Tender documents, seeking reference 
+of the disputes to arbitration and seeking compensation to the tune 
+of ₹4,89,85,500.
+11.	 On 27.09.2024, the Appellant formally cancelled the Tender and EMD, 
+Security Deposit submitted by the Respondent was duly refunded 
+on 24.10.2024. It is pertinent that the cancellation itself was not 
+challenged by the Respondent availing public law remedies and 
+instead, the Respondent chose to pursue its remedy by means of 
+arbitration under the Tender documents.
+12.	 On 01.10.2024, the Respondent again invoked the arbitration 
+agreement contained in Clause 23 of the Special Conditions of Contract 
+in the Tender documents. On 04.11.2024, the Appellant replied to the 
+Respondent’s arbitration notice and specifically stated therein that 
+Tender documents along with LOI are not sufficient to form a valid 
+contract or arbitration agreement. On 06.11.2024 and 03.12.2024, the 
+Appellant informed the Respondent that since the EMD and Security 
+Deposit has been refunded, no claims or dues are pending.
+13.	 At this stage, the Respondent filed an application under Section 11 
+of the 1996 Act before the High Court being Arbitration Application 
+No. 1417 of 2025, seeking appointment of an arbitrator. Notice was 
+issued by the High Court on 21.01.2025 and service was complete, 
+but on 26.06.2025 and 17.07.2025, the Appellant did not appear 
+before the High Court. The High Court vide the impugned ex-parte 
+order on 01.10.2025 appointed one Mr. Drupad Patil, Advocate 
+as the Sole Arbitrator to adjudicate the disputes between the 
+parties.
+FINDINGS OF THE HIGH COURT 
+14.	 The High Court found that the offer made by the Respondent in 
+response to the Tender was accepted by the LOI dated 16.11.2022 
+which resulted in a duly concluded contract. Existence of arbitration 
+agreement can be discerned from correspondence between the 
+parties and the scope of enquiry in Section 11 proceedings is 
+limited to examining the existence of a valid arbitration agreement. 
+It was observed by the High Court that Appellant in their reply to 
+the arbitration notice has not denied the existence of an arbitration 
+agreement, hence directed appointment of an arbitrator.
+
+94
+[2026] 5 S.C.R.
+Supreme Court Reports
+ARGUMENTS ADVANCED
+15.	 Mr. Vikas Singh, learned senior counsel for the Appellants has 
+vehemently argued that there exists no concluded contract between 
+the parties, much less an arbitration agreement under the meaning 
+of Section 7 of the 1996 Act, and as such, the High Court has erred 
+in directing appointment of an arbitrator. He submitted the impugned 
+order is patently erroneous in recording that the Appellant had not 
+disputed the existence of an arbitration agreement in their reply to 
+the notice under Section 21 of the 1996 Act. Drawing our attention to 
+the letter dated 04.11.2024 of the Appellant, it is stated that a specific 
+plea was taken about non-existence of arbitration agreement at the 
+very first instance by the Appellant. He further submitted that in the 
+absence of a concluded contract between the parties, there can be 
+no question of existence of an arbitration agreement complying with 
+Section 7 of the 1996 Act. In reference to the Tender documents with 
+the LOI, it is submitted that looking to the material does not evince 
+a concluded contract since the LOI itself is contingent in nature, it 
+provides that a detailed Work Order and formal agreement was to 
+follow and as such it is a precursor to a contract and not the contract 
+itself. He has placed reliance on the recent judgement of this Court 
+in State of Himachal Pradesh and Anr. v. OASYS Cybernatics 
+Pvt. Ltd.1 and the judgement of South Eastern Coalfields Limited 
+and Ors. v. S. Kumar’s Associates AKM (JV)2 in support of this 
+argument.
+16.	 The Appellant has argued that, assuming arguendo, even if the 
+LOI is construed to be a contract creating legal relationship, mere 
+reference in the LOI to the terms of the Tender documents would 
+not have the effect of importing the arbitration clause as contained 
+therein. Further, learned senior counsel has drawn our attention 
+to the judgement of this Court in NBCC (India) Ltd. v. Zillion 
+Infraprojects Pvt. Ltd.3 to submit that mere reference to another 
+document containing an arbitration clause is not sufficient unless 
+the arbitration clause is specifically incorporated in the subsequent 
+document. He has submitted, therefore, that the instant appeal 
+1	
+2025 SCC OnLine SC 2536.
+2	
+(2021) 9 SCC 166.
+3	
+(2024) 7 SCC 174.
+
+[2026] 5 S.C.R. 
+95
+Maharashtra State Electricity Distribution  
+Company Limited (Msedcl) & Ors. v. R Z Malpani
+deserves to be allowed and the impugned order passed by the High 
+Court warrants interference by this Court.
+17.	 Appearing for the Respondents, learned counsel Mr. Abhijit A. Desai 
+has argued with equal force that the instant appeal warrants dismissal 
+since an order appointing an arbitrator is final and non-appealable 
+as per Section 11(7) of the 1996 Act. He submits that this Court in a 
+special leave petition arising out of such appointment, must exercise 
+caution while interfering against appointment of an arbitrator and the 
+tribunal has the jurisdiction to decide on its jurisdiction under Section 
+16 of the 1996 Act in light of the principle of Kompetenz-Kompetenz. 
+He has submitted that the instant case is a feeble attempt at delaying 
+arbitration proceedings by the Appellant who has chosen not to appear 
+before the High Court despite adequate service of notice. He has 
+further argued that the existence of an arbitration agreement is clear 
+from a conjoint reading of: (i) Clause 23 of the Special Conditions 
+of the Tender documents; (ii) Respondent’s bid dated 03.09.2021; 
+(iii) LOI dated 16.11.2022 accepting the Respondent’s bid. It is 
+submitted that furnishing and repeated renewal of bank guarantees 
+by the Appellant, exchange of correspondence regarding renewal 
+of bank guarantees would further show that there was a concluded 
+contract between the parties. 
+18.	 Since an arbitration agreement can be formed by exchange of 
+communication under Section 7(4)(b) of the 1996 Act, a formally 
+executed commercial contract is not necessary and tender conditions 
+containing an arbitration clause, once accepted and acted upon, 
+form a valid arbitration agreement under Section 7 of the 1996 Act. 
+Learned counsel has placed reliance on the judgement of this Court 
+in Office for Alternative Architecture v. Ircon Infrastructure and 
+Services Ltd.4 to argue that the scope of scrutiny by the Court in an 
+application under Section 11 of the 1996 Act is circumscribed by sub-
+section (6A) thereto and as such, unnecessary judicial interference 
+in arbitration proceedings is not warranted. Since the question 
+relates to formation of the contract, it must be left to the arbitrator 
+to decide in an application under Section 16 of the 1996 Act as held 
+by this Court in Maharshi Dayanand University v. Anand Coop. 
+4	
+2025 SCC OnLine SC 1098.
+
+96
+[2026] 5 S.C.R.
+Supreme Court Reports
+L/C Society Ltd.5 Much emphasis has been laid on the judgement 
+of this Court in UNISSI (India) (P) Ltd. v. Post Graduate Institute 
+of Medical Education and Research6 to argue that where the 
+tender conditions contain an arbitration clause and the tender has 
+been acted upon by the parties, it cannot be said that there existed 
+no concluded contract and consequently, no arbitration agreement. 
+Lastly, it has been submitted that cancellation of the tender itself 
+does not extinguish the arbitration agreement between the parties 
+and the said cancellation is a subject matter of arbitration. As such, 
+he has urged that the instant appeal warrants dismissal.
+ANALYSIS
+19.	 After hearing learned counsel for the parties and having gone 
+through the documents on record, the short question which falls for 
+our consideration in the instant appeal is whether, on a prima facie 
+view, there exists an arbitration agreement between the parties and 
+as such, whether the reference to arbitration under Section 11 by 
+the High Court warrants interference by this Court?
+20.	 The law on appointment of an arbitrator under Section 11 of the 1996 
+Act has undergone windfall change in the recent years, especially 
+after the insertion of sub-section 6A therein w.e.f. 23.10.2015 which 
+confines the Court’s jurisdiction to the examination of existence of an 
+arbitration agreement. Initially, this Court in Vidya Drolia & Ors. v. 
+Durga Trading Corporation,7 had developed what came to be 
+known as the ‘ex-facie’ test, holding in clear terms that while scope 
+of judicial review and interference by Courts at the Section 11 stage 
+is extremely limited, the Courts may interfere where it is ‘manifestly 
+and ex-facie certain that the arbitration agreement is non-existent, 
+invalid or the disputes are non-arbitrable’. The ‘eye of the needle’ 
+test was propounded by the judgement of this Court in NTPC Ltd. v. 
+SPML Infra Ltd.8 to hold that limited scrutiny at the pre-arbitral stage 
+by the referral court through the ‘eye of the needle’ must be done in 
+order to protect the parties from being forced to arbitrate a matter 
+which is demonstrably non-arbitrable. Subsequently, however, a co-
+5	
+(2007) 5 SCC 295.
+6	
+(2009) 1 SCC 107.
+7	
+(2021) 2 SCC 1.
+8	
+(2023) 9 SCC 385.
+
+[2026] 5 S.C.R. 
+97
+Maharashtra State Electricity Distribution  
+Company Limited (Msedcl) & Ors. v. R Z Malpani
+ordinate bench of this Court in SBI General Insurance Co. Ltd. v. 
+Krish Spg.,9 relying on the seven-judge bench decision in Interplay 
+Between Arbitration Agreements under Arbitration Act, 1996 & 
+Stamp Act, 1899, In re,10 has held that the ‘ex-facie meritless’ and 
+‘eye of the needle’ tests cannot be said to be in conformity with 
+the principles of modern arbitration and they would not apply after 
+the decision of the seven-judge bench, since even though they 
+endeavour to minimise judicial interference, yet require the Courts 
+to enter into a factual examination of contested facts and evidence, 
+however minimal. Relevant portion of the judgement in SBI General 
+Insurance Co. Ltd. is quoted herein for reference:
+“114. In view of the observations made by this Court 
+in In Re : Interplay (supra), it is clear that the scope of 
+enquiry at the stage of appointment of arbitrator is limited 
+to the scrutiny of prima facie existence of the arbitration 
+agreement, and nothing else. For this reason, we find it 
+difficult to hold that the observations made in Vidya Drolia 
+(supra) and adopted in NTPC v. SPML (supra) that the 
+jurisdiction of the referral court when dealing with the issue 
+of “accord and satisfaction” under Section 11 extends to 
+weeding out ex-facie non -arbitrable and frivolous disputes 
+would continue to apply despite the subsequent decision 
+in In Re : Interplay (supra).
+….
+118. Tests like the “eye of the needle” and “ex-facie 
+meritless”, although try to minimise the extent of judicial 
+interference, yet they require the referral court to examine 
+contested facts and appreciate prima facie evidence 
+(however limited the scope of enquiry may be) and thus are 
+not in conformity with the principles of modern arbitration 
+which place arbitral autonomy and judicial non-interference 
+on the highest pedestal.”
+21.	 As such, the pronouncement of this Court in SBI General Insurance 
+Co. Ltd. (Supra) lays down a clear and comprehensive explanation 
+about the scope of examination at the stage of Section11 proceedings: 
+9	
+(2024) 12 SCC 1.
+10	
+(2024) 6 SCC 1.
+
+98
+[2026] 5 S.C.R.
+Supreme Court Reports
+it is limited to finding a prima facie existence of arbitration agreement 
+and nothing beyond it. Questions of ‘accord and satisfaction’, 
+limitation, dishonesty and frivolity, arbitrability of the subject-matter 
+are to be left to the adjudication by the arbitral tribunal under Section 
+16 of the 1996 Act which is a reflection of the doctrine of ‘Kompetenz-
+Kompetenz’ or ‘compétence de la compétence’. It is therefore 
+incumbent upon us to only examine the prima facie existence of an 
+arbitration agreement.
+22.	 At the outset, it would be apposite to extract the arbitration agreement 
+purportedly contained in Clause 23 of the Special Conditions of 
+Contract in the Tender documents. It reads as thus:
+“23. Arbitration Clause:
+a. The matters to be determine by the Chief Engineer:
+All disputes and differences of any kind whatsoever 
+arising out of or in connection with the contract, whether 
+during the progress of the work or after its completion and 
+whether before or after the determination of the contract 
+shall be referred by the contractor to the C. E. and the C. 
+E. shall [within 120 days) after receipt of the contractor’s 
+representation make and notify decisions of all matters 
+referred to by the contractor in writing.
+b. Demand for Arbitration:
+i) In the event of any dispute or difference between the 
+parties hereto as to the construction or operation of this 
+contract, or the respective rights and liabilities of the parties 
+on any matter in question, the dispute or difference on 
+any account or as to the withholding by M.S.E.D.C.LTD. 
+of any certificate to which the contractor may claim to be 
+entitled to or if the C. E. fails to make a decision (within 
+120 days), then and in any such case, the contractor (after 
+120 days) but within (180 days) of his presenting his final 
+claim on disputed matters, shall demand in writing that the 
+dispute or difference to be referred to arbitration.
+ii) The demand for arbitration shall specify the matters which 
+are in question, or subject of the dispute or difference as 
+also the amount of claim item wise. Only such dispute(s) 
+or difference(s) in respect of which the demand has 
+
+[2026] 5 S.C.R. 
+99
+Maharashtra State Electricity Distribution  
+Company Limited (Msedcl) & Ors. v. R Z Malpani
+been made, together with counter claims or set off, shall 
+be referred to arbitration and other matters shall not be 
+included in the reference.
+a) The arbitration proceedings shall be assumed to 
+have commenced from the day, a written and valid 
+demand for arbitration is received by the Company.
+b) The claimant shall submit his claim stating the 
+facts supporting the claims along with all relevant 
+documents and the relief or remedy sought against 
+each claim Within a period of 30 days from the date 
+of appointment of the Arbitral Tribunal.
+c) The Company shall submit its defense statement 
+and counter claim(s), if any, within a period of 60 
+days of receipt of copy of claims from the Tribunal 
+thereafter unless otherwise extension has been 
+granted by the Tribunal.
+iii) No new claim shall be added during the proceedings by 
+either party. However, a party may amend or supplement 
+the original claim or defense thereof during the course of 
+arbitration proceedings subject to acceptance by Tribunal 
+having due regard to the delay in making it. 
+iv) If the contractor(s) does/do not prefer his/their specific 
+and final claims in writing, within a period of 90 days 
+of receiving the intimation from the Company, that the 
+final bill is ready for payment, he/they will be deemed to 
+have waived his/their claim(s) and the Company shall be 
+discharged and released of all liabilities under the contract 
+in respect of these claims. 
+c. Obligation during pendency of Arbitration:
+Work under the contract shall, unless otherwise directed by 
+the Engineer, continue during the arbitration proceedings, 
+and no payment due or payable by the Company shall 
+be withheld on account of such proceedings, provided, 
+however, it shall be open for Arbitral Tribunal to consider 
+and decide whether or not such work should be continued 
+during arbitration proceedings.
+
+100
+[2026] 5 S.C.R.
+Supreme Court Reports
+In cases where the total value of all claims in question 
+added together does not exceed Rs.1,00,00,000/- (Rs. 
+One Crore) the Arbitrate Tribunal shall consist of a Sole 
+Arbitrator who shall be either the C.E. of the Company 
+or serving or retired officer of the Company/Government 
+not below the grade of C.E. or equivalent nominated by 
+the Chairman of the Company in that behalf. The Sole 
+Arbitrator shall be appointed within 60 days from the day 
+when a written and valid demand for arbitration is received 
+by the Company.
+i) In cases the value of the claim exceeds Rs. 1,00,00,000/- 
+(Rs. One Crore) as above, the Arbitral Tribunal shall consist 
+of panel of 3 serving or retired officers of M.S.E.D.C.LTD./
+Govt not below the grade of C.E./CA.O. as the Arbitrators. 
+For this purpose, the Company will send a panel of more 
+than 3 names of arbitrators of one or more department of 
+the Company/Govt. to the contractor who will be asked to 
+suggest to the Chairman at least 2 names for appointment 
+as contractor’s nominee. The Chairman shall appoint at 
+least one of them as the contractor’s nominee and will 
+also appoint the balance number of arbitrators either from 
+the panel or from outside the panel, duly indicating the 
+presiding arbitrator from amongst the three [3) arbitrators 
+so appointed. While nominating arbitrators, it will be 
+necessary to ensure that one of them is or has worked 
+in Accounts department.
+ii) If one or more arbitrators appointed as above refuses to 
+act as arbitrator, withdraws from his office as arbitrator or 
+vacates his/their office/offices or is/are unable or unwilling 
+to perform his functions as arbitrator for any reason 
+whatsoever or dies or in the opinion of the Chairman fails 
+to act without undue delay. The Chairman shall appoint 
+new arbitrators to act in his/their place in the same manner 
+in which the earlier arbitrator/s had been appointed. Such 
+reconstituted Tribunal, may, as its discretion proceed with 
+the reference from the stage at which it was left by the 
+previous arbitrator(s). 
+iii) The Tribunal shall have powers to call for such evidence 
+by way of affidavits or otherwise as the Arbitral Tribunal 
+
+[2026] 5 S.C.R. 
+101
+Maharashtra State Electricity Distribution  
+Company Limited (Msedcl) & Ors. v. R Z Malpani
+shall think proper, and it shall be the duty of the parties 
+hereto to do or cause to be done all such things as may 
+be necessary to enable the Arbitral Tribunal to make the 
+award without any delay.
+iv) While appointing arbitrator(s) as above, due care 
+shall be taken that he/they is/are not the one/those who 
+had an opportunity to deal with the matters to which 
+the contract relates or who in the course of his/their 
+duties as Company’s servant(s) expressed views on all 
+or any of the matters under dispute or differences. The 
+proceedings or the Arbitral Tribunal or the award made 
+by such Tribunal will, however, not be invalid merely for 
+the reason that one or more arbitrator had, in the course 
+of his service, opportunity to deal with the matters to 
+which the contract relates or who in the course of his/their 
+duties expressed views on all or any of the matters under  
+dispute.
+v) Arbitral award shall state item wise, the sum and reasons 
+upon which it is based.
+vi) A party may apply for corrections of any computational 
+errors, any typographical or clerical errors or any other error 
+of similar nature occurring in the award and interpretation 
+of specific point of award to tribunal within 30 days of 
+receipt of the award. 
+vii) A party may apply to Tribunal within 30 days of receipt of 
+award to make an additional award as to claims presented 
+in the arbitral proceedings, but omitted from the arbitral 
+award. 
+viii) In case of the Tribunal, comprising of three members 
+any ruling or award shall be made by a majority of Members 
+of Tribunal. In the absence of such a majority, the views 
+of the Presiding Arbitrator shall prevail.
+ix) Where the arbitral award is for payment of money, 
+no interest shall be payable on whole or any part of the 
+money for any period till the date on which the award is  
+made.
+
+102
+[2026] 5 S.C.R.
+Supreme Court Reports
+x) The cost of the arbitration shall be borne equally by the 
+respective parties. The cost shall inter-alia include fees of 
+the arbitrators as per the rates fixed by the Company from 
+time to time. Provided that the fees payable per arbitrator for 
+claims up to Rs. One Crore, shall not exceed Rs. 2000/- per 
+sitting subject to a maximum of Rs. 25,000/- and the fees 
+payable per arbitrator for claims over Rs. One Crore, shall 
+not exceed Rs. 2000/- per sitting subject to a maximum 
+of Rs. 50,000/-. Provided further that the arbitrators who 
+are in service of Govt/M.S.E.D.C. LTD. shall draw fees at 
+half of the rates mentioned above.
+xi) Company shall maintain a list of arbitrators. The 
+Chairman shall have full powers to delete or add the name 
+of the arbitrators in the list or to make amendments to the 
+said list as per his discretion. 
+xii) The arbitral proceedings should be completed and 
+the award be finalized within one year ff om the date of 
+appointment of arbitrators. 
+xiii) Subject to the provisions as aforesaid, Arbitration & 
+Conciliation Act,1996 and the rules there under, and any 
+statutory notification thereof shall apply to the arbitration 
+proceedings under this clause.” 
+23.	 The ‘Instructions to Tenderers’ contained in the Tender documents at 
+Clause 23 provides that the successful tenderer will have to execute 
+an agreement with the Company (Appellant) in the Company’s 
+standard proforma. It reads as thus:
+“23.0 The successful tenderer will also have to execute 
+an agreement with the Company in Company’s standard 
+proforma. The cost of stamp paper shall be borne by the 
+contractor. (The value of Stamp paper for agreement is 
+Rs. 500/- up to ten lakh Plus RS. 100 for every one lakh 
+or part there of above Rs Ten Lacks)”
+24.	 Clause 42 of the ‘Instructions to Tenderers’ contained in the Tender 
+documents provides that in case the work is cancelled before starting 
+the work for any reason after placement of work order, only E.M.D. / 
+S.D. shall be refunded and no other claim in this respect shall be 
+entertained. Clause 39 of the ‘Instructions to Tenderers’ in the Tender 
+
+[2026] 5 S.C.R. 
+103
+Maharashtra State Electricity Distribution  
+Company Limited (Msedcl) & Ors. v. R Z Malpani
+documents provides that the ‘Instructions to Tenderers’ shall form 
+part of the contract.
+25.	 The entire thrust of the argument of the Respondent is that the 
+arbitration clause contained in Clause 23 of the Special Conditions 
+of Contract in the Tender documents has been incorporated in the 
+contract which has been concluded by the Appellant’s LOI dated 
+16.11.2022. The LOI references the Tender documents and in the 
+initial paragraphs, provides that the terms and conditions of the 
+contract as per the reference documents shall be interpreted by 
+reading together with them the terms of the LOI itself and in case 
+of conflict, the terms of the LOI shall prevail. The said portion of the 
+LOI is quoted herein for reference:
+“…
+With reference to the above, on behalf of MSEDCL tender 
+No. EEC/BND/TECH/T-42/2021-22 is invited for providing / 
+renovating the CFC center at various O&M Division of 
+MSEDCL throughout the State vide E-Tender Notice PR 
+No. 295/2021 dt. 14.7.2021. In this regards the undersigned 
+is pleased to inform you that your offer for the above work 
+covered under the scope of Schedule-B of the said tender 
+has been accepted and work covered under the scope of 
+the contract is entrusted to you subject to the following 
+terms and conditions.
+Notwithstanding that reference are given above, the 
+terms and conditions and specifications of contract 
+shall be interpreted by reading together the terms and 
+conditions, specifications and contents of this Letter of 
+intent as below. In case of any deviations with the contents 
+of this Letter of intent from corresponding conditions 
+in the above said tender specifications or contents 
+of the letter under reference as read and interpreted 
+up to date, the contents of this Letter of intent shall  
+prevail.”
+26.	 In the concluding portion of the LOI, it is stated that the LOI has 
+been issued to the Respondent to start with preliminaries and to 
+start the work on the issuance of the detailed work order. The said 
+portion of the LOI is quoted herein for reference:
+
+104
+[2026] 5 S.C.R.
+Supreme Court Reports
+“…
+This letter of intent is issued to enable you to start with 
+preliminaries to start the work as soon as the detailed 
+work order is issued.
+...”
+27.	 It is the admitted case of the parties that pursuant to the LOI and in 
+terms of Clause 23 of the ‘Instructions to Tenderers’ of the Tender 
+documents, neither any work order was issued to the Respondent 
+nor any formal agreement was entered into between the parties on 
+the proforma of the Appellant. It is therefore required to be examined 
+as to whether any agreement to arbitrate has formed at this stage 
+in order to meet the requirement of Section 7 of the 1996 Act. The 
+said section is relevant for this purpose and is therefore quoted 
+below for reference:
+“7. Arbitration Agreement:
+(1) In this Part, ‘arbitration agreement’ means an agreement 
+by the parties to submit to arbitration all or certain disputes 
+which have arisen or which may arise between them in 
+respect of a defined legal relationship, whether contractual 
+or not.
+(2) An arbitration agreement may be in the form of an 
+arbitration clause in a contract or in the form of a separate 
+agreement.
+(3) An arbitration agreement shall be in writing.
+(4) An arbitration agreement is in writing if it is contained in –
+(a) a document signed by the parties;
+(b) an exchange of letters, telex, telegrams or 
+other means of telecommunications including 
+communication through electronic means which 
+provide a record of the agreement; or
+(c) an exchange of statement of claim and defence 
+in which the existence of the agreement is alleged 
+by one party and not denied by the other.
+(5) The reference in a contract to a document containing 
+an arbitration clause constitutes an arbitration agreement 
+
+[2026] 5 S.C.R. 
+105
+Maharashtra State Electricity Distribution  
+Company Limited (Msedcl) & Ors. v. R Z Malpani
+if the contract is in writing and the reference is such as to 
+make that arbitration clause part of the contract.”
+28.	 Section 7(1) of the 1996 Act posits that there must be a defined ‘legal 
+relationship’ between the parties and the agreement to arbitrate may 
+be contractual or not. As such, conclusion of a contract might not be 
+necessary for that purpose and what needs to be seen is whether the 
+parties were ad idem in their intention to refer a dispute to arbitration 
+as evinced from their communication.11 A distinction, however, is 
+drawn when the arbitration agreement is contained in some document 
+which is sought to be incorporated within another. Section 7(5) 
+is attracted in such a situation and it refers to the incorporation 
+of an arbitration agreement contained in some document into a 
+‘contract’ which has to be in writing. The use of the word ‘contract’ 
+when dealing with incorporation of an arbitration agreement from 
+some other document is intentional and consequential. Since in the 
+present appeal the Respondent’s case is that the LOI incorporates 
+the arbitration agreement from the terms of the Tender documents, 
+both the contractual nature of the LOI as well as the validity of 
+incorporation becomes relevant for our examination. 
+29.	 In this context, at the very threshold it must be observed that the 
+finding of the High Court that Appellant in its reply dated 04.11.2024 
+to the Respondent’s arbitration notice ‘did not question the formation 
+of arbitration agreement on any ground other than the fact that the 
+project did not proceed further’ is prima facie erroneous and stares 
+at the face of the record, and is liable to be set aside. It has been 
+contended in plain terms by the Appellant in its reply dated 04.11.2024 
+that there was no concluded contract between the parties and that 
+the LOI cannot bind either party to a contract, it is merely indicative 
+of a party’s intention to enter into a contract. There is, therefore, 
+no admission of any concluded contract, much less an arbitration 
+agreement between the parties by the Appellant in its reply dated 
+04.11.2024. The Appellant has throughout maintained that there was 
+no concluded contract between the parties and as such, no reference 
+to arbitration can be made under Clause 23 of Special Conditions 
+of Contract contained in the Tender documents merely because of 
+a general reference to the Tender documents in the LOI.
+11	
+Govind Rubber Ltd. v. Louis Dreyfus Commodities Asia (P) Ltd., (2015) 13 SCC 477.
+
+106
+[2026] 5 S.C.R.
+Supreme Court Reports
+30.	 A co-ordinate bench of this Court in OASYS Cybernatics (Supra) 
+has exhaustively discussed the effect of a letter of intent pursuant 
+to a tender, its legal character and the nature of rights flowing 
+therefrom. Relevant paragraphs of the said judgement are quoted 
+herein for reference:
+“11. The first issue that falls for our determination concerns 
+the legal character of the LoI dated 02.09.2022 and the 
+nature of rights, if any, accrued to the Respondent-company 
+thereunder.
+12. This question goes to the root of the matter, and is 
+not one of mere semantics, i.e. ascertaining whether the 
+issuance of the LoI created a concluded contract capable 
+of enforcement, or whether it remained a conditional and 
+inchoate expression of intent, leaving the Government 
+free to reassess its position prior to formal acceptance. 
+The answer defines the legal threshold for the Appellant-
+State’s power to cancel and the Respondent-company’s 
+entitlement to protection.
+13. The jurisprudence on the subject is neither nascent nor 
+unsettled. A catena of decisions starting from Rajasthan 
+Cooperative Dairy Federation Ltd. v. Maha Laxmi 
+Mingrate Marketing Service (P) Ltd., through Dresser 
+Rand S.A. v. Bindal Agro Chem Ltd., to Level 9 Biz Pvt. 
+Ltd. v. HP Housing & Urban Development Authority, this 
+Court has consistently held that an LoI is, in the ordinary 
+course, a precursor to a contract and not the contract  
+itself.
+14. In Dresser Rand (supra), it was re-stated with clarity that 
+“a letter of intent merely indicates a party’s intention 
+to enter into a contract with the other party in future. 
+A letter of intent is not intended to bind either party 
+ultimately to enter into any contract.” The same principle 
+animated Rajasthan Cooperative Dairy Federation (supra), 
+where this Court observed that until the offer is accepted 
+unconditionally and the preconditions are satisfied, “no 
+binding legal relationship” comes into existence. The 
+rationale is thus simple but fundamental: the law of contract 
+distinguishes between a promise to make a promise and 
+
+[2026] 5 S.C.R. 
+107
+Maharashtra State Electricity Distribution  
+Company Limited (Msedcl) & Ors. v. R Z Malpani
+a promise performed. The former is not legally binding 
+until its contingencies are fulfilled.
+15. These authorities collectively articulate a coherent 
+doctrine: an LoI creates no vested right until it passes the 
+threshold of final and unconditional acceptance. It is but a 
+“promise in embryo,” capable of maturing into a contract 
+only upon the satisfaction of stipulated preconditions or 
+upon the issue of an LoA. A bidder’s expectation that such 
+a contract will follow may be commercially genuine, but 
+it is not a juridical entitlement. To hold otherwise would 
+be to bind the State in contract before it has consciously 
+chosen to be bound—a proposition foreign to both contract 
+law and public administration.
+16. Turning then to the LoI before us, its conditionality is 
+beyond doubt. As noticed heretofore in para 5.7, it required 
+the Respondent-company to:
+(i) undertake compatibility testing of its proposed 
+ePoS devices at NICSI, Hyderabad;
+(ii) provide a live demonstration of the devices with 
+NIC’s application before the Directorate at Shimla;
+(iii) execute a formal agreement only after successful 
+completion of the aforesaid steps; and
+(iv) furnish a detailed MRP and landing cost of the 
+devices and their major components.
+17. Each requirement was framed as a condition precedent; 
+the LoI itself stated that a “final award letter” would issue 
+only after the successful completion of these tasks. This 
+language admits of no ambiguity. The tender architecture 
+was sequential: testing, demonstration, acceptance, then 
+execution. It was never contemplated that the LoI would 
+operate as the contract itself.
+18. The cumulative effect of the foregoing analysis is that 
+the LoI was no more than a provisional communication 
+signifying the Appellant-State›s intent to enter into a 
+formal arrangement upon fulfilment of certain technical 
+and procedural conditions. The acceptance of tender and 
+
+108
+[2026] 5 S.C.R.
+Supreme Court Reports
+the consequential formation of a binding contract were 
+contingent upon satisfaction of these prerequisites. The 
+Respondent-company’s reliance upon the LoI as a source 
+of vested contractual rights is, therefore, wholly misplaced.
+19. As a result, the First Issue is answered in the 
+negative. We have no difficulty in holding that the LoI did 
+not give rise to any binding or enforceable rights in favour 
+of the Respondent-company.”
+31.	 It is settled law that a letter of intent does not, in and of itself, create 
+a legal relationship or contractual obligations until there is a clear, 
+unambiguous final acceptance by the parties. It is an expression of 
+one party’s intent to enter into a contract with the other party in the 
+forthcoming future. When the intent of the parties can be evinced 
+from the letter of intent or the tender specifications and it is clear that 
+the letter of intent is to be followed by a final award or a concluded 
+agreement, it cannot be said that the letter of intent itself binds the 
+parties to the terms of the tender. Contractual obligations cannot 
+be foisted upon a party without a clear indication of its intent to 
+enter into a binding concluded contract. Therefore, what needs to 
+be distinguished is whether the intent of the parties is to make a 
+‘promise’ or a ‘promise to make a promise’. We are mindful of the 
+fact that a tender is essentially in the nature of an ‘invitation to offer’ 
+and submission of a bid by the tenderer is an ‘offer’. By means of a 
+letter of intent, however, it must be examined by the Court whether 
+the party extending the letter of intent is in consensus ad idem 
+with the other party and intends to create a conclusive and binding 
+agreement.
+32.	 Further, in South Eastern Coalfields Ltd. (Supra), this Court held 
+that the question as to whether a contract had been concluded 
+between the parties can be discerned by the notice inviting tender, 
+the letter of intent and the conduct of parties. Relevant paragraph 
+of the said judgement is quoted herein for reference:
+“22. We would like to state the issue whether a concluded 
+contract had been arrived at inter se the parties is in turn 
+dependent on the terms and conditions of the NIT, the Lol 
+and the conduct of the parties. The judicial views before 
+us leave little doubt over the proposition that an Lol merely 
+indicates a party’s intention to enter into a contract with 
+
+[2026] 5 S.C.R. 
+109
+Maharashtra State Electricity Distribution  
+Company Limited (Msedcl) & Ors. v. R Z Malpani
+the other party in future. No binding relationship between 
+the parties at this stage emerges and the totality of the 
+circumstances have to be considered in each case. It 
+is no doubt possible to construe a letter of intent as a 
+binding contract if such an intention is evident from its 
+terms. But then the intention to do so must be clear and 
+unambiguous as it takes a deviation from how normally 
+a letter of intent has to be understood. This Court did 
+consider in Dresser Rand S.A. case that there are cases 
+where a detailed contract is drawn up later on account 
+of anxiety to start work on an urgent basis. In that case 
+it was clearly stated that the contract will come into force 
+upon receipt of letter by the supplier, and yet on a holistic 
+analysis - it was held that the Lol could not be interpreted 
+as a work order.”
+33.	 Applying the said principles of law to the facts of this case, we are 
+in agreement with the argument of the Appellant that the LOI in the 
+facts of the instant case was a promise to make a promise and not a 
+promise itself and no agreement had concluded between the parties. 
+The word ‘contract’ as defined in Clause 1(c) of the Special Conditions 
+contained in the Tender documents is ‘the document forming Notice 
+Inviting Tenders, Tender Form, General Conditions of Contract, 
+Technical Specifications, priced schedule of items, contract agreement 
+and drawings and any other document which may be included at 
+the time of signing of contract agreement along with acceptance of 
+the contract thereof together’. This definition incorporates the tender 
+framework under Clause 23 of the ‘Instructions to Tenderers’ of the 
+Tender documents, which posits that an agreement will be entered 
+into by the Appellant with the successful bidder. 
+34.	 The LOI provided that the work under the contract is entrusted to 
+the Respondent subject to terms and conditions and as per clause 
+2 of the LOI, the time-limit to complete the entire work was six 
+months from the date of handing over of the sites. Pertinently, the 
+Appellant never handed over the sites to the Respondent. Clause 3 
+provided that security deposit to the tune of 5% of order value, being 
+₹88,81,000 must be deposited by means of demand draft or F.D.R. 
+or B.G. of any nationalized bank within 10 days from the date of 
+receipt of LOI. Alternatively, 50% of the security deposit, amounting 
+to ₹44,40,500 shall be deposited in the said form and the balance 
+
+110
+[2026] 5 S.C.R.
+Supreme Court Reports
+amount of ₹44,40,500 may be deducted from the R.A. bill. Clause 7 
+of the LOI provides for the requirement to obtain insurance in specific 
+form as mentioned therein. At the end of the LOI, it is mentioned 
+that the LOI has been issued to enable the Respondent to start 
+with the preliminaries so that work may be initiated as soon as the 
+work order is issued. It contemplates a work order to be issued at 
+a subsequent stage.
+35.	 Neither the specifications of the Tender documents, nor the LOI 
+provides that the LOI itself would result in a concluded contract. 
+Rather, the Tender documents in Clause 23 of the ‘Instructions to 
+Tenderers’ specifically provides for an agreement to be entered into 
+between the Appellant and the successful tenderer and same is the 
+import of Clause 1(c) defining the word ‘contract’. The intent behind 
+the LOI is explicitly clarified as merely to ensure that preliminaries 
+are complied with so that the work may begin upon issuance of a 
+work order. No such work order was issued pursuant to the LOI. On 
+this count, it is stressed by the Respondent that it had submitted 
+the requisite security deposit by means of bank guarantees and 
+they were renewed from time to time. However, neither the LOI nor 
+the Tender documents contemplate that upon submission of bank 
+guarantees, the contract would be said to be concluded, creating 
+a binding legal relationship. Rather, they both contemplate the 
+issuance of a work order and the signing of an agreement; mere 
+completion of preliminaries cannot be said to be sufficient to form a 
+binding legal relationship unless specified in the terms of the tender 
+specifications. From a reading of the LOI, the clauses relating to 
+submission of security deposit and insurance clearly show the tender 
+framework, where after acceptance of the bid, work was entrusted 
+to the Respondent subject to terms and conditions which were 
+procedural in nature, contemplating that at a later stage, a final work 
+order was to be issued and an agreement was to be entered into 
+between the parties.
+36.	 In the above conspectus of facts, from a holistic reading of the Tender 
+documents, the LOI and other subsequent communication between 
+the parties, the LOI does not evince the commercial intention of 
+the Appellant to create a binding legal relationship, it informs the 
+Respondent that the work was entrusted to them upon opening of bids 
+and lays down preliminary conditions to be fulfilled in contemplation 
+of a future work order and agreement in order to ensure that prior to 
+
+[2026] 5 S.C.R. 
+111
+Maharashtra State Electricity Distribution  
+Company Limited (Msedcl) & Ors. v. R Z Malpani
+the work order being issued, everything is set in place and the work 
+may begin at once upon such issuance. As such, it cannot be said 
+that the LOI had the effect of creating a binding legal relationship 
+between the parties.
+37.	 In the instant case, the Appellant argues further that even assuming 
+arguendo that the LOI itself can be considered a source of binding 
+legal relationship between the parties, the LOI has made a general 
+reference to the Tender documents and such a general reference 
+cannot have the effect of ‘incorporation’ of the arbitration clause 
+contained therein, in light of Section 7(5) of the 1996 Act. Section 7(5) 
+provides that ‘The reference in a contract to a document containing an 
+arbitration clause constitutes an arbitration agreement if the contract 
+is in writing and the reference is such as to make that arbitration 
+clause part of the contract.’. 
+38.	 Reference in this respect has also been made to the judgement of this 
+Court in NBCC (India) Ltd. (Supra). In the said judgement, this Court 
+dealt with facts which are somewhat similar to the instant appeal; the 
+arbitration clause was contained in the ‘Request for Proposal’ in the 
+tender documents and the contract was awarded to the Respondent 
+therein by means of issuance of a letter of intent which made the 
+terms and conditions of the said tender documents applicable to 
+the letter of intent as well. This Court drew a distinction between 
+‘reference’ and ‘incorporation’ of an arbitration clause, and after 
+discussing the decisions in M.R. Engineers & Contractors (P) Ltd. 
+v. Som Datt Builders Ltd.,12 and Inox Wind Ltd. v. Thermocables 
+Ltd.,13 found that the arbitration clause contained in some document 
+may be incorporated in the contract between the parties only by a 
+specific reference to the arbitration clause. The intent of the parties 
+to incorporate the arbitration clause has to be explicitly clear and a 
+mere general ‘reference’ to the tender conditions would not suffice. 
+Relevant paragraphs of the said judgement are quoted herein for 
+reference:
+“16. The issue is no more res integra. The provisions of 
+sub-section (5) of Section 7 of the Arbitration Act have 
+been considered by this Court in M.R. Engineers  & 
+12	
+(2009) 7 SCC 696.
+13	
+(2018) 2 SCC 519.
+
+112
+[2026] 5 S.C.R.
+Supreme Court Reports
+Contractors [M.R. Engineers & Contractors (P) Ltd. v. 
+Som Datt Builders Ltd., (2009) 7 SCC 696 : (2009) 3 SCC 
+(Civ) 271] . After considering the relevant passages from 
+Russell on Arbitration and various English judgments, this 
+Court held thus : (SCC p. 707, para 24)
+“24. The scope and intent of Section 7(5) of the Act 
+may therefore be summarised thus—
+(i) An arbitration clause in another document, would 
+get incorporated into a contract by reference, if the 
+following conditions are fulfilled;
+(1) the contract should contain a clear reference 
+to the documents containing arbitration clause,
+(2) the reference to the other document should 
+clearly indicate an intention to incorporate the 
+arbitration clause into the contract,
+(3) the arbitration clause should be appropriate, 
+that is capable of application in respect of 
+disputes under the contract and should not be 
+repugnant to any term of the contract.
+(ii) When the parties enter into a contract, making a 
+general reference to another contract, such general 
+reference would not have the effect of incorporating 
+the arbitration clause from the referred document 
+into the contract between the parties. The arbitration 
+clause from another contract can be incorporated into 
+the contract (where such reference is made), only by 
+a specific reference to arbitration clause.
+(iii) Where a contract between the parties provides 
+that the execution or performance of that contract 
+shall be in terms of another contract (which contains 
+the terms and conditions relating to performance and 
+a provision for settlement of disputes by arbitration), 
+then, the terms of the referred contract in regard to 
+execution/performance alone will apply, and not the 
+arbitration agreement in the referred contract, unless 
+there is special reference to the arbitration clause also.
+
+[2026] 5 S.C.R. 
+113
+Maharashtra State Electricity Distribution  
+Company Limited (Msedcl) & Ors. v. R Z Malpani
+(iv) Where the contract provides that the standard 
+form of terms and conditions of an independent 
+trade or professional institution (as for example the 
+standard terms and conditions of a trade association 
+or architects association) will bind them or apply 
+to the contract, such standard form of terms and 
+conditions including any provision for arbitration in 
+such standard terms and conditions, shall be deemed 
+to be incorporated by reference. Sometimes the 
+contract may also say that the parties are familiar with 
+those terms and conditions or that the parties have 
+read and understood the said terms and conditions.
+(v) Where the contract between the parties stipulates 
+that the conditions of contract of one of the parties 
+to the contract shall form a part of their contract (as 
+for example the general conditions of contract of 
+the Government where the Government is a party), 
+the arbitration clause forming part of such general 
+conditions of contract will apply to the contract 
+between the parties.”
+17. It could thus be seen that this Court has held that when 
+the parties enter into a contract, making a general reference 
+to another contract, such general reference would not have 
+the effect of incorporating the arbitration clause from the 
+referred document into the contract between the parties. 
+It has been held that the arbitration clause from another 
+contract can be incorporated into the contract (where 
+such reference is made), only by a specific reference to 
+arbitration clause. It has further been held that where a 
+contract between the parties provides that the execution or 
+performance of that contract shall be in terms of another 
+contract (which contains the terms and conditions relating 
+to performance and a provision for settlement of disputes 
+by arbitration), then, the terms of the referred contract in 
+regard to execution/performance alone will apply, and not 
+the arbitration agreement in the referred contract, unless 
+there is special reference to the arbitration clause also.
+18. This Court further held that where the contract provides 
+that the standard form of terms and conditions of an 
+
+114
+[2026] 5 S.C.R.
+Supreme Court Reports
+independent trade or professional institution will bind them 
+or apply to the contract, such standard form of terms and 
+conditions including any provision for arbitration in such 
+standard terms and conditions, shall be deemed to be 
+incorporated by reference. It has been held that sometimes 
+the contract may also say that the parties are familiar with 
+those terms and conditions or that the parties have read and 
+understood the said terms and conditions. It has also been 
+held that where the contract between the parties stipulates 
+that the conditions of contract of one of the parties to the 
+contract shall form a part of their contract, the arbitration 
+clause forming part of such general conditions of contract 
+will apply to the contract between the parties.
+19. A perusal of sub-section (5) of Section 7 of the 
+Arbitration Act itself would reveal that it provides for a 
+conscious acceptance of the arbitration clause from another 
+document, by the parties, as a part of their contract, before 
+such arbitration clause could be read as a part of the 
+contract between the parties.
+20. It is thus clear that a reference to the document in 
+the contract should be such that shows the intention 
+to incorporate the arbitration clause contained in the 
+document into the contract.
+21. The law laid down in M.R. Engineers & Contractors 
+[M.R. Engineers & Contractors (P) Ltd. v. Som Datt Builders 
+Ltd., (2009) 7 SCC 696 : (2009) 3 SCC (Civ) 271] has 
+been followed by this Court in Duro Felguera, S.A. v. 
+Gangavaram Port Ltd. [Duro Felguera, S.A. v. Gangavaram 
+Port Ltd., (2017) 9 SCC 729 : (2017) 4 SCC (Civ) 764] 
+and Elite Engg. & Construction (Hyd.) (P) Ltd. v. Techtrans 
+Construction India (P) Ltd. [Elite Engg. & Construction 
+(Hyd.) (P) Ltd. v. Techtrans Construction India (P) Ltd., 
+(2018) 4 SCC 281 : (2018) 3 SCC (Civ) 60]
+22. No doubt that this Court in Inox Wind Ltd. v. 
+Thermocables Ltd. [Inox Wind Ltd. v. Thermocables 
+Ltd., (2018) 2 SCC 519 : (2018) 2 SCC (Civ) 195] has 
+distinguished the law laid down in M.R. Engineers & 
+Contractors [M.R. Engineers & Contractors (P) Ltd. v. Som 
+
+[2026] 5 S.C.R. 
+115
+Maharashtra State Electricity Distribution  
+Company Limited (Msedcl) & Ors. v. R Z Malpani
+Datt Builders Ltd., (2009) 7 SCC 696 : (2009) 3 SCC (Civ) 
+271]. In the said case (i.e. Inox Wind [Inox Wind Ltd. v. 
+Thermocables Ltd., (2018) 2 SCC 519 : (2018) 2 SCC (Civ) 
+195] ), this Court has held that though general reference to 
+an earlier contract is not sufficient for incorporation of an 
+arbitration clause in the later contract, a general reference 
+to a standard form would be enough for incorporation of 
+the arbitration clause. Though this Court in Inox Wind 
+[Inox Wind Ltd. v. Thermocables Ltd., (2018) 2 SCC 519 : 
+(2018) 2 SCC (Civ) 195] agrees with the judgment in M.R. 
+Engineers & Contractors [M.R. Engineers & Contractors 
+(P) Ltd. v. Som Datt Builders Ltd., (2009) 7 SCC 696 : 
+(2009) 3 SCC (Civ) 271] , it holds that general reference to 
+a standard form of contract of one party along with those of 
+trade associations and professional bodies will be sufficient 
+to incorporate the arbitration clause. In the said case (i.e. 
+Inox Wind [Inox Wind Ltd. v. Thermocables Ltd., (2018) 2 
+SCC 519 : (2018) 2 SCC (Civ) 195] ), this Court found that 
+the purchase order was issued by the appellant therein 
+in which it was categorically mentioned that the supply 
+would be as per the terms mentioned therein and in the 
+attached standard terms and conditions. The respondent 
+therein by his letter had confirmed its acceptance. This 
+Court found that the case before it was a case of a single 
+contract and not two-contract case and, therefore, held 
+that the arbitration clause as mentioned in the terms and 
+conditions would be applicable.
+23. The present case is a “two-contract” case and not a 
+“single-contract” case.
+…
+29. As already discussed hereinabove, when there is a 
+reference in the second contract to the terms and conditions 
+of the first contract, the arbitration clause would not ipso 
+facto be applicable to the second contract unless there is 
+a specific mention/reference thereto.
+30. We are of the considered view that the present case 
+is not a case of “incorporation” but a case of “reference”. 
+As such, a general reference would not have the effect of 
+
+116
+[2026] 5 S.C.R.
+Supreme Court Reports
+incorporating the arbitration clause. In any case, Clause 7.0 
+of the LoI, which is also a part of the agreement, makes 
+it amply clear that the redressal of the dispute between 
+NBCC and the respondent has to be only through civil 
+courts having jurisdiction of Delhi alone.”
+39.	 Although this Court in NBCC (India) Ltd. (Supra) was dealing 
+with a factual situation which was quite similar to the instant case, 
+the reasons why the Court interfered with the appointment of an 
+arbitrator in the said case were twofold. Apart from the fact that 
+a general reference in the letter of intent to an arbitration clause 
+contained in the tender documents was found to not be sufficient 
+for its incorporation, the second reason was that the letter of intent 
+in that case had a separate dispute resolution clause which limited 
+redressal of disputes to civil courts having jurisdiction of Delhi alone. 
+Even then, the law laid down in respect of incorporation of arbitration 
+clauses contained in tender documents by means of reference in 
+the letter of intent is squarely applicable to the facts of the instant 
+case. The LOI in the instant case makes a reference to the Tender 
+documents contained in the following terms:
+“Notwithstanding that reference are given above, the terms 
+and conditions and specifications of contract shall be 
+interpreted by reading together the terms and conditions, 
+specifications and contents of this Letter of intent as 
+below. In case of any deviations with the contents of this 
+Letter of intent from corresponding conditions in the above 
+said tender specifications or contents of the letter under 
+reference as read and interpreted up to date, the contents 
+of this Letter of intent shall prevail.” 
+In our view, this is a case of ‘reference’ and not ‘incorporation’. There 
+is no mention of any arbitration or dispute resolution clause in the 
+LOI itself, neither does it purport specific incorporation thereof from 
+the tender documents. As such, the arbitration clause contained in 
+the Tender documents could not be said to have been incorporated in 
+the LOI to evince the existence of an arbitration agreement between 
+the parties on its conjoint reading with the Tender documents.
+40.	 The judgements of this Court in NBCC (India) Ltd. (Supra) as well 
+as M.R. Engineers & Contractors (P) Ltd. (Supra) were recently 
+discussed and distinguished on facts by a co-ordinate bench of this 
+
+[2026] 5 S.C.R. 
+117
+Maharashtra State Electricity Distribution  
+Company Limited (Msedcl) & Ors. v. R Z Malpani
+Court in Glencore International AG v. Shree Ganesh Metals14. In 
+the facts of that case, there was no incorporation of the arbitration 
+agreement, but rather the contract containing the arbitration 
+agreement was never signed by the parties, but it was acted upon 
+and the communication between the parties evinced the creation 
+of a binding legal relationship between them. In such context, the 
+Court placed reliance on the judgement in Govind Rubber Ltd. 
+(Supra) and held that non-signing of the contract containing the 
+arbitration agreement cannot invalidate the arbitration agreement 
+which is in writing and the parties seem to be ad idem in respect of 
+the agreement by communication about the contract. The judgement 
+in Glencore International AG (Supra) is not applicable to the facts 
+of this case since it distinguishes the judgement in NBCC (India) 
+Ltd. (Supra) where the factual scenario was quite similar to the facts 
+of the instant appeal.
+41.	 Similar is the case of the judgement in UNISSI (India) (P) Ltd. (Supra) 
+relied upon by the Appellant where the tender documents contained 
+an arbitration clause and the tender offer of the Appellant therein was 
+accepted and the Appellant therein acted upon the said acceptance 
+and made supply of oxymeters required under the tender even though 
+no formal contract was signed between the parties. In such context, 
+the Court held that the arbitration agreement contained in the tender 
+was applicable and dispute between the parties ought to be referred 
+to an arbitrator. In the facts of the present case, the terms of the 
+tender itself have never been worked upon by the Respondent. The 
+Work Order was never issued by the Appellant and the sites were 
+never handed over by the Appellant. The Respondent has submitted 
+bank guarantees pursuant to the LOI, which at best is a preliminary 
+requirement as a precursor to the Work Order being issued. As 
+discussed above, the LOI in the instant case was indicative of a 
+preliminary document in course of the contract and was not intended 
+to be an end-all-be-all contract between the parties, it did not create 
+contractual obligations or legal relationship between them.
+42.	 It goes without saying that the scope of inquiry at the stage of 
+Section 11 is extremely limited and only pertains to an examination 
+about prima facie existence of an arbitration agreement. Judicial 
+14	
+2025 SCC OnLine SC 1815.
+
+118
+[2026] 5 S.C.R.
+Supreme Court Reports
+non-interference in the arbitration process is the sacrosanct principle 
+which guides alternative dispute resolution and Courts must be 
+highly circumspect in interfering at the referral stage, especially 
+since there is no appeal available in the 1996 Act against an order 
+under Section 11. The Arbitral Tribunal, in exercise of its jurisdiction 
+under Section 16 must be left to decide on its jurisdiction. The 
+Courts should follow the principle of ‘When in doubt, do refer’ and 
+lean towards referring matters to arbitration when the arbitration 
+agreement is prima facie existent. However, it is only in the rarest 
+of rare cases where even on a prima facie view, without going into 
+disputed facts between the parties, there appears to be no existence 
+of arbitration agreement between the parties, the Court can reject 
+the application for appointment of an arbitrator and reference of 
+the parties to arbitration. The instant case appears to be a fit case 
+where, as discussed, even without going into the disputed facts and 
+merely on a prima facie view of the matter, there is no existence of 
+arbitration agreement and therefore, the decision of the High Court 
+to appoint an arbitrator requires interference. 
+43.	 As an upshot of the above discussion, the instant appeal deserves 
+to be allowed and the order impugned passed by the High Court 
+stands set aside. The Respondent is given the liberty to pursue other 
+alternative remedies in accordance with law, if any, available to it. 
+All interim application(s) shall be treated to be disposed of.
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Divya Pandey

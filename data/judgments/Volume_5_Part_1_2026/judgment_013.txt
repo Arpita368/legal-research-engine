@@ -1,0 +1,681 @@
+[2026] 5 S.C.R. 221 : 2026 INSC 367
+Shuvendu Saha 
+v. 
+The State of West Bengal and Anr.
+(Criminal Appeal No. 1836 of 2026)
+09 April 2026
+[Vikram Nath and Sandeep Mehta,* JJ.]
+Issue for Consideration
+The High Court, in a revision filed at the instance of the respondent 
+no.2-complainant, set aside the order granting bail to the accused-
+appellant herein in a case involving offences triable by the Court 
+of Magistrate after a gap of nearly 8 years.
+Headnotes†
+Code of Criminal Procedure, 1973 – s.437 – Bharatiya Nagarik 
+Suraksha Sanhita, 2023 – s.480 – Bail – Grant of – The dispute 
+between the appellant and respondent no.2-complainant 
+was regarding tenancy rights over a portion of a building – 
+Respondent no.2-complainant instituted a civil suit against 
+the appellant regarding the same – In the said proceedings, 
+the respondent no.2-complainant deposed that the disputes 
+between the parties was amicably settled – The Court, taking 
+note of the said statement, dismissed the suit – Concealing 
+this factum, respondent no.2-complainant filed a complaint 
+before the Additional Chief Judicial Magistrate, who in turn, 
+exercised powers u/s.156(3) of the CrPC and forwarded the 
+said complaint to the Officer-in-Charge, Police Station, for 
+investigation, leading to the registration of FIR u/ss.409, 
+417, 418, 419, 420, and 506(ii) of the IPC – The appellant 
+was arrested – Subsequently, appellant was granted interim 
+bail and thereafter, bail was confirmed on 04.07.2018 – The 
+complainant filed a criminal revision before the High Court – 
+The High Court set aside the order granting interim bail as 
+well as the subsequent orders confirming bail on 06.03.2026 – 
+Correctness:
+Held: On a perusal of the above order, it is clear that all parameters 
+for deciding a bail application filed u/s.437 CrPC (corresponding 
+s.480 of the BNSS) were considered by the Magistrate and even 
+* Author
+
+222
+[2026] 5 S.C.R.
+Supreme Court Reports
+the respondent no.2-complainant was provided an opportunity 
+of hearing – There was no justification for the Single Judge of 
+the High Court to have interfered with the order granting bail, 
+more so after a lapse of nearly eight years from the date of order 
+granting bail – The issues highlighted in the complaint were 
+predominantly having civil overtones, and yet the Single Judge 
+proceeded to decide the revision as if it involved questions of grave 
+legal importance – Once the trial Court had exercised jurisdiction 
+u/s.437 CrPC to affirm the order of interim bail passed in favour 
+of the accused, the same could only be cancelled or set aside 
+on the principles governing cancellation of bail laid down by this 
+Court in a catena of decisions – The discretion of the High Court 
+was heavily swayed by the reason that safety of the respondent 
+no.2-complainant was at risk, was far removed from reality – The 
+order of the High Court does not reflect or refer to any such 
+event or incident which may have caused any life threat or risk to 
+the respondent no.2-complainant – The view taken by the High 
+Court is wholly perverse, apart from being in gross disregard of 
+the mandate of s.437 of CrPC – A Rule (Rule 183 of the Calcutta 
+High Court Criminal (Subordinate Courts) Rules, 1985) contained 
+in the Criminal Rules and Orders, which governs the procedural 
+aspects of day-to-day functioning of criminal Courts, could not 
+have been invoked to override the substantive mandate of the 
+CrPC unless a gross failure of justice was demonstrated in the 
+proceedings – No palpable material on record to show that the 
+Magistrate had substantially breached the procedure provided 
+under the said rule – The impugned order is audaciously perverse 
+and illegal, and hence, the same cannot be sustained. [Paras 21, 
+22, 25, 27, 29, 32, 33]
+Judiciary – Adverse remarks – Castigation of Judicial Officers – 
+Recording of adverse remarks/strictures against them by 
+the High Court – Power of superintendence is not a tool of 
+oppression:
+Held: It has become a trend to castigate Judicial Officers and 
+record adverse remarks/strictures against them in judicial orders 
+passed by the High Court in the exercise of supervisory, appellate 
+or revisional jurisdiction – The High Court, being a Court of record 
+in the State, is expected to act as the guardian of the Officers 
+in district judiciary – While finding infirmities in the order passed 
+by a Judicial Officer, the immediate reaction ought not to be to 
+
+[2026] 5 S.C.R. 
+223
+Shuvendu Saha v. The State of West Bengal and Anr.
+make adverse or disparaging observations against the concerned 
+Judicial Officer in a judicial dispensation – Such disparaging 
+remarks/strictures may ruin the career of the Judicial Officer in 
+addition to demoralising the district judiciary as a whole – Power of 
+superintendence conferred upon the High Courts by Art.227 of the 
+Constitution of India ought not to be used as a tool of oppression 
+but rather as a mechanism for nurturing and guiding the Judicial 
+Officers in the State. [Paras 35, 36]
+Constitution of India – Art.227 – Power of Superintendence 
+conferred upon the High Court – Mechanism to guide Judicial 
+Officers – Merits or quality of the order to be noted on the 
+remark slip:
+Held: In some High Courts an in-house mechanism is already in 
+place to take care of a situation, whenever any flaw or infirmity is 
+noted in any order passed by the trial Judge by the High Court 
+while exercising the supervisory jurisdiction – The observations of 
+the Hon’ble Judge/Bench on the merits or quality of the order or 
+the proceedings of the presiding officer of the trial Court can be 
+noted in a remark slip which, in turn, would be placed before the 
+administrative Judge or the Chief Justice of the High Court, as the 
+case may be, for necessary follow-up action. [Para 37]
+Constitution of India – Art.227 – Power of Superintendence 
+conferred upon the High Court – Merits or quality of the 
+order passed by Judicial Officers – A format of remark-slip – 
+Illustrated. [Para 38]
+Case Law Cited
+Dolat Ram v. State of Haryana [1994] Supp. 6 SCR 69 : (1995) 
+1 SCC 349 – relied on.
+X v. State of Telangana [2018] 4 SCR 466 : (2018) 16 SCC 511; 
+CBI v. Subramani Gopalakrishnan [2011] 5 SCR 824 : (2011) 
+5 SCC 296; Neeru Yadav v. State of U.P. [2015] 10 SCR 802 : 
+(2016) 15 SCC 422 – referred to.
+List of Acts
+Penal Code, 1860; Code of Criminal Procedure, 1973; Bharatiya 
+Nagarik Suraksha Sanhita, 2023; Constitution of India; Calcutta 
+High Court Criminal (Subordinate Courts) Rules, 1985.
+
+224
+[2026] 5 S.C.R.
+Supreme Court Reports
+List of Keywords
+Bail; sublato fundamento cadit opus; Opportunity of hearing; 
+Section 437 of CrPC; Cancellation of bail; Rule 183 of Calcutta High 
+Court Criminal (Subordinate Courts) Rules, 1985; Hyper-technical 
+view; Judiciary; Adverse remarks; Castigation of Judicial Officers; 
+Art.227 of Constitution; Power of Superintendence conferred upon 
+the High Court; Format of remark slip.
+Case Arising From
+CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 
+1836 of 2026
+From the Judgment and Order dated 06.03.2026 of the High Court 
+at Calcutta in CRR No. 1248 of 2018.
+Appearances for Parties
+Advs. for the Appellant(s):
+Siva Prasad Ghose, Anondo Mukherjee, Ms. Parul Sharma, Jitender 
+Kumar, Anil Kumar.
+Advs. for the Respondent(s):
+Rohit Dutta, Anas Tanwir, Suryanu Sengupta, Dhrubajit Saikia, 
+Ms. A. Banerjee, Ms. Geetanjali Nagpal, Kunal Mimani, Prashant 
+Alai, Abhinav Rana.
+Judgment / Order of the Supreme Court
+Order
+Mehta, J.
+1.	
+Heard.
+2.	
+Issue notice.
+3.	
+Mr. Kunal Mimani, learned counsel appearing for the State of West 
+Bengal, accepts notice on advance service. Mr. Rohit Dutta, learned 
+counsel, appears via video conferencing on behalf of respondent 
+No.21 on caveat.
+1	
+Hereinafter, referred to as the “respondent No.2-complainant”.
+
+[2026] 5 S.C.R. 
+225
+Shuvendu Saha v. The State of West Bengal and Anr.
+4.	
+Leave granted.
+5.	
+Facts involved in the present appeal manifest a remarkably perverse 
+exercise of revisional jurisdiction by learned Single Judge of the High 
+Court at Calcutta2 who has, in a revision filed at the instance of the 
+respondent No.2-complainant, set aside the order granting bail to 
+the accused-appellant3 herein in a case involving offences triable 
+by Court of Magistrate after a gap of nearly 8 years on absolutely 
+hyper technical and untenable reasons.
+6.	
+The dispute between the appellant and respondent No.2-complainant 
+is with regard to tenancy rights over a portion of a building, which 
+was purchased by the appellant from its erstwhile owner. Respondent 
+No.2-complainant instituted a civil suit against the appellant, being 
+Title Suit No.328 of 2016, seeking declaration of her tenancy in 
+respect of a room admeasuring approximately 150 sq. ft.
+7.	
+On 15th September, 2017, in the proceedings of the civil suit, the 
+respondent No.2-complainant entered the witness box and deposed 
+that the disputes between the parties had been amicably settled and, 
+in view thereof, she did not wish to proceed with the said suit. The 
+Court, taking note of the said statement, recorded that the dispute 
+stood settled between the parties and dismissed the suit by an 
+order of the even date. Concealing the factum of the aforesaid civil 
+proceedings and the settlement, the respondent No.2-complainant 
+filed a complaint on 28th November, 2017 before the learned Additional 
+Chief Judicial Magistrate4, Sealdah, who in turn, by order dated 
+28th November, 2017 exercised powers under Section 156(3) of the 
+Code of Criminal Procedure5 and forwarded the said complaint to 
+the Officer-in-Charge, Cossipore Police Station, for investigation, 
+leading to the registration of FIR No.257 dated 8th December, 2017 
+for the offences punishable under Sections 409, 417, 418, 419, 420, 
+and 506(ii) of the Indian Penal Code, 18606.
+8.	
+The appellant was arrested in connection with the aforesaid case 
+and was produced before the Magistrate concerned on 3rd May, 
+2	
+Hereinafter, referred to as the “High Court”.
+3	
+Hereinafter, referred to as the “appellant” or “accused”.
+4	
+Hereinafter, referred to as the ‘‘Magistrate”.
+5	
+For short, ‘CrPC’.
+6	
+For short, ‘IPC’.
+
+226
+[2026] 5 S.C.R.
+Supreme Court Reports
+2018. His initial prayer for bail came to be rejected on the same 
+day. Subsequently, the learned Magistrate granted interim bail to the 
+appellant on 7th May, 2018, which was thereafter confirmed by the 
+learned Magistrate on 4th July, 2018. The complainant challenged the 
+order granting interim bail to the appellant by filing Criminal Revision 
+No.1248 of 2018 before the High Court.
+9.	
+Learned Single Judge of the High Court allowed the said revision by 
+the impugned order dated 6th March, 2026, holding that the Magistrate 
+had acted contrary to Rule 183 of the Calcutta High Court Criminal 
+(Subordinate Courts) Rules, 1985, and that there was an infirmity 
+in the order of the learned Magistrate, which only bore his initials 
+and lacked proper authentication. The High Court, accordingly, set 
+aside the order granting interim bail as well as the subsequent orders 
+confirming bail. 
+10.	 The learned Single Judge further held that the order granting bail was 
+also vitiated on account of not providing an opportunity of effective 
+hearing to the respondent No.2-complainant. While concluding the 
+order, the learned Single Judge granted interim protection to the 
+appellant.
+11.	 The aforesaid order dated 6th March, 2026 is under challenge at 
+the instance of the appellant in the present appeal by special leave.
+12.	 We have extensively heard learned counsel for the parties and have 
+gone through the impugned order and the material placed on record.
+13.	 Learned counsel representing the appellant has placed for our perusal 
+a copy of the order dated 16th March, 2026 passed by the learned 
+ACJM, Sealdah, whereby the appellant, upon being re-arrested post 
+passing of the impugned order, was presented before the learned 
+Magistrate and was granted bail on certain terms and conditions. 
+We could have closed these proceedings on this premise alone. 
+However, we deem it necessary that some discussion be made on 
+the order passed by the High Court, which, ex facie, suffers from 
+gross perversity.
+14.	 First of all, we may note that in a case involving Magistrate triable 
+offences, the appellant had been granted bail by the jurisdictional 
+Magistrate way back in the year 2018. The revision preferred by 
+respondent No.2-complainant against the said order granting bail 
+came to be heard and decided by the learned Single Judge of the 
+
+[2026] 5 S.C.R. 
+227
+Shuvendu Saha v. The State of West Bengal and Anr.
+High Court in the year 2026, and on absolutely hyper-technical 
+grounds and by undertaking a hair-splitting exercise, the learned 
+Single Judge proceeded to set aside the order granting bail to the 
+appellant.
+15.	 We are of the firm opinion that the learned Single Judge misdirected 
+himself while setting aside the order granting bail passed by the 
+learned Magistrate. It is manifest from the impugned order that the 
+learned Single Judge failed to advert to the fact that prior to the 
+lodging of the complaint, respondent No.2-complainant had filed a 
+civil suit in relation to the very same dispute, wherein, she made a 
+deposition stating that the matter had been amicably settled and, 
+therefore, the suit was not required to be proceeded with. 
+16.	 Consequently, based on the said statement, the civil suit was 
+dismissed on 15th September, 2017 noting that the dispute stood 
+amicably settled. Concealing this material fact, respondent No.2-
+complainant preferred the application under Section 156(3) of CrPC, 
+on the basis whereof FIR No.257 dated 8th December, 2017 came 
+to be registered against the appellant at Police Station Cossipore. 
+17.	 On going through the FIR, we find the same to be highly belated 
+and additionally, even if the allegations set out in the FIR were 
+accepted as true on the face of record, the case has overtones of a 
+civil dispute, plain and simple, and hence, it was not a case wherein 
+the accused could have been denied bail.
+18.	 Needless to state that cancellation of bail/setting aside of the bail 
+order impinges upon the liberty of an individual. Law is well settled 
+by a catena of decisions7 of this Court that orders granting bail ought 
+not to be lightly interfered with.
+19.	 In the present case, which involves magistrate triable offences, the 
+accused had been arrested on 3rd May, 2018, and he was granted 
+interim bail by the learned Magistrate on 7th May, 2018, which order 
+was subsequently confirmed on 4th July, 2018. 
+20.	 For the sake of ready reference, we extract the order dated 7th May, 
+2018, passed by the learned Magistrate: -
+7	
+X v. State of Telangana, (2018) 16 SCC 511; Dolat Ram v. State of Haryana, (1995) 1 SCC 349; CBI v. 
+Subramani Gopalakrishnan, (2011) 5 SCC 296; Neeru Yadav v. State of U.P., (2016) 15 SCC 422.
+
+228
+[2026] 5 S.C.R.
+Supreme Court Reports
+“Heard both sides. Perused C/R and C/D perused petition 
+filed by defacto complainant. Heard Ld. Advocate for the 
+defacto complainant.
+Considering-
+a) Period of detention
+b) No progress in investigation during P/C period.
+c) No prayer for further P/C by I/O.
+d) No prayer for custodial interrogation.
+e) No mention to threat to defacto in today’s remand by I/O.
+I do not find any reason for further detention of prosecute 
+accused in I/C in the interest of investigation. Hence, all 
+objections raised against bail are turned down. Bail prayer 
+is allowed, albeit on interim basis.
+Sole accused may be enlarged on A/I bail of Rs.2000/-with 
+1 surety (sic) Rs. of like amount. ID to J/C.
+If no bail to 7.6.18 for app. Further order as to bail and 
+report.
+Return C/D.
+Sd/-”
+21.	 On a perusal of the above order, it is clear that all parameters 
+for deciding a bail application filed under Section 437 CrPC 
+(corresponding Section 480 of the BNSS) were considered by the 
+learned Magistrate and even the respondent No.2-complainant 
+was provided an opportunity of hearing. Hence, we have no 
+hesitation in holding that there was no justification whatsoever for 
+the learned Single Judge to have interfered with the order granting 
+bail, more so after a lapse of nearly eight years from the date of 
+order granting bail.
+22.	 We, emphatically reiterate that the issues highlighted in the complaint 
+were predominantly having civil overtones, and yet the learned Single 
+Judge proceeded to decide the revision as if it involved questions 
+of grave legal importance. The following questions of law and fact 
+were in fact formulated and thereafter adjudicated upon: -
+
+[2026] 5 S.C.R. 
+229
+Shuvendu Saha v. The State of West Bengal and Anr.
+“6. The resolution of the instant revision hinges upon the 
+following pivotal questions of law and fact: 
+i. whether an order of interim bail is sustainable in law if it 
+fails to comply with the mandatory procedural safeguards 
+enshrined in Rule 183 of the Criminal Rules and Orders 
+(Cr.R.O.) regarding authentication? 
+ii. whether the Learned Magistrate’s refusal to record 
+specific reasons for “turning down” the victim’s objections, 
+despite the mandate of Section 2(wa) of the Code, 
+constitutes an abdication of judicial duty?
+iii. whether this Court, in exercise of its supervisory 
+jurisdiction under Article 227, is empowered to strike 
+down an order passed in manifest violation of binding 
+administrative directions and judicial precedents of the 
+High Court?” 
+23.	 The learned Single Judge, for cancelling the bail granted to the 
+accused in a case involving Magistrate’s triable offences after 8 
+years of the event and after nearly 15 years of the alleged offence, 
+assigned the following reasons in the impugned order: -
+“21. Upon a holistic consideration of the facts and the settled 
+position of law, I am of the firm opinion that the impugned 
+order of bail suffers from a dual infirmity-procedural and 
+substantive. Procedurally, the total disregard for the 
+authentication protocols under Rule 183 of the Cr.R.O. and 
+the binding directives of this Court in Sharmistha Chowdhuri 
+(supra) renders the record a mere scrap of paper lacking 
+judicial solemnity. Substantively, the failure to recognize 
+the statutory rights of the “victim” under Section 2(w)(a) 
+of the Code and the summary dismissal of documented 
+life-threats constitutes a manifest failure of justice.
+22. Therefore, this Court arrives at the legal conclusion 
+that the liberty of an accused, while precious, cannot be 
+protected by an order that is “born in sin,” i.e., an order 
+passed in defiance of the High Court’s administrative 
+and judicial discipline. A bail order which is (a) unsigned 
+or partially initialled in violation of Rule 183 Cr.R.O., (b) 
+unreasoned regarding the specific objections of a victim, 
+
+230
+[2026] 5 S.C.R.
+Supreme Court Reports
+and (c) indifferent to the history of witness intimidation, 
+is a perverse order that the High Court is duty-bound to 
+strike down under Section 482 and under Article 227 of 
+the Constitution to prevent a miscarriage of justice. 
+23. This Court finds that the Learned Magistrate exercised 
+his discretion arbitrarily and in defiance of binding 
+precedents. The subsequent confirmation of bail cannot 
+validate an order that failed to consider the life-threat 
+to the elderly widow/petitioner. Consequentially, it is 
+ordered that: 
+a. the order dated May 7, 2018, and all subsequent 
+orders confirming the bail of Opposite Party No. 2, 
+Suvendu Saha, are hereby set aside and quashed. 
+The liberty granted to the accused stands revoked 
+with immediate effect. 
+b. the Opposite Party No. 2 is directed to surrender 
+before the Learned Additional Chief Judicial Magistrate, 
+Sealdah, within 48 hours from the communication of 
+this order. Failure to do so shall result in immediate 
+arrest of the petitioner / accused by the Officer-in-
+Charge, Cossipore P.S. and produce him before the 
+Court below in custody. 
+c. Upon surrender/arrest, the Learned Additional 
+Chief Judicial Magistrate shall hear the bail prayer de 
+novo, providing a mandatory and meaningful hearing 
+to the Victim or her authorized counsel, perusing the 
+updated Case Diary and specifically record findings on 
+the allegations of post-arrest threats and intimidation, 
+and recording the order in strict compliance with Rule 
+183 Cr.R.O. and the format mandated in Sharmistha 
+Chowdhuri. 
+d. The failure of the Learned Additional Chief 
+Judicial Magistrate to comply with the mandatory 
+requirements of Rule 183 of the Cr.R.O. and the 
+administrative circulars issued by this Court, is a 
+matter of grave concern. Judicial discipline requires 
+that District courts strictly adhere to the formats and 
+
+[2026] 5 S.C.R. 
+231
+Shuvendu Saha v. The State of West Bengal and Anr.
+protocols established by the High Court to ensure 
+the transparency and integrity of judicial records. 
+e. the Registrar (Judicial Service) is directed to 
+call for an explanation from the concerned Judicial 
+Officer as to why the mandatory provisions of Rule 
+183 and the administrative circulars of this Court 
+were bypassed. A copy of this order shall be placed 
+in the Annual Confidential Report (ACR) dossier of 
+the said officer, and a formal warning shall be issued 
+to ensure future circumspection. 
+f. To prevent such “jurisdictional insubordination” from 
+becoming a norm, the Registrar General is directed 
+to re-circulate the mandatory directions contained in 
+Paragraphs 35, 36, and 37 of Sharmistha Chowdhuri 
+to all judicial officers in the State of West Bengal and 
+the Union Territory of Andaman and Nicobar Islands. 
+g. All District Judges are directed to ensure compliance 
+through periodic inspections of order-sheets. Any 
+persistent default by any judicial officer in signing 
+order sheets in full or taking external assistance 
+for recording orders shall be reported to the High 
+Court on the administrative side for the initiation of 
+appropriate departmental proceedings. 
+h. The Director of the West Bengal State Judicial 
+Academy is directed to include a specific module on 
+the “Recording of Judicial Orders and Authentication 
+of Records” in the induction and refresher courses for 
+judicial officers, emphasizing the legal consequences 
+of non-compliance with the Criminal Rules and 
+Orders.
+i. The Commissioner of Police, Kolkata, is directed 
+to ensure adequate and continuous protection for 
+the Petitioner and her family. The interim protection 
+already granted shall remain in force until the final 
+disposal of the de novo bail prayer by the Court below.” 
+24.	 Learned Single Judge, while setting aside the order of the Magistrate, 
+held the order granting bail to be arbitrary and in defiance of binding 
+
+232
+[2026] 5 S.C.R.
+Supreme Court Reports
+precedents. The learned Single Judge also directed the Registrar 
+General to call for an explanation from the concerned Judicial 
+Officer and considered the same to be a case of “jurisdictional 
+insubordination” which had to be prevented. We feel that the aforesaid 
+observations were wholly misplaced and uncalled for.	
+25.	 The High Court proceeded on the premise of the latin maxim ‘sublato 
+fundamento cadit opus’, which, translated literally, means ‘when 
+infrastructure fails, superstructure must fail’. We are of the firm 
+opinion that the said maxim had no application to the case at hand 
+as herein, the purported infrastructure was the order dated 7th May, 
+2018, granting interim bail to the accused which stood subsumed 
+in the final order granting bail dated 4th July, 2018. It is absolutely 
+unacceptable that the final order granting bail could have been set 
+at naught merely because in the opinion of the High Court, some 
+infirmities existed in the order granting interim bail to the accused. 
+Once the trial Court had exercised jurisdiction under Section 437 CrPC 
+to affirm the order of interim bail passed in favour of the accused, 
+the same could only be cancelled or set aside on the principles 
+governing cancellation of bail laid down by this Court in a catena of 
+decisions. In this regard, we may gainfully refer to the judgment of 
+this Court in Dolat Ram v. State of Haryana8, the relevant paragraph 
+whereof is extracted hereinbelow:-
+“4. Rejection of bail in a non-bailable case at the 
+initial stage and the cancellation of bail so granted, 
+have to be considered and dealt with on different 
+basis. Very cogent and overwhelming circumstances 
+are necessary for an order directing the cancellation 
+of the bail, already granted. Generally speaking, 
+the grounds for cancellation of bail, broadly 
+(illustrative and not exhaustive) are: interference 
+or attempt to interfere with the due course of 
+administration of justice or evasion or attempt 
+to evade the due course of justice or abuse of 
+the concession granted to the accused in any 
+manner. The satisfaction of the court, on the 
+basis of material placed on the record of the 
+8	
+(1995) 1 SCC 349 : 1995 SCC (Cri) 237.
+
+[2026] 5 S.C.R. 
+233
+Shuvendu Saha v. The State of West Bengal and Anr.
+possibility of the accused absconding is yet 
+another reason justifying the cancellation of bail. 
+However, bail once granted should not be cancelled 
+in a mechanical manner without considering whether 
+any supervening circumstances have rendered it no 
+longer conducive to a fair trial to allow the accused 
+to retain his freedom by enjoying the concession 
+of bail during the trial. These principles, it appears, 
+were lost sight of by the High Court when it decided 
+to cancel the bail, already granted. The High Court 
+it appears to us overlooked the distinction of the 
+factors relevant for rejecting bail in a non-bailable 
+case in the first instance and the cancellation of bail 
+already granted.”
+[Emphasis supplied]
+26.	 The discretion of the High Court was also heavily swayed by the 
+reason that safety of the respondent No.2-complainant was at risk. 
+We feel that the said observation of the High Court was far removed 
+from reality.
+27.	 The order granting bail was passed in the year 2018, whereas the 
+revision came to be heard and decided in the year 2026. Neither 
+does the order of the High Court reflect so nor was any such 
+material available on record which could have compelled the High 
+Court to hold that there was any risk to the life of the respondent 
+No.2-complainant. The order of the High Court does not reflect or 
+refer to any such event or incident which may have caused any life 
+threat or risk to the respondent No.2-complainant. Hence, we are 
+of the firm opinion that the order passed by the High Court suffers 
+from total non-application of mind.
+28.	 Graciously enough, while setting aside the bail granted to the accused, 
+the High Court directed that adequate protection be provided to the 
+respondent No.2-complainant and that the interim protection granted 
+to the accused shall remain in force till the final disposal of the de 
+novo bail prayer by the jurisdictional Court. In consequence thereof, 
+the accused surrendered before the trial Court and has been released 
+on bail by order dated 16th March, 2026, which has been placed for 
+our perusal by learned counsel for the accused.
+
+234
+[2026] 5 S.C.R.
+Supreme Court Reports
+29.	 We find that the view taken by the High Court is wholly perverse, 
+apart from being in gross disregard of the mandate of Section 437 
+of CrPC. The learned Single Judge gave primacy to Rule 183 of the 
+Calcutta High Court Criminal (Subordinate Courts) Rules, 1985 to set 
+at naught an order granting bail to the accused under the provisions 
+of CrPC. We, prima facie, feel that a Rule contained in the Criminal 
+Rules and Orders, which governs the procedural aspects of day-to-
+day functioning of criminal Courts, could not have been invoked to 
+override the substantive mandate of the CrPC unless a gross failure 
+of justice was demonstrated in the proceedings.
+30.	 On going through the order dated 7th May, 2018 passed by the learned 
+Magistrate granting interim bail to the accused, we find that the same 
+records that an opportunity of hearing was granted to respondent 
+No.2-complainant and assigns cogent and substantial reasons for 
+releasing the accused on bail.
+31.	 Rule 183 of Calcutta High Court Criminal (Subordinate Courts) Rules, 
+1985, on which the order of the learned Single Judge is premised, 
+provides that orders requiring the exercise of judicial discretion and 
+the final order shall be recorded by the Magistrate in his own hand 
+or typed by him, others may be recorded under his direction by the 
+Bench Clerk. 
+32.	 However, we do not find any palpable material on record to show 
+that the learned Magistrate had substantially breached the procedure 
+provided under the said rule while drawing up the order granting bail 
+to the accused. The violation, if any, was too hyper-technical and 
+trivial so as to be made a ground for setting aside the bail granted 
+to the accused nearly 8 years ago.
+33.	 Therefore, we have no option but to hold that the impugned order 
+is audaciously perverse and illegal, and hence, the same cannot 
+be sustained. The impugned order dated 6th March, 2026, is hence 
+quashed and set aside.
+34.	 Though we have already quashed and set aside the impugned order 
+in entirety still, for ensuring that the service career of the concerned 
+Judicial officer is not adversely effected, we further emphasize and 
+provide that the directions given by the learned Single Judge in 
+paragraphs e, f, g and h of the impugned order making observations 
+on the conduct of the Ld. Judicial Officer; directing placement of the 
+impugned order dated 6th March, 2026 in the Annual Confidential 
+
+[2026] 5 S.C.R. 
+235
+Shuvendu Saha v. The State of West Bengal and Anr.
+Report (A.C.R.) of the Judicial Officer; directing the Registrar (Judicial 
+Service) to call for an explanation from the Judicial Officer and 
+making an observation that the order passed by the Judicial Officer 
+tantamounted to “jurisdictional insubordination” shall stand expressly 
+omitted, quashed and set aside. 
+35.	 Before parting, we may record a discordant note that it has become a 
+recent trend to castigate Judicial Officers and record adverse remarks/
+strictures against them in judicial orders passed by the High Court 
+in the exercise of supervisory, appellate or revisional jurisdiction. 
+The High Court, being a Court of record in the State, is expected to 
+act as the guardian of the Officers in district judiciary. While finding 
+infirmities in the order passed by a Judicial Officer, the immediate 
+reaction ought not to be to make adverse or disparaging observations 
+against the concerned Judicial Officer in a judicial dispensation. 
+36.	 Such disparaging remarks/strictures may ruin the career of the 
+Judicial Officer in addition to demoralising the district judiciary as a 
+whole. Power of superintendence conferred upon the High Courts 
+by Article 227 of the Constitution of India ought not to be used as 
+a tool of oppression but rather as a mechanism for nurturing and 
+guiding the Judicial Officers in the State. 
+37.	 In some High Courts an in-house mechanism is already in place to 
+take care of a situation, whenever any flaw or infirmity is noted in any 
+order passed by the trial Judge by the High Court while exercising 
+the supervisory jurisdiction. The observations of the Hon’ble Judge/
+Bench on the merits or quality of the order or the proceedings of 
+the presiding officer of the trial Court can be noted in a remark slip 
+which, in turn, would be placed before the administrative Judge or the 
+Chief Justice of the High Court, as the case may be, for necessary 
+follow-up action.
+38.	 For the sake of illustration, the format of such remark-slip which is 
+provided in the practice and procedure of the High Court of Judicature 
+for Rajasthan is extracted hereinbelow: -
+COURT REMARKS ON THE 
+JUDGMENT DATED ………….. 
+X v. Y 
+RENDERED BY SHRI..................................
+****
+
+236
+[2026] 5 S.C.R.
+Supreme Court Reports
+Description of case. 
+No. ________________ of 20 
+Date of Judgment ……..
+(a)	 Judgment dated ………: -
+(1)	 Whether lucid, to the point, logical,
+(2)	 Whether discussion of evidence and thorough.
+(3)	 Whether sentence or order appropriate.
+(4)	 Whether above standard or below standard. 
+(b)	 Conduct of proceedings: -
+[Here any remarks about clearing of pleadings, framing 
+of issues or charge sheets, control over examination of 
+witnesses, proper keeping of double record, eliciting of all 
+material facts, adjournments, delay in delivery of judgment 
+and doing of full day’s work may be entered.]
+Note:-	
+(1) Bench Reader will attach this slip at 
+the top of the first page of each judgment 
+when the Judge is being asked to sign that  
+judgment.
+(2) The slip containing the remarks shall be 
+sent to the Hon’ble Judge in the Administrative 
+Department.
+PROFORMA
+S. 
+No.
+Particulars of the 
+case in the lower 
+court viz No. of 
+case/appeal/tile/
+date of decision
+Particular of the case 
+of the High Court 
+viz. No. of appeal/
+revision, title and 
+date of decision
+W h e t h e r 
+categories 
+as standard 
+o r 
+N o 
+remarks
+39.	 It is our firm opinion that it would be highly advisable if similar 
+practice of recording remarks on various facets of the judgments/
+orders passed by Officers in the district judiciary is adopted 
+by all High Courts for appropriate action on the administrative 
+side.
+
+[2026] 5 S.C.R. 
+237
+Shuvendu Saha v. The State of West Bengal and Anr.
+40.	 The Registry shall circulate a copy of this order to the Registrar 
+Generals of all the High Courts for being placed before the Hon’ble 
+Chief Justice for information and such follow-up action as may be 
+deemed appropriate.
+41.	 The appeal is allowed accordingly.
+42.	 Pending application(s), if any, shall stand disposed of.
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Ankit Gyan

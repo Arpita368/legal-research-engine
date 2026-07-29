@@ -1,0 +1,770 @@
+[2026] 3 S.C.R. 586 : 2026 INSC 251
+Mohammad Kaleem
+v.
+State of Uttar Pradesh & Ors.
+(Criminal Appeal No. 1430 of 2026)
+17 March 2026
+[Sanjay Karol* and Augustine George Masih, JJ.]
+Issue for Consideration
+Issue arose as regards the propriety of the exercise of power by 
+the Trial Court u/s.319 Cr.PC and the justifiability of the imprimatur 
+granted thereto by the Court below.
+Headnotes†
+Code of Criminal Procedure, 1973 – s.319 – Exercise of power 
+under – Pre-trial scrutiny should not resemble a mini trial – 
+Trial Court and High Court refused to allow the Appellant-
+complainant’s application to summon additional accused 
+filed u/s.319 holding that the evidence of the complainant 
+was inconsistent with the FIR and the documentary record, 
+and that the statements of PW-6 and PW-7 were mutually 
+contradictory and unreliable and thus, the evidence did not 
+reach the standard required for summoning additional accused 
+u/s.319 – Challenge to:
+Held: Judgments of the Courts below set aside – Power u/s.319 is 
+extraordinary and should be exercised sparingly – Court must assess 
+whether the evidence on record, if unrebutted, reasonably indicates 
+the involvement of the proposed accused – Court need not establish 
+guilt or conduct a detailed credibility assessment at this stage – Pre-
+trial scrutiny should not resemble a mini trial – Trial Court misdirected 
+itself in this regard – In evaluating minor contradictions between 
+witness statements and plausibility issues such as whether the 
+complainant could have avoided injury, Trial Court effectively applied 
+a stricter standard than necessary – It applied higher than necessary 
+standard by relying on the absence of jail records or highlighting 
+minor discrepancies in hospital admission or FIR details – While 
+these points raise valid questions about reliability, they cannot be 
+gone into threadbare at this stage –Trial Court also erred in taking 
+a fragmented approach while appreciating evidence – It treated 
+each inconsistency in isolation rather than assessing the cumulative 
+* Author
+
+[2026] 3 S.C.R. 
+587
+Mohammad Kaleem v. State of Uttar Pradesh & Ors.
+weight of all testimonies and circumstances – Similarly, reliance on 
+documentary corroboration is not required; oral evidence alone, if 
+credible, may suffice – The Court’s emphasis on the lack of jail 
+records and the physical plausibility of witness accounts exceeded 
+the threshold scrutiny expected at this stage – It overstepped 
+the intended scope of pre-trial scrutiny, overemphasized minor 
+inconsistencies, and did not fully consider the cumulative force of 
+the evidence – The law consistently balances caution against undue 
+summoning with the need to ensure that potentially implicated 
+individuals are brought to trial when the record, taken as a whole, 
+reasonably supports it – Further, the proposed additional accused 
+persons were named as persons involved in the case by way of 
+a larger conspiracy or otherwise, by PW-1, as noticed by the trial 
+court itself and also PWs 6 & 7 – It is a separate matter that, as 
+found by the Trial Court, there are inconsistencies in the overall 
+testimonies of these witnesses but, that is a matter of trial and not 
+within the Court’s scope at the time of considering an application 
+u/s.319 CrPC – The testimony, on oath, by 3 witnesses, including 
+the complainant is sufficient in the facts of this case to meet the 
+strong and cogent evidence standard – The persons who are 
+sought to be produced as additional accused to be produced as 
+such, and proceeded with, in accordance with law – Penal Code, 
+1860 – ss.307, 302 and 120-B. [Paras 8-12]
+Evidence – Assessment of, depending on the stage of 
+proceedings and the nature of the relief prayed for:
+Held: Courts generally assess evidence at three distinct levels, 
+depending on the stage of proceedings and the nature of the relief 
+prayed for – The lowest threshold, or prima facie standard, requires 
+only a connection to proceed with formal charges – The middle 
+threshold, which is often described as strong and cogent, applies 
+when Courts consider summoning additional accused u/s.319 
+CrPC; the evidence must be reliable and reasonably persuasive, 
+but proof beyond reasonable doubt is not required – The highest 
+threshold demands proof beyond reasonable doubt, the standard 
+necessary for conviction, where the Court must be fully satisfied 
+of the guilt of the accused. [Para 6]
+Case Law Cited
+Hardeep Singh v. State of Punjab [2014] 2 SCR 1 : (2014) 3 SCC 
+92; Neeraj Kumar v. State of UP [2025] 12 SCR 295 : 2025 SCC 
+OnLine SC 2639 – relied on.
+
+588
+[2026] 3 S.C.R.
+Supreme Court Reports
+List of Acts
+Code of Criminal Procedure, 1973; Penal Code, 1860.
+List of Keywords
+Section 319, Code of Criminal Procedure, 1973; Summoning 
+additional accused; Proposed additional accused; Additional 
+accused; Pre-trial scrutiny not a mini trial; Proposed accused; 
+Involvement of proposed accused.
+Case Arising From
+CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 
+1430 of 2026
+From the Judgment and Order dated 27.03.2023 of the High Court 
+of Judicature at Allahabad in CRLR No. 3720 of 2021.
+With
+Criminal Appeal No. 1431 of 2026
+Appearances for Parties
+Advs. for the Appellant(s):
+Raghavendra Mohan Bajaj, Ms. Garima Bajaj, Zeeshan Ahmed.
+Advs. for the Respondent(s):
+Vikas Bansal, Vishwa Pal Singh, Mukesh Kumar, Dr. Bharpur 
+Singh, Adesh Gill, Ms. Munisha Anand, Arun Singh, Vikas Gothwal, 
+Ms. Soniya Sharma, Y.P. Singh, Manzoor Ali Khan Kacho, 
+Dhananjay Garg, Abhishek Garg, Dinesh Kumar Garg, Praveen 
+Bajaj, R.P. Bansal.
+Judgment / Order of the Supreme Court
+Judgment
+Sanjay Karol, J.
+Leave Granted. 
+2.	
+The Appellant herein is the complainant in the First Information 
+Report1 dated 22nd August 2017 registered at Police Station – Kotwali 
+1	
+FIR
+
+[2026] 3 S.C.R. 
+589
+Mohammad Kaleem v. State of Uttar Pradesh & Ors.
+Nagar, District Muzaffarnagar under Sections 307, 302 and 120-B, 
+Indian Penal Code, 18602 and PW-1 in subsequent proceedings 
+arising therefrom. He takes exception to the Trial Court3 and High 
+Court4 both refusing to allow his application to summon additional 
+accused preferred under Section 319 of the Code of Criminal 
+Procedure.5
+3.	
+The case pertains to the alleged killing of one Ammar and the people 
+who apparently, came together to make it happen. The FIR read thus:
+“Sir, it is submitted that Gulshanawwar, Jamshed, 
+Naushad,S/O Ishrat are top criminals of P.S Bhopa, who 
+are lying in jail in connection with murder and other cases. 
+Previously,they have shot at my brother Khalid @ Bhura 
+and on the next day they have shot at my nephew Taslim 
+have committed his murder. Mohammad Ammar S/o. 
+Nurulla of our village was pleading in this case. Today, 
+hearing was to be conducted in the court of S.C.J.M-3 
+on the application of my nephew. I was going to the court 
+to plead in aforesaid case with Mohammad Ammar by 
+scooter at around 10:30 A.M and after travelling some 
+distance on reaching Aryapuri Galli from Ansari Road, 
+Dilshad S/o Ishrat,Mumtaz S/o Azmat R/o Sikri,Abid 
+S/o Nushrat R/o Rudkali accompanied by one more 
+accomplice, who I will recognize by his face, came over 
+there from behind by motorcycle and with an intention to 
+kill, they have fired shots at Ammar. Ikbal S/o Sagir and I 
+have witnessed this incident. We have immediately taken 
+Ammar by rickshaw to the government Hospital, where the 
+doctors have declared him brought dead. Rajendra S/o 
+Rajpal, Mausam S/o. Asghar R/o Sikri are involved in this 
+conspiracy, who have plotted conspiracy on the behest of 
+Gulshanawwar, Jamshed, Naushad and have committed 
+murder of Ammar…” 
+2	
+IPC 
+3	
+Additional Sessions Judge, Court No.1 ,Muzzaffarnagar in Sessions Trial 414 of 2018 
+4	
+High Court of Judicature at Allahabad in Criminal Revision No. · 1687 of 2020
+5	
+CrPC
+
+590
+[2026] 3 S.C.R.
+Supreme Court Reports
+4.	
+After completion of investigation, challan was presented against 
+certain persons. In the list of witnesses presented by the two 
+prosecution witnesses, who according to the complainant were 
+necessary for the establishment of the case against the accused 
+Dilshad and others, were not listed. An application was made to 
+have the said people be examined as witnesses before the Trial 
+Court which came to be rejected by Order dated 17th March 2021. 
+The same was set aside by the High Court6 and the said witnesses 
+namely Khalil and Tazeem were examined as PW-6 and PW-7 
+respectively. It appears that on the basis on his own statement 
+under Section 161 CrPC and the testimony of PW-6 and PW-7, 
+the complainant wished to have two additional persons, namely 
+Rajendra and Mausam summoned as accused persons under the 
+power granted to the Court under Section 319, CrPC. 
+5.	
+The Trial Court disposed of the application by order dated 30th 
+November 2011, rejecting the same. A perusal thereof reveals that 
+people already standing trial before the Court filed objections to 
+having the two above named persons as co-accused. The Court 
+considered the said objections along with the evidence as led by 
+PW-1, PW-6 and PW-7. The Court first noted that the allegation 
+of conspiracy was based primarily on the statements of the 
+complainant (PW-1) and the witnesses PW-6 Khalil and PW-7 
+Tazim. However, their accounts were materially inconsistent. While 
+the complainant stated that Rajendra and Mausam had met three 
+accused persons in jail, namely Gulshanawwar, Naushad and 
+Jamshed, PW-6 stated that the meeting was with Gulshanawwar 
+and Naushad who mentioned about a discussion with Jamshed. 
+PW-7, on the other hand, stated that the meeting was only with 
+Gulshanawwar. These inconsistencies created serious doubt 
+regarding the alleged meeting and the existence of any conspiracy. 
+The Court further observed that the witnesses did not specify any 
+exact date or time of the alleged meeting and merely stated that 
+it occurred about fifteen days before the incident. Ordinarily, the 
+entry and exit of visitors in jail premises is recorded in official 
+registers, yet the witnesses did not refer to any such record. This 
+6	
+Application U/S 482 No.- 9654 of 2021
+
+[2026] 3 S.C.R. 
+591
+Mohammad Kaleem v. State of Uttar Pradesh & Ors.
+omission weakened the credibility of the claim that the meeting 
+had in fact taken place. The investigation record also undermined 
+the prosecution version. The case diary indicated that the accused 
+Jamshed had earlier been transferred from the local jail to 
+Saharanpur Jail and thereafter to Mirzapur Jail, following a quarrel 
+among inmates. As a result, he was not present in the local jail 
+at the relevant time. This circumstance cast further doubt on the 
+allegation that Rajendra and Mausam had met him there shortly 
+before the incident.
+Still further, it was found the circumstances in which PW-6 and PW-7 
+allegedly overheard the conversation to be doubtful. According to 
+their own statements, they heard the discussion while passing near 
+the meeting place while returning home. However, their houses 
+were situated between Rajwaha and the alleged meeting place, and 
+there was no settlement beyond that point. In such circumstances 
+the Court found it unlikely that they would have taken that route. 
+The Court also noted that despite allegedly hearing about a plan 
+to murder Ammar, the witnesses did not inform the deceased but 
+reported the matter only to the complainant, who admittedly had 
+prior enmity with the accused persons. The Court then examined 
+the testimony of the complainant and found significant contradictions 
+between his FIR and his statement before the Court. In the FIR he 
+stated that four assailants arrived on two motorcycles and opened 
+fire. During his testimony he introduced a new version stating that 
+three additional persons had also arrived on another motorcycle. This 
+fact had not been mentioned in the written report or in his earlier 
+police statement. The allegation of a prior conspiracy was also 
+absent from the FIR. Further inconsistencies were noted regarding 
+the circumstances in which the injured Ammar was taken to the 
+hospital. The complainant stated that he had taken the deceased 
+to the hospital where he was declared dead. However, the general 
+diary entry recorded that Ammar was brought to the hospital in an 
+injured condition and died later, and that he had been brought there 
+by a rickshaw puller named Farid Ahmad. These contradictions 
+raised doubts about the reliability of the complainant’s account. The 
+Court also considered the physical circumstances of the incident. 
+The complainant claimed that he was seated behind the deceased 
+on a scooter when the assailants fired multiple shots. The post-
+
+592
+[2026] 3 S.C.R.
+Supreme Court Reports
+mortem report showed that the deceased sustained five gunshot 
+injuries. Despite being in such close proximity during the attack, the 
+complainant did not suffer any injury, even though he admitted that 
+the accused persons had prior enmity with him. The Court regarded 
+this circumstance as suspicious. The Court also found the alleged 
+motive to be weak. The prosecution claimed that Ammar was targeted 
+because he had been pleading strongly in another murder case 
+involving the accused persons. However, the complainant admitted 
+that Ammar was not a witness of fact in that case and had only 
+been a witness for the seizure of blood-stained soil. The deceased 
+had never testified against the accused persons. In fact, it was the 
+complainant who had deposed against them.
+In light of these factors, the Court held that the evidence of the 
+complainant was inconsistent with the FIR and the documentary 
+record, and that the statements of PW-6 and PW-7 were mutually 
+contradictory and unreliable. The Court, therefore, concluded that 
+the evidence did not reach the standard required for summoning 
+additional accused under Section 319 CrPC and that no sufficient 
+ground existed to summon Rajendra and Mausam to face trial.
+6.	
+We have heard the learned counsel for the parties and perused the 
+case record. The central question is the propriety of the exercise 
+of power by the Trial Court under Section 319 Cr.PC and the 
+justifiability of the imprimatur granted thereto by the Court below. 
+Before proceeding to the merits of the matter, it is important to 
+understand the scales on which the question of propriety will 
+be adjudged. Courts generally assess evidence at three distinct 
+levels, depending on the stage of proceedings and the nature of 
+the relief prayed for. The lowest threshold, or prima facie standard, 
+requires only a connection to proceed with formal charges. The 
+middle threshold, which is often described as strong and cogent, 
+applies when Courts consider summoning additional accused under 
+Section 319 CrPC; the evidence must be reliable and reasonably 
+persuasive, but proof beyond reasonable doubt is not required. The 
+highest threshold demands proof beyond reasonable doubt, the 
+standard necessary for conviction, where the Court must be fully 
+satisfied of the guilt of the accused. It is best illustrated through a 
+hypothetical situation-
+
+[2026] 3 S.C.R. 
+593
+Mohammad Kaleem v. State of Uttar Pradesh & Ors.
+At night, a high-end jewelry store is robbed. Police investigation 
+seizes CCTV footage showing a masked person fleeing on a 
+motorcycle, statements from two eyewitnesses, and phone records 
+linking certain suspects to the vicinity of the store at the time of 
+the incident.
+At the first stage, the investigating officer submits a charge-sheet 
+against Person ‘A’. The Magistrate reviews the evidence, including 
+the CCTV footage, witness statements, and other investigative 
+material. Based on this, the Magistrate finds that there is sufficient 
+ground to believe that ‘A’ may have committed the offence and 
+frames charges. This stage requires evidence indicating involvement 
+beyond mere suspicion, but it does not demand full proof or trial-
+level examination thereof.
+During the trial of ‘A’, evidence emerges suggesting that Persons 
+‘B’ and ‘C’ may also have been involved in planning or executing 
+the robbery. A witness reports seeing ‘B’ near the scene discussing 
+the plan with ‘A’, while phone records and CCTV footage show 
+interactions between ‘A’, ‘B’, and ‘C’. The Court would examine 
+whether this evidence is strong and cogent enough to summon ‘B’ and 
+‘C’ as additional accused under Section 319. Minor contradictions in 
+witness accounts or timing are noted, but they do not automatically 
+negate the overall reliability of the evidence. At this stage, the 
+court is not determining guilt, only assessing whether a reasonable 
+inference of involvement exists.
+As the trial continues, forensic evidence reveals fingerprints of ‘B’ 
+on the display case and DNA of ‘C’ on a glove left at the scene. 
+Eyewitnesses place ‘B’ and ‘C’ at the time of the robbery, and phone 
+messages show coordination among all the three. Cross-examination 
+fails to provide credible alibis. Cumulative assessment of the evidence 
+leaves no reasonable doubt regarding the participation of ‘A’, ‘B’, and 
+‘C’, and the Court can convict all three. This represents the highest 
+threshold, where minor inconsistencies are immaterial because the 
+totality of the evidence conclusively establishes guilt.
+7.	
+The standard of judicial review having been appreciated as above, 
+we turn back to the instant facts. The discussion made by the Trial 
+Court is reproduced below, since the emphasis is on contradictions, 
+
+594
+[2026] 3 S.C.R.
+Supreme Court Reports
+apparently minor or even major, it is imperative, at the cost of brevity, 
+to appreciate the consideration given thereto:
+“It is also pertinent to mention here that application 
+in question was presented on the basis of sufficiency 
+of evidence as to plotting of conspiracy by proposed 
+accused persons namely Rajendra and Mausam on the 
+behest of accused persons already detained in the Jail 
+namely Gulshanawwar, Jamshedvand Naushad on the 
+basis of statements of PW- 6Khalil and PW- 7 Tazim 
+recorded before the Court. In this case, this statement 
+made by complainant Mohammad Kalim (PW- 1) before 
+the Court during his examination-in-chief is important 
+that, “15 days before this incident, Tazim and Khalil of my 
+Village have told me that they have heard Rajendra and 
+Mausam discussing with Dilshad, Mumtaz and Aabid that 
+when they have gone to meet Gulshanawwar, Naushad, 
+Jamshed in the Jail at that time they have sent the name 
+back saying that Mohammad Ammar is pleading much in 
+the case, so remove him from theway and they have also 
+said that while taking our names tell them to do this act 
+and they have also said that this act is to be committed 
+only at Muzaffar Nagar since they will not find witnesses 
+over there”.
+In this way, as per the statement of PW- 1, above both 
+witnesses PW- 6 and PW- 7 have stated about accused 
+persons namely Dilshad, Mumtaz as named in F.I.R 
+of Ex. A-1 making with 3: accused persons namely 
+Gulshanawwar, Naushad and said in the Jail, who have 
+given them message of committing murder of deceased 
+Ammar and having discussion in this regard. It is evident 
+that from among all 3 accused persons named in the 
+F.I.R of Ex. A-1 namely Dilshad, Mumtaz and Aabid, the 
+Police has only found accused Dilshad to be involved in 
+this incident, whereas, no evidence was found against 
+other 2 accused persons. In this situation, it is expedient 
+to analyze the statements made by complainant (PW- 1) 
+and PW- 6 and PW- 7 on aforesaid relevant point. In this 
+
+[2026] 3 S.C.R. 
+595
+Mohammad Kaleem v. State of Uttar Pradesh & Ors.
+regard, on the one hand complainant (PW- 1) has stated 
+about above two proposed persons meeting above 3 
+accused persons in the Jail, whereas, PW- 6 Khalil Ahmad 
+has stated in his examination -in -chief that Mausam and 
+Rajendra were telling Mumtaz, Aabid, Dilshad that when 
+we have gone to meet Gulshanawwar and Naushad in 
+the Jail at that time they have said that they have had 
+discussion with Jamshed that Ammar is pleading a lot. Go 
+and tell Dilshad, Mumtaz and Aabid that Ammar Pradhan 
+is to be killed at Muzaffar Nagar and not in Village Sikri, 
+so that they may not find any evidence in Muzaffar Nagar. 
+On aforesaid point, witness PW- 7 Tazim has stated in 
+his examination-in-chief that Rajendra and Mausam have 
+told that today we have gone to meet Gulshanawwar in 
+the Jail. Gulshanawwar told us that Ammar Pradhan is 
+pleading a lot in this case, he needs to be removed from 
+the way and he has had discussion in this regard with 
+Jamshed, Dilshad, Naushad and it was also decided 
+that he was not to be killed in the Village, rather, in the 
+town. In addition, above both witnesses PW- 6 and PW- 7 
+have also stated that after hearing aforesaid discussion 
+they have come and narrated it over to their uncle Kalim 
+on the same day. On the point of reaching at the so-
+called place of meeting, PW- 7 has stated that murder 
+of Ammar Pradhan was committed on22/8/2017. Nearly 
+15 days before this incident he has gone to know the 
+wellbeing of mother-in-law of his uncle Bhura @ Khalid. 
+She has sustained fractures in her hip bone. They were 
+sitting over there and while he was sitting even Khalil has 
+come. They have departed for their houses from there at 
+around 7-7:15 p.m. Meeting place of Gulshanawwar was 
+situated on the way and when they reached near to the 
+meeting place at that time they have heard the name of 
+Ammar Pradhan, on which they have stood over there 
+near the jungle and at that time they have heard the fact 
+as to discussion (conspiracy).Similarly, PW- 6 has also 
+stated that murder of deceased Ammar was committed 
+on 22/8/17. 15 days before aforesaid incident he has 
+
+596
+[2026] 3 S.C.R.
+Supreme Court Reports
+gone to the house of his relative. The daughter of his 
+sister-in law was married with Dilshad. Mother of Dilshad 
+has sustained fractures. He has gone over there to know 
+the well being of her. He has reached at the house of 
+Dilshad at around 6-X: 30 a.m., where he has met with 
+Tajim and he has stayed over there for around one hour 
+and he also has had tea etc. Thereafter, Tazim and he 
+have departed from there. In this way, it is evident from 
+the statements of above 3 witnesses that on the one 
+hand complainant PW- 1 states about meeting between 
+the proposed persons and 3 accused persons detained 
+in the Jail persons meeting only with 2 accused persons 
+detained in the Jail namely Gulshanawwar and Naushad, 
+who have stated to have had discussion with Jamshed, 
+whereas, PW- 7 states about meeting only with one 
+accused detained in the Jail named Gulshanawwar, who 
+has given message to aforesaid both proposed persons. 
+In addition, he also said that he has had discussion with 
+all namely Jamshed, Dilshad and Naushad. It is pertinent 
+to mention here that no exact date and time of so-called 
+meeting by the proposed both persons with the persons 
+detained in Jail is mentioned, rather, only this much was 
+stated that aforesaid given to place nearly 15 days before 
+the incident, whereas, entry and exit regarding any person 
+in the Jail is maintained in the register, in respect of 
+which, aforesaid witnesses are silent. Itis evident that all 
+3 accused persons namely Gulshanawwar, Naushad and 
+Jamshed concerning criminal conspiracy were detained 
+in the Jail at the time of incident. Investigating Officer has 
+arraigned while they were detained in the Jail and has 
+recorded statements of above 3 accused persons U /s. 161 
+of Cr.P.C. with the prior permission of the Court and then 
+only charges were invoked against them. In this regard, it 
+would be appropriate to perused the evidences gathered 
+by the investigating Officer, in respect of which, CD number 
+17 of the case diary is important, which was prepared by 
+the investigating Officer on 18 / 9 / 2017, which bears 
+seeking aforesaid permission of the Court for recording 
+
+[2026] 3 S.C.R. 
+597
+Mohammad Kaleem v. State of Uttar Pradesh & Ors.
+statement is mentioned and it is also evident here that 
+after receiving permission from the Court, the investigating 
+Officer has has paid visit to District Jail, Muzaffar Nagar to 
+record the statements of accused persons namely Dilshad, 
+Gulshanawwar and Naushad under judicial custody 
+detained in the Jail and while sitting in the Office of Dy. 
+Jailer, he has separately recorded statements of above 
+accused persons. According to aforesaid statements, this 
+fact has appeared 1n the statement of accused a mutual 
+quarrel has broken out between the prisoners inside the 
+Jail. In view of aforesaid quarrel, accused Jamshed was 
+firstly sent to Saharanpur Jail and thereafter he was sent 
+to Mirzapur Jail, that is, on the date of his statement, that 
+is, on 18/ 9 / 20 17,accused Jamshed not being detained 
+in local Jail was rather detained in Mirzapur Jail, and in this 
+regard, Investigating Officer has referred to the fact in CD 
+that accused persons were firstly sent to Saharanpur Jail 
+and then to Mirzapur Jail nearly 1 year before statement 
+was recorded, whereas, it has been alleged that meeting 
+took place in the jail nearly 15 days before the incident 
+took place on 22.8.2017, of which no exact date or time 
+is mentioned and even the statement of complainant and 
+other two witnesses on aforesaid point of meeting is not 
+alike. PW -6 and PW- 7, both of them in their statements 
+have stated about the meeting place of Gulshanawwar 
+lying on the way while they were returning back to their 
+houses, from where they were passing by naturally, but 
+witness Gulshanawwar is slightly away from “Rajwahe”. 
+Their ancestral houses are situated in between Rajwahe 
+and the place of meeting and after Rajwaha there is no 
+settlement, i.e. when no settlement is present on that 
+side then it is not natural for above both witnesses to 
+go from that side. Besides this, it is pertinent to mention 
+here that according to PW-6 and PW-7, after above both 
+witnesses (PW- and PW-7) have received the message 
+in the jail from accused persons namely Gulshanawwar, 
+Naushad and Jamshed, first of all, they were expected 
+to inform the deceased, but they have told this fact only 
+
+598
+[2026] 3 S.C.R.
+Supreme Court Reports
+to the complainant Kalim, who is having enmity with the 
+accused persons, whereas, PW-6 hailed from Seikh 
+Community and brother of deceased named Haji Hafiz 
+used to stay in Village Ummed, Sikri, but he has not 
+informed him about it.
+It is pertinent to mention here that complainant has 
+claimed himself to be an eye-witness, on which basis he 
+has named accused persons in the F.I.R, but evidences 
+gathered during the course of investigation. In this 
+situation, even the evidence of complainant (PW-1) is 
+subject to scrutiny. In the\F .I. R of Ex. P-1, complainant 
+has stated about the deceased riding scooter and he 
+himself was sitting as pillion and before reaching at the 
+place of incident, three known and one unknown persons 
+came over there by two motorcycles, who have fired shots 
+at scooter rider Ammar. Thereafter, injured Ammar was 
+taken by the complainant and one more witness Iqbal 
+to the District Hospital, where he was declared dead, 
+but while appearing before the Court as PW- 1, he has 
+admitted that, “it is true that besides the accused persons 
+named in the F.I.R, I have not mentioned the names of 
+3 persons coming by another motorcycle to the place of 
+incident in my written report. It is true that for the 1st time 
+I have stated before the Court about 3 unknown persons 
+coming by 1 more motorcycle to the place of incident. I 
+have not told aforesaid fact over to the SHO in my Police 
+statement. persons had enmity with him and there were 
+for accused persons who have fired shots at the place 
+of incident and there were a total of 7 accused persons 
+present at the place of incident. He has got recorded the 
+names of a total of 4 accused persons in the report. He 
+has not got mentioned the fact as to a total of 7 accused 
+persons in the report. Above witness PW- 1 has further 
+stated that at the time of murder of Ammar the accused 
+persons namely Jamshed, Gulshanawwar and Naushad 
+were detained in Jail. All 3 of them were detained in 
+Jail in connection with murder case of Tasleem. In his 
+report, he has not got this fact mentioned that, “15 days 
+
+[2026] 3 S.C.R. 
+599
+Mohammad Kaleem v. State of Uttar Pradesh & Ors.
+before this incident, Tazim and Khalil have told me that 
+they have heard Rajendra, Mausam discussing with 
+Dilshad, Mumtaz, Aabid that both of them have gone to 
+meet Gulshanawwar, Naushad, Jamshed in the Jail, who 
+have sent them while saying that Mohammad Ammar 
+is pleading a lot in the cases, so remove him from the 
+way and they have also said Nagar since he would not 
+find witnesses over there”.PW- 1 has admitted this fact 
+that accused Jamshed was in Mirzapur Jail on the date 
+of incident and he does not know that for how long Jam 
+shed has been in the Jail before this incident.
+Complainant has clearly mentioned in the F.I.R that 
+they have brought Ammar by rickshaw to the Hospital, 
+where the doctors have declared him as dead, that is, 
+in the aforesaid report, complainant has mentioned that 
+deceased was declared as dead as soon as they have 
+reached Hospital, whereas, as PW- 1, though, he has 
+denied from this fact that a rickshaw puller named Farid 
+has taken the Ammar in dead condition to the Hospital 
+and rickshaw puller has admitted him in dead condition in 
+District Iqbal has not met with the Doctor in his presence 
+and treatment of Ammar continued for around 30-45 
+minutes. This fact is mentioned in G D number 37dated 
+22/08/2017 of P.S. Kotwali Nagar, Muzaffar Nagar 
+available on record that ward boy Akash having appeared 
+at Police Station from District Hospital Muzaffar Nagar 
+has filed a memo that Mohammad Ammar was brought 
+to the emergency ward in injured condition at 10:20 a.m. 
+At 11:25 AM, he has died. Through Farid Ahmad son 
+of Rashid Ahmad Laddawala Muzaffar Nagar, Mobile 
+Phone No. 8869090310. In this way, on the point of time 
+of death of deceased, there are clear and substantial 
+Hospital, but he has definitely stated that Iqbal and he 
+having lifted up Ammar have taken him to the doctors, 
+but he did not meet with the Doctor, nor has Iqbal has 
+not met with the Doctor in his presence and treatment of 
+Ammar continued for around 30-45 minutes. This fact is 
+mentioned in G D number 37 dated 22/08/2017 of P.S. 
+
+600
+[2026] 3 S.C.R.
+Supreme Court Reports
+Kotwali Nagar, Muzaffar Nagar available on record that 
+ward boy Akash having appeared at Police Station from 
+District Hospital Muzaffar Nagar has filed a memo that 
+Mohammad Ammar was brought to the emergency ward in 
+injured condition at 10:20 a.m. At 11:25 AM, he has died. 
+Through Farid Ahmad son of Rashid Ahmad Laddawala 
+Muzaffar Nagar, Mobile Phone No. 8869090310. In this 
+way, on the point of time of death of deceased, there 
+are clear and substantial contradictions in the statement 
+of complainant and facts mentioned in the report. It is 
+evident from the statement of complainant (PW- 1) that 
+he has admitted his enmity with the accused persons of 
+this case. Above witness PW- 1 has clearly stated that 
+Jamshed, Gulshanawwar and Naushad, all 3 of them 
+were detained in Jail in connection with murder case of 
+Tasleem and even in the aforesaid case shot was fired at 
+him with an intention to kill him, but he has escaped by 
+whisker and in this case he is eyewitness and accused 
+persons having come from behind have prevented his 
+way by motorcycle and suddenly fired at him with an 
+intention to kill him. He has not sustained any firearm 
+injury in the aforesaid incident, nor has she sustained 
+any other injury, rather, he has escaped by whisker. He 
+is eyewitness to the incident of half murder case (Section 
+307 of IPC) that has happened with his brother Bhura and 
+he is also the informant. Shots were fired at him in the 
+incident that has happened with Bhura with an intention to 
+kill him, but he has escaped by whiskers and he has not 
+sustained any injury. In all aforesaid 3 incidents, neither 
+has he sustained any injury from truncheons-mistakes, 
+nor has he sustained any firearm injury. It is expedient 
+to mention here that complainant has stated to be riding 
+as they pillion behind the deceased on the during the 
+course of his statement that assailants have overtaken 
+his scooter from among whom 4 of the assailants have 
+started firing, in which incident it was the deceased who 
+has sustained all the gunshot injury and complainant 
+was riding as a pillion has not sustained any kind of 
+
+[2026] 3 S.C.R. 
+601
+Mohammad Kaleem v. State of Uttar Pradesh & Ors.
+injury, whereas, in the post-mortem report of deceased, 
+3 gunshot injuries were shown on the back, whereas, two 
+gunshot injuries were shown in the front, which is clearly 
+in contradiction to the facts mentioned in the aforesaid 
+written report of complainant and his statement recorded 
+on oath. In his F.I.R, the complainant has stated about 
+4 assailants coming to the place of incident by 2 Nos. 
+of motorcycles, whereas, in his statements, he has also 
+stated the presence of 3 other persons coming by one 
+motorcycle and while aforesaid 4 assailants were firing 
+shots and complainant has also stated Besides this, 
+presence of another witness PW- 2 Iqbal was also stated 
+and he was also stated to be an eyewitness, who along 
+with the complainant has allegedly taken the deceased to 
+Hospital, whereas, no such kind of documentary evidences 
+available on record. Complainant has stated about above 
+witness Iqbal to have reached at the site by motorcycle 
+alongwith him, reason whereof as per the complainant 
+is that complainant did not know how to ride motorcycle, 
+for this reason he has brought him along and on this 
+point, on page number 21 of his evidence, he has stated 
+that he does not remember that whether he has got this 
+fact mentioned in his report that Iqbal Sf o. Sagir Hasan 
+was following him on motorcycle from behind or not. On 
+seeing the report, this witness has stated that this fact 
+is not mentioned in the report. It is pertinent to mention 
+here that complainant has stated that the main objective 
+of accused persons, who have been detained in Jail, was 
+the deceased pleading in the case in which PW- 1 has 
+also admitted in his evidence that in the aforesaid murder 
+case of Tasleem, deceased Ammar was the witness for 
+seizure of blood stained soil from the place of incident 
+and in an incident that has happened earlier in which his 
+brother Bhura has sustained firearm injury, Ammar was not 
+a witness and deceased Ammar was also not a witness in 
+the abduction case of his brother Tazim. In addition, he has 
+further stated that deceased Ammar has never deposed 
+against accused persons, rather, he has deposed. He does 
+
+602
+[2026] 3 S.C.R.
+Supreme Court Reports
+not know that whether Ammar has presented affidavit while 
+pleading against accused persons or not. It is evident from 
+aforesaid the statement of PW- 1 that deceased Ammar 
+was not a witness of fact in the murder case of Tasleem 
+in which accused persons were detained in Jail, rather, 
+he was just a witness for seizure of blood stained soil 
+and deceased has never deposed against them, rather, it 
+was the complainant who has deposed. It is the plaintiff 
+who has admitted his enmity with the aforesaid 3 cases 
+of attack, he has escaped by whisker and he has been 
+eyewitnesses as well as informant in aforesaid entire 
+cases. Even in the instant case, he has stated about riding 
+on pillion behind deceased at the time of incident and 4 
+Nos. of assailants firing shots at the deceased, as a result 
+of which 3 gunshot injuries were sustained on the back 
+and 2 Nos. of gunshot injuries were sustained in front, 
+but despite of it, complainant has not sustained any kind 
+of injury, whereas, accused persons had enmity with the 
+complainant. Under these circumstances, statement of 
+complainant itself lies within the periphery of reasonable 
+suspicion. In this way, evidence of complainant is in clear 
+contradiction on substantial points from his F.I.R and 
+evidences of PW- 6 and PW- 7 are mutually contradictory 
+and are in contradiction with the evidences of the plaintiff 
+on substantial points.”
+8.	
+The Trial Court’s reasoning in rejecting the Section 319 application, 
+prima facie appears to be largely aligned with the principles laid 
+down by this Court, such as the requirement that evidence must be 
+strong and cogent rather than mere suspicion. Both Hardeep Singh 
+v. State of Punjab7 and Neeraj Kumar v. State of UP8 emphasize 
+that the power under Section 319 CrPC is extraordinary and should 
+be exercised sparingly. The Court must assess whether the evidence 
+on record, if unrebutted, reasonably indicates the involvement of 
+the proposed accused. 
+7	
+(2014) 3 SCC 92
+8	
+2025 SCC OnLine SC 2639
+
+[2026] 3 S.C.R. 
+603
+Mohammad Kaleem v. State of Uttar Pradesh & Ors.
+9.	
+At the same time, the Court has highlighted certain limits to the 
+Trial Court’s discretion at Section 319 CrPC. stage. Hardeep 
+Singh(supra) clarified that the Court need not establish guilt or 
+conduct a detailed credibility assessment at this stage, while Neeraj 
+Kumar (supra) held that pre-trial scrutiny should not resemble a 
+mini trial. The Trial Court, in this regard appears to have misdirected 
+itself. In evaluating minor contradictions between witness statements 
+and plausibility issues such as whether the complainant could have 
+avoided injury, effectively applied a stricter standard than necessary. 
+10.	 Another instance is that higher than necessary standard being 
+applied is reflected where the Court relied on the absence of jail 
+records or highlighted minor discrepancies in hospital admission 
+or FIR details. While these points raise valid questions about 
+reliability, they are not points that can be gone into threadbare at 
+this stage. Further, we find the Trial Court to have erred in taking a 
+fragmented approach while appreciating evidence. The Trial Court 
+treated each inconsistency in isolation rather than assessing the 
+cumulative weight of all testimonies and circumstances. Similarly, 
+reliance on documentary corroboration is not required; oral evidence 
+alone, if credible, may suffice. The Court’s emphasis on the lack 
+of jail records and the physical plausibility of witness accounts 
+could be seen as exceeding the threshold scrutiny expected at 
+this stage. The Court overstepped the intended scope of pre-trial 
+scrutiny, overemphasized minor inconsistencies, and did not fully 
+consider the cumulative force of the evidence. The law consistently 
+balances caution against undue summoning with the need to ensure 
+that potentially implicated individuals are brought to trial when the 
+record, taken as a whole, reasonably supports it. 
+11.	 Apart from the point of standard of review, it is also noticed that 
+the proposed additional accused, namely Mumtaz and Aabid, have 
+been named as persons involved in the case by way of a larger 
+conspiracy or otherwise, by PW-1, as noticed by the trial court 
+itself and also PWs 6 & 7. It is a separate matter that, as found by 
+the Trial Court, there are inconsistencies in the overall testimonies 
+of these witnesses but, that is a matter of trial and not within the 
+Court’s scope at the time of considering an application under section 
+319 CrPC. The testimony, on oath, by 3 witnesses, including the 
+
+604
+[2026] 3 S.C.R.
+Supreme Court Reports
+complainant no less, in our view, is sufficient in the facts of this case 
+to meet the strong and cogent evidence standard. 
+12.	 In view of the above discussion, the judgments of the Courts below 
+with particulars as described in paragraph 1, stand set aside. The 
+persons who sought to be produced as additional accused are 
+ordered to be produced as such, and proceeded with, in accordance 
+with law. These appeals are accordingly allowed. Let a copy of this 
+order be sent to the Trial Court for necessary action, through the 
+Registrar General, High Court of Judicature at Allahabad. 
+Pending applications, if any, shall stand closed. 
+Result of the case: Appeals allowed.
+†Headnotes prepared by: Divya Pandey
+
+

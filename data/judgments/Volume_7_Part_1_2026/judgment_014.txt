@@ -1,0 +1,498 @@
+[2026] 7 S.C.R. 208 : 2026 INSC 629
+CA Ramchandra Dallaram Choudhary
+v.
+Adani Infrastructure and Developers Private Limited
+(Civil Appeal Diary No. 5988 of 2026)
+01 June 2026
+[Dipankar Datta* and Satish Chandra Sharma, JJ.]
+Issue for Consideration
+Issue arose that where an appeal u/s.62 IBC is filed within time, 
+i.e., 45 (forty-five) days or beyond the said period but before expiry 
+of 60 (sixty) days as contemplated in the sub-sections thereof and 
+are marked defective, for whatever reason, whether this Court 
+can condone the delay in refiling of the appeal when the defects 
+pointed out are not cured within 28 (twenty-eight) days.
+Headnotes†
+Insolvency and Bankruptcy Code, 2016 – s.62 – Supreme Court 
+Rules, 2013 – Ord.VIII r.6 Sub-rules (3) and (4) – Condonation 
+of delay – Appeal u/s.62, at the instance of liquidator of a 
+corporate debtor under liquidation challenging the order 
+passed by NCLAT – Appeal presented beyond the period of 
+limitation prescribed in s.62(1), but within the grace period 
+stipulated in sub-section (2) – Office reported a delay of 7 
+days in filing the appeal – Application seeking condonation of 
+delay filed – Office also marked the appeal defective – Upon 
+curing the defects, the appeal came to be re-filed after a further 
+delay of 82 days, for which a separate application seeking 
+condonation of the delay in re-filing also filed:
+Held: 45 (forty-five) days is available under subsection (1) of s.62 
+from date of receipt of the order of the NCLT to file an appeal 
+involving a substantial question of law before this Court – As 
+per sub-section (2), subject to sufficient cause being shown, the 
+Supreme Court may allow an appeal to be filed within 15 (fifteen) 
+days after the expiry of the said 45 (forty-five) days but not beyond – 
+Curing of defects arising out of a defectively filed appeal u/s.62 
+is permissible within 28 (twenty-eight) days of notification thereof 
+by the Registry – If the defects are cured within 28 (twenty-eight) 
+days, the appeal would deserve registration upon removal of the 
+* Author
+
+[2026] 7 S.C.R. 
+209
+CA Ramchandra Dallaram Choudhary v.  
+Adani Infrastructure and Developers Private Limited
+“D No.” – However, there being no scope for curing defects after 
+lapse of the period of 28 (twenty-eight) days in respect of an 
+appeal u/s.62, filing of an application for condonation of the delay 
+in re-filing does not arise – Thus, no question of condonation of 
+delay [even for a day beyond 60 (sixty) days (in case of an appeal 
+which, apart from the little delay in filing beyond 45 (forty-five days), 
+is otherwise defect-free) and 28 (twenty-eight) days (in case of 
+a defective appeal)] arises for consideration – Where the statute 
+itself erects an insurmountable jurisdictional bar, no enquiry into the 
+adequacy of the cause shown would alter the legal consequence 
+that inexorably follows – Upon a perusal of the applications 
+seeking condonation of delay in filing and in re-filing, sufficient 
+cause not shown to satisfactorily explain the delay – Absent any 
+cogent or convincing justification, the delay in both the filing of 
+the defective appeal and re-filing of the appeal not liable to be 
+condoned – Defective appeal dismissed as time-barred having 
+been filed beyond the maximum period condonable in terms of 
+the IBC. [Paras 25-28]
+Case Law Cited
+Mobilox Innovations (P) Ltd. v. Kirusa Software (P) Ltd [2017] 
+10 SCR 1006 : (2018) 1 SCC 353; Kalparaj Dharamshi v. Kotak 
+Investment Advisors Limited [2021] 2 SCR 677 : (2021) 10 
+SCC 401; National Spot Exchange Ltd. v. Dunar Foods Ltd. 
+(Resolution Professional) [2021] 7 SCR 1024 : (2022) 11 SCC 
+761; V. Nagarajan v. SKS Ispat & Power Ltd [2021] 14 SCR 736 : 
+(2022) 2 SCC 244; Tata Steel Limited v. Raj Kumar Banerjee 
+& Others [2025] 5 SCR 814 : (2025) 9 SCC 483; PEC Ltd. v. 
+M/s Phulchand Exports Private Ltd., Civil Appeal (Diary) No. 
+37293 of 2022; Saturn Ventures and Advisors Pvt. Limited v. S. 
+Gopalakrishnan, 2025 SCC OnLine SC 2484; CA Ramchandra 
+Dallaram Choudhary v. Adani Infrastructure & Developers (P) Ltd., 
+2025 SCC OnLine SC 1406 – referred to.
+List of Acts
+Insolvency and Bankruptcy Code, 2016; Supreme Court Rules, 
+2013; Constitution of India.
+List of Keywords
+Appeal u/s.62 IBC; Marked defective; Condone the delay in 
+refiling of appeal when defects pointed out not cured within 28 
+
+210
+[2026] 7 S.C.R.
+Supreme Court Reports
+(twenty-eight) days; Condonation of delay; Liquidator of corporate 
+debtor under liquidation; Appeal presented beyond the period of 
+limitation; Curing of the defects.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal Diary No. 
+5988 of 2026
+From the Judgment and Order dated 08.12.2025 of the National 
+Company Law Appellate Tribunal in CAAT (I) No. 2316 of 2024
+Appearances for Parties
+Advs. for the Appellant(s):
+Sunil Fernandes, Abhijeet Sinha, Sr. Advs., Atul Sharma, Pankaj 
+Jain, Ms. Aditi Sharma, Vikram Choudhary, Shubham Bhalla.
+Advs. for the Respondent(s):
+Balbir Singh, Sr. Adv., Ms. Hetu Arora Sethi, Anirudh Bhat, Siddarth 
+Agarwal, Shamik Bhatt, Sanidhya Kumar, Vedant Kohli.
+Judgment / Order of the Supreme Court
+Judgment
+Dipankar Datta, J.
+1.	
+This is an appeal under Section 62 of the Insolvency and Bankruptcy 
+Code, 20161, at the instance of the liquidator of a corporate debtor 
+under liquidation. Under challenge is the judgment and order dated 
+08th December, 20252 passed by the National Company Law Appellate 
+Tribunal, Principal Bench at New Delhi3 in Comp. App. (AT) (Ins) 
+No.2316 of 2024.
+2.	
+Having regard to the point on which we propose to decide the appeal, 
+we see no reason to comment on the correctness or otherwise of 
+the impugned order.
+3.	
+The appeal was presented on 29th January 2026, beyond the period 
+of limitation prescribed in sub-section (1) of Section 62, IBC but within 
+1	
+IBC
+2	
+impugned order
+3	
+NCLAT
+
+[2026] 7 S.C.R. 
+211
+CA Ramchandra Dallaram Choudhary v.  
+Adani Infrastructure and Developers Private Limited
+the grace period stipulated in sub-section (2) thereof. Office reported 
+a delay of 7 (seven) days in filing the appeal. An application seeking 
+condonation of the said delay has been filed. Office had also marked 
+the appeal defective. Upon curing the defects, the appeal came to 
+be re-filed after a further delay of 82 (eighty-two) days for which a 
+separate application seeking condonation of delay in re-filing has 
+also been filed. 
+4.	
+At the outset, it must be borne in mind that the scheme of limitation 
+under the IBC is a strict and time-bound one. The concept of 
+condonation of delay itself is alien to the statutory framework beyond 
+the period expressly contemplated under the statute. Section 62 
+of the IBC permits an appeal to be filed before this Court within 
+45 (forty-five) days, with a further grace period of only 15 (fifteen) 
+days, and that too, only upon sufficient cause being shown. Thus, 
+the outer limit statutorily permissible is 60 (sixty) days, beyond 
+which the appeal itself becomes barred and the Court’s jurisdiction 
+to condone the delay ceases.
+5.	
+The importance of strict adherence to timelines under the IBC has 
+been enunciated by this Court succinctly in its decision in Mobilox 
+Innovations (P) Ltd. v. Kirusa Software (P) Ltd.4 as follows:
+36. … Even in appeals to the Supreme Court from the 
+Appellate Tribunal under Section 62, 45 days’ time is 
+given from the date of receipt of the order of the Appellate 
+Tribunal in which an appeal to the Supreme Court is to be 
+made, with a further grace period not exceeding 15 days. 
+The strict adherence of these timelines is of essence to 
+both the triggering process and the insolvency resolution 
+process. … .
+6.	
+Time bound resolution is the essence of the IBC was reiterated 
+in respect of an appeal under Section 61 thereof in Kalparaj 
+Dharamshi v. Kotak Investment Advisors Limited5 in the following 
+words:
+158. This Court has held, that it is not open to the adjudicating 
+authority or appellate authority to reckon any other factor 
+4	
+(2018) 1 SCC 353
+5	
+(2021) 10 SCC 401
+
+212
+[2026] 7 S.C.R.
+Supreme Court Reports
+other than specified in Sections 30(2) or 61(3) of the I&B 
+Code. It has further been held, that the commercial wisdom 
+of CoC has been given paramount status without any judicial 
+intervention for ensuring completion of the stated processes 
+within the timelines prescribed by the I&B Code. … .
+(emphasis ours)
+7.	
+Reference can also be made to the decisions in National Spot 
+Exchange Ltd. v. Dunar Foods Ltd. (Resolution Professional)6, V. 
+Nagarajan v. SKS Ispat & Power Ltd7 and Tata Steel Limited v. Raj 
+Kumar Banerjee and Others8 which, though arising in the context 
+of appeals under Section 61 of the IBC, reaffirm that condonation 
+of delay beyond the period expressly prescribed by the statute itself 
+would be impermissible.
+8.	
+Furthermore, this Court in PEC Ltd. v. M/s Phulchand Exports 
+Private Ltd.9 held pithily as follows:
+1 There is a delay of 21 days in filing the appeal under 
+Section 62 of the Insolvency and Bankruptcy Code 
+2016. The delay is beyond the maximum period which is 
+condonable in terms of the statute. 
+2 Hence, the civil appeal is dismissed on the ground of 
+limitation. 
+3 Pending applications, if any, stand disposed of.
+9.	
+In Saturn Ventures and Advisors Pvt. Limited v. S. Gopalakrishnan10, 
+delay of two days in presentation of an appeal under Section 62 of 
+the IBC was not condoned reasoning that the Court has no power 
+to condone the delay.
+10.	 Let us now ascertain what the position is under the Supreme Court 
+Rules, 201311. Sub-rules (3) and (4), of Rule 6 of Order VIII, SCR, 
+lay down the regime governing re-filing of, inter alia, petitions and 
+6	
+(2022) 11 SCC 761
+7	
+(2022) 2 SCC 244
+8	
+(2025) 9 SCC 483
+9	
+Civil Appeal (Diary) No. 37293 of 2022
+10	
+2025 SCC OnLine SC 2484
+11	
+SCR
+
+[2026] 7 S.C.R. 
+213
+CA Ramchandra Dallaram Choudhary v.  
+Adani Infrastructure and Developers Private Limited
+appeals after curing defects. A period of 28 (twenty-eight) days is 
+earmarked for curing of defects. A litigant not curing the defects within 
+28 (twenty-eight) days may re-file the petition or the appeal, as the 
+case may be, together with an application seeking condonation of 
+re-filing delay. Needless to observe, condonation of re-filing delay 
+for petitions and appeals is discretionary. 
+11.	 Is it open to this Court [where an appeal under Section 62, IBC is 
+filed within time, i.e., 45 (forty-five) days or beyond the said period but 
+before expiry of 60 (sixty) days as contemplated in the sub-sections 
+thereof and are marked defective, for whatever reason] to condone 
+the delay in re-filing of the appeal when the defects pointed out are 
+not cured within 28 (twenty-eight) days? This was the question we 
+posed to Mr. Fernandes, learned senior counsel for the appellant 
+to answer.
+12.	 Mr. Fernandes contends that the appellant is a neutral officer acting 
+under the aegis of this Court for the benefit of all stakeholders as 
+well as the corporate debtor under liquidation and having regard 
+to the nature of duties imposed on him, the insignificant delay in 
+filing the appeal as well as re-filing thereof ought to be considered 
+liberally rather than strictly. He also contends, notwithstanding that the 
+defects were not cured within 28 (twenty-eight) days of such defects 
+being notified, this Court’s power to condone re-filing delay of any 
+number of days beyond 28 (twenty-eight) days is not fettered and if 
+sufficient cause be shown to exist, which did preclude a party from 
+acting within the timelines provided in the IBC, re-filing delay of any 
+length of time is invariably condoned. According to him, under the 
+SCR, delay in re-filing after curing of the defects is treated differently 
+from delay in initial filing. If initially the appeal is filed within 45 (forty-
+five) days, or even within the grace period of 15 (fifteen) days and 
+sufficient cause for condonation of filing delay is shown, the Court 
+would generally condone the delay – in filing and re-filing - if the 
+same is satisfactorily explained. 
+13.	 Mr. Fernandes has, in this connection, invited our attention to 
+a coordinate Bench decision between the same parties in CA 
+Ramchandra Dallaram Choudhary v. Adani Infrastructure & 
+Developers (P) Ltd.12 where re-filing delay in filing an appeal before 
+12	
+2025 SCC OnLine SC 1406 
+
+214
+[2026] 7 S.C.R.
+Supreme Court Reports
+the NCLAT under Section 61 of the IBC was condoned. Particular 
+reliance was placed on the following passages:
+9. Be that as it may, it is well-recognised principle of law 
+that the courts view applications relating to lawyer’s lapses 
+more leniently than applications relating to litigant’s lapses. 
+The classic example is the difference in approach of courts 
+to applications for condonation of delay in filing an appeal 
+and applications for the condonation of delay in refilling 
+the appeal after rectification of defects. Useful reference 
+may be made to the decision of the co-ordinate Bench of 
+this Court in Perumon Bhagvathy Devaswom v.  Bhargavi 
+Amma [(2008) 8 SCC 321; 2008 SCC OnLine SC 1049.]
+10. Having regard to the fact that the appellant despite 
+limitations had done all that was necessary for filing of the 
+appeal within 30 days, and then 15 days, i.e., within the 
+prescribed and extended period of limitation, respectively, 
+as well as dependency of the appellant on its lawyers who, 
+in turn, were dependent on their clerk to refile the appeal, 
+and there were some missteps contributing to the present 
+situation, coupled with the fact that the issue sought to 
+be raised by the appellant in the appeal filed before the 
+National Company Law Appellate Tribunal, if answered in 
+its favour, would enure to the benefit of the debtors, and 
+also that better justice is always achieved when a lis is 
+decided on a contested hearing rather than on default, 
+we need to take an overall view of the matter. We are of 
+the considered opinion that the words “sufficient cause” in 
+this case ought to have been construed liberally and that 
+interest of justice would be best served if, upon condonation 
+of delay in refilling of the appeal, the National Company 
+Law Appellate Tribunal proceeds with the hearing of the 
+appeal on merits. Ordered accordingly.
+14.	 We propose to advert to the decision in CA Ramchandra Dallaram 
+Choudhary (supra) a little later. 
+15.	 Having regard to the statutory scheme of the IBC, since validated 
+by this Court in numerous decisions by holding that the strict 
+timelines are meant to prevent misuse by dilatory tactics, it is 
+difficult to accept Mr. Fernandes’ contention. It is axiomatic that an 
+
+[2026] 7 S.C.R. 
+215
+CA Ramchandra Dallaram Choudhary v.  
+Adani Infrastructure and Developers Private Limited
+appeal under Section 62 of the IBC to be regarded as having been 
+instituted within the prescribed period of 45 (forty-five) days must be 
+a defect-free appeal, which is capable of being acted upon by the 
+Registry for being immediately placed before the appropriate Bench 
+for consideration. Any appeal which is not filed within the stipulated 
+period in a form shorn of defects, for all practical and legal purposes, 
+remains a defective appeal. 
+16.	 Can or should a litigant be permitted to circumvent the rigours of 
+limitation by filing a defective appeal as a device to save limitation 
+and, thereafter, to opt to cure the notified defects at leisure? Can or 
+should this Court countenance such a practice? The answers to both 
+questions have to be a resounding ‘NO’. To hold otherwise would defeat 
+the object of the IBC and render nugatory the discipline of timelines 
+engrafted both in Section 62 as well as the SCR. Any such practice 
+of filing a defective appeal, if encouraged, could result in a litigant 
+dragging the process of re-filing for months and still being heard on 
+his application for condoning re-filing delay premised on the ground 
+that the IBC says nothing about re-filing delay and that the SCR being 
+a procedural law must be read in a manner to aid the rendering of 
+substantive justice to a party who is shown to be above board. 
+17.	 Consequently, no litigant can be permitted to subvert the statutory 
+scheme by seeking condonation of re-filing delay beyond the period of 
+28 (twenty-eight) days after having initially lodged a defective appeal. 
+Once the window of 60 (sixty) days prescribed by the IBC, followed 
+by the window of 28 (twenty-eight) days in re-filing the appeal upon 
+curing of defects permitted by the SCR is shut, the right to appeal 
+stands extinguished. 
+18.	 The argument that the SCR does not impose a cap beyond which 
+re-filing delays cannot be condoned and, hence, it is the acceptability 
+of the cause shown amounting to ‘sufficient cause’ which is and 
+should be decisive, irrespective of the length of time taken to cure 
+the defects, is equally unimpressive. The SCR is the subordinate 
+legislation in the field and whenever the IBC and the SCR clash, the 
+latter cannot override the express provisions of the former. The IBC 
+must prevail being the statutory edict. Though indisputable that the 
+standards for examining a prayer for condoning a re-filing delay is 
+certainly less rigorous than a filing delay but such standard would 
+stand true and be applicable for the general laws, like proceedings 
+
+216
+[2026] 7 S.C.R.
+Supreme Court Reports
+arising from the Codes of Civil and Criminal Procedure, as well as 
+from remedies provided by the Constitution of India. Section 62, 
+IBC is, however, a complete code in itself for filing of appeals and is 
+different from other laws. An appeal under Section 62, IBC does not 
+remain alive after the 28 (twenty-eight) day period allowable under 
+the SCR for curing defects and the lis would stand frozen once 
+the defects are not cured within such period. An extended window 
+cannot be granted de hors the legislative intent behind stipulation 
+of the strict timelines in the IBC. 
+19.	 We may also observe that the fact of the appellant being a neutral 
+officer acting under the aegis of this Court for the benefit of all 
+stakeholders and the corporate debtor under liquidation is not 
+sufficient for us to invoke our extraordinary jurisdiction under Article 
+142 of the Constitution to dilute or override the express statutory 
+timeframes engrafted under the IBC. Pertinently, the IBC does not 
+mark a different threshold for officers like the appellant and hence, 
+reading words into the statute which are not used by the legislature 
+would not be a permissible interpretational exercise. 
+20.	 Moving on to the decision in CA Ramchandra Dallaram Choudhary 
+(supra), which has been pressed into service by Mr. Fernandes, the 
+peculiar factual matrix of the said appeal assumes significance and 
+warrants a recapitulation of the events.
+a.	
+Appellant had earlier challenged the order dated 21st June, 
+2024 passed by the National Company Law Tribunal13 before 
+the NCLAT in an appeal under Section 61, IBC. However, the 
+appeal before the NCLAT itself was not filed within the prescribed 
+period and was beset by delay in re-filing. 
+b.	
+Vide its order dated 6th February, 2025, the NCLAT declined to 
+condone the delay. Aggrieved thereby, the appellant approached 
+this Court by filing an appeal14 under Section 62, IBC. This 
+Court, by its order dated 5th May, 2025, set aside the order 
+of the NCLAT and remanded the matter for consideration on 
+merits, whereupon the NCLAT proceeded to decide the appeal 
+and delivered the impugned order.
+13	
+NCLT
+14	
+Civil Appeal No. 5106 of 2025
+
+[2026] 7 S.C.R. 
+217
+CA Ramchandra Dallaram Choudhary v.  
+Adani Infrastructure and Developers Private Limited
+c.	
+Significantly, while concluding its order dated 5th May, 2025, 
+this Court specifically recorded that such order is not to be 
+treated as a precedent. 
+21.	 It would, therefore, appear that notwithstanding the indulgence shown 
+by this Court to the self-same appellant at an earlier stage, the appeal 
+presently under consideration has been re-filed after substantial delay. 
+The explanation for the re-filing delay reads as follows:
+4. That it is most humbly submitted that essentially the 
+delay in refiling arose due to an internal oversight within 
+the Office of the Liquidator. While the defects were duly 
+communicated by the Registry, a concerned officer within 
+the Liquidator’s office either mistakenly believed that the 
+requisite details had already been conveyed or did not 
+promptly relay them to the Advocate-on Record. It is also 
+pertinent to mention that this officer has since left the 
+position, leading to a gap in communication. The delay, 
+thus, was neither intentional nor negligent but arose from 
+a bona fide administrative lapse within the office.
+(emphasis ours)
+22.	 The circumstance that this Court had earlier interdicted refusal of the 
+NCLAT to condone the delay in re-filing the appeal under Section 61 
+of the IBC does not advance the appellant’s case, rather even on 
+a cursory comparison of the two situations, it only accentuates the 
+reason as to why the earlier exercise of discretion cannot be extended 
+to the present proceedings. While setting aside the order of the 
+NCLAT, this Court had emphasized the differing degrees of liberality, 
+which ought to be extended in the cases of lapses attributable to 
+the advocate-on-record and to the litigant, as far as re-filing delay 
+is concerned. It was in this factual milieu, the controversy warranted 
+examination on merits, thereby necessitating the condonation of 
+delay in re-filing of the appeal before the NCLAT and restoration of 
+the appeal before it. 
+23.	 The decision in CA Ramchandra Dallaram Choudhary (supra) 
+reiterates the principle which must guide the exercise of judicial 
+discretion in matters of condonation of delay. The present case 
+stands on an entirely different pedestal, wherein the appellant 
+seeks condonation not merely of delay in re-filing but also of delay 
+
+218
+[2026] 7 S.C.R.
+Supreme Court Reports
+in invoking the appellate jurisdiction of this Court under Section 62, 
+IBC. Importantly so, the appellant approaches this Court after having 
+availed the benefit of a liberal construction of “sufficient cause” at the 
+previous stage of the same litigation. A litigant who has once secured 
+indulgence in relation to delay cannot legitimately proceed on the 
+assumption that further defaults engendered at the next appellate 
+stage would automatically attract a similar exercise of discretion. 
+To hold otherwise would render the law of limitation under the IBC 
+progressively elastic at every successive stage of challenge, defeating 
+the legislative objective of expedition and finality.
+24.	 Restating what has already been enunciated, the appellant can 
+derive no advantage from the earlier order condoning the delay in 
+re-filing the appeal under Section 61, IBC before the NCLAT. That 
+exercise of discretion was confined to the peculiar facts of that case 
+and cannot be construed as a warrant for repeated indulgence. The 
+discipline of limitation, particularly in the context of the IBC, does 
+not countenance serial condonations of delay across successive 
+appellate stages. Having once availed the benefit of a liberal 
+approach, the appellant cannot legitimately seek a further relaxation 
+when the present appeal under Section 62 is itself beset by delay 
+both in filing and in re-filing.
+25.	 To sum up our discussion, 45 (forty-five) days is available under sub-
+section (1) of Section 62, IBC from date of receipt of the order of the 
+NCLT to file an appeal involving a substantial question of law before 
+this Court. As per sub-section (2), subject to sufficient cause being 
+shown, the Supreme Court may allow an appeal to be filed within 
+15 (fifteen) days after the expiry of the said 45 (forty-five) days but 
+not beyond. Curing of defects arising out of a defectively filed appeal 
+under Section 62, IBC is permissible within 28 (twenty-eight) days 
+of notification thereof by the Registry. If the defects are cured within 
+28 (twenty-eight) days, the appeal would deserve registration upon 
+removal of the “D No.”. However, there being no scope for curing 
+defects after lapse of the period of 28 (twenty-eight) days in respect 
+of an appeal under Section 62, IBC, filing of an application for re-filing 
+delay does not arise. Consequently, no question of condonation of 
+delay [even for a day beyond 60 (sixty) days (in case of an appeal 
+which, apart from the little delay in filing beyond 45 (forty-five days), 
+is otherwise defect-free) and 28 (twenty-eight) days (in case of a 
+defective appeal)] arises for consideration.
+
+[2026] 7 S.C.R. 
+219
+CA Ramchandra Dallaram Choudhary v.  
+Adani Infrastructure and Developers Private Limited
+26.	 Thus, the legal position being settled beyond cavil, it is unnecessary 
+for us to venture into the merits of the explanations furnished in 
+support of the applications for condonation of delay in filing and 
+re-filing herein. Where the statute itself erects an insurmountable 
+jurisdictional bar, no enquiry into the adequacy of the cause shown 
+would alter the legal consequence that inexorably follows.
+27.	 Apart from what has been held above, upon a perusal of the 
+applications seeking condonation of delay in filing and in re-filing, 
+we find sufficient cause not having been shown to satisfactorily 
+explain the delay(s). Absent any cogent or convincing justification, 
+the delay(s) in both the filing of the defective appeal and re-filing of 
+the appeal are not liable to be condoned. 
+28.	 Be that as it may, the defective appeal stands dismissed as time-
+barred having been filed beyond the maximum period condonable 
+in terms of the IBC.
+29.	 Connected applications too stand dismissed. 
+Result of the case: Appeal dismissed.
+†Headnotes prepared by: Nidhi Jain

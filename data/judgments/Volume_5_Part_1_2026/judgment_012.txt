@@ -1,0 +1,447 @@
+[2026] 5 S.C.R. 210 : 2026 INSC 368
+J&K Economic Reconstruction Agency  
+v. 
+Rash Builders India Private Limited
+(Civil Appeal No. 4461 of 2026)
+15 April 2026
+[Pamidighantam Sri Narasimha and Alok Aradhe,* JJ.]
+Issue for Consideration
+Issue pertains whether, despite an express designation of Srinagar 
+as seat of arbitration, the conduct of proceedings and rendering of 
+the award at New Delhi would confer jurisdiction upon courts at New 
+Delhi; and the distinction between the seat and venue of arbitration, 
+and consequent determination of supervisory jurisdiction of the courts.
+Headnotes†
+Jammu & Kashmir Arbitration and Conciliation Act, 1997 – s.34 – 
+Juridical seat of arbitration – Appellant engaged respondent-
+contractor for execution of road projects – Disputes between 
+the parties regarding the contractual claims – Respondent 
+invoked arbitration, and filed separate applications u/s.11 for 
+the appointment of a sole arbitrator for each project – High 
+Court appointed the former District and Sessions Judge as 
+sole arbitrator – This Court, having regard to the value of the 
+contracts, modified the High Court order and appointed former 
+Judge of this Court as the sole arbitrator in substitution of the 
+previously appointed arbitrator – Arbitral Tribunal, with the 
+consent of the parties, fixed Srinagar as the seat of arbitration 
+and New Delhi as the venue – Upon the demise of the sole 
+arbitrator, the High Court appointed another former Judge of 
+this Court, as the sole arbitrator to continue proceedings – 
+Arbitral award delivered in New Delhi – Applications u/s.33 
+filed by appellant subsequently decided – Appellant then filed 
+petition u/s.34 before the High Court seeking to set aside 
+the arbitral award insofar as it related to Shahdra Project – 
+Respondent raised preliminary objection regarding territorial 
+jurisdiction – High Court returned the petition, holding that 
+since the arbitration proceedings were conducted and the 
+award was rendered at New Delhi, the courts at New Delhi 
+alone had jurisdiction – Correctness:
+* Author
+
+[2026] 5 S.C.R. 
+211
+J&K Economic Reconstruction Agency v.  
+Rash Builders India Private Limited
+Held: Not only have the parties expressly agreed upon Srinagar as 
+seat of arbitration, but even the surrounding circumstances reinforce 
+this – Contracts executed in the State of Jammu & Kashmir and 
+the works were to be carried out within the said State – Arbitration 
+proceedings were initiated in the State of Jammu and Kashmir and 
+the High Court had appointed the arbitrator – These factors as well 
+as the ‘closest and most intimate connection test’ unmistakably 
+anchors the arbitration at Srinagar – Submission that arbitral award 
+records New Delhi as place of arbitration and is thus, determinative 
+of the seat cannot be accepted – Seat of arbitration is governed 
+by the agreement of the parties and not by any stray recital in the 
+award – Once the seat of arbitration is fixed, it remains immutable 
+unless altered by an express agreement – In the absence of any 
+agreement, the designation of Srinagar as seat of the arbitration 
+continues to hold the field – High Court ought to have appreciated 
+that Srinagar was consciously designated as the seat of arbitration – 
+Once such a designation was made, the legal consequence that 
+inexorably follows is that courts at Srinagar alone would have 
+supervisory jurisdiction over the arbitral proceeding – Mere fact that 
+arbitral tribunal for reasons of convenience, conducted proceeding 
+at New Delhi or rendered the award at that place does not and 
+cannot, alter the juridical seat of arbitration – Approach adopted by 
+the High Court, if upheld, would have the effect of rendering the 
+concept of juridical seat otiose, and would introduce uncertainty in 
+arbitration proceeding by allowing the place of hearing or the place 
+where the award is signed to determine the jurisdiction – Such a 
+consequence would be contrary to principles of party autonomy 
+and legal certainty – Impugned order cannot be sustained – Court 
+at Srinagar being the court of seat of arbitration, alone possesses 
+the jurisdiction to entertain and decide the challenge to the arbitral 
+award – Impugned order quashed and set aside – Proceeding 
+u/s.34 restored. [Paras 19-24]
+Arbitration and Conciliation Act, 1996 – s.20 – Principles 
+governing the distinction between the seat and venue of the 
+arbitration, and the jurisdictional consequences:
+Held: Seat of arbitration constitutes the juridical home or legal place 
+of arbitration – It determines the curial law governing the arbitral 
+process and identifies the Court having supervisory control over 
+the arbitration – Once the seat is designated by agreement of the 
+parties, the courts of that place alone have exclusive jurisdiction 
+to entertain all proceedings arising out of the arbitration, including 
+
+212
+[2026] 5 S.C.R.
+Supreme Court Reports
+challenges to the award – Venue is merely a geographical location 
+chosen for convenience for holding hearings, examination of 
+witnesses, or meetings of the arbitral tribunal – It does not confer 
+jurisdiction and does not, by itself, alter or determine the seat – 
+Arbitral tribunal is free to conduct proceedings at locations different 
+from the seat without affecting the juridical seat – Mere fact that 
+arbitral proceedings are conducted or the award is rendered at 
+a particular place does not confer jurisdiction on courts of that 
+place if it is different from the designated seat – Seat remains 
+fixed unless expressly altered by agreement of the parties – 
+Where the seat is not expressly designated, courts determine 
+it by applying the closest and most intimate connection test, 
+identifying the place most closely connected with the arbitration 
+(based on the Naviera Amazonica principle); and in appropriate 
+cases, construing the venue as the seat where the agreement and 
+surrounding circumstances indicate such intention (as reflected in 
+the Shashoua principle) – Intention of the parties, as discerned 
+from the arbitration agreement and surrounding circumstances, is 
+the paramount factor in determining the seat – Once such intention 
+is expressed-either expressly or by necessary implication-it must 
+be given full effect by Courts. [Para 18]
+Case Law Cited
+Inox Renewables Ltd. v. Jayesh Electricals Ltd. [2021] 4 SCR 
+376  : (2023) 3 SCC 733; BBR (India) Private Limited v. S.P. 
+Singla Constructions Private Limited [2022] 19 SCR 977 : (2023) 
+1 SCC 693; BGS SGS SOMA JV v. NHPC Ltd. [2019] 17 SCR 
+742 : (2020) 4 SCC 234; Mankastu Impex (Pvt.) Ltd. v. Airvisual 
+Ltd. [2020] 4 SCR 565 : (2020) 5 SCC 399; Bharat Aluminium 
+Co. v. Kaiser Aluminium Technical Services Inc. [2012] 12 SCR 
+327 : (2012) 9 SCC 552; Enercon (India) Ltd. & Ors. v. Enercon 
+GMBH & Anr. [2014] 2 SCR 855 : (2014) 5 SCC 1; Indus Mobile 
+Distribution Pvt. Ltd. v. Datawind Innovations Pvt. Ltd. & Ors. 
+[2017] 4 SCR 744 : (2017) 7 SCC 678; Hindustan Construction 
+Co. Ltd. v. NHPC Ltd. & Anr. (2020) 4 SCC 310; Arif Azam Co. 
+Ltd. v. Micromax Informatics FZE [2024] 11 SCR 1142 : (2025) 9 
+SCC 750 - referred to.
+Shashoua v. Sharma, 2009 EWHC 957 (COMM) – referred to.
+Naviera Amazonica Peruana S.A. v. Compania Internacional de 
+Seguros del Peru (1988) 1 Lloyd’s Rep 116 (CA) – referred to.
+
+[2026] 5 S.C.R. 
+213
+J&K Economic Reconstruction Agency v.  
+Rash Builders India Private Limited
+List of Acts
+Jammu & Kashmir Arbitration and Conciliation Act, 1997; Societies 
+Registration Act, 1941; Code of Civil Procedure, 1908.
+List of Keywords
+Designation of Srinagar as seat of arbitration; Conduct of proceedings; 
+Rendering of the award at New Delhi; Jurisdiction upon courts at 
+New Delhi; Distinction between the seat and venue of arbitration; 
+Determination of supervisory jurisdiction of the courts; Juridical seat 
+of arbitration; Execution of infrastructure road projects; Contractual 
+claims; Appointment of sole arbitrator for each project; Appointment of 
+the former District and Sessions Judge as sole arbitrator; Appointment 
+of the former Judge of this Court as the sole arbitrator; Substitution 
+of the previously appointed arbitrator; Territorial jurisdiction; Naviera 
+Amazonica principle; Shashoua principle.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 4461 of 2026
+From the Judgment and Order dated 08.07.2024 of the High 
+Court of Jammu & Kashmir and Ladakh at Srinagar in ARBP No. 
+28 of 2024.
+Appearances for Parties
+Advs. for the Appellant(s):
+Parth Awasthi, Pashupathi Nath Razdan.
+Advs. for the Respondent(s):
+Ms. Renu Gupta, Ms. Mandakini Ghosh, Ms. Pratiksha Jalan.
+Judgment / Order of the Supreme Court
+Judgment
+Alok Aradhe, J.
+1.	
+Delay condoned. 
+2.	
+Leave granted.
+3.	
+The present appeal presents an occasion to revisit the settled 
+distinction between the seat and venue of arbitration, and consequent 
+
+214
+[2026] 5 S.C.R.
+Supreme Court Reports
+determination of supervisory jurisdiction of the courts. The appeal 
+arises from an order directing return of a petition under Section 34 
+of Jammu & Kashmir Arbitration and Conciliation Act, 1997 (Act). 
+FACTS: -
+4.	
+The facts giving rise to the present appeal are undisputed and may 
+be briefly stated. The appellant, Jammu and Kashmir Economic 
+Reconstruction Agency (JKERA) is a society registered under the 
+Societies Registration Act, 1941 functioning as a special purpose 
+vehicle for execution of externally aided infrastructure projects. The 
+respondent is a contractor engaged by the appellant for execution 
+of four infrastructure road projects namely, (i) Kralgund-Ashpora-
+Qaziabad Road Project (Kralgund Project) (ii) Handwara-Zachaldara-
+Waddur Road Project (Handwara Project) (iii) Hubdipora-Kadar-
+Qaimoh Road Project (Hubdipora Project) and (iv) Shahdra-Kamalkote 
+Road Project (Shahdra Project) in the State of Jammu & Kashmir. 
+The agreements between the parties were executed on 31.03.2008. 
+5.	
+Disputes having arisen between the parties regarding the contractual 
+claims, the respondent invoked the arbitration, by issuing a notice 
+on 18.04.2014, in terms of Arbitration clause contained in the 
+agreements. The respondent thereafter filed four separate applications 
+on 12.06.2014 under Section 11 of the Act before the High Court 
+of Jammu & Kashmir and Ladakh at Srinagar (High Court) for 
+appointment of sole arbitrator for each project. By an order dated 
+30.07.2015, the High Court, appointed Mr. Javed Ahmad Kawoosa, 
+former District and Sessions Judge as sole arbitrator.
+6.	
+The appellant challenged the said order by filing Civil Appeal 
+Nos.14167-14170 of 2015. By an order dated 07.12.2015, this 
+Court, having regard to the value of the contracts, modified the 
+High Court order and appointed Mr. Justice S.S. Nijjar, former Judge 
+of this Court as the sole arbitrator in substitution of the previously 
+appointed arbitrator. 
+7.	
+By an order dated 26.03.2016, the Arbitral Tribunal, with the consent 
+of the parties fixed Srinagar as seat of arbitration and New Delhi 
+as the venue. Upon the demise of sole arbitrator, on 26.03.2021, 
+the High Court in exercise of powers under Sections 14 and 15 of 
+the Act vide order dated 17.09.2021 appointed Mr. Justice Amitava 
+Roy, a former Judge of this Court, as the sole arbitrator to continue 
+
+[2026] 5 S.C.R. 
+215
+J&K Economic Reconstruction Agency v.  
+Rash Builders India Private Limited
+proceedings from the stage left by the previous arbitrator. The arbitral 
+award was delivered on 15.01.2024 at New Delhi. The applications 
+under Section 33 of the Act filed by the appellant, were subsequently 
+decided by an order dated 12.03.2024.
+8.	
+The appellant filed a petition under Section 34 of the Act before the 
+High Court seeking to set aside the arbitral award dated 15.01.2024 
+and order dated 12.03.2024 in so far it related to Shahdra Project. 
+The respondent raised a preliminary objection regarding the territorial 
+jurisdiction. 
+9.	
+By an order dated 08.07.2024, the High Court returned the petition, 
+holding that since the arbitration proceedings were conducted and 
+the award was rendered at New Delhi, the courts at New Delhi alone 
+had jurisdiction.
+SUBMISSIONS: -
+10.	 Learned counsel for the appellant contended that by an order dated 
+26.03.2016, with the consent of the parties, the arbitrator had fixed 
+the seat of arbitration at Srinagar and the same could be altered only 
+by mutual agreement. It is submitted that where the seat and venue 
+differ, the seat determines the supervisory jurisdiction, hence the courts 
+at Srinagar alone possess jurisdiction under Section 34 of the Act.
+11.	 Learned counsel for the respondent, on the other hand, submitted 
+that appellant had also approached High Court of Delhi by filing 
+petitions under Section 34 of the Act and thereafter has filed the 
+Special Leave Petition. It is contended that arbitral award recorded 
+New Delhi as the place of arbitration for all intents and purposes, 
+and parties may alter seat by mutual consent. Therefore, the appeal 
+is liable to be dismissed. In support of the aforesaid submissions, 
+reliance has been placed on the decisions of this Court1.
+CASE LAW AND THE LEGAL PRINCIPLES: -
+12.	 The distinction between the seat and venue of arbitration though, 
+firmly embedded in arbitral jurisprudence, continues to give rise 
+to jurisdictional errors. The present appeal exemplifies one such 
+1	
+Inox Renewables Ltd. v. Jayesh Electricals Ltd.; (2023) 3 SCC 733, BBR (India) Private Limited v. 
+S.P. Singla Constructions Private Limited; (2023) 1 SCC 693, BGS SGS SOMA JV v. NHPC Ltd.; 
+(2020) 4 SCC 234 and Mankastu Impex (Pvt.) Ltd. v. Airvisual Ltd.; (2020) 5 SCC 399 
+
+216
+[2026] 5 S.C.R.
+Supreme Court Reports
+instance, necessitating judicial correction. The core issue is whether, 
+despite an express designation of Srinagar as seat of arbitration, the 
+conduct of proceedings and rendering of the award at New Delhi would 
+confer jurisdiction upon courts at New Delhi. In order to answer this 
+question, it becomes necessary to revisit the well-settled principles 
+governing the concept of juridical seat of arbitration. 
+13.	 A Constitution Bench of this Court2, recognised that arbitration 
+is anchored to the seat or place chosen by the parties, and that 
+the law of that seat governs the arbitration. It was observed that 
+Section 20 of the Arbitration and Conciliation Act, 1996 embodies 
+party autonomy in the choice of seat, while also permitting, under 
+sub-section (3), the holding of hearings at a place convenient to the 
+parties. The distinction is both deliberate and doctrinal: while the 
+seat determines jurisdiction and applicable law, the venue is merely 
+a matter of convenience for conducting proceedings.
+14.	 A two-Judge Bench of this Court3 while placing reliance on the “closest 
+and most intimate connection” test involved in English jurisprudence4, 
+held that seat of arbitration is juridical home of arbitration and where 
+the agreement of the parties is clear, such designation must be given 
+full effect. Even in cases of ambiguity, the seat is to be determined 
+by identifying the place with the closest and most intimate connection 
+to the arbitration.
+15.	 Another two-Judge Bench of this Court5 authoritatively expounded 
+the concept of the “juridical seat” and held that the designation of a 
+seat of arbitration is akin to an exclusive jurisdiction clause. It was 
+observed that the expression “subject-matter of arbitration” in Section 
+2(1)(e) of the Act is not to be confused with the subject-matter of the 
+suit, but rather refers to the process of dispute resolution, thereby 
+identifying the court which exercises supervisory jurisdiction over 
+the arbitral proceedings. It was further held that once a seat is 
+designated, it operates as the centre of gravity of the arbitration and 
+vests exclusive jurisdiction in the courts of that place for all matters 
+2	
+Bharat Aluminium Co. v. Kaiser Aluminium Technical Services Inc. (2012) 9 SCC 552.
+3	
+Enercon (India) Ltd. & Ors. v. Enercon GMBH & Anr.; (2014) 5 SCC 1.
+4	
+Naviera Amazonica Peruana S.A. v. Compania Internacional de Seguros del Peru (1988) 1 Lloyd’s 
+Rep 116 (CA).
+5	
+Indus Mobile Distribution Pvt. Ltd. v. Datawind Innovations Pvt. Ltd. & Ors.; (2017) 7 SCC 678
+
+[2026] 5 S.C.R. 
+217
+J&K Economic Reconstruction Agency v.  
+Rash Builders India Private Limited
+arising out of the arbitration, including challenges to the arbitral 
+award. The designation of a seat, therefore, is not a matter of mere 
+form, but carries with it significant legal consequences.
+16.	 The aforesaid principle has been affirmed by a three-Judge Bench of 
+this Court6 and it has been held that the moment the seat is designated, 
+it operates as an exclusive jurisdiction clause, irrespective of whether 
+any part of the cause of action has arisen there. Arbitration law, in 
+this respect, departs from the Code of Civil Procedure, permitting 
+parties to choose a neutral seat which may have no connection with 
+the underlying dispute, yet vests exclusive jurisdiction in the Courts 
+of that place.
+17.	 A three-Judge Bench of this Court7 held that once the seat of arbitration 
+is designated, such clause becomes the exclusive jurisdiction clause 
+as a result of which only the courts where the seat is located would 
+have jurisdiction to the exclusion of all other courts. Recently, another 
+three-Judge Bench of this Court8 reaffirmed the principle that seat 
+remains the judicial anchor, determining both the applicable law and 
+the supervisory jurisdiction.
+18.	 Thus, the principles governing the distinction between the seat and 
+venue of the arbitration, and the jurisdictional consequences that 
+follow, may be summarised as under: - 
+(i)	
+The seat of arbitration constitutes the juridical home or legal 
+place of arbitration. It determines the curial law governing the 
+arbitral process and identifies the Court having supervisory 
+control over the arbitration.
+(ii)	
+Once the seat is designated by agreement of the parties, the 
+courts of that place alone have exclusive jurisdiction to entertain 
+all proceedings arising out of the arbitration, including challenges 
+to the award. The designation of the seat operates akin to an 
+exclusive jurisdiction clause, excluding all other courts – even 
+those where the cause of action may have arisen.
+6	
+BGS SGS Soma JV v. NHPC Ltd.; (supra)
+7	
+Hindustan Construction Co. Ltd. v. NHPC Ltd. & Anr.; (2020) 4 SCC 310; See also: Mankastu 
+Impex Pvt. Ltd. v. Airvisual Ltd. (supra) and BBR (India) Pvt. Ltd. v. S.P. Singla Constructions Pvt. 
+Ltd. (supra).
+8	
+Arif Azam Co. Ltd. v. Micromax Informatics FZE; (2025) 9 SCC 750.
+
+218
+[2026] 5 S.C.R.
+Supreme Court Reports
+(iii)	 The venue is merely a geographical location chosen for 
+convenience for holding hearings, examination of witnesses, or 
+meetings of the arbitral tribunal. It does not confer jurisdiction 
+and does not, by itself, alter or determine the seat. The arbitral 
+tribunal is free to conduct proceedings at locations different 
+from the seat without affecting the juridical seat.
+(iv)	 The mere fact that arbitral proceedings are conducted or 
+the award is rendered at a particular place does not confer 
+jurisdiction on courts of that place if it is different from the 
+designated seat. The seat remains fixed unless expressly 
+altered by agreement of the parties.
+(v)	
+Where the seat is not expressly designated, courts determine 
+it by applying:
+(a)	 the closest and most intimate connection test, identifying 
+the place most closely connected with the arbitration (based 
+on the Naviera Amazonica principle); and
+(b)	 in appropriate cases, construing the venue as the seat 
+where the agreement and surrounding circumstances 
+indicate such intention (as reflected in the Shashoua 
+principle9).
+(vi)	 The intention of the parties, as discerned from the arbitration 
+agreement and surrounding circumstances, is the paramount 
+factor in determining the seat. Once such intention is expressed-
+either expressly or by necessary implication-it must be given 
+full effect by Courts.
+APPLICATION TO FACTS: -
+19.	 In the backdrop of aforesaid well-settled legal principles, we may 
+advert to the facts of the case in hand. In the instant case, the 
+sole arbitrator by an order dated 26.03.2016 had fixed the seat of 
+arbitration as Srinagar and venue of arbitration as New Delhi. The 
+relevant extract of the order dated 26.03.2016 reads as under: -
+“…In the order dated 16.01.2016 the direction that the 
+seat of arbitration shall be Srinagar and that the venue 
+9	
+Shashoua v. Sharma 2009 EWHC 957 (COMM).
+
+[2026] 5 S.C.R. 
+219
+J&K Economic Reconstruction Agency v.  
+Rash Builders India Private Limited
+shall be New Delhi has been inadvertently omitted. Please 
+note that on agreement of the parties seat of Arbitration 
+shall be at Srinagar and Venue shall be at New Delhi.”
+20.	 In the present case, not only have the parties expressly agreed 
+upon Srinagar as seat of arbitration, but even the surrounding 
+circumstances reinforce this conclusion. The contracts are executed 
+in the State of Jammu & Kashmir and the works were to be carried 
+out within the said State. The arbitration proceedings were initiated in 
+the State of Jammu and Kashmir and the High Court had appointed 
+the arbitrator. These factors as well as the ‘closest and most intimate 
+connection test’ unmistakably anchors the arbitration at Srinagar. 
+21.	 The contention of the respondent that arbitral award records New 
+Delhi as place of arbitration and is therefore determinative of the 
+seat cannot be accepted. The seat of arbitration is governed by the 
+agreement of the parties and not by any stray recital in the award. 
+Once the seat of arbitration is fixed, it remains immutable unless 
+altered by an express agreement. In the absence of any agreement, 
+the designation of Srinagar as seat of the arbitration continues to 
+hold the field.
+22.	 The High Court ought to have appreciated that Srinagar was 
+consciously designated as the seat of arbitration. Once such a 
+designation was made, the legal consequence that inexorably follows 
+is that courts at Srinagar alone would have supervisory jurisdiction 
+over the arbitral proceeding. The mere fact that arbitral tribunal for 
+reasons of convenience, conducted proceeding at New Delhi or 
+rendered the award at that place does not and cannot, alter the 
+juridical seat of arbitration
+23.	 The approach adopted by the High Court, if upheld, would have the 
+effect of rendering the concept of juridical seat otiose, and would 
+introduce uncertainty in arbitration proceeding by allowing the place 
+of hearing or the place where the award is signed to determine the 
+jurisdiction. Such a consequence would be contrary to principles of 
+party autonomy and legal certainty that underly the Arbitration and 
+Conciliation Act, 1996.
+CONCLUSION: -
+24.	 For the foregoing reasons, the impugned order returning the 
+application filed by the appellant under Section 34 of the Act cannot 
+
+220
+[2026] 5 S.C.R.
+Supreme Court Reports
+be sustained. The court at Srinagar being the court of seat of 
+arbitration, alone possesses the jurisdiction to entertain and decide 
+the challenge to the arbitral award. It was stated at the Bar that after 
+the impugned order, the appellant had filed four separate petitions 
+under Section 34 of the Act before High Court of Delhi. Needless 
+to state that the appellant shall be at liberty to withdraw the petition 
+under Section 34 of the Act relating to Shahdra Project and the fate 
+of remaining three petitions shall abide by this decision. 
+25.	 In the result, impugned order dated 08.07.2024 passed by the High 
+Court is quashed and set aside. The proceeding under Section 34 
+of the Act shall stand restored. The High Court shall consider and 
+decide the same on its own merits, with due expedition. The appeal 
+is allowed. There shall be no order as to costs. 
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Nidhi Jain

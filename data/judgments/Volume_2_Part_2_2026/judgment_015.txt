@@ -1,0 +1,835 @@
+[2026] 2 S.C.R. 576 : 2026 INSC 134
+Tharammel Peethambaran and Another
+v.
+T. Ushakrishnan and Another
+(Civil Appeal No. 856 of 2026)
+06 February 2026
+[Pankaj Mithal and S.V.N. Bhatti,* JJ.]
+Issue for Consideration
+The controversy centres around the disputed circumstance, namely, 
+the power of agency given by the plaintiff to the 1st Defendant 
+through Exh.B-2. Whether the documentary evidence in Exh.B-2 
+satisfies the requirement of law and whether it is fudged with 
+additions, etc.
+Headnotes†
+Code of Civil Procedure, 1908 – ss.100 and 103 – Evidence Act, 
+1872 – s.85 – Registration Act, 1908 – s.33 – On 31.07.1998, the 
+plaintiff executed a Power of Attorney (PoA) in favour of the 1st 
+defendant – The Plaintiff is the 1st Defendant’s sister – The PoA 
+is exhibited by the Plaintiff as Exhibit A-4 and by the Defendants 
+as Exhibit B-2, a notarised photocopy – On 15.03.2007, the 1st 
+Defendant, in the purported authority given to him through 
+the PoA/Exh.B-2, executed registered sale deeds nos.262 and 
+263 of 2007 in favour of the 2nd and 3rd Defendants – On the 
+knowledge of the same, plaintiff cancelled PoA – Suit filed – 
+The Plaintiff admits execution of the PoA, i.e. Exh.A-4, which 
+grants specific power and not general power to alienate the 
+plaint schedule properties – However, the 1st Defendant asserts 
+that the Plaintiff executed the PoA/Exh.B-2 authorising the 
+Defendant to have the power of management, mortgage and 
+alienation – The Trial Court declared that the sale deed nos.262 
+and 263 of 2007 (Exh.A-7 and A-8) were invalid and void – It 
+found that words providing for “sale” were added to the end 
+of existing clauses – Trial Court further directed, through a 
+mandatory injunction, 1st Defendant to vacate and surrender 
+* Author
+
+[2026] 2 S.C.R. 
+577
+Tharammel Peethambaran and Another v.  
+T. Ushakrishnan and Another
+the house situated on item no.1 of the Plaint A-Schedule to 
+the Plaintiff – However, the First Appellate Court allowed the 
+appeal of 1st Defendant and dismissed the suit – The High 
+Court held that the sale deeds executed by the Defendant 
+using the invalid PoA were void, thereby restoring the Trial 
+Court’s decree – Correctness:
+Held: Exh.B-2 is a photocopy, or a mechanical copy, of the purported 
+PoA – This implies that Exh.B-2 is, at best, secondary evidence – 
+Secondary evidence is evidence that proves the contents of an 
+original document through a medium that is one step removed 
+from the source – Before secondary evidence can be admitted, the 
+party relying on it must lay a factual foundation – This involves two 
+steps: First, the party must prove that the original document actually 
+existed and was executed – Secondly, the party must establish 
+valid reasons as to why the original cannot be furnished – Further, 
+admitting a document as secondary evidence does not automatically 
+prove its contents – The secondary evidence must be authenticated 
+by foundational evidence showing that the alleged copy is, in 
+fact, a true copy of the original – Mere admission of a document 
+or making it an exhibit does not dispense with the requirement 
+of proving it in accordance with the law – The introduction of 
+secondary evidence is a two-step process, wherein, first, the party 
+must establish the legal right to lead secondary evidence, and 
+second, they must prove the contents of the documents through 
+that evidence – The twin requirements are conjunctive – The case 
+on hand falls within the meaning of mechanical copies – In law, 
+the existence of Exh.B-2, in the absence of laying down a factual 
+foundation and following procedure, ought to be ignored for the 
+purpose of appreciating the 1st Defendant’s claim on the power to 
+alienate Plaint A-Schedule Property – In the absence of an original 
+or at least a secondary evidence, it is impermissible to apply s.85 
+of the Indian Evidence Act to conclude the execution and extent of 
+authority given by the plaintiff to the 1st Defendant – A photocopy of 
+a document is no evidence unless the same is proved by following 
+the procedure set out – Relying on Exh.B-2, the First Appellate 
+Court acted on inadmissible evidence and accepted the existence 
+of power to alienate – Exh.B-2/photocopy is no evidence, and the 
+incorrect reliance on no evidence, has been rightly corrected by 
+the High Court through the impugned judgment. [Paras 19, 20.2, 
+20.5, 20.6, 21, 23]
+
+578
+[2026] 2 S.C.R.
+Supreme Court Reports
+Case Law Cited
+Ramathal v. Maruthathal, [2017] 8 SCR 613 : (2018) 18 SCC 303; 
+Jagdish Singh v. Natthu Singh [1991] Supp. 2 SCR 567 : (1992) 
+1 SCC 647; Dinesh Kumar v. Yusuf Ali [2010] 7 SCR 222 : (2010) 
+12 SCC 740; Bharatha Matha v. R. Vijaya Renganathan [2010] 7 
+SCR 154 : (2010) 11 SCC 483; Hero Vinoth v. Seshammal [2006] 
+Supp. 2 SCR 79 : (2006) 5 SCC 545; Sitaramji Badwaik v. Bisaram 
+[2021] 1 SCR 701 : (2021) 15 SCC 234; Municipal Committee, 
+Hoshiarpur v. Punjab SEB [2010] 13 SCR 658 : (2010) 13 SCC 
+216; Jagmail Singh v. Karamjit Singh [2020] 4 SCR 1163 : (2020) 
+5 SCC 178; Smt. J. Yashoda v. K. Shobha Rani [2007] 5 SCR 
+367  : (2007) 5 SCC 730; Kaliya v. State of Madhya Pradesh 
+[2013] 7 SCR 760 : (2013) 10 SCC 758; H. Siddiqui (D) By Lrs. v. 
+A. Ramalingam [2011] 5 SCR 587 : AIR (2011) SC 1492; Ashok 
+Dulichand v. Madahavlal Dube and Another [1976] 1 SCR 246 : 
+(1975) 4 SCC 664; Chandra v. M. Thangamuthu [2010] 11 SCR 
+38 : (2010) 9 SCC 712; Rakesh Mohindra v. Anita Beri [2015] 13 
+SCR 1158 : (2016) 16 SCC 483; Dhanpat v. Sheo Ram [2020] 7 
+SCR 131 : (2020) 16 SCC 209; O. Bharathan v. K Sudhakarana 
+(1996) 2 SCC 704 – referred to.
+List of Acts
+Code of Civil Procedure, 1908; Evidence Act, 1872; Registration 
+Act, 1908.
+List of Keywords
+Evidence; Documentary evidence; Primary evidence; Secondary 
+evidence; Copy made from original by mechanical process; Section 
+65 of Evidence Act, 1872; Admission of document; Probative value 
+of document; Section 85 of Evidence Act, 1872; Mechanical copies; 
+Disputed signatures; Expert; Photocopy of document; Power to 
+alienate; Contents of document.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 856 of 2026
+From the Judgment and Order dated 15.09.2023 of the High Court 
+of Kerala at Ernakulam in RSA No. 892 of 2016
+
+[2026] 2 S.C.R. 
+579
+Tharammel Peethambaran and Another v.  
+T. Ushakrishnan and Another
+Appearances for Parties
+Advs. for the Appellant(s):
+Pijush Kanti Roy, Sr. Adv., Dileep Poolakkot, Harshad V. Hameed, 
+Mrs. Ashly Harshad, Dr. Arunender Thakur, Mahabir Singh, 
+Ms. Khushboo Sharma, Anshul Saharan.
+Advs. for the Respondent(s):
+Siddharth Bhatnagar, Mrs. Manjula Rao, Sr. Advs., Nitin Sangra, 
+Nadeem Afroz, Riju Ghosh, Upmanyu Tewari.
+Judgment / Order of the Supreme Court
+Judgment
+S.V.N. Bhatti, J.
+1.	
+Leave granted.
+2.	
+The appeal is at the instance of the 1st and 2nd Defendants in O.S 
+No. 197 of 2013 before the Senior Civil Judge, Kozhikode. The 1st 
+Respondent filed OS No. 197 of 2013 for declaration, perpetual 
+injunction, and damages for use and occupation. The Plaintiff is 
+admittedly the owner of the Plaint A-Schedule consisting of three items 
+of immovable property. A few household items are mentioned in Plaint 
+B-Schedule. The Plaintiff is the 1st Defendant’s sister. The Plaintiff 
+resides in Mumbai, and the 1st Defendant resides in Kozhikode. The 
+1st defendant is the brother-in-law of the 2nd and 3rd Defendants. Stated 
+chronologically, on 31.07.1998, the Plaintiff is said to have executed 
+a Power of Attorney (“PoA”) in favour of the 1st defendant. The PoA 
+is exhibited by the Plaintiff as Exhibit A-4 and by the Defendants as 
+Exhibit B-2, a notarised photocopy. On 15.03.2007, the 1st Defendant, 
+in the purported authority given to him through the PoA/Exh. B-2, 
+executed registered sale deeds nos. 262 and 263 of 2007 in favour 
+of the 2nd and 3rd Defendants. The Plaintiff, having come to know of 
+the sale in favour of the 2nd and 3rd Defendants, through the lawyer’s 
+notice dated 20.04.2007, cancelled the PoA. The 1st Defendant refers 
+to a receipt dated 23.04.2007, said to have been executed by the 
+Plaintiff, acknowledging the receipt of Rs. 6,00,000/-, forming part of 
+the sale consideration under the sale deeds dated 15.03.2007. The 
+1st Defendant issued a reply notice dated 05.05.2007 to the Plaintiff’s 
+legal notice dated 20.04.2007. In this background, O.S No. 597 of 
+
+580
+[2026] 2 S.C.R.
+Supreme Court Reports
+2007 was filed before the Munsiff Court I, Kozhikode, renumbered as 
+OS No. 197 of 2013 before the Senior Civil Judge, Kozhikode. The 
+pleadings on both sides are considered in detail by the impugned 
+judgment. Reference to pleadings as are necessary for disposing of 
+the appeals is made in the Judgment. The Plaintiff claims title to item 
+nos. 1 and 2 of the Plaint A-Schedule through the assignment deed 
+dated 31.07.1998. Item no. 3 of the Plaint A-Schedule is claimed 
+through the Partition Deed no. 317 of 1998.
+3.	
+The Plaintiff avers that the 1st Defendant has sent a draft PoA 
+dated 31.07.1998/Exh. A-3 by post to her address in Mumbai for 
+the execution of the PoA. Exh. A-3 is a general power of attorney. 
+The Plaintiff, not interested in granting general power to the 1st 
+Defendant to deal with the Plaint A-Schedule, has scored out the 
+clauses dealing with the power to mortgage, alienate, etc in Exh. 
+A-3. The Plaintiff admits execution of the PoA, i.e. Exh. A-4, which 
+grants specific power and not general power to alienate the plaint 
+schedule properties. The Plaintiff states that the PoA/Exh. B-2, relied 
+on by the defendant, is a sham and fudged document. Therefore, 
+by referring to a fudged PoA, execution of assignment deed nos. 
+262 and 263 of 2007 is illegal, unenforceable and not binding on 
+the Plaintiff. The agent exceeded the authority given to him and the 
+sale deeds do not bind the principal. In other words, the Plaintiff 
+asserts that the 1st Defendant/agent does not have the power to 
+alienate or exceed the power granted to him under the PoA/Exh. A-4, 
+signed and sent by the Plaintiff. The Plaintiff denies the execution 
+of receipts dated 20.12.2006 (Exh. B-6) and 23.04.2007 (Exh. B-7) 
+for Rs. 11,00,000/- towards the sale consideration. Hence, the suit 
+for the reliefs prayed for. 
+4.	
+The 1st Defendant admits that the Plaintiff is the owner as per the 
+records, but the possession of the house is with the 1st Defendant. 
+On the fact in issue at stake between the parties, the 1st Defendant 
+asserts that the Plaintiff executed the PoA/Exh. B-2 authorising 
+the Defendant to have the power of management, mortgage and 
+alienation. The sub-registrar verified the 1st Defendant’s competence 
+to execute the sale deed on behalf of the Plaintiff and accepted the 
+sale deeds (Exh. A7 and A8) dated 15.03.2007, executed in favour 
+of the 2nd and 3rd Defendants for registration. The said sale deeds 
+executed are valid, legal and bind the Plaintiff as principal, because 
+the 1st Defendant, as agent, acted under the comprehensive powers 
+
+[2026] 2 S.C.R. 
+581
+Tharammel Peethambaran and Another v.  
+T. Ushakrishnan and Another
+granted to him under Exh. B-2 by the Plaintiff. Resiling from the power 
+vested in favour of the 1st Defendant is contradictory and contrary to 
+the conduct of the Plaintiff in receiving Rs. 11,00,000/- under receipts 
+(Exh. B-6 and B-7) dated 20.12.2006, and 23.04.2007, respectively. 
+The Plaintiff, as beneficiary of the sale consideration, is not entitled 
+to challenge the action of the 1st Defendant. 
+5.	
+The Trial Court, on consideration of the oral evidence of PW 1 and 
+the documentary evidence of Exhibits A-1 to A-9, DWs 1 and 2, and 
+Exhibits B-1 to B-26, decreed the suit. The issues settled by the Trial 
+Court are as follows: 
+“1. Whether the plaintiff had executed a power of attorney 
+authorizing the 1st defendant to sell the properties 
+described in the plaint A schedule ?
+2. Whether the power of attorney alleged to have been 
+executed by the plaintiff on 31.7.199[8] is a valid genuine 
+and properly executed document ?
+3. Whether the power of attorney alleged to have been 
+executed by the plaintiff on 31.7.1998 empowers the 1st 
+defendant to execute a valid conveyance in respect of the 
+properties described in the plaint A-schedule ? 
+4. Whether the defendant had executed registered sale 
+deeds in favour of defendants 2 and 3 on the strength of 
+a forged and fabricated power of attorney as alleged ?
+5. Whether the plaintiff is entitled to get a declaration as 
+prayed for ? 
+6. Whether the plaintiff is entitled to get a permanent 
+prohibitory injunction as prayed for ? 
+7. Whether the plaintiff is entitled to get a mandatory 
+injunction as prayed for ? 
+8. Whether the plaintiff is entitled to get damages for use 
+Occupation at the rate of Rs. 3,000/- per month from 
+20.4.2007? 
+9. Whether the plaintiff is entitled to get share of mesne 
+profits as alleged ? 
+10. Reliefs and Costs ?”
+
+582
+[2026] 2 S.C.R.
+Supreme Court Reports
+6.	
+The Trial Court examined all the issues together, and the gist of the 
+Trial Court’s findings is that the Trial Court compared the draft PoA 
+(Exh. A-4) with the one used for the sale (Exh. B-2) and found that 
+words providing for “sale” were added to the end of existing clauses. 
+These additions lacked “cohesion” with the original document. It also 
+noted that the spacing between letters in the added “sale” words was 
+significantly different from the rest of the document (monospace vs. 
+proportional), indicating they were inserted later. The 1st Defendant 
+failed to produce the original PoA (Exh. B-2) despite being its 
+holder. The Trial Court found his explanation that it was given to 
+the Plaintiff’s husband to be inconsistent and contradictory. Under 
+Section 33 of the Registration Act, 1908, a PoA used for executing 
+sale deeds must be properly authenticated. The Trial Court held that 
+since the PoA was unregistered and its genuineness was unproven, 
+the resulting sale deeds (Exh. A-7 and A-8) were invalid. While 1st 
+Defendant claimed to have paid the plaintiff Rs. 11,00,000/-, the Trial 
+Court found this evidence insufficient to validate the unauthorised 
+sale deeds. The sale prices shown in the deeds were also lower 
+than the amount he allegedly paid her, undermining his credibility. 
+The Trial Court (i) declared that the sale deed nos. 262 and 263 of 
+2007 (Exh. A-7 and A-8) were invalid and void; (ii) The Trial Court 
+granted the relief of injunction as well; (iii) Further directed, through 
+a mandatory injunction, 1st Defendant to vacate and surrender the 
+house situated on item no. 1 of the Plaint A-Schedule to the Plaintiff 
+within two months; and (iv) rejected the claim for damages for use 
+and occupation.
+7.	
+The 1st Defendant filed A.S. No. 166 of 2014 before the District 
+Judge, Kozhikode, and the First Appellate Court allowed the appeal, 
+resulting in the dismissal of O.S. No. 197 of 2013. The First Appellate 
+Court examined the issues and recorded the findings, which can be 
+classified under the following heads: 
+Rejection of Independent Ownership Claims (Benami and Oral 
+Sale) 
+7.1	 The 1st Defendant’s claim of purchasing items nos. 1 and 2 in 
+the Plaintiff’s name using his own funds was barred under the 
+provisions of the Benami Transactions (Prohibition) Act, 1988. 
+Similarly, regarding item no. 3, it was held that the immovable 
+
+[2026] 2 S.C.R. 
+583
+Tharammel Peethambaran and Another v.  
+T. Ushakrishnan and Another
+property was worth more than Rs. 100, and cannot be orally 
+sold to the 1st Defendant without a registered document as per 
+Section 17 of the Registration Act.
+Validity and Existence of the Power of Attorney 
+7.2	 Plaintiff in the legal notice (Exh. A-5) stated that she was 
+“cancelling” the PoA. If the Plaintiff had never executed a valid 
+power of attorney, there would have been no need to cancel it. 
+Furthermore, PW1 admitted during cross-examination that she 
+had seen the original PoA at her lawyer’s office. Hence, the 
+plaintiff was deliberately withholding the original PoA. Plaintiff’s 
+prior conduct in executing powers of attorney in favour of her 
+father and brother proves that the Plaintiff was well aware of the 
+legal formalities required for executing a PoA. Now, the stand 
+she has taken undermines her claim of ignorance.
+Admissibility of Secondary Evidence (Exh. B2) 
+7.3	 Since the Plaintiff withheld the original power of attorney, the 
+1st Defendant produced a photocopy (Exh. B2) as secondary 
+evidence under Section 66 of the Indian Evidence Act. Section 
+8(1)(a) of the Notaries Act, 1952 and Section 114(e) of the Indian 
+Evidence Act hold that the PoA, which was notarised by a Notary, 
+carry a presumption of valid execution and authentication. 
+Objections under the Registration Act 
+7.4	 The Plaintiff’s challenge under Section 33 of the Registration 
+Act (requiring Registrar’s authentication for the PoA) was also 
+rejected because the plaintiff had relied on a similarly Notary-
+attested PoA for her own partition deed (Exh. B12). The other 
+objection under Section 28 of the Registration Act that the sale 
+deeds (Exh. A7 and A8) were registered in Kozhikode rather than 
+the jurisdictional SRO at Kakkodi, where the land is situated, 
+was also rejected because the Sub-Registrar in Kozhikode held 
+the charge of District Registrar, giving him jurisdiction to accept 
+a document for registration.
+Confirmation of Sale Receipts (Exh. B6 and B7) 
+7.5	 Plaintiff had accepted sale consideration totalling Rs. 11 lakhs, 
+receipts Exh. B-6 dated 20.12.2006 for Rs. 5,00,000/- and Exh. 
+
+584
+[2026] 2 S.C.R.
+Supreme Court Reports
+B-7 dated 23.04.2007 for Rs. 6,00,000/-. Expert witness (CW1) 
+confirmed that the signature on the receipt Exh. B6 matched 
+the Plaintiff’s specimen signature. Regarding the second receipt 
+(Exh. B7), the First Appellate Court, after making a comparison 
+with the naked eye, concluded that the disputed signature was 
+by the same author, i.e., the Plaintiff.
+Validity of Sale Deeds and Possession of Documents 
+7.6	 The Plaintiff did not explain as to why the 1st Defendant was 
+in possession of all the original title deeds, including the prior 
+sale agreement, purchase certificate, and partition deed. It was 
+inferred that these were entrusted to the 1st Defendant for the 
+purpose of selling the property. Consequently, the sale deeds 
+executed by the 1st Defendant in favour of the 2nd Defendant 
+and 3rd Defendant were valid.
+8.	
+The Plaintiff assailing the above findings filed the second appeal 
+before the High Court, and through the impugned judgment, the High 
+Court restored the findings of the Trial Court, and its consideration 
+is summarised:
+8.1	 The original of Exh. B-2 is not marked. Without following the 
+procedure under Sections 65 and 66 of the Evidence Act, Exh. 
+B-2, a photostat copy does not satisfy the requirements of 
+secondary evidence. The 1st Defendant traces the authority to 
+sell the property to Exh. B-2. The non-marking of the original 
+of Exh. B-2, coupled with non-compliance with Sections 65 and 
+66 of the Evidence Act, would render the assertion untenable. 
+8.2	 The High Court concluded that the original PoA – Exh B-2 was 
+not duly executed by the Plaintiff. It compared the clauses in 
+the draft/copy - Exh. A-4 with the disputed PoA/Exh. B-2. It was 
+observed that the words providing for “sale” in the disputed PoA 
+had no cohesion with the former parts of the clauses. Crucially, 
+the spacing between the letters in the added words relating 
+to “sale” was monospace, whereas the rest of the document 
+used proportional spacing, indicating interpolation/fabrication. 
+The High Court rejected the Defendant’s claim regarding the 
+original PoA. It noted inconsistencies in the Defendant’s evidence 
+regarding the whereabouts of the original document. It was finally 
+noted that in the draft PoA/Exh. A-3 sent by the Defendant to 
+
+[2026] 2 S.C.R. 
+585
+Tharammel Peethambaran and Another v.  
+T. Ushakrishnan and Another
+the Plaintiff, the specific clause providing for sale and mortgage 
+(Clause b) had been deleted from the final version - Exh. A-4/
+Exh. B-2, thus supporting the Plaintiff’s claim that she did not 
+grant power to sell. Consequently, the High Court held that the 
+sale deeds executed by the Defendant using the invalid POA 
+were void, thereby restoring the Trial Court’s decree
+9.	
+Hence, the 1st and 2nd Defendants are in appeal challenging the 
+impugned judgment. 
+10.	 We have heard learned senior counsel Mr. Pijush Kanti Roy and Mr. 
+Siddharth Bhatnagar for the parties. 
+11.	 The Defendants assail the impugned judgment, as exceeding the 
+jurisdiction of the High Court under Section 100 of the Code of Civil 
+Procedure, 1908. The impugned judgment has not framed substantial 
+questions of law for consideration. Still, by re-appreciating the 
+evidence, it interfered with the findings of fact recorded by the First 
+Appellate Court. The primacy of opinion available to the view of the 
+First Appellate Court is not accorded in the impugned judgment. The 
+illegality in the impugned judgment is a reappreciation of oral and 
+documentary evidence to record findings on facts in issue. Therefore, 
+the impugned judgment, since it exceeded the jurisdiction of the 
+High Court under Section 100 of the CPC, is liable to be set aside. 
+Adverting to the merits, the Defendants contend that in the case on 
+hand, the execution of PoA is not in dispute. Still, the core issue is 
+whether the PoA/Exh B-2 granted comprehensive authority to deal 
+with scheduled property or was it a limited power assigned to the 1st 
+Defendant/Exh. B-2, a notarised photocopy of PoA, is a complete 
+answer on the extent of power granted to the 1st Defendant. The 
+clauses are clear and categorical, authorising the 1st Defendant to 
+sell the Plaint A-Schedule Property. The acts of the 1st Defendant 
+conform to the authority and are well within the power granted to 
+the Defendant under Exh. B-2. The Plaintiff, having ratified the act of 
+the 1st Defendant, by receiving Rs. 11,00,000/- through Exh. B6 and 
+B7, dated 20.12.2006 and 23.04.2007, cannot resile and challenge 
+the validity of the sale deeds dated 15.03.2007. 
+11.1	 The 1st Defendant has discharged the burden fastened on him, 
+and, on a combined reading of Section 85 of the Evidence Act, 
+read with Section 33 of the Registration Act, the execution or 
+extent of the power under the PoA is a non-issue. The High 
+
+586
+[2026] 2 S.C.R.
+Supreme Court Reports
+Court committed an illegality by failing to apply the available 
+presumption to the sale deeds dated 15.03.2007. The 1st 
+Defendant contends that the purported clauses authorising him 
+to alienate are not manipulated or fudged; this is evidenced 
+by the draft PoA/Exh. A-3 that was sent by the 1st Defendant 
+to the Plaintiff. 
+12.	 The Plaintiff contends that the First Appellate Court committed a 
+serious illegality by relying on PoA/Exh. B-2. The findings of fact 
+recorded by the First Appellate Court are contrary to the evidence or 
+result of incorrect construction of the documents. The 1st Defendant 
+admits that the original of Exh. B-2 is not available to him. Further, to 
+place on record, Exh. B-2, a notarised photocopy of a PoA procedure 
+for adducing secondary evidence must be followed. In the admitted 
+scenario, neither is an original nor a photocopy on record after 
+complying with the requirements of adducing secondary evidence. 
+Exh. B-2, since it is not an original document, but a notarised PoA, 
+cannot be the document of source for the authority said to have 
+been given by the Plaintiff to the 1st Defendant. The requirements, 
+either under Section 33 of the Registration Act, or Section 85 of 
+the Evidence Act, fall for consideration only if the original deed 
+or Exh. B-2 is produced after complying with the requirements of 
+secondary evidence. The photocopy is not a piece of evidence. 
+The High Court has not conducted an independent reappreciation 
+of oral and documentary evidence, but tested the findings of fact on 
+the oral and documentary evidence adduced by the parties. Such 
+a procedure is within the scope and jurisdiction of the High Court. 
+The unauthorised act of the 1st Defendant will not bind the Plaintiff, 
+and no title is conveyed to the 2nd and 3rd Defendants through Exh. 
+A-7 and A-8. 
+13.	 The arguments on both sides are noted, and the record is perused 
+and appreciated. 
+14.	 The controversy centres around the disputed circumstance, namely, 
+the power of agency given by the plaintiff to the 1st defendant 
+through Exh. B-2, if the documentary evidence in Exh. B-2 satisfies 
+the requirement of law, whether it is fudged with additions, etc. 
+Inasmuch as the 1st Defendant can convey title to the 2nd and 3rd 
+Defendants only when the authority to do so is proved as pleaded by 
+him. The admitted circumstances are that the Plaintiff is the owner 
+
+[2026] 2 S.C.R. 
+587
+Tharammel Peethambaran and Another v.  
+T. Ushakrishnan and Another
+of the Suit A-Schedule Properties, the Plaintiff resides in Mumbai, 
+the 1st defendant resides in Kozhikode, and was authorised to, 
+according to the Plaintiff, manage the property and according to the 
+1st Defendant, he was authorised to act as an agent of the Plaintiff 
+for all purposes. The Plaintiff denies having given general power, 
+including the alienation of the Suit A-Schedule in favour of the 1st 
+Defendant. The 1st Defendant asserts and claims that the PoA in his 
+favour includes the power to alienate the Suit A-Schedule Property. 
+15.	 In the admitted and disputed circumstances, the issue boils down to 
+whether the 1st Defendant proved the case as pleaded in the written 
+statement. The burden is on the 1st Defendant. For clarity, we excerpt 
+the averments in the written statement on the execution, scope and 
+content of PoA, which reads as under: 
+“XxX
+the plaintiff handed over to the first defendant all the 
+powers to handle, sell, mortgage the above said property 
+as his own and a power of attorney draft was prepared 
+and sent as per the plaintiff’s instructions. Plaintiff herself 
+voluntarily prepared it as her on style and signed it and 
+sent it to the 1st Defendant.
+XxX
+the plaintiff has nowhere (sic) stated why the 1st defendant 
+was entrusted with the power to dispose of the property, 
+sell it etc. From these circumstances it is proved that the 
+1st defendant also had the authority over the above said 
+property.
+XxX
+The draft Power of Attorney produced by the Plaintiff along 
+with the plaint was sent by the 1st defendant. Similarly 
+the 1st respondent (defendant) admits the letter sent along 
+with it. But no letter has been sent by the 1st defendant 
+after getting the Power of Attorney.
+XxX
+The Power of Attorney issued by the plaintiff also 
+empowered the 1st defendant to sell the property. The 
+
+588
+[2026] 2 S.C.R.
+Supreme Court Reports
+registrar allowed to register the document after fully 
+understanding the contents. Up to this point, the plaintiff 
+has not raised an argument that the officials of the Register 
+Office and these defendants have conspired to create the 
+Sale deeds.
+XxX”
+These pleadings will be considered at the appropriate stage. 
+16.	 We now turn to whether the High Court exceeded its jurisdiction 
+under Section 100 of the Code of Civil Procedure, 1908, while 
+reversing the judgment of the First Appellate Court. The defendants 
+argue that the High Court’s findings were recorded on reappreciation 
+of oral and documentary evidence. The Plaintiff contends that the 
+High Court has not reappreciated the evidence but has examined 
+whether the evidence was misread/documents were not correctly 
+interpreted, and whether inadmissible documents were relied upon 
+by the first appellate Court. The broad parameters for exercising the 
+jurisdiction under Section 100 of the Code of Civil Procedure are 
+summed up hereunder:
+16.1	 The Code of Civil Procedure (Amendment) Act, 1976, 
+introduced a specific embargo on the High Court’s jurisdiction 
+under Section 100 to ensure the finality of findings of fact 
+and to confine its jurisdiction to cases involving a substantial 
+question of law.1 Consequently, the general rule is that findings 
+of fact recorded by the trial and appellate courts are binding 
+and will not be disturbed, even if they appear to be erroneous.2
+16.2	 However, this restriction is not absolute. Where the findings 
+of fact are founded on assumptions, conjectures or surmises, 
+or suffer from the vice of perversity, the High Court is well 
+within its jurisdiction to interfere with findings of fact. The 
+legality of a finding of fact, when challenged on the ground of 
+perversity, itself constitutes a question of law and, therefore, 
+may give rise to a substantial question of law under Section 
+100 of the CPC.3
+1	
+Ramathal v. Maruthathal (2018) 18 SCC 303.
+2	
+Jagdish Singh v. Natthu Singh (1992) 1 SCC 647.
+3	
+Dinesh Kumar v. Yusuf Ali (2010) 12 SCC 740.
+
+[2026] 2 S.C.R. 
+589
+Tharammel Peethambaran and Another v.  
+T. Ushakrishnan and Another
+16.3	 A finding may be termed perverse where it is arrived at by 
+ignoring or excluding relevant and material evidence, by 
+considering irrelevant material, or where it is based on no 
+evidence or on wholly unreliable evidence. A decision based 
+on no evidence is not confined to cases of complete absence 
+of evidence, but also includes cases where the evidence on 
+record, taken as a whole, is incapable of reasonably supporting 
+the findings recorded. A finding that outrageously defies logic, 
+suffers from irrationality, or is such that no reasonable person 
+acting judicially could have arrived at it, is equally perverse 
+in the eye of the law. Findings resting on the ipse dixit of the 
+court or on conjecture and surmises reflect non-application of 
+mind and stand vitiated on that ground as well.4
+16.4	 Insofar as documentary evidence is concerned, an inference 
+drawn from the contents of a document is ordinarily a question 
+of fact. However, the legal effect of a document’s terms, its 
+construction involving the application of legal principles, or a 
+misconstruction thereof gives rise to a question of law.5 
+16.5	 While exercising jurisdiction under Section 100 of the CPC, 
+the High Court must be satisfied that the case involves not 
+merely a question of law but a substantial question of law 
+having a material bearing on the rights of the parties. A 
+substantial question of law may arise where the legal position 
+is debatable or unsettled. It may also occur in cases where 
+statutory provisions or binding precedents well settle the legal 
+position. Still, the courts below have decided the matter by 
+ignoring settled principles or by acting in direct contravention 
+of them. In such cases, the substantial question of law arises 
+not because the law is uncertain, but because the decision 
+violates the settled position of law.6
+16.6	 Section 103 of the CPC enables the High Court, in a second 
+appeal, to determine an issue of fact, provided the evidence 
+on record is sufficient, in two contingencies: first, where an 
+issue necessary for the disposal of the appeal has not been 
+4	
+Bharatha Matha v. R. Vijaya Renganathan (2010) 11 SCC 483.
+5	
+Hero Vinoth v. Seshammal (2006) 5 SCC 545, ¶24.
+6	
+Ibid.
+
+590
+[2026] 2 S.C.R.
+Supreme Court Reports
+determined by the lower appellate court or by both courts below; 
+and second, where such issue has been wrongly determined 
+by reason of a decision on a question of law as referred to in 
+Section 100 of the CPC.7 
+16.7	 Section 103 does not operate as an exception to, or a 
+substitute for, Section 100, but is intended to advance the 
+same legislative purpose. The power under Section 103 CPC 
+can be exercised only in exceptional circumstances and with 
+circumspection. Before invoking this provision, the High Court 
+must record a clear finding that the findings of fact recorded 
+by the courts below are vitiated by perversity. In the absence 
+of such a categorical finding, the exercise of power under 
+Section 103 would fall outside the permissible limits of Section 
+100 of the CPC.8
+17.	 Therefore, we examine whether the findings in the impugned 
+judgment are based on reappreciation of evidence, or on a finding 
+of misreading of evidence, wrong interpretation of documents, and 
+reliance on inadmissible evidence, Exh. B-2. 
+18.	 The evidence of DW1 is important, and in chief examination the 
+witness denied the Plaintiff’s claims, stating that while the Plaint 
+A-Schedule properties (Items 1 and 2) were purchased in the Plaintiff’s 
+name from their brother Mohandas, this was done solely due to 
+Mohandas’s insistence and the plaintiff’s love and affection to assist 
+DW1, who could not raise the full funds immediately. DW1 claimed 
+he had originally entered into an agreement to sell with Mohandas for 
+Rs.7 lakhs and paid an advance of Rs.1 lakh, and later the plaintiff 
+provided Rs.6 lakhs to complete the purchase. Further, he has been 
+in exclusive possession of the property since 1984, residing there 
+with his family, and denied being merely a caretaker. Regarding Item 
+3, he claimed to have orally purchased it from the Plaintiff for Rs. 2 
+lakhs. That Plaintiff voluntarily prepared, signed, and notarised a PoA 
+empowering him to sell the property and sent it to him. Furthermore, 
+DW1 had settled all financial obligations to the Plaintiff by paying 
+Rs.5,00,000/- on 20.12.2006 and Rs.6,00,000/- on 23.04.2007, for 
+7	
+Sitaramji Badwaik v. Bisaram (2021) 15 SCC 234.
+8	
+Municipal Committee, Hoshiarpur v. Punjab SEB (2010) 13 SCC 216, ¶26.
+
+[2026] 2 S.C.R. 
+591
+Tharammel Peethambaran and Another v.  
+T. Ushakrishnan and Another
+which the plaintiff signed receipts. Further, the Plaintiff’s suit was an 
+afterthought driven by ulterior motives, and he had sold the property 
+to the 2nd and 3rd Defendants with full authority and with the Plaintiff’s 
+knowledge. The appreciation of the chief examination of DW-1 would 
+not show the crucial aspect of clauses in Exh. B2. 
+18.1	 During cross-examination, he admitted he did not know where 
+the original PoA was. The cross-examination further reads that 
+a witness named Muraleedharan retrieved the documents from 
+the office of the Sub-registrar and handed the original POA 
+to the Plaintiff’s husband. He admitted that he had nothing 
+to say as to why this significant fact was omitted from his 
+pleadings. When confronted with a photocopy of the POA, 
+he admitted that it lacked witness signatures and contained 
+no notary endorsement. He denied sending the draft PoA to 
+the Plaintiff. Regarding the payment receipts, he admitted 
+they were written in his own handwriting on the Plaintiff’s 
+husband’s letterhead and were not stamped. He admitted 
+he did not affix a revenue stamp to the receipts and justified 
+it by saying the plaintiff was her sister. He admitted to filing 
+a previous cheque case (CC No. 667/09) against a woman 
+named K.K. Rajani, and that the accused in that case alleged 
+that DW1 had forged her signature. Subsequently, DW1 
+withdrew the case as not pressed rather than pursuing it. 
+He admitted that he continued to reside in the house on the 
+property. That he did not accompany the buyer Sunil Kumar 
+to register the subsequent sale of the property and did not 
+know who currently possesses item no. 3. He admitted the 
+house ownership in the Panchayat records were still in the 
+name of plaintiff. 
+19.	 The crux of the matter depends on whether Exh. B-2 can be treated as 
+documentary evidence warranting interpretation of the clauses and the 
+alleged contradictions with Exh. A-3 and A-4. Exh. B-2 is a photocopy, 
+or a mechanical copy, of the purported PoA. This, therefore, implies 
+that Exh. B-2 is, at best, secondary evidence. Secondary evidence is 
+evidence that proves the contents of an original document through a 
+medium that is one step removed from the source. Section 63 of the 
+Indian Evidence Act provides an exhaustive list of what constitutes 
+secondary evidence. This includes certified copies, copies made 
+
+592
+[2026] 2 S.C.R.
+Supreme Court Reports
+from the original by mechanical processes ensuring accuracy, copies 
+compared with such copies, counterparts of documents against parties 
+who did not execute them, and oral accounts of the contents given 
+by a person who has seen the document. 
+20.	 The broad parameters summarising the procedure to be followed 
+for introducing secondary evidence are reiterated and read thus: 
+20.1	 The fundamental principle of the Indian Evidence Act is that 
+facts have to be established by primary evidence.9 Section 
+64 mandates that documents must be proved by primary 
+evidence, which is considered the “best evidence”. Primary 
+evidence is the rule, while secondary evidence is an exception 
+admissible only in the absence of primary evidence. A party 
+is generally required to produce the best evidence available; 
+so long as the superior evidence (the original) is within a 
+party’s possession or reach, they cannot introduce inferior 
+proof (secondary evidence).10
+20.2	 Before secondary evidence can be admitted, the party relying 
+on it must lay a factual foundation. This involves two steps: 
+First, the party must prove that the original document actually 
+existed and was executed. Secondly, the party must establish 
+valid reasons as to why the original cannot be furnished.11
+20.3	 Secondary evidence is inadmissible until the non-production 
+of the original is accounted for in a manner that brings the 
+case within the specific exceptions provided in Section 65.12 
+If the original itself is found to be inadmissible through failure 
+of the party who files it to prove it to be valid, the same 
+party is not entitled to introduce secondary evidence of its 
+contents.13
+20.4	 Section 65 of the Evidence Act is exhaustive and states the 
+specific circumstances under which secondary evidence is 
+9	
+Jagmail Singh v. Karamjit Singh (2020) 5 SCC 178. (Para 14)
+10	
+Smt. J. Yashoda v. K. Shobha Rani (2007) 5 SCC 730.
+11	
+Ibid; Kaliya v. State of Madhya Pradesh (2013) 10 SCC 758.
+12	
+H. Siddiqui (D) By Lrs. v. A. Ramalingam, AIR (2011) SC 1492.
+13	
+Smt. J. Yashoda v. K. Shobha Rani (2007) 5 SCC 730.
+
+[2026] 2 S.C.R. 
+593
+Tharammel Peethambaran and Another v.  
+T. Ushakrishnan and Another
+permissible. To introduce secondary evidence, a party must 
+satisfy the conditions of one of the clauses (a) through (g) of 
+Section 65.14 
+20.5	 Further, admitting a document as secondary evidence does 
+not automatically prove its contents. The secondary evidence 
+must be authenticated by foundational evidence showing 
+that the alleged copy is, in fact, a true copy of the original. 
+For instance, if a party wishes to introduce a photostat copy, 
+they must explain the circumstances under which the copy 
+was prepared and who possessed the original at the time the 
+photograph was taken.15 
+20.6	 Mere admission of a document or making it an exhibit does not 
+dispense with the requirement of proving it in accordance with 
+the law. The court has an obligation to examine the probative 
+value of the document and decide the question of admissibility 
+before making an endorsement on the secondary evidence. 
+If the foundational facts, such as the loss of the original or 
+the explanation for its non-production, are not established, 
+the court cannot legally allow the party to adduce secondary 
+evidence.16
+20.7	 There is no requirement that an application must be filed to 
+lead secondary evidence. While a party may choose to file 
+such an application, secondary evidence cannot be ousted 
+solely because no application was filed. It is sufficient if 
+14	
+Condition for Secondary Evidence
+Statutory Clause
+Type of Secondary Evidence Allowed
+Adversary Possession
+Section 65(a)
+Any secondary evidence (after notice).
+Written Admission
+Section 65(b)
+The written admission itself.
+Loss or Destruction
+Section 65(c)
+Any secondary evidence.
+Immovable Original
+Section 65(d)
+Any secondary evidence.
+Public Document
+Section 65(e)
+Only a certified copy.
+Law-Specified Document
+Section 65(f)
+Only a certified copy.
+Voluminous Records
+Section 65(g)
+Testimony of a skilled examiner.
+15	
+Ashok Dulichand v. Madahavlal Dube and Another (1975) 4 SCC 664; Chandra v. M. Thangamuthu 
+(2010) 9 SCC 712.
+16	
+Rakesh Mohindra v. Anita Beri (2016) 16 SCC 483.
+
+594
+[2026] 2 S.C.R.
+Supreme Court Reports
+the party lays the necessary factual foundation for leading 
+secondary evidence either in the pleadings or during the 
+course of evidence.17
+21.	 Therefore, the introduction of secondary evidence is a two-step 
+process, wherein, first, the party must establish the legal right to 
+lead secondary evidence, and second, they must prove the contents 
+of the documents through that evidence. The twin requirements are 
+conjunctive. 
+22.	 The High Court recorded a finding which is not challenged, that the 
+PoA produced by the 1st Defendant is a notarised photocopy, and 
+not the original document. The 1st Defendant is obligated to follow 
+the procedure for adducing secondary evidence, and thereafter, 
+claim presumption, if any, available to a document so adduced in 
+evidence. It is axiomatic that secondary evidence is permissible only 
+as an exception to the requirement of adducing primary evidence. 
+23.	 The case on hand falls within the meaning of mechanical copies. 
+In law, the existence of Exh. B-2, in the absence of laying down a 
+factual foundation and following procedure, ought to be ignored for 
+the purpose of appreciating the 1st Defendant’s claim on the power 
+to alienate Plaint A-Schedule Property. It is apposite to refer to one 
+of the views expressed by the First Appellate Court by examining the 
+signature in Exh. B-2, and recording a finding against the plaintiff. It is 
+axiomatic and fairly established by the authorities18 of this Court that 
+courts should not by itself compare disputed signatures without the 
+assistance of any expert, when the signatures with which the disputed 
+signatures compared, are themselves not the admitted signatures. In 
+our considered view, neither Section 33 of the Registration Act nor 
+Section 85 of the Evidence Act would come into application if the 
+primary requirement of adducing secondary evidence is discharged 
+by the party relying on the document. Section 85 of the Evidence Act 
+falls under Chapter V, titled Documentary Evidence. In the absence 
+of an original or at least a secondary evidence, it is impermissible 
+to apply Section 85 of the Indian Evidence Act to conclude the 
+execution and extent of authority given by the plaintiff to the 1st 
+defendant. No order is brought to our notice through which secondary 
+17	
+Dhanpat v. Sheo Ram (2020) 16 SCC 209.
+18	
+O. Bharathan v. K Sudhakarana (1996) 2 SCC 704.
+
+[2026] 2 S.C.R. 
+595
+Tharammel Peethambaran and Another v.  
+T. Ushakrishnan and Another
+evidence is brought on record before the Trial Court. A photocopy of 
+a document is no evidence unless the same is proved by following 
+the procedure set out. Relying on Exh. B-2, the First Appellate Court 
+acted on inadmissible evidence and accepted the existence of power 
+to alienate. Exh. B-2/photocopy is no evidence, and the incorrect 
+reliance on no evidence, has been rightly corrected by the High Court 
+through the impugned judgment. The High Court has considered the 
+misreading of evidence by the Appellate Court and, by applying the 
+correct principles of law, allowed the second appeal. 
+24.	 Therefore, the Civil Appeal is without merit and is dismissed 
+accordingly. No order as to costs. Pending application(s), if any, 
+stand disposed of. 
+Result of the case: Appeal dismissed.
+†Headnotes prepared by: Ankit Gyan

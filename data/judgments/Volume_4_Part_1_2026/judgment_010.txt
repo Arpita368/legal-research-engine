@@ -1,0 +1,397 @@
+[2026] 4 S.C.R. 239 : 2026 INSC 265
+V. Ganesan 
+v. 
+State Rep by the Sub Inspector of Police & Anr.
+(Criminal Appeal No. 1470 of 2026)
+19 March 2026
+[Pamidighantam Sri Narasimha and Manoj Misra,* JJ.]
+Issue for Consideration
+Issue arose whether the High Court was justified in declining to 
+quash proceedings u/s.420 IPC.
+Headnotes†
+Penal Code, 1860 – s.420 – Offence of cheating – Appellant-
+movie producer borrowed money from the complainant on 
+assurance that it would be returned by a share in profits – 
+Appellant issued two post-dated cheques towards return of 
+the principal amount – Cheques dishonoured for insufficient 
+funds in the account – Complaint for the offence of cheating 
+and criminal breach of trust – Petition for quashing of report 
+and consequential proceedings on the ground that it was a 
+civil cause of action given a colour of criminal offence – High 
+Court quashed the indictment of an offence punishable u/s.406 
+but declined to quash proceedings qua the offence of cheating 
+punishable u/s.420 – Correctness:
+Held: Where the transaction between the parties is such that 
+fulfilment of the promise is not entirely in the control of the promisor, 
+or there is an inherent risk in fulfilment of the promise, the High Court 
+may, in exercise of its inherent powers under the Code, or u/Art.226 
+of the Constitution, as the case may be, upon consideration of the 
+attending circumstances, take a decision whether the dishonest 
+intention existed or not at the time of making the promise – And, if 
+it comes to the conclusion that the alleged conduct of the parties 
+does not reflect a dishonest intention of the accused from the very 
+beginning, it may quash the criminal complaint/proceedings and 
+relegate the aggrieved party to civil remedies – On facts, the initial 
+payment of money by the complainant to the appellant was for a 
+* Author
+
+240
+[2026] 4 S.C.R.
+Supreme Court Reports
+movie project on promise of a share in profits – Additional money 
+was paid later for its completion under a promise of an enhanced 
+share in the profits – No denial about the completion of the movie 
+and its ultimate release, thus, the promise to make a movie not 
+false, as also no dishonest intention of the appellant in making the 
+promise which remained unfulfilled – Nature of transaction between 
+the parties was a crucial factor in determining whether the investor 
+party should be allowed to bring in a criminal action or pursue civil 
+remedies – High Court overlooked the same – Post-dated cheques 
+were not by way inducement to lend money or invest money in 
+the proposed movie – Dishonour of those cheques, would not 
+ipso facto amount to an offence of cheating – Thus, dishonour of 
+a post-dated cheque by itself not sufficient to presume existence 
+of a dishonest intention on part of its drawer – Thus, in absence 
+of allegations that movie made profits, the complaint and the 
+supporting materials failed to indicate that the appellant harboured 
+a dishonest intention from inception – Allegations only disclosed 
+a civil cause of action and the High Court erred in not quashing 
+the criminal proceedings – Impugned judgment and order of the 
+High Court set aside to the extent it declined quashing of the 
+proceedings u/s.420 – Impugned criminal proceedings u/s.420 
+quashed. [Paras 15, 17, 18, 20, 21]
+Penal Code, 1860 – s.420 – Cheating – Necessary ingredients 
+to constitute an offence of cheating:
+Held: In order to constitute an offence of cheating the intention to 
+deceive should be in existence when the inducement was made – 
+It is necessary to show that a person had fraudulent or dishonest 
+intention at the time of making the promise – Mere failure to keep 
+the promise subsequently cannot be the sole basis to presume 
+that dishonest intention existed from the very beginning. [Para 13]
+Case Law Cited
+Iridium India Telecom Ltd. v. Motorola Inc. [2010] 14 SCR 591 : 
+(2011) 1 SCC 74; Vesa Holdings Private Limited and Another v. 
+State of Kerala and Others [2015] 4 SCR 27 : (2015) 8 SCC 
+293 – referred to.
+List of Acts
+Penal Code, 1860; Constitution of India; Code of Criminal 
+Procedure, 1973; Negotiable Instruments Act, 1881.
+
+[2026] 4 S.C.R. 
+241
+V. Ganesan v. State Rep by the Sub Inspector of Police & Anr.
+List of Keywords
+Cheating; Criminal breach of trust; Fraudulent; Dishonest intention; 
+Civil cause of action; Quashing of the criminal proceedings; 
+Dishonour of cheque; Criminal action; Promise of a share in profits; 
+False promise; Dishonest intention from inception; Dishonest 
+intention at the time of making the promise; Failure to keep the 
+promise.
+Case Arising From
+CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 
+1470 of 2026
+From the Judgment and Order dated 06.04.2023 of the High Court 
+of Judicature at Madras in CRLOP No. 847 of 2021
+Appearances for Parties
+Advs. for the Appellant(s):
+S. Nagamuthu, Sr. Adv., M.P. Parthiban, Ankur Prakash,  
+Mrs. Priyanka Singh, Bilal Mansoor, Shreyas Kaushal, S. Geyolin 
+Selvam, Alagiri K.
+Advs. for the Respondent(s):
+V. Krishnamurthy, Sr. A.A.G., Sabarish Subramanian, Vishnu 
+Unnikrishnan, Ms. Azka Sheikh Kalia, Ms. Jahnavi Taneja, Danish 
+Saifi.
+Judgment / Order of the Supreme Court
+Judgment
+Manoj Misra, J.
+1.	
+Leave granted.
+2.	
+This appeal impugns the judgment and order of the High Court at 
+Madras1 dated 06.04.2023 in Crl. O.P. No. 847 of 2021 and Crl. 
+M.P. No. 518 of 2021, whereby the prayer of the appellant to quash 
+final report and consequential proceedings in C.C. No. 3569 of 2020 
+on the file of the Metropolitan Magistrate (CCB and CBCID, Metro 
+1	
+The High Court
+
+242
+[2026] 4 S.C.R.
+Supreme Court Reports
+Cases), Egmore, Chennai-600008, under Section 406 and 420 of 
+the Indian Penal Code, 18602, was partly allowed to the extent of 
+indictment under Section 406 IPC; however, the prayer to quash 
+indictment under Section 420 IPC was declined.
+3.	
+In brief, the prosecution case, as could be evinced from the final 
+report (i.e., police report) submitted under Section 173 of the Code of 
+Criminal Procedure, 19733, is that the accused (the appellant herein) 
+was producing a ‘movie’. In the course of its production, he ran short 
+of funds. He, therefore, requested the de-facto complainant (i.e., the 
+second-respondent herein) to lend him money on assurance that it 
+would be returned by a share in profits to the extent of 30%. Later, 
+further money was lent on promise of an additional 17% share in 
+profits. Ultimately, two post-dated cheques of Rs.24 lacs each were 
+issued by the accused to the de facto complainant towards return 
+of the principal amount which returned unpaid for insufficient funds 
+in the account. Based on above, it was alleged that the accused 
+had cheated the complainant and had also committed offence of 
+criminal breach of trust.
+4.	
+Aggrieved by the police report and the consequential proceedings, 
+the appellant invoked the jurisdiction of the High Court under Section 
+482 of CrPC, inter alia, to quash the report and the consequential 
+proceedings on the ground that a pure civil cause of action was 
+given colour of a criminal offence.
+5.	
+By the impugned order, the High Court quashed the indictment of an 
+offence punishable under Section 406 IPC but declined to quash the 
+proceedings qua the offence of cheating punishable under Section 
+420 IPC.
+6.	
+We have heard the learned counsel for the parties.
+7.	
+On behalf of the appellant it is submitted that admittedly the 
+second-respondent had invested money in a movie project on 
+expectation of good returns. There is no dispute that the movie 
+project was completed. However, it could not generate profits. In 
+such circumstances, the appellant could not fulfil its commitment of 
+providing good returns on the investment. Therefore, there was no 
+2	
+IPC
+3	
+CrPC
+
+[2026] 4 S.C.R. 
+243
+V. Ganesan v. State Rep by the Sub Inspector of Police & Anr.
+dishonest intention and the dispute between the parties is purely civil 
+in nature. Hence, institution and continuation of criminal proceedings 
+is nothing but abuse of the process of Law.
+8.	
+Per contra, on behalf of the respondent(s) it is submitted that dishonest 
+intention of the appellant was there from the very beginning which is 
+evident from the fact that the two cheques got dishonoured for want 
+of funds. Besides, on appellant’s false assurance of profits, money 
+was lent. In these circumstances, offence of cheating is made out.
+9.	
+We have accorded due consideration to the rival submissions and 
+have perused the record.
+10.	 The police report indicted the appellant for offences of criminal 
+breach of trust and cheating punishable under Sections 406 and 
+420 IPC respectively. The High Court came to the conclusion, and 
+rightly so, that no offence punishable under Section 406 of IPC is 
+made out as there was no entrustment. Regarding the offence of 
+cheating, the High Court concluded that prima facie it is made out. 
+The reasoning of the High Court in support of its conclusions can 
+be found in paragraph 6 of its judgment, which is extracted below:
+“This Court on perusal of the impugned final report finds 
+that the offence under Section 406 IPC is not made out. 
+There is no entrustment made to the petitioner, in order 
+to attract the offence of criminal breach of trust. However, 
+this Court finds that there was an Agreement between the 
+petitioner and the de-facto complainant on 30.12.2013. 
+The Agreement shows that the petitioner promised 30% 
+interest on the initial invested amount on Rs. 19,60,000/-. 
+Thereafter, the de-facto complainant paid Rs. 27,00,000/- 
+on 03.04.2014; and the petitioner had promised 47% profit 
+on the invested amount. The petitioner had not made any 
+payment to the de-facto complainant/second-respondent 
+as promised. While so, the de-facto complainant/second-
+respondent objected to the petitioner releasing the movie. 
+The petitioner had given one more undertaking letter, 
+wherein, he had promised to pay the principal sum in two 
+instalments, profit on a subsequent date; and that if the 
+project did not yield any profit, he would pay an interest 
+on the said sum of Rs. 48,00,000/-. All the above facts, 
+disclose that at every stage, the representation has been 
+
+244
+[2026] 4 S.C.R.
+Supreme Court Reports
+made to the de-facto complainant to induce him to part with 
+money. The allegations prima facie disclose the offence 
+under Section 420 IPC. In the facts of the instant case, 
+the question whether it was only a breach of promise or 
+cheating has to be adjudicated only during trial. Therefore, 
+this Court is not inclined to quash the impugned final report 
+in so far as the offence under Section 420 IPC. Hence, 
+the impugned final report is quashed only in respect of 
+offence under Section 406 IPC. However, the learned 
+Metropolitan Magistrate may try the case on the basis of 
+evidence adduced before him without being influenced by 
+any of the observations made in this order. The learned 
+Metropolitan Magistrate (CCB and CBCID, Metro Cases), 
+Egmore, Chennai – 600 008 may conduct the trial as 
+expeditiously as possible4”.
+11.	 The above extract makes it clear that the High Court was of the view 
+that as the money was advanced on a promise of good returns and, 
+subsequently, an undertaking was also given to return the principal 
+amount if the project did not yield any profit, it could be taken that 
+the complainant parted with his money on the inducement of the 
+appellant and therefore, prima facie, an offence punishable under 
+Section 420 IPC is made out. 
+12.	 In Iridium India Telecom Ltd. v. Motorola Inc.5, this Court laid down 
+the ingredients of an offence of cheating as defined in Section 4156 
+of IPC. It was observed that Section 415 of IPC has two parts. The 
+first part makes it necessary that the deception by the accused of the 
+person deceived, must be fraudulent or dishonest. Such deception 
+must induce the person to either: (a) deliver property to any person; 
+or (b) consent that any person shall retain any property. The second 
+part also requires that the accused must by deception intentionally 
+induce the person deceived either to do or omit to do anything which 
+4	
+Extracted from typed copy of the judgment placed on record. May contain typographical mistakes.
+5	
+(2011) 1 SCC 74, paragraph 68
+6	
+Section 415. Cheating. -- Whoever, by deceiving any person, fraudulently or dishonestly induces the 
+person so deceived to deliver any property to any person, or to consent that any person shall retain any 
+property, or intentionally induces the person so deceived to do or omit to do anything which he would not 
+do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or 
+harm to that person in body, mind, reputation or property, is said to ‘cheat’.
+Explanation. --- A dishonest concealment of facts is a deception within the meaning of this section.
+
+[2026] 4 S.C.R. 
+245
+V. Ganesan v. State Rep by the Sub Inspector of Police & Anr.
+he would not do or omit, if he was not so deceived. Besides, such act 
+or omission must cause or must be likely to cause damage or harm 
+to that person in body, mind, reputation or property. Thus, deception 
+is a necessary ingredient for the offence of cheating under both 
+parts of this section. Besides, the complainant must allege/ prove 
+that the inducement had been caused by the deception exercised 
+by the accused. In other words, such deception must produce the 
+inducement to part with or deliver property, which the complainant 
+would not have parted with or delivered, but for the inducement 
+resulting from such deception. The explanation to the section clarifies 
+that non-disclosure of relevant information would also be treated as 
+a misrepresentation of facts leading to deception. 
+13.	 In order to constitute an offence of cheating the intention to deceive 
+should be in existence when the inducement was made. It is necessary 
+to show that a person had fraudulent or dishonest intention at 
+the time of making the promise. Mere failure to keep the promise 
+subsequently cannot be the sole basis to presume that dishonest 
+intention existed from the very beginning. 
+14.	 In Vesa Holdings Private Limited and Another v. State of Kerala 
+and others7, this court held that every breach of contract would not 
+give rise to an offence of cheating. Only in those cases breach of 
+contract would amount to cheating where there was any deception 
+played at the very inception. If the intention to cheat has developed 
+later, the same cannot amount to cheating. In other words, for 
+the purpose of constituting an offence of cheating, the complaint 
+is required to show that the accused had fraudulent or dishonest 
+intention at the time of making promise or representation. Even 
+in a case where allegations are made about failure on part of the 
+accused to keep his promise, in absence of a dishonest intention 
+at the time of making the initial promise, no offence under Section 
+420 of IPC is made out. 
+15.	 Whether non-fulfilment of promise/ commitment by the accused is 
+a reflection of his or her dishonest intention at the time of making 
+the promise is ordinarily a matter of trial. However, in our view, 
+where the transaction between the parties is such that fulfilment of 
+the promise is not entirely in the control of the promisor, or there 
+7	
+(2015) 8 SCC 293, paragraph 12
+
+246
+[2026] 4 S.C.R.
+Supreme Court Reports
+is an inherent risk in fulfilment of the promise, the High Court may, 
+in exercise of its inherent powers under the Code, or under Article 
+226 of the Constitution, as the case may be, upon consideration of 
+the attending circumstances, take a decision whether the dishonest 
+intention existed or not at the time of making the promise. And, if 
+it comes to the conclusion that the alleged conduct of the parties 
+does not reflect a dishonest intention of the accused from the very 
+beginning, it may quash the criminal complaint/ proceedings and 
+relegate the aggrieved party to civil remedies. 
+16.	 In the present case, what the High Court overlooked is that money 
+was advanced for movie making and initially the agreement was 
+to share the profits. Importantly, when the first tranche of money 
+was transferred by the de-facto complainant to the accused, the 
+alleged promise was a share in profits. Second tranche of money 
+was transferred when the project could not be completed for want 
+of funds. It also appears from paragraph 2 of the impugned order 
+that before the movie could be released, de facto complainant took 
+objection to its release. However, when the appellant gave two post-
+dated cheques, the movie could be released. 
+17.	 The aforesaid facts would indicate that the initial payment of money 
+by the de-facto complainant to the appellant was for a movie project 
+on promise of a share in profits. Additional money was paid later for 
+its completion under a promise of an enhanced share in the profits. 
+Thereafter, post-dated cheques were issued to return the principal 
+amount because of an objection taken by the de facto complainant 
+to the release of the movie. Since there is no denial about the 
+completion of the movie and its ultimate release, what is clear is 
+that the promise to make a movie was not false. Therefore, it cannot 
+be said the appellant made a false promise that he would make a 
+movie with the aid of funds received by him. Insofar as promise qua 
+sharing of profits is concerned, there are no allegations that the 
+movie earned profits. Therefore, from the allegations made in the 
+complaint it cannot be said that there was any dishonest intention 
+of the appellant in making the promise which remained unfulfilled. 
+In our view, the High Court overlooked that movie making is a high 
+risk business. No one can be sure whether a movie would earn 
+profits or would be a flop. If one agrees to share profits in lieu of his 
+investment in a movie, he takes the risk of a possible zero return. 
+
+[2026] 4 S.C.R. 
+247
+V. Ganesan v. State Rep by the Sub Inspector of Police & Anr.
+Thus, the nature of transaction between the parties was a crucial 
+factor in determining whether the investor party should be allowed 
+to bring in a criminal action or pursue civil remedies. Unfortunately, 
+the High Court overlooked this vital aspect. 
+18.	 Insofar as dishonour of those two cheques are concerned, it is clear 
+that those were post-dated cheques issued not as an inducement 
+to obtain delivery of money from the de facto complainant but to 
+discharge an existing obligation at a future date. Thus, in essence, 
+those cheques were not by way inducement to lend money or invest 
+money in the proposed movie. Therefore, dishonour of those cheques, 
+though may give right to initiate proceeding under Section 138 of 
+the Negotiable Instruments Act, 1881, would not ipso facto amount 
+to an offence of cheating, inasmuch as for an offence of cheating 
+dishonest intention must exist from the very beginning. Ordinarily, 
+post-dated cheques are issued either by way of security to discharge 
+an existing or future liability or to discharge the liability at some point 
+of time in future. It is quite possible that at the time of issuance of 
+a post-dated cheque, the drawer may have reason to believe that 
+he would have sufficient balance in his account by the date of the 
+cheque. Therefore, in our view, dishonour of a post-dated cheque by 
+itself is not sufficient to presume existence of a dishonest intention 
+on part of its drawer.
+19.	 In the instant case, there is nothing to indicate that the appellant had 
+a dishonest intention from the very beginning. Had it been a case 
+where the appellant had not made the movie despite borrowing funds 
+to make one, an inference about existence of a dishonest intention 
+was permissible. However, here there is no allegation that movie 
+was not made. Rather, it was made and released. The prosecution 
+case itself is to the effect that further advance was taken to complete 
+and release the movie. However, when complainant took objection 
+to its release, the appellant issued post-dated cheques to repay the 
+principal amount. Thus, those cheques were to discharge an existing 
+liability and not by way of an inducement to take more money. 
+20.	 Assuming that by issuance of those cheques, the de facto complainant 
+was led to vacate his objection to movie’s release, even then an 
+offence of cheating would not be made out for two reasons. First, those 
+cheques were post-dated therefore, did not carry a representation 
+of sufficient funds in the bank account at the time of its issuance. 
+
+248
+[2026] 4 S.C.R.
+Supreme Court Reports
+Second, initial agreement, as per the allegations, was to share profit 
+on release of the movie. Thus, in absence of allegations that movie 
+made profits, in our view, the complaint and the supporting materials 
+failed to indicate that the appellant harboured a dishonest intention 
+from inception. In conclusion, the allegations only disclosed a civil 
+cause of action and the High Court fell in error in not quashing the 
+criminal proceedings. 
+21.	 For the foregoing reasons, the appeal is allowed. The impugned 
+judgment and order of the High Court is set aside to the extent it 
+declined quashing of the proceedings under Section 420 IPC. The 
+impugned criminal proceedings under Section 420 IPC are also 
+quashed. Pending applications if any stands disposed of.
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Nidhi Jain

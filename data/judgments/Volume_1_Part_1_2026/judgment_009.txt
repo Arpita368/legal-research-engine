@@ -1,0 +1,301 @@
+[2026] 1 S.C.R. 183 : 2026 INSC 27
+S. Nagesh
+v.
+Shobha S. Aradhya 
+(Criminal Appeal No. 75 of 2026)
+06 January 2026
+[Sanjay Kumar* and Alok Aradhe, JJ.]
+Issue for Consideration
+Issue arose as regards the correctness of the order passed by 
+the Magistrate taking cognizance of the respondent’s complaint 
+u/s.138 of the NI Act, even before the delay of two days in its 
+presentation was condoned.
+Headnotes†
+Negotiable Instruments Act, 1881 – ss.138, 142 – Dishonour 
+of cheque for insufficiency, etc., of funds in the account – 
+Cognizance of offences – Magistrate taking cognizance of 
+the complaint u/s.138, before the delay of two days in its 
+presentation was condoned – Correctness:
+Held: Magistrate erred in taking cognizance of the respondent’s 
+complaint u/s.138, even before the delay of two days in its 
+presentation was condoned – It is manifest from the clear and 
+unambiguous language of the proviso to s.142(1)(b) that the 
+power conferred upon the Court to take cognizance of a belated 
+complaint is subject to the complainant first satisfying the Court that 
+he had sufficient cause for not making the complaint within time – 
+Satisfaction in that regard, resulting in condonation of the delay, 
+must therefore precede the act of taking cognizance – Ordinarily, 
+a proceeding instituted with limitation-linked delay before a Court 
+of law does not actually figure as a regular matter on its file until 
+that delay is condoned – Thus, the approach of the High Court in 
+treating this crucial aspect as a mere interchangeable exercise, 
+either to first condone the delay or to first take cognizance, is not 
+in keeping with the mandate of the proviso – Respondent herself 
+responsible for this imbroglio as she had made a categorical 
+* Author
+
+184
+[2026] 1 S.C.R.
+Supreme Court Reports
+statement in her complaint that it was filed within time, when it 
+was not – Order passed by the High Court refusing to quash the 
+same set aside. [Paras 14, 15]
+Case Law Cited
+Dashrath Rupsingh Rathod v. State of Maharashtra and Another 
+[2014] 11 SCR 921 : (2014) 9 SCC 129 – referred to.
+List of Acts
+Negotiable Instruments Act, 1881; Code of Criminal Procedure, 
+1973.
+List of Keywords
+Magistrate taking cognizance of complaint u/s.138 NI Act; Delay; 
+Condonation; Belated complaint; Cognizance.
+Case Arising From
+CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 
+75 of 2026
+From the Judgment and Order dated 28.06.2024 of the High Court 
+of Karnataka at Bengaluru in CRLP No. 9119 of 2018
+Appearances for Parties
+Advs. for the Appellant(s):
+Ashwin V. Kotemath, Harisha S.R.
+Judgment / Order of the Supreme Court
+Judgment
+Sanjay Kumar, J.
+1.	
+Leave granted.
+2.	
+Challenge in this appeal is to the order dated 28.06.2024 passed 
+by a learned Judge of the Karnataka High Court in Criminal Petition 
+No. 9119 of 2018. This petition was filed by S. Nagesh, the appellant 
+before us, under Section 482 of the Code of Criminal Procedure, 
+1973, seeking the quashing of the complaint in PCR No. 3144 of 
+
+[2026] 1 S.C.R. 
+185
+S. Nagesh v. Shobha S. Aradhya
+2013, which was converted as CC No. 1439 of 2014 on the file of 
+the learned I Additional I Civil Judge and Judicial Magistrate First 
+Class at Mysore1. The learned Judge rejected the petition, holding 
+that the delay of two days in the filing of the complaint was bonafide 
+and cognizance had rightly been taken. 
+3.	
+In her complaint in PCR No. 3144 of 2013, Shobha S. Aradhya, the 
+respondent, averred as follows: The appellant had approached her 
+husband and her, seeking financial assistance to purchase a house 
+and to meet legal necessities. They lent him a sum of ₹5,40,000/- 
+between the dates 27.01.2010 and 26.07.2010. He, thereafter, issued 
+cheque dated 10.07.2013 drawn in her name for the said sum, 
+assuring that it would be honoured upon presentation. However, 
+the cheque was dishonoured on 17.07.2013 for insufficiency of 
+funds. She got issued legal notice dated 13.08.2013 calling upon 
+the appellant to pay the cheque amount within 15 days but the 
+same was returned as ‘unclaimed’ on 22.08.2013. However, the 
+copy of the notice sent through courier was not returned unserved 
+and the same amounted to deemed service. However, no payment 
+was made by the appellant. She, thereupon, filed the complaint 
+praying that the Court take cognisance of the offence punishable 
+under Section 138 of the Negotiable Instruments Act, 18812, and 
+punish the appellant in accordance with law, apart from awarding 
+her compensation. 
+4.	
+The then learned Magistrate, after perusing the complaint and 
+the documents, noted the presence of the complainant and took 
+cognisance, vide order dated 09.10.2013. However, by order dated 
+23.05.2014, the successor learned Magistrate noted that, though 
+there was a delay of two days in the filing of the complaint, his 
+predecessor-in-office had already taken cognisance of the offence 
+and granted liberty to the accused, viz., the appellant, to contest the 
+delay at the time of the trial. The case was directed to be registered 
+against the appellant for the offence punishable under Section 138 
+of the NI Act and summons were directed to be issued to him to 
+appear on the next date of hearing. It was reiterated that liberty was 
+granted to the appellant to contest the delay at the time of the trial.
+1	
+For short, ‘the learned Magistrate’ 
+2	
+For short, ‘the NI Act’
+
+186
+[2026] 1 S.C.R.
+Supreme Court Reports
+5.	
+Thereafter, by order dated 04.02.2016, the learned Magistrate noted 
+that an application had been filed for condonation of the delay of two 
+days in the presentation of the complaint and opined that the same 
+required to be considered before the case went to trial on merits. 
+Having considered the objections on the said application, the learned 
+Magistrate passed order dated 30.10.2018 allowing it. Therein, it 
+was noted that the complainant had stated in the condone delay 
+application that she was suffering from viral fever and was, therefore, 
+unable to present the complaint within time. The learned Magistrate 
+also took note of the medical certificate produced by her, wherein 
+it was stated that she was suffering from viral fever and was under 
+treatment from 04.10.2013 to 07.10.2013. Opining that the delay of 
+two days in the presentation of the complaint was purely bonafide, 
+the learned Magistrate allowed the application; condoned the delay 
+in the filing of the complaint; and directed issuance of a non-bailable 
+warrant against the appellant. 
+6.	
+Aggrieved by this turn of events, the appellant approached the High 
+Court by way of Criminal Petition No. 9119 of 2018. This petition was 
+filed on 06.12.2018. Therein, the appellant contended that there was 
+a delay of sixteen days in the filing of the complaint and not just two 
+days. He pointed out that the respondent had filed the complaint on 
+09.10.2013 and cognisance was taken by the learned Magistrate on 
+the very same day. He contended that this procedure was totally 
+opposed to the scheme of the NI Act. He further contended that 
+the condonation of the delay of two days by the learned Magistrate, 
+vide order dated 30.10.2018, was equally without jurisdiction and 
+contrary to the statutory provisions. His specific argument was that 
+the learned Magistrate did not have the jurisdiction to take cognisance 
+before the delay was condoned and the steps taken to the contrary 
+were in violation of the prescribed procedure. He also contested 
+the matter on merits, denying his liability, and prayed for quashing 
+of the complaint.
+7.	
+Perusal of the impugned order dated 28.06.2024 passed by the 
+High Court reflects that the solitary issue focused upon by the 
+appellant before the learned Judge was that the learned Magistrate 
+could not have taken cognisance without first condoning the delay 
+in the filing of the complaint. The learned Judge concurred with 
+the view taken by the learned Magistrate that the delay in the 
+filing of the complaint was actually two days and not more and 
+
+[2026] 1 S.C.R. 
+187
+S. Nagesh v. Shobha S. Aradhya
+that it was bonafide, justifying its condonation. Further, the learned 
+Judge noted that the proviso to Section 142(1)(b) of the NI Act 
+empowered the Court concerned to take cognisance of a complaint 
+made even after the prescribed period of one month from the 
+date on which the cause of action arose under clause (c) of the 
+proviso to Section 138 of the NI Act, if the complainant satisfied 
+the Court that he had sufficient cause for not making the complaint 
+within that period. The learned Judge, therefore, observed that 
+the legislature had conferred express power on the Court to take 
+cognisance even in respect of a belated complaint, if sufficient 
+cause for such belated presentation was established by the 
+complainant. 
+8.	
+Per the learned Judge, whether the Court condoned the delay after 
+taking cognisance or whether it first condoned the delay and then 
+took cognisance did not, in any way, vitiate the taking of cognisance 
+as what was of consequence was whether the Court had condoned 
+the delay in the presentation of the complaint. The learned Judge held 
+that, if cognisance is taken without the delay in the presentation of 
+the complaint being condoned, it would only be a curable irregularity. 
+According to the learned Judge, it is only when the Court failed to 
+condone the delay altogether, during the pendency of the proceedings, 
+and went on to adjudicate the matter on merits that the proceedings 
+would stand vitiated. 
+9.	
+On facts, the learned Judge observed that the learned Magistrate 
+had taken cognisance on 09.10.2013 without noticing that the 
+complaint had been filed with delay, perhaps being misled by the 
+erroneous averment in the complaint that it was filed within time. 
+However, upon noticing the delay of two days in the presentation 
+of the complaint, the learned Magistrate had observed that his 
+predecessor-in-office had taken cognisance without noticing the 
+delay and kept the said issue alive. The learned Judge held that, 
+as the complaint was of the year 2013 and the matter had been 
+pending for more than 11 years, there was no justification in 
+considering the delay of two days in the filing of the complaint as 
+of consequence. The learned Judge affirmed the condonation of 
+that delay by the learned Magistrate and upheld the cognisance 
+taken, though it was irregular, observing that the said irregularity 
+stood cured on the delay being condoned. The appellant’s petition 
+was, accordingly, dismissed.
+
+188
+[2026] 1 S.C.R.
+Supreme Court Reports
+10.	 The learned counsel for the appellant would argue that cognizance 
+could not have been taken by the learned Magistrate of the belated 
+complaint filed by the respondent without first considering and 
+condoning the delay in the presentation of the complaint, provided 
+sufficient cause was shown for such delay by her. He would contend 
+that, in the light of the law laid down by a 3-Judge Bench of this 
+Court in Dashrath Rupsingh Rathod vs. State of Maharashtra and 
+another3, the learned Judge of the High Court was in error in rejecting 
+the quash petition of the appellant.
+11.	 Despite service of notice, the respondent did not choose to enter 
+appearance before this Court till after the judgment in this case 
+was reserved on 02.12.2025. However, a mention was made on 
+05.12.2025 by the learned counsel who was instructed to appear 
+for the respondent. He was, accordingly, permitted to file his 
+written submissions after entering appearance for the respondent. 
+In his written submissions, the learned counsel admitted that the 
+respondent’s complaint was filed on 09.10.2013 and cognisance was 
+taken on the very same day. Though the learned counsel stressed 
+upon the order dated 23.05.2014 passed by the learned Magistrate 
+remaining unchallenged, we may note that it was only on 30.10.2018 
+that the learned Magistrate condoned the delay of two days, thereby 
+validating the cognisance taken by his predecessor-in-office even 
+before an application for condonation of delay was filed. Therefore, 
+the failure of the appellant to challenge the earlier orders is of no 
+consequence. More so, as the learned Magistrate had, in fact, 
+reserved the right of the appellant to raise the issue of delay during 
+the trial but, having stated so, the learned Magistrate, thereafter, took 
+upon himself the task of deciding the limitation issue and condoned 
+the delay by the later order dated 30.10.2018. 
+12.	 At this stage, we may note that, in Dashrath Rupsingh Rathod 
+(supra), it was held that cognisance under Section 142 of the NI Act 
+of an offence under Section 138 thereof is forbidden except upon 
+a complaint, in writing, made by the payee or holder of the cheque 
+in due course within one month from the date the cause of action 
+accrues to such payee or holder under clause (c) of the proviso to 
+Section 138. It was observed that the proviso to Section 138 simply 
+3	
+(2014) 9 SCC 129
+
+[2026] 1 S.C.R. 
+189
+S. Nagesh v. Shobha S. Aradhya
+postpones institution of criminal proceedings and taking of cognisance 
+by the Court till such time the cause of action in terms of clause (c) 
+of the proviso accrues to the complainant. 
+13.	 We may note that the proviso to Section 142(1)(b) of the NI Act was 
+inserted by Act 55 of 2002, with effect from 06.02.2003. Section 
+142(1)(b), to the extent relevant, reads as under: -
+142. Cognizance of offences.— (1) Notwithstanding 
+anything contained in the Code of Criminal Procedure, 
+1973 (2 of 1974) — 
+(a) ………;
+(b) such complaint is made within one month of the date 
+on which the cause of action arises under clause (c) of 
+the proviso to Section 138: 
+Provided that the cognizance of a complaint may be taken 
+by the Court after the prescribed period, if the complainant 
+satisfies the Court that he had sufficient cause for not 
+making a complaint within such period.
+14.	 It is manifest from the clear and unambiguous language of the above 
+proviso that the power conferred upon the Court to take cognisance 
+of a belated complaint is subject to the complainant first satisfying 
+the Court that he had sufficient cause for not making the complaint 
+within time. The satisfaction in that regard, resulting in condonation 
+of the delay, must therefore precede the act of taking cognizance. 
+Ordinarily, a proceeding instituted with limitation-linked delay before 
+a Court of law does not actually figure as a regular matter on its file 
+until that delay is condoned. For example, Order XLI Rules 3A and 
+5(3) of the Code of Civil Procedure, 1908, make this position amply 
+clear in the context of belated presentation of civil appeals. Therefore, 
+the approach of the High Court in treating this crucial aspect as a 
+mere interchangeable exercise, i.e., either to first condone the delay 
+or to first take cognisance, is not in keeping with the mandate of the 
+aforestated proviso. We may note that the respondent was herself 
+responsible for this imbroglio as she had made a categorical statement 
+in her complaint that it was filed within time, when it was not.
+15.	 On the above analysis, we have no hesitation in holding that the 
+learned Magistrate erred in taking cognisance of the respondent’s 
+
+190
+[2026] 1 S.C.R.
+Supreme Court Reports
+complaint under Section 138 of the NI Act, even before the delay of 
+two days in its presentation was condoned. The order passed by the 
+High Court refusing to quash the same is, thus, set aside.
+The appeal is accordingly allowed. In consequence, the complaint 
+in PCR No. 3144 of 2013, which was converted as CC No. 1439 of 
+2014 on the file of the learned I Additional I Civil Judge and Judicial 
+Magistrate First Class, Mysore, shall stand quashed. 
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Nidhi Jain

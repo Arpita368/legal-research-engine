@@ -1,0 +1,390 @@
+[2026] 7 S.C.R. 11 : 2026 INSC 616
+National Highway Authority of India 
+v.
+T. Younis & Anr.
+(Civil Appeal No. 8388 of 2026)
+02 June 2026
+[Pamidighantam Sri Narasimha and Alok Aradhe, JJ.]
+Issue for Consideration
+Whether the limitation u/s.34(3) of the Arbitration and Conciliation 
+Act, 1996 would commence from the date of the original award or 
+from the date on which the application u/s.33 came to be disposed of.
+Headnotes†
+Arbitration and Conciliation Act, 1996 – ss.33, 34 – National 
+Highways Act, 1956 – ss.3A(1), 3G(1) – Acquisition of land 
+by the Central Government – The Competent Authority 
+determined the compensation – Appellant invoked Arbitration 
+u/s.3G(1) – The Arbitrator passed an Award on 03.2.2022 by 
+granting the benefit of ss.23(1- A), 23(2), 28 and s.34 of the 
+Land Acquisition Act, 1894 – Both Appellant and Respondent 
+no.1 filed separate applications u/s.33, which were dismissed 
+by the Arbitrator by a common order dated 04.07.2022 – The 
+certified copy of the said order was received by the Appellant 
+on 15.09.2022  – Appellant filed applications u/s.34 of the 
+Act along with applications seeking condonation of delay – 
+Respondent no.1 raised an objection – The Principal District & 
+Sessions Judge condoned the delay in filing the applications 
+u/s.34 of the Act – Respondent no.1 challenged the same 
+by filing a writ petition – The High Court concluded that the 
+benefit of limitation u/s.34(3) of the Act was not available and, 
+therefore, the limitation could not be computed from the date 
+of disposal of such applications – Consequently, the arbitration 
+applications were dismissed – Correctness:
+Held: The issue involved in the instant appeal is no longer 
+res integra – It is settled that for the purposes of computation 
+of limitation u/s.34(3) of the Act, it is the date of disposal of the 
+application u/s.33 of the Act that would earmark the starting point 
+of limitation for filing an application u/s.34 of the Act – A plain 
+
+12
+[2026] 7 S.C.R.
+Supreme Court Reports
+reading of s.34(3), read in the light of the law laid down in Geojit, 
+makes it clear that once jurisdiction u/s.33 is formally invoked 
+and such proceedings are entertained by the Arbitral Tribunal, 
+the limitation for filing an application u/s.34 would commence only 
+from the date on which such request is disposed of by the Arbitral 
+Tribunal – In the facts of the present case, it is not in dispute 
+that the certified copy of the common order dated 04.07.2022 
+disposing of the applications u/s.33 was received by the Appellant 
+on 15.09.2022 and that the applications u/s.34 were thereafter 
+filed on 07.11.2022 – Thus, even reckoning limitation from the 
+date of receipt of the order disposing of the applications u/s.33, 
+the applications u/s.34 of the Act were instituted within the period 
+contemplated u/s.34(3) of the Act – Therefore, the contention 
+of the Respondent that the applications u/s.34 of the Act were 
+barred by limitation does not merit acceptance – Accordingly, the 
+impugned judgment and order dated 22.01.2024 passed by the 
+High Court is set aside – The orders dated 05.08.2023 passed 
+by the Principal District and Sessions Judge condoning the delay 
+in filing the applications u/s.34 of the Act, are restored – The 
+applications u/s.34 of the Act, to be decided on their own merits, 
+in accordance with the law. [Paras 18-20]
+Case Law Cited
+State of Arunachal Pradesh v. Damani Construction Co. [2007] 3 
+SCR 416 : (2007) 10 SCC 742; Geojit Financial Services Ltd. v. 
+Sandeep Gurav, 2025 INSC 1021 : [2025] 8 SCR 1427; Ved 
+Prakash Mithal and Sons v. Union of India, 2018 SCC OnLine 
+SC 3181; USS Alliance v. State of U.P., 2023 SCC OnLine SC 
+778 – referred to.
+List of Acts
+Arbitration and Conciliation Act, 1996; National Highways Act, 
+1956; Land Acquisition Act, 1894.
+List of Keywords
+Section 34(3) of the Arbitration and Conciliation Act, 1996; Section 
+33 of the Arbitration and Conciliation Act, 1996; Section 3G of the 
+National Highways Act, 1956; Limitation Period; Commencement of 
+Limitation; Time-Barred Challenge; Enhancement of Compensation; 
+Extension of Limitation; Land Acquisition Proceedings.
+
+[2026] 7 S.C.R. 
+13
+National Highway Authority of India v. T. Younis & Anr.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 8388 of 2026
+From the Judgment and Order dated 22.01.2024 of the High Court 
+of Karnataka Circuit Bench at Dharwad in WP No. 105176 of 2023
+Appearances for Parties
+Advs. for the Appellant(s):
+Ms. Pinky Anand, Sr. Adv., Tarun Dua, Sumit Gupta, Ms. Saudamini 
+Sharma, Akshay Kumar Tiwari, Ms. Tanya Shrotriya, Venkita 
+Subramoniam T.R.
+Advs. for the Respondent(s):
+Sushil Kumar Jain, Sr. Adv., Anandakumar A Magadum, Darpan 
+Km, Ms. Amrita Sharma, Rajat Jonathan Shaw, Ajay Magadum, 
+Ms. Easha Chandhok, Prashant Upadhyay, Ms. Mahima Sadawat, 
+Sidharth Jain, Ms. Rashi Bansal.
+Judgment / Order of the Supreme Court
+Judgment
+1.	
+Leave granted.
+2.	
+The present appeal arises from the judgment and order dated 
+22.01.2024, passed by the High Court of Karnataka, Dharwad 
+Bench, (“High Court”) by which the writ petition1 preferred by the 
+Respondents was allowed. By the said order, the High Court, set 
+aside the order dated 05.08.2023 passed by the Principal District 
+and Sessions Judge, Bellary, whereby delay in filing the applications 
+under Section 34 of the Arbitration and Conciliation Act, 1996 (“the 
+Act”) was condoned.
+3.	
+Facts leading to filing of this appeal are that on 15.12.2009, the 
+Ministry of Shipping, Road Transport and Highways issued a 
+preliminary notification under Section 3A(1) of the National Highways 
+Act, 1956, (‘1956 Act’) for acquisition of land in Bellary District. 
+The said notification included the land belonging to Respondent 
+No.1 as well. By a declaration dated 14.12.2010 issued under 
+1	
+Writ Petition No. 105176 of 2023 (GM-RES).
+
+14
+[2026] 7 S.C.R.
+Supreme Court Reports
+Section 3D(2), the land vested in the Central Government free from 
+all encumbrances. The competent authority by an Award dated 
+05.12.2011, determined the compensation under Section 3G(1) of 
+the 1956 Act.
+4.	
+The Appellant invoked the remedy of Arbitration under Section 3G(5) 
+of the 1956 Act. The Deputy Commissioner-Cum-Arbitrator, Bellary 
+(Arbitrator) vide Award dated 16.02.2013, redetermined the market 
+value of agricultural land at the rate of Rs.362/- per sq. metre, whereas 
+the market value of the non-agricultural land was assessed at Rs.741/- 
+per sq. metre. The High Court by an order dated 16.03.2019 set 
+aside the Arbitral Award dated 16.02.2013 and remitted the matter 
+to the Arbitrator for de novo consideration. 
+5.	
+Pursuant to the remand, the Arbitrator conducted fresh proceedings 
+and passed an Award on 03.2.2022 by granting the benefit of Section 
+23(1-A), 23(2), 28 and Section 34 of the Land Acquisition Act, 1894 
+(1894 Act). On 08.03.2022, the Appellant filed application under 
+Section 33(1)(a) of the Act before Arbitrator seeking correction of 
+Arbitral Award, inter alia on the ground that grant of additional market 
+value under Section 23 and interest under Section 34 of the 1894 Act 
+is not legally sustainable. On 10.03.2022, the Respondent No.1 filed 
+an application under Section 33(4) of the Act seeking an additional 
+award of 50% over and above the market value on the ground that 
+such a claim had been raised during the Arbitral Proceeding, but the 
+same was omitted in the final Award. The Arbitrator by a common 
+order dated 04.07.2022, dismissed the applications filed under 
+Section 33 of the Act by the Appellant as well as Respondent No.1. 
+The certified copy of the said order was received by the Appellant 
+on 15.09.2022.
+6.	
+On 29.10.2022, the Appellant filed applications under Section 34 of 
+the Act along with applications seeking condonation of delay2. The 
+Respondent No. 1 raised an objection contending that the applications 
+under Section 34 of the Act were filed with delay which was beyond 
+the condonable period of delay of 120 days, as provided, in proviso 
+to Section 34(3) of the Act. The Principal District & Sessions Judge, 
+Bellary by an order dated 05.08.2023 condoned the delay in filing the 
+applications under Section 34 of the Act and allowed the same. The 
+2	
+Arbitration Application Nos. 3/2022 and 4/2022.
+
+[2026] 7 S.C.R. 
+15
+National Highway Authority of India v. T. Younis & Anr.
+Respondent No.1 challenged the aforesaid order dated 05.08.2023 
+in a Writ Petition3. 
+7.	
+The High Court by a judgment and order dated 22.01.2024, held 
+that Section 33(1) (a) of the Act permits correction of computation, 
+clerical or typographical errors or errors of similar nature. It was further 
+held that the prayer made in the application filed by the Appellant 
+seeking modification of the Arbitral Award did not fall within the 
+purview of Section 33(1)(a) of the Act and hence the same was not 
+maintainable. The High Court concluded that the benefit of limitation 
+under Section 34(3) of the Act was not available and, therefore, 
+the limitation could not be computed from the date of disposal of 
+such applications. Consequently, the arbitration applications4 were 
+dismissed. Aggrieved by the judgment of the High Court, the Appellant 
+has filed the present appeal. 
+8.	
+We have heard Ms. Pinky Anand, learned senior counsel appearing 
+for the Appellant and Mr. Sushil Kumar Jain, learned senior counsel 
+appearing for the Respondent.
+9.	
+The learned senior counsel appearing for the Appellant submitted 
+that both the parties had filed applications under Section 33 of the 
+Act, therefore, the Appellant could not have filed the application under 
+Section 34 of the Act, before disposal of the said applications. It is 
+contended that High Court erred in refusing to exclude the period 
+spent in disposal of the application under Section 33 while computing 
+the limitation under Section 34(3) of the Act and erred in placing 
+reliance on the decision in State of Arunachal Pradesh v. Damani 
+Construction Co.5 It is urged that the application under Section 
+33(1)(a) merely sought correction of clerical and typographical errors 
+in the Arbitral Award and did not amount to review of the Award. It 
+is submitted that the issue involved in the appeal is no longer res 
+integra and has been dealt with by this Court in Geojit Financial 
+Services Ltd. v. Sandeep Gurav6. 
+10.	 Per contra, learned senior counsel for Respondent No.1 submitted 
+that the application filed by the Appellant under Section 33(1)(a) of the 
+3	
+W.P. No. 105176/2023.
+4	
+Arbitration Application Nos. 3/2022 and 4/2022.
+5	
+(2007) 10 SCC 742
+6	
+2025 INSC 1021. 
+
+16
+[2026] 7 S.C.R.
+Supreme Court Reports
+Act, in substance was an attempt to review the Arbitral Award and not 
+merely an application for correction of clerical or typographical errors. 
+It was contended that Appellant had sought modification of substantive 
+findings in the Award which fell outside the limited scope of Section 
+33(1)(a). It was urged that only an application which is maintainable 
+under Section 33 could extend the limitation under Section 34(3) 
+of the Act. Relying on State of Arunachal Pradesh (supra), it was 
+contended that since the Appellant’s application under Section 33 of 
+the Act was itself not maintainable, it could not claim exclusion of time 
+spent in disposal of the said application for the purposes of limitation. 
+It was argued that Arbitral Tribunal had become functus officio after 
+passing of the Award and therefore the merits of the dispute could 
+not be reopened in the guise of an application under Section 33 of 
+the Act. It was further argued that Appellant’s applications under 
+Section 34 were barred by limitation as the same were filed beyond 
+the statutory outer limit prescribed under Section 34(3) of the Act, 
+even assuming that the Appellant is entitled to exclusion of time for 
+the period spent in disposal of application under Section 33 of the Act. 
+11.	 Having heard the rival contentions and perusing the material on 
+record, the issue that arises is whether the limitation under Section 
+34(3) would commence from the date of the original award or from 
+the date on which the application under Section 33 came to be 
+disposed of.
+12.	 For the sake of convenience, the relevant part of Sections 33 and 34 
+of the Act, are extracted below:
+Section 33
+“33. Correction and interpretation of award; additional 
+award. — (1) Within thirty days from the receipt of the 
+arbitral award, unless another period of time has been 
+agreed upon by the parties— 
+a party, with notice to the other party, may request the 
+arbitral tribunal to correct any computation errors, any 
+clerical or typographical errors or any other errors of a 
+similar nature occurring in the award; 
+(b) if so agreed by the parties, a party, with notice to the 
+other party, may request the arbitral tribunal to give an 
+interpretation of a specific point or part of the award. 
+
+[2026] 7 S.C.R. 
+17
+National Highway Authority of India v. T. Younis & Anr.
+(2) If the arbitral tribunal considers the request made under 
+sub-section (1) to be justified, it shall make the correction 
+or give the interpretation within thirty days from the receipt 
+of the request and the interpretation shall form part of the 
+arbitral award. 
+(3) The arbitral tribunal may correct any error of the type 
+referred to in clause (a) of sub-section (1), on its own 
+initiative, within thirty days from the date of the arbitral 
+award…” 
+Section 34 
+“34. Application for setting aside arbitral award.
+(…)
+(3) An application for setting aside may not be made after 
+three months have elapsed from the date on which the 
+party making that application had received the arbitral 
+award or, if a request had been made under section 33, 
+from the date on which that request had been disposed 
+of by the arbitral tribunal:
+Provided that if the Court is satisfied that the applicant was 
+prevented by sufficient cause from making the application 
+within the said period of three months it may entertain the 
+application within a further period of thirty days, but not 
+thereafter.”
+13.	 Section 33 of the Act deals with the request made to the Arbitral 
+Tribunal for correction and interpretation of the award as well as for 
+rendering additional award. An application under Section 33 of the 
+Act is required to be made within a period of 30 days from the date 
+of the receipt of the award. From careful scrutiny of Section 34(3) 
+of the Act, it is evident that where a request under Section 33 of 
+the Act has been made, the limitation for filing an application under 
+Section 34 of the Act shall be reckoned from the date on which such 
+request is disposed of by the Arbitral Tribunal. The said provision 
+does not distinguish between the applications which are ultimately 
+allowed or dismissed. The said provision also does not indicate that 
+only an application which is maintainable under Section 33 of the 
+Act would defer the commencement of litigation under Section 34(3) 
+
+18
+[2026] 7 S.C.R.
+Supreme Court Reports
+of the Act. Had the legislature intended to restrict the benefit only to 
+the applications which were ultimately allowed or which were held 
+to be maintainable, it would have expressly provided so. The Court 
+cannot read into the provision a restriction which the legislature itself 
+has not consciously incorporated.
+14.	 Once proceedings under Section 33 are initiated and entertained 
+by the Arbitral Tribunal, the award remains subject to the 
+limited jurisdiction of the tribunal for correction, interpretation, or 
+supplementation as contemplated under the provision. So long as 
+such proceedings remain pending, the parties cannot be compelled 
+to institute proceedings under Section 34 merely as a matter of 
+abundant caution. The parties can effectively pursue their remedy 
+under Section 34 only upon conclusion of the proceedings under 
+Section 33. Consequently, the limitation prescribed under Section 
+34(3) can start only from the date on which the proceedings under 
+Section 33 are disposed of.
+15.	 In our view, the contention of the Respondent that only an application 
+which is “maintainable” under Section 33 can defer the commencement 
+of limitation under Section 34(3), cannot be accepted. Whether the 
+application under Section 33 ultimately succeeds or fails, or whether 
+the Arbitral Tribunal eventually finds that no correction or modification 
+of the award is warranted, is not determinative for the purpose of 
+Section 34(3). What is relevant is that whether the jurisdiction of the 
+Arbitral Tribunal under Section 33 had been formally invoked and that 
+such proceedings remained pending consideration before the tribunal.
+16.	 The reliance placed by the Respondent on State of Arunachal 
+Pradesh (supra) is misplaced. That case arose in an entirely different 
+factual context where there was no formal application under Section 
+33 invoking the jurisdiction of the Arbitral Tribunal. The party had 
+merely addressed a letter, in substance seeking review of the award 
+and certain ancillary clarifications beyond the contours of section 
+33. It was in that context, that this Court held such communication 
+could not entitle a fresh starting point of limitation under Section 
+34(3). The facts of the present case stand on an entirely different 
+footing. Here, formal applications under Section 33 were admittedly 
+filed by both parties within the statutory period, and the same were 
+entertained and disposed of by the Arbitral Tribunal by a common 
+order dated 04.07.2022.
+
+[2026] 7 S.C.R. 
+19
+National Highway Authority of India v. T. Younis & Anr.
+17.	 We are also of the view that the interpretation adopted by the High 
+Court would defeat the scheme and object of the Act. If parties 
+are compelled to institute proceedings under Section 34 during the 
+pendency of proceedings, under Section 33 merely as a matter of 
+abundant caution, it would result in multiplicity of proceedings and 
+procedural uncertainty. At the same time, it is clarified that where 
+applications under Section 33 are found to be sham, frivolous, or 
+mala fide or solely filed for the purpose of defeating limitation under 
+Section 34(3) of the Act, the courts would be justified in imposing 
+exemplary and punitive costs, as maintaining the balance between 
+preserving legitimate remedies and preventing abuse of process is 
+fundamental to effective administration of justice.
+18.	 Even otherwise, the issue involved in the instant appeal is no longer 
+res integra. This Court7 after examining Sections 33 and 34(3) of the 
+Act has held that for the purposes of computation of limitation under 
+Section 34(3) of the Act, it is the date of disposal of the application 
+under Section 33 of the Act that would earmark the starting point of 
+limitation for filing an application under Section 34 of the Act. We are 
+in agreement with the view taken by this Court in aforesaid decisions. 
+A plain reading of Section 34(3), read in the light of the law laid down 
+in Geojit (supra), makes it clear that once jurisdiction under Section 
+33 is formally invoked and such proceedings are entertained by the 
+Arbitral Tribunal, the limitation for filing an application under Section 
+34 would commence only from the date on which such request is 
+disposed of by the Arbitral Tribunal. 
+19.	 In the facts of the present case, it is not in dispute that the certified 
+copy of the common order dated 04.07.2022 disposing of the 
+applications under Section 33 was received by the Appellant on 
+15.09.2022 and that the applications under Section 34 were thereafter 
+filed on 07.11.2022. Thus, even reckoning limitation from the date of 
+receipt of the order disposing of the applications under Section 33, 
+the applications under Section 34 of the Act were instituted within 
+the period contemplated under Section 34(3) of the Act. Therefore, 
+the contention of the Respondent that the applications under Section 
+34 of the Act were barred by limitation does not merit acceptance.
+﻿7	
+Ved Prakash Mithal and Sons v. Union of India, 2018 SCC OnLine SC 3181; USS Alliance v. State of 
+U.P., 2023 SCC OnLine SC 778, Geojit (supra).
+
+20
+[2026] 7 S.C.R.
+Supreme Court Reports
+20.	 Accordingly, the impugned judgment and order dated 22.01.2024 
+passed by the High Court is set aside. The orders dated 05.08.2023 
+passed by the Principal District and Sessions Judge, Ballari, 
+condoning the delay in filing the applications under Section 34 of 
+the Act, are restored. The applications under Section 34 of the Act, 
+shall now be decided on their own merits, in accordance with the law.
+21.	 The appeal is accordingly allowed. Pending application(s), if any, 
+shall stand disposed of.
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Ankit Gyan

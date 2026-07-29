@@ -1,0 +1,694 @@
+[2026] 3 S.C.R. 415 : 2026 INSC 221
+Central Bureau of Investigation
+v.
+Baljeet Singh
+(Special Leave Petition (Crl.) No. 12486 of 2025)
+10 March 2026
+[Sanjay Kumar and K. Vinod Chandran,* JJ.]
+Issue for Consideration
+Bereft of proof of the conspiracy theory and finding absence of the 
+demand of bribe, the conviction of both the accused (A1 and A2) 
+was overturned by the High Court.
+Headnotes†
+Prevention of Corruption Act, 1988 – s.7 – Penal Code, 1860 – 
+s.120B – PW1 alleged that Income Tax Officer-A2 made a 
+demand of Rs.5 lakhs purportedly on behalf of appellant, 
+Assessing Officer-A1 – PW1 approached CBI – PW1 is alleged 
+to have informed A2 that he had in his possession only Rs.2 
+lakhs – Trap was laid – PW1 then went to the office room of 
+A1, where he found only A2, to whom he handed over the 
+envelope, which A2 put in his coat pocket – The Trap Laying 
+Officer (TLO) and another constable caught hold of the hands 
+of A2 and one of the independent witnesses, PW18 was 
+asked to search A2 – Envelope was recovered – The notes 
+were taken out from the envelope recovered from the coat 
+pocket of A2 and both the hands of A2 being submerged in 
+two separate tumblers of Sodium Carbonate solution, they 
+turned pink revealing the taint of acceptance of the powdered 
+envelope with the marked notes – Trial Court convicted 
+both the accused persons u/s.120B of the IPC r/w s.7 of the 
+PC Act – The High Court, by the impugned decision, found 
+that there was no conspiracy proved and that there was no 
+proof of a demand having been made by A2 and A1 – 
+Correctness:
+Held: This Court noticed from the evidence of PW22 that after fully 
+corroborating the trap it was deposed that on being challenged, 
+* Author
+
+416
+[2026] 3 S.C.R.
+Supreme Court Reports
+A2 remained mum – It was also testified that A2 tried to escape 
+and take out the money – It was PW1 who pointed out the upper 
+pocket of the coat of A2 where he had kept the envelope which 
+was taken out by PW18 as fully corroborated by PW22 – PW10 
+also stated that the man apprehended in A1’s room turned pale – 
+All these are relevant conduct of A2 pointing to his guilt fortified by 
+the recovery of the marked cash from his body and his hands, coat 
+and sweater, on being washed in the test solution, turning pink, as 
+deposed by the witnesses – The order of acquittal passed by the 
+High Court insofar as A2 is concerned, cannot be accepted – As 
+far as, the trap proper is concerned, there is complete corroboration 
+of the testimony of PW1 by that of PW22, the TLO – There is 
+also sufficient corroboration from PW10 & PW18, the independent 
+witnesses – The hand wash of A2 also stood established beyond 
+doubt – The marked notes were identified from the numbers taken 
+down in the HOM at the time of pre-trap proceedings, corroborated 
+by all the above witnesses – There was neither proof of demand 
+nor acceptance by A1 – However, the acquittal against A2 is set 
+aside and order of the trial Court in convicting him for the offence 
+u/s.7 of the PC Act is restored – The sentence of four years of RI 
+handed down by the trial court is modified to one year, considering 
+the age of A2. [Paras 28-30]
+Case Law Cited
+A. Srinivasulu v. State represented by the Inspector of Police [2023] 
+10 SCR 11 : (2023) 13 SCC 705; Dashrath Singh Chauhan v. Central 
+Bureau of Investigation [2018] 12 SCR 914 : (2019) 17 SCC 509; 
+Bhagat Ram v. State of Rajasthan [1972] 3 SCR 303 : (1972) 2 
+SCC 466; Prakash Chand v. State (Delhi Administration) [1979] 
+2 SCR 330 : (1979) 3 SCC 90; State of Bihar v. Basawan Singh 
+[1959] 1 SCR 195 : AIR 1958 SC 500; Bhanuprasad Hariprasad 
+Dave Rajuji v. State of Gujarat [1969] 1 SCR 22 : AIR 1968 SC 
+1323; Neeraj Dutta v. State (Govt. of NCT of Delhi) [2022] 5 SCR 
+104 : (2023) 4 SCC 731; Sat Paul v. Delhi Administration (1976) 
+1 SCC 727; Himachal Pradesh Administration v. Shri Om Prakash 
+[1972] 2 SCR 765 : (1972) 1 SCC 249 – referred to.
+List of Acts
+Prevention of Corruption Act, 1988; Penal Code, 1860.
+
+[2026] 3 S.C.R. 
+417
+Central Bureau of Investigation v. Baljeet Singh
+List of Keywords
+Corruption; Demand of money; Criminal conspiracy; Demand and 
+acceptance; Trap proceedings; Phenolphthalein Test; Independent 
+Witnesses; Corroboration; Modification of sentence; Pre-trap 
+proceedings.
+Case Arising From
+CRIMINAL APPELLATE JURISDICTION: Special Leave Petition 
+(Criminal) No. 12486 of 2025
+From the Judgment and Order dated 22.03.2024 of the High Court 
+of Delhi at New Delhi in CRLA Nos. 630 and 643 of 2015
+Appearances for Parties
+Advs. for the Petitioner(s):
+Kanakamedala Ravindar Kumar, A.S.G., Mukesh Kumar Maroria, 
+Mayank Pandey, Ms. Rajeshwari Shankar, Akshay Amritanshu, 
+Shashank Bajpai, Praneet Pranav, Aditya Kumar, Siddhant Gupta, 
+Dheeraj B., Mayank Pandey, Ms. Rajeshwari Shankar, Akshay 
+Amritanshu, Praveen Pranav, Shashank Bajpai.
+Advs. for the Respondent(s):
+Vikas Pahwa, Sr. Adv., Ms. Vrinda Bhandari, Manish Tiwari, Jasmeet 
+Singh Chadha, Ms. Shreya Chauhan.
+Judgment / Order of the Supreme Court
+Judgment
+K. Vinod Chandran, J.
+Leave granted.
+2.	
+Bereft of proof of the conspiracy theory and finding absence of the 
+demand of bribe, the conviction of both the accused was overturned 
+by the High Court. The Central Bureau of Investigation (the ‘CBI’) 
+which laid the trap at the instance of the complaint made by PW1, 
+is in appeal.
+3.	
+We heard Mr. Kanakamedala Ravindar Kumar, learned Additional 
+Solicitor General and Mr. Mukesh Kumar Moraria, learned counsel 
+for the appellant-CBI and Mr. Vikas Pahwa, learned Senior Counsel 
+for the respondent-accused.
+
+418
+[2026] 3 S.C.R.
+Supreme Court Reports
+4.	
+PW1, the complainant, was the partner of a firm whose Assessing 
+Officer under the Income Tax Act was the 1st appellant/1st accused; 
+A1. There was a notice issued to the assessee for the assessment 
+year 2008-09 as pending in the office of A1, to finalize which PW1 
+had approached the 2nd appellant/2nd accused; A2, an Income Tax 
+Inspector, who was the subordinate of A1. It was the complaint of 
+PW1 that in October 2010, he had met both the appellants concerned 
+in connection with the scrutiny of the accounts of the firm in which 
+he was a partner, pursuant to which he was directed to furnish 
+information which also was submitted. On 27.12.2010, PW1 had 
+gone to the Income Tax Office where he met A2 who took him to 
+A1. After discussions, when PW1 was coming out with A2, the latter 
+made a demand of Rs.5 lakhs purportedly on behalf of A1. PW1 
+protested and the second appellant having persisted, he haggled 
+for a lesser amount pointing out that in October 2010 the demand 
+was for a far lesser amount of Rs.1,50,000/-. The second appellant 
+refused to budge, and this prompted PW1 to approach the CBI with 
+the complaint. 
+5.	
+The complaint was verified by PW22, referred to as a Trap Laying 
+Officer (TLO). The TLO called for two independent witnesses from 
+the House Taxes Department of the Municipal Corporation of Delhi, 
+PW10 and PW18. In the presence of the independent witnesses 
+there was a telephonic conversation between PW1 and A2, which 
+was recorded in a Digital Voice Recorder (DVR) and transferred 
+to a CD. PW1 is alleged to have informed A2 that he had in his 
+possession only Rs.2 lakhs upon which A2 had directed PW1 to 
+come to his office in the Drum Shaped Building, IP Estate, New 
+Delhi. The pre-trap proceedings were carried out in the presence 
+of the independent witnesses wherein 200 notes of Rs.1000/- each, 
+smeared with phenolphthalein powder, after noting down their serial 
+numbers, were kept in an envelope which also was smeared with 
+the powder. The entire proceedings were recorded and reduced to 
+writing in the Handing Over Memo (HOM) signed by the complainant, 
+the TLO and the independent witnesses. PW1 was given a DVR to 
+record the conversation likely to take place between PW1 and A2. 
+6.	
+The team reached the Income Tax Office upon which PW1 followed 
+by the TLO and the other members of the team entered the building. 
+PW1, on reaching the office of A2 was informed that he is in A1’s 
+
+[2026] 3 S.C.R. 
+419
+Central Bureau of Investigation v. Baljeet Singh
+room. PW1 then went to the office room of A1, where he found 
+only A2, to whom he handed over the envelope, which A2 put in 
+his coat pocket. PW1 walked out of the room followed by A2 and as 
+prearranged, touched his shoe to signal the TLO. The TLO gave signal 
+to the team and confronted A2 and took him back into the room. The 
+independent witnesses too marched into the room, PW18 with the 
+TLO, and PW10, a little later with the other members of the team. 
+The TLO and another constable caught hold of the hands of A2 and 
+one of the independent witnesses, PW18 was asked to search A2. 
+As pointed out by PW1, the envelope was recovered from the coat 
+pocket of A2 by PW18 and handed over to the TLO. The notes were 
+taken out from the envelope recovered from the coat pocket of A2 
+and both the hands of A2 being submerged in two separate tumblers 
+of Sodium Carbonate solution, they turned pink revealing the taint 
+of acceptance of the powdered envelope with the marked notes. 
+7.	
+The TLO asked for A1 who was said to be in the Commissioner’s 
+office. The TLO proceeded to the Commissioner’s office and after 
+making a request to the Commissioner escorted A1 back to his room 
+where the trap team had detained A1. The statements were taken 
+from both A1 & A2 and the arrest recorded. After investigation charge 
+was framed of conspiracy under Section 120B and the offence under 
+Section 7 of the Prevention of Corruption Act, 1988 (for brevity, ‘the 
+PC Act’).
+8.	
+The prosecution examined twenty-three witnesses and produced 
+relevant documents as also transcript of the conversation between 
+PW1 and A2 over telephone and in person, recorded in the DVR. 
+The defense examined three witnesses, two of whom were Officers 
+of the Income Tax Department and DW2, a Junior Judicial Assistant 
+at the record room of the Sessions Court at Patiala House Courts. 
+The Trial Court listed out fifteen circumstances found established 
+and held the charge raised against both the accused to have been 
+proved. Convicting the accused under Section 120B of the IPC r/w 
+Section 7 of the PC Act and separately under Section 7 of the PC 
+Act, sentence was imposed, of 4 years rigorous imprisonment on 
+each count and fine of Rs.1 lakh again on each count, for both, with 
+default sentences of simple imprisonment for 4 months each. 
+9.	
+The High Court, by the impugned decision, found that there was no 
+conspiracy proved and that there was no proof of a demand having 
+
+420
+[2026] 3 S.C.R.
+Supreme Court Reports
+been made by A2 and A1. Disbelieving the conspiracy angle, the trite 
+principle that it is always difficult to establish the same since invariably 
+it is conceived and executed in privacy was noticed. Looking at the 
+evidence proffered it was found that merely for the reason that A1 
+was the Assessing Officer and A2 was assisting him, that by itself 
+was not sufficient to establish a prior meeting of minds between A1 
+and A2, in furtherance of the commission of crime. Immediately we 
+observe that, having gone through the evidence led and the findings 
+of both the Trial Court and the High Court, we are inclined to accept 
+the said finding of the High Court, more particularly for reason of 
+there being absolutely no evidence of A1 having ever demanded a 
+bribe from PW1, nor even the demand made by A2 said to be in 
+the presence of A1. We may note that, while issuing notice in this 
+case on 18.08.2025, this Court dismissed the Special Leave Petition 
+(Crl.) No.12485 of 2025 filed by the CBI against the acquittal of A1/
+Arun Kumar Gurjar.
+10.	 Insofar as the absence of proof of demand, the finding of the High 
+Court was that PW1 failed to disclose at the first instance, about the 
+initial demand of Rs.1,50,000/- in October 2010, in the early part of 
+his chief examination. This was the first charge alleged under Section 
+120B of the IPC. Even in the complaint Ex.PW1/A, there was no 
+mention about the initial demand of Rs.1,50,000/- alleged to have 
+been made in October 2010. A casual statement was also made 
+regarding other contradictions and improvements in the testimony 
+of PW1 to hold that the demand was absent. It was also observed 
+that the transcription of the conversation between PW1 and A2 over 
+the telephone, in the presence of the TLO and the independent 
+witnesses only disclosed the offer made by PW1 of Rs.2 lakhs, 
+which was accepted by A2. It was hence found that even on the 
+crucial date i.e. 29.12.2010, there was no demand made of either 
+Rs.5 lakhs or 2 lakhs from the complainant. Having gone through 
+the testimonies, specifically of PW1, PW10, PW18 and PW 22, we 
+are unable to agree with the High Court, reasons for which we would 
+presently elaborate. 
+11.	 Before we look at the evidence, we should first notice the compelling 
+argument made by the learned Senior Counsel for the respondent 
+that if the conspiracy element is found to be absent then there is 
+no cause to further examine the records since the charge itself has 
+
+[2026] 3 S.C.R. 
+421
+Central Bureau of Investigation v. Baljeet Singh
+to fail. Specific reference is made to the charge-sheet produced as 
+Annexure R2 with the counter affidavit dated 27.10.2025 filed by 
+A2. We cannot but notice that there are two charges raised, one 
+under Section 120B of IPC r/w Section 7 of the PC Act and the other 
+under Section 7 of the PC Act; but without the conspiracy angle, 
+independently as against the two accused. For completeness we 
+extract the charges as hereunder 
+“Firstly, that during the period of October, 2010 to December, 
+2010, you Arun Kumar Gurjar, Joint Commissioner of 
+Income Tax, Range-29, New Delhi and Baljeet Singh, 
+Inspector, Income Tax , Range-29 , New Delhi/IAP-V, 
+CIT (Audit) 1, C.R Building, New Delhi while posted and 
+functioning as such public servants entered into criminal 
+conspiracy and in pursuance thereof by abusing your official 
+position as public servants while scrutinizing the income 
+tax assessment of 2008-2009 of M/S Madhya Pradesh 
+Vanijaya Company you both demanded illegal gratification 
+of Rs. 5, 00, 000/- in the month of October, 2010 from Sh. 
+Pawan Aggarwal, the partner of said company for scrutiny 
+and finalizing the income tax assessment without any 
+hurdle and when Sh. Pawan Aggarwal refused to pay the 
+bribe amount of Rs. 5 Lakhs, a notice dated 20.12.2010 
+was issued to the company by you Arun Kumar Gurjar, 
+and subsequently when Sh. Pawan Aggarwal visited the 
+office on 27.12.2010 you both Sh. Arun Kumar Gurjar and 
+Sh. Baljeet Singh again demanded bribe of Rs. 5 lakhs 
+fromSh. Pawan Aggarwal for finalization of entire matter 
+without any hurdle and that illegal gratification of Rs.2 
+lakhs was accepted by you accused Baljeet Singh on 
+29.12.2010 from Sh. Pawan Aggarwal on behalf of yourself 
+and accused Arun Kumar Gurjar which was recovered 
+from his possession by CBI team and thus you both have 
+committed an offence punishable u/s 120B of the Indian 
+Penal Code r/w Section 7 of Prevention of Corruption Act, 
+1988 and within my cognizance.
+Secondly, you both while posted and functioning as such 
+public servants at aforesaid place, period and dates in 
+your capacity as public servants by abusing your position 
+as such public servants demanded illegal gratification of 
+
+422
+[2026] 3 S.C.R.
+Supreme Court Reports
+Rs.5 lakhs from Sh. Pawan Aggarwal, the partner of M/S 
+Madhya Pradesh Vanijaya Company in lieu of finalizing the 
+scrutiny of assessment case of above-noted firm without 
+any hurdle and in furtherance of said criminal conspiracy 
+that on 29.12.2010 you Sh. Baljeet Singh was caught 
+red-handed by CBI team while demanding and accepting 
+Rs.2,00,000/- (which was recovered by CBI team from 
+possession of Baljeet Singh) as part amount of said 
+demanded amount from Sh. Pawan Aggarwal for himself 
+and on behalf of Sh. Arun Kumar Gurjar in his office as 
+illegal gratification other than legal remuneration as motive 
+or reward for finalizing the scrutiny of assessment case of 
+the firm of Sh. Pawn Aggarwal and subsequently you Arun 
+Kumar Gurjar was also arrested and thus you both have 
+committed an offence punishable u/s 7 of Prevention of 
+Corruption Act, 1988 and within my cognizance.”
+12.	 We are unable to accept the contention put forth by the respondent, 
+for which reliance was placed on the decisions in A. Srinivasulu v. 
+State represented by the Inspector of Police1, Dashrath Singh 
+Chauhan v. Central Bureau of Investigation2 and Bhagat Ram v. 
+State of Rajasthan3.
+13.	 Bhagat Ram3 was a Police Inspector who was alleged to have 
+conspired with one Ram Swarup in an attempt to extort an amount 
+of Rs.2,000/- from PW1. The Trial Court acquitted both the accused 
+and in an appeal against acquittal, the learned Judges of the High 
+Court found the charge under Section 120B of the IPC to be not 
+proved. However, there was a dispute on whether Bhagat Ram alone 
+can be convicted under Section 161 of the IPC and Section 5(1)(a) 
+of the PC Act. A third judge found the conspiracy angle to be proved, 
+but due to the unanimous opinion restrained himself from imposing 
+any conviction under that provision but still convicted Bhagat Ram 
+under Section 161 IPC and also under Sections 347 and 389 of the 
+IPC. This Court found that the third judge could not have reopened 
+the entire case, since the issue before him was only limited to the 
+1	
+(2023) 13 SCC 705
+2	
+(2019) 17 SCC 509
+3	
+(1972) 2 SCC 466
+
+[2026] 3 S.C.R. 
+423
+Central Bureau of Investigation v. Baljeet Singh
+offence under Section 161 IPC and Section 5(1)(a) of the PC Act. 
+It was also categorically found that the offence under Section 161 
+IPC would not survive against one of the accused since the specific 
+case of the prosecution was that Bhagat Ram made a demand of 
+bribe through Ram Swarup and there was no demand by Bhagat 
+Ram directly to PW1. This disabled the Court from convicting one 
+of the accused, as having accepted the bribe while the person who 
+made the demand was exonerated. The facts in the present case 
+are quite distinct insofar as the prosecution having alleged the 
+demand and acceptance by A2, while there was also an allegation 
+of the bribe having been demanded for A1, who was the Assessing 
+Officer, whose culpability was not established.
+14.	 In Dashrath Singh2, one of the accused had demanded the bribe, 
+even as per the complaint and when it was sought to be handed 
+over, he directed the money to be handed over to the other accused, 
+who accepted it. Hence, the charge of demand was not available 
+against one accused, and the charge of acceptance was absent 
+insofar as the other accused. A. Srinivasulu1 also dealt with a 
+criminal conspiracy entered into by A1 to A7 to cause wrongful loss 
+to a public sector undertaking, in which A1 to A4 were employees, 
+so as to confer a wrongful gain on A5 to A7. It was held that once 
+the offence under Section 120B was not made out against A5 to 
+A7, the very foundation of the prosecution becomes shaky. We are 
+afraid the dictum in those cases applies squarely to the facts of those 
+cases only and does not apply to the facts of this case. 
+15.	 As we observed, in addition to the charge under Section 120B, both 
+the accused were separately alleged to have demanded money 
+and accepted it, which demand and acceptance even as per the 
+statement of PW1 is not available against A1 but very much present 
+against A2. That A2 informed PW1 that the bribe was for A1 is of 
+no consequence insofar as A1’s culpability is concerned. Since A2 
+was also an officer of the Department, which was carrying on the 
+assessment, actively participating in the assessment proceedings as 
+spoken of by PW1, A2 was in a position of some authority to influence 
+the assessment proceedings, as far as PW1 was concerned and that 
+was the purpose for which the demand of bribe was made. True, if 
+the charge under the PC Act linked with the charge of conspiracy 
+was the only one levelled, then if one is acquitted the other cannot 
+
+424
+[2026] 3 S.C.R.
+Supreme Court Reports
+be convicted. But here there is another charge of demand and 
+acceptance against both, which as against the two are not inextricably 
+linked by a definite charge of conspiracy. The second charge can 
+be proved against both or against one independently as there is no 
+meeting of minds alleged.
+16.	 It was argued on behalf of the accused that there was no demand 
+proved and even the trial court noticed the inconsistent stand 
+regarding the demand in the complaint and the testimony, especially 
+regarding the demand made in October 2010 and the amounts also 
+did not tally. The pre-trap demand alleged through telephone was 
+not established since the trial Court refused to give any credence 
+to the voice recording for reason of the certification with respect 
+to the electronic data under Section 65B of the Evidence Act not 
+being produced. The voice recording at the time of trap also failed 
+on the same count. The charge of conspiracy being that related to 
+the demand in October the prosecution has to fail and there was 
+also no proof offered of the other demands alleged, is the compelling 
+argument. 
+17.	 The complainant was examined as PW1, who clearly spoke of a 
+demand of Rs.5 lakhs having been made by A2 on 27.12.2010 when 
+they were coming out of the room of A1 after discussions took place 
+with respect to the assessment. True, with respect to the demand 
+made in October 2010, PW1 had different versions. In the original 
+complaint, it was stated that Rs.5 lakhs was demanded in October 
+2010 and reiterated in December 2010, when PW1 had visited the 
+Income Tax Office. In his deposition before Court, his version was 
+that earlier the demand was of Rs.1.5 lakhs and later Rs.5 lakhs. This 
+does not in any way totally efface the demand having been made 
+in December 2010 which tallies with the statement in the complaint 
+and the statement under Section 161 of the Criminal Procedure 
+Code. However, though PW1 spoke that the bribe was demanded 
+for both A1 and A2, there is no evidence that A1 ever demanded 
+a bribe or even that A2 made the demand in the presence of A1. 
+It is on such demand by A2 that PW1 approached the CBI, which 
+agency had authorized PW22 as the TLO, to carry out the trap. The 
+demand in October 2010 though not proved, the demand made by 
+A2 on 27.12.2010 was testified to by PW1 and is corroborated by 
+PW22 who vouches the complaint filed before the CBI.
+
+[2026] 3 S.C.R. 
+425
+Central Bureau of Investigation v. Baljeet Singh
+18.	 PW22 also spoke of the two independent witnesses, PW10 and PW18 
+having been summoned to his office. Both PW10 and PW18 confirmed 
+the presence of PW1 in the office of the CBI and corroborated fully 
+the pre-trap proceedings. That PW1 talked over the telephone to 
+a person who asked him to come to the Income Tax Office is also 
+confirmed by PW10 and PW18, but without identifying the voice on the 
+other side. The pre-trap proceedings with respect to the notes being 
+powdered and kept in an envelope, which was also powdered and 
+handed over to PW1 was spoken of by the independent witnesses. 
+PW10 and PW18 spoke also of the numbers of the notes having been 
+recorded by the TLO in the Hand Over Memo (HOM); Ex. PW1/E, 
+which was produced before Court along with the notes, PW1/F10 
+and the envelope; PW1/E-9, signed by the complainant, the TLO 
+and the independent witnesses; proved by the testimonies of the 
+witnesses. The number of the notes produced tallied with the HOM 
+as verified by the trial court and the HOM was specifically identified 
+by both the witnesses, PW10 & PW18 who also identified the pre-
+trap verification memo PW1/E recovery memo PW1/G, and the arrest 
+memos of A1 & A2 PW10/A & PW10/B respectively.
+19.	 A1 was the Joint Commissioner of Income Tax who was the Assessing 
+Officer of the firm in which PW1 was a partner, and A2 was an 
+Inspector in the same department is beyond any cavil. There was 
+a suggestion raised by A2 in the cross examination of PW1 that 
+he harbored enmity since he had conducted a scrutiny in a related 
+firm carried on in the very same premises in which was housed the 
+firm of PW1. The related firm had to shell out a huge penalty for the 
+discrepancies revealed on scrutiny. It was also the suggestion of A2 
+that since A1 was the Assessing Officer of PW1’s firm, there was 
+no reason for A2 to demand or accept any bribe from PW1 since 
+he was not the authority entrusted with the assessment of PW1. 
+20.	 PW1 readily accepted the scrutiny of the related firm by a team led 
+by A2 and also the penalty imposed on such firm. There is nothing 
+indicated other than this to establish that the trap was laid merely 
+on the enmity especially since, as we would presently see, the 
+acceptance of the bribe and the recovery of the envelope with the 
+marked cash was made from the body of A2. PW1’s evidence was 
+categoric insofar as, after issuance of notice to his firm, he had 
+contacted A2 and A2 had been present when the issues arising on the 
+
+426
+[2026] 3 S.C.R.
+Supreme Court Reports
+assessment were discussed with A1, the Assessing Officer. The fact 
+that A2 was an Inspector who had conducted a survey operation with 
+respect to a related firm, who was also present during the hearing with 
+respect to the assessment proceedings before A1, clearly indicates 
+that A2 was a person in a position of influence, which would also 
+validate PW1’s subservience insofar as understanding the demand 
+of bribe being made by a person of some authority. 
+21.	 It was further brought out in evidence through PW7, another Inspector 
+that A2 was transferred in October/November 2010 and PW14, an 
+Assistant Commissioner of Income Tax deposed that there was a 
+request made to the Chief Commissioner of Income Tax to retain 
+A2 in the present place. Undisputedly, A2 was present in the Drum 
+Shaped Building, on 27.12.2010, when the demand was made and 
+on 29.12.2010, when he was trapped with the bribe, the marked 
+notes in an envelope, recovered from his person. One defense taken 
+by the accused before the Trial Court was that the assessment of 
+PW1’s firm had to be completed by 31.12.2010 and the entire trap 
+was stage-managed to ensure that the assessment is time barred. 
+As a corollary, it should also be observed that the hearing with 
+respect to the assessment proceedings, admittedly commenced 
+in October, 2010 and there was no reason for the assessment to 
+be kept pending till 29.12.2010, when the bribe was handed over. 
+There is also a valid inference from the above stated facts that the 
+assessment was kept pending only to ensure the payment, which 
+as against A1 even as of now, does not stand established. In fact, it 
+has to be noticed that there was a huge stash of money recovered 
+from the room of A1 on which no investigation was carried out nor 
+a charge laid. A1 hence goes scot-free on the recovery being not 
+properly investigated. 
+22.	 As has been found by the trial court so much of the prosecution case 
+regarding the role of A1 and A2 in the assessment proceedings of 
+PW1’s firm, the demand made by A2, the complaint before the CBI 
+and the pre-trap proceedings stand fully corroborated by the evidence 
+of PW1, PW10, PW18 and PW22. The recorded conversation 
+pertaining to the pre-trap and post-trap proceedings were eschewed 
+from consideration by the Trial Court; rightly so. We also do not place 
+any reliance on the mobile conversations, PW1 is said to have had 
+with A2 from the office of the CBI before the trap was laid and in 
+the course of the trap.
+
+[2026] 3 S.C.R. 
+427
+Central Bureau of Investigation v. Baljeet Singh
+23.	 Insofar as the trap, we find PW10 and PW18 to have prevaricated 
+and deposed contrary to their Section 161 statements but still 
+corroborated the version of PW1 and PW22 on many aspects. PW18 
+travelled with PW1 and PW22 while moving towards the Income Tax 
+Office and PW10 was in another car with the other team members, 
+following the car of the TLO. At the Income Tax Office, they dispersed 
+and PW18 went along with the TLO who was following PW1. PW1 
+is said to have gone into the room of A1 where he categorically 
+submits that he had handed over the envelope, which A2 accepted 
+and kept inside the pocket of his coat. PW1 then came out of the 
+room followed by A2 and on his signaling TLO, the team rushed to 
+PW1 who pointed out A2. A2 was immediately held by his hands by 
+PW22 and a constable and taken back into the room of A1. 
+24.	 PW18, though did not identify A2 in Court, spoke of the person who 
+was apprehended by PW22 having been required to sit in a chair in the 
+room of A1. PW18 also deposed that on the instruction of PW22, he 
+had made a search of the person caught by CBI and having recovered 
+the envelope from the coat pocket of the person apprehended, which 
+was handed over to the TLO. PW18 made these admissions referring 
+to the person apprehended by his name. PW10 on the other hand 
+came into the room after the apprehension of A2 and the money was 
+recovered. Both PW10 and PW18 spoke of the hands of the person 
+apprehended having been washed with the test solution which turned 
+pink. PW10 though claimed to have failing eyesight due to diabetes, 
+on being asked so to do, went around the Court looking at the persons 
+standing there and identified A2, specifically deposing that he looks 
+similar to the person caught by the CBI though at that time the said 
+gentleman was very healthy. In the cross examination by the Public 
+Prosecutor, PW10 specifically deposed that the person who was 
+caught and was identified by him was similar to the accused Baljeet 
+Singh present in Court though he was not sure that it was the same 
+Baljeet Singh. PW10 also identified the sweater worn by A2, which 
+was also said to have been dipped in a separately prepared solution, 
+which too revealed the taint by turning pink; which sweater was also 
+identified though there was a minor discrepancy regarding a black 
+strip in the sweater, which is not very relevant especially considering 
+the passage of time. The hand wash, and the wash of the coat and 
+sweater; both belonging to A2, was testified to by PW10 & the hand 
+wash and coat wash testified by PW18. 
+
+428
+[2026] 3 S.C.R.
+Supreme Court Reports
+25.	 PW18 though failed to identify A2, spoke of a person from whom 
+he recovered, on the instructions of PW22, an envelope which was 
+handed over to the TLO and identified. The hand wash and the 
+coat wash were also confirmed by PW18. PW10 and PW18 spoke 
+of A1 having been brought to his room where already the trap laid 
+had been successfully completed. It cannot at all be said that PW10 
+and PW18, independent witnesses turned completely hostile. As 
+we observed, they had corroborated the pre-trap proceedings and 
+the post-trap proceedings, immediately after the trap. While both 
+spoke of the prearranged envelope with the marked cash having 
+been recovered from the man apprehended in the room of A1, from 
+which PW1 and A2 stepped out; the latter following the former, PW10 
+identified the apprehended man while PW18 failed so to do. There 
+is sufficient corroboration available from the independent witnesses 
+to also believe the trap having been successful as deposed by PW1 
+and PW22. 
+26.	 In this context, we cannot but notice the judgment of this Court in 
+Prakash Chand v. State (Delhi Administration)4. The complainant 
+there, PW6, was an architect concerned with the sanction of a 
+building plan, which was continuously being objected to by the 
+Overseer-Section Officer of the Delhi Development Authority, who also 
+demanded a bribe. The trap was laid with two independent witnesses, 
+in the course of which PW6 was handed over a file by the accused 
+which he read at a distance and returned with the bribe amount of 
+Rs.30/- placed inside the file. When the file was handed over to the 
+accused, the accused placed it under the table putting his foot on it. 
+On the prearranged signal, the trap team came inside the room and 
+accosted the accused. The accused denied the demand and also 
+claimed the money to have been kept in the file, without his knowledge. 
+The independent witnesses examined by the prosecution also did not 
+fully support the prosecution case resiling from the statement made 
+during the course of the investigation. These circumstances were 
+in favour of the accused and the compelling argument in defense 
+was that there can be no conviction based on the uncorroborated 
+testimony of PW6, the complainant who being a part of the trap was 
+an interested and partisan witness. Their Lordships found that there 
+cannot be found a legal proposition that the uncorroborated testimony 
+4	
+(1979) 3 SCC 90
+
+[2026] 3 S.C.R. 
+429
+Central Bureau of Investigation v. Baljeet Singh
+of a trap witness can never be acted upon especially when the law 
+laid down was to the contrary, in State of Bihar v. Basawan Singh5 
+and Bhanuprasad Hariprasad Dave Rajuji v. State of Gujarat6. 
+Having gone through the testimony of PW6, it was found that he was 
+a truthful witness and there was sufficient corroboration by PW9 who 
+led the trap team. It was stated by PW9 that when he questioned the 
+accused about having accepted the bribe the accused was stunned 
+and did not reply and kept mum. PW2, the independent witness 
+also corroborated the fact and said that the accused did not reply 
+and kept mum and that he was perplexed, which though the other 
+independent witness first denied in chief examination, accepted on 
+further questioning. 
+27.	 It was categorically held in Basawan Singh5, by a Constitution 
+Bench that there is no inflexible rule of discarding the testimony of 
+the persons in the raiding party, unless independent corroboration 
+is available. The trite law is that the testimony of an interested or 
+partisan witness has to be scrutinized with care, and it is not that 
+of an accomplice. Neither is the complainant an accomplice, nor 
+can the persons involved in the raiding party be considered to be 
+interested since they are exercising a public duty without any personal 
+rancour. In the instant case, when the independent witness had not 
+fully supported the prosecution story sufficient corroboration was 
+found from their deposition. A Constitution Bench of this Court in 
+Neeraj Dutta v. State (Govt. of NCT of Delhi)7 approved Prakash 
+Chand4 and referred also to Sat Paul v. Delhi Administration8 
+to hold that “even if a witness is treated as “hostile” and is cross 
+examined, his evidence cannot be written off altogether but must be 
+considered with due care and circumspection and that part of the 
+testimony which is creditworthy must be considered and acted upon” 
+(sic-para 67). The contention taken by the defense that the conduct 
+of the accused when challenged by the Inspector was inadmissible 
+under Section 162 was repelled. Relying on Himachal Pradesh 
+Administration v. Shri Om Prakash9, it was held that, when an 
+5	
+AIR 1958 SC 500
+6	
+AIR 1968 SC 1323
+7	
+(2023) 4 SCC 731
+8	
+(1976) 1 SCC 727
+9	
+(1972) 1 SCC 249
+
+430
+[2026] 3 S.C.R.
+Supreme Court Reports
+accused person leads a police officer to a particular location where 
+stolen articles and weapons are concealed, which have a connection 
+with the offence alleged, on such recovery, the concealment would 
+be admissible as relevant conduct under Section 8 of the Indian 
+Evidence Act, 1872 irrespective of whether any statement by the 
+accused contemporaneously with or antecedent to such conduct, 
+falls within the purview of Section 27 of the Evidence Act.
+28.	 We notice from the evidence of PW22 that after fully corroborating the 
+trap it was deposed that on being challenged, A2 remained mum. It 
+was also testified that A2 tried to escape and take out the money. It 
+was PW1 who pointed out the upper pocket of the coat of A2 where 
+he had kept the envelope which was taken out by PW18 as fully 
+corroborated by PW22. PW10 also stated that the man apprehended 
+in A1s room turned pale. All these are relevant conduct of A2 pointing 
+to his guilt fortified by the recovery of the marked cash from his 
+body and his hands, coat and sweater, on being washed in the test 
+solution, turning pink, as deposed by the witnesses.
+29.	 We are unable to accept the order of acquittal passed by the High 
+Court insofar as A2 is concerned, especially noticing the demand 
+having been specifically spoken of by PW1 and the same having 
+been stated in his complaint before the CBI. The pre-trap proceedings 
+were also clearly established by the evidence of PW1, PW10, 
+PW18 and PW22. Insofar as the trap proper is concerned, there is 
+complete corroboration of the testimony of PW1 by that of PW22, 
+the TLO. There is also sufficient corroboration from PW10 & PW18, 
+the independent witnesses regarding the apprehension of a person, 
+who was identified in Court by PW10 and though not identified by 
+PW18, it was PW18 who made the recovery of the envelope from 
+the coat pocket of the apprehended person, who was A2. The hand 
+wash of A2 also stood established beyond doubt. The marked notes 
+were identified from the numbers taken down in the HOM at the time 
+of pre-trap proceedings, corroborated by all the above witnesses. 
+30.	 As rightly observed by the High Court, there was neither proof of 
+demand nor acceptance by A1 but for the statement of PW1 that 
+A2 demanded the bribe on behalf of A1. There can be no reliance 
+placed on such statement made by the co-accused and there can be 
+no conviction entered into on that account. We are, however, inclined 
+and persuaded to set aside the acquittal against A2 and restore the 
+
+[2026] 3 S.C.R. 
+431
+Central Bureau of Investigation v. Baljeet Singh
+order of the Trial Court convicting him for the offence under Section 
+7 of the PC Act; there being no conspiracy under Section 120B of 
+IPC established. The sentence of four years of RI handed down by 
+the trial court is modified to one year, considering the age of A2, 
+with a fine of Rs.1 lakh with a default simple imprisonment of three 
+months as awarded by the trial court, which will stand restored and 
+confirmed. A2 shall surrender within a period of four weeks from today.
+31.	 The appeal is, accordingly, allowed to the extent indicated above.
+32.	 Pending applications, if any, shall stand disposed of. 
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Ankit Gyan

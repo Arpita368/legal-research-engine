@@ -1,0 +1,3192 @@
+[2026] 1 S.C.R. 227 : 2026 INSC 33
+The Property Company (P) Ltd.
+v.
+Rohinten Daddy Mazda 
+(Civil Appeal No. 92 of 2026)
+07 January 2026
+[J.B. Pardiwala* and R. Mahadevan, JJ.]
+Issue for Consideration
+Issue arose whether the Company Law Board-CLB, being a 
+quasi-judicial body, could be said to have the power to condone 
+the delay in filing an appeal u/s.58(3) of the Companies Act, 2013; 
+that even if s.5 of the Limitation Act, 1963, per say, could not be 
+applied to quasi-judicial bodies, whether the principles underlying 
+s.5 of the 1963 Act be made applicable to an appeal u/s.58(3) of 
+the 2013 Act, instituted before the CLB; and that whether s.433 
+of the 2013 Act, which was brought into force on 01.06.2016 in 
+order to empower the NCLT and NCLAT respectively, to apply the 
+provisions of the 1963 Act, could be given retrospective effect such 
+that it applied to the CLB as well. 
+Headnotes†
+Companies Act, 2013 – ss. 58(3), 433 – Refusal of registration 
+and appeal against refusal – Power of the Company Law 
+Board-CLB to extend time or condone delay u/s.58(3): 
+Held: Company Law Board-CLB, cannot condone the delay in 
+filing an appeal u/s.58(3) of the Act since the provisions of the 
+1963 Act would only apply to suits, applications or appeals, as 
+the case may be, which are made under any law to ‘courts’ and 
+not to those made before quasi-judicial bodies or tribunals, unless 
+such quasi-judicial bodies or tribunals are specifically empowered 
+in that regard – Limitation Act, 1963. [Para 160 (iii)]
+Companies Act, 2013 – ss.58(3), 433 – Limitation Act, 1963– 
+ss.5, 14 – Refusal of registration and appeal against refusal– 
+Power of the Company Law Board-CLB to extend time or 
+condone delay u/s.58(3) – Respondent’s mother bequeathed 
+the subject shares to the respondent through Will, of which 
+* Author
+
+228
+[2026] 1 S.C.R.
+Supreme Court Reports
+the respondent obtained probate – After 23 years, the 
+respondent sought registration of the transmission of the 
+shares – Appellant company refused such registration – As 
+per s.111 of the “erstwhile Act-Companies Act, 1956, against 
+such refusal the respondent was to file appeal within a period 
+of two months, however, the respondent failed to take any 
+action within the prescribed time period – Act of 2013 came 
+into force, ss.111 and 111A of the erstwhile Act replaced by 
+s.58 along with s.59 – Respondent filed appeal u/s.58 of the 
+Act, 2013 before the CLB, along with an application u/Regn 44 
+seeking the condonation of delay of 249 days in preferring the 
+appeal, which was allowed – Appeal thereagainst dismissed 
+by the High Court – Issues before this Court: Company Law 
+Board-CLB, being quasi-judicial body, if has the power to 
+condone the delay in filing an appeal u/s.58(3) – Even if s.5 
+of the 1963 Act, per say, could not be applied to quasi-judicial 
+bodies, the principles underlying s.5 of the 1963 Act, if can be 
+made applicable to an appeal u/s.58(3), instituted before CLB – 
+s.433 of the 2013 Act, brought into force on 01.06.2016 in order 
+to empower the NCLT and NCLAT, to apply the provisions of 
+the 1963 Act, if could be given retrospective effect such that 
+it applied to the CLB as well: 
+Held: (i) Although the appeal u/s.58(3) preferred by the respondent 
+was made under the new provision of the Act, 2013, yet the body/
+forum before which it was made i.e., Company Law Board-CLB, 
+was one constituted under the provisions of the erstwhile Act – 
+According to s.10E(4C) of the erstwhile Act, the CLB was a court 
+only in the restricted sense, there existed no express provision 
+which empowered the CLB to apply the provisions of the Act, 1963 
+to the proceedings and appeals before itself.
+(ii) Provisions of the 1963 Act-provisions that lay down a prescribed 
+period of limitation as well as ss.4 to 24 of the 1963 Act, would 
+only apply to suits, applications or appeals, as the case may be, 
+which are made under any law to ‘courts’ and not to those made 
+before quasi-judicial bodies or tribunals, unless such quasi-judicial 
+bodies or tribunals are specifically empowered in that regard.
+(iii) Power to extend time u/s.5 of the 1963 Act cannot be resorted 
+to by statutory authorities, quasi-judicial bodies or tribunals, unless 
+expressly indicated – When such authorities or bodies are deemed 
+to be a court for certain limited or specified purposes, such a legal 
+
+[2026] 1 S.C.R. 
+229
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+fiction must not be extended beyond the purpose for which the fiction 
+was created so as to confer powers u/s.5 of the 1963 Act as well. 
+(iv) Principles underlying s.14 of the 1963 Act could be applied to 
+the provisions relating to quasi-judicial bodies, unless there is any 
+express indication to the contrary in the wording and scheme of 
+the said provision – However, there exists vital distinction between 
+the principles underlying ss.5 and 14 of the 1963 Act respectively. 
+(v) Differences between the principles underlying ss.5 and 14 of 
+the 1963 Act respectively are, the exercise of a discretionary power 
+vested in the courts and the mandatory provision independent of 
+any exercise of discretion; “sufficient cause” which term by itself 
+is subject to a good amount of elasticity and the well-defined 
+conditions which must be met; and the extension of time and the 
+exclusion of time.
+(vi) Principles underlying ss.5 and 14 of the 1963 Act respectively, 
+cannot be analogously applied to proceedings before quasi-judicial 
+bodies because in the former, the courts exercise their discretion in 
+extending and more specifically, adjusting the prescribed period of 
+limitation itself to create a fresh period of limitation – No entitlement 
+as a matter of right arises vis-à-vis extension of time – Whereas, 
+in the latter, the prescribed period of limitation remains intact, no 
+delay is attributed to the litigant and the time during which the 
+abortive proceeding was being prosecuted is expunged in the eyes 
+of the law to place the litigant back or restore his position within 
+the prescribed period of limitation wherein he is entitled to file the 
+appeal or application, as the case may be, as a matter of right.
+(vii) Mechanism envisaged u/s.5 of the 1963 Act is proximally bound 
+and tethered to the discretion with which a civil court is empowered 
+and that u/s.14 of the 1963 Act is anchored on restoring the right of 
+a litigant to institute an appeal or application, as the case may be, 
+within the prescribed period of limitation – Both provisions work in 
+the interest of the litigant and seek to further the cause of substantive 
+justice, however, the kind and nature of the power exercised under 
+the two provisions, as well as the mechanism envisaged therein, 
+are quite distinct – Moreover, the principles underlying ss.5 and 
+14 of the 1963 Act respectively also stand on a different footing for 
+the reason that when the legislature has intended to grant powers 
+of extension of time, the same has been expressly indicated either 
+through the manner in which the concerned provision is phrased 
+(more often than not through a proviso) or by the adoption of the 
+
+230
+[2026] 1 S.C.R.
+Supreme Court Reports
+Act, 1963 through a separate provision to the special law as a 
+whole (akin to s.433 of the 2013, Act). 
+(viii) Regn.44 of the CLB Regulations which saves the inherent 
+power of the CLB would not enable the CLB to extend time for the 
+filing of the appeal or the application itself, as the case may be.
+(ix) Savings provision in the Act, 1963-s.29(2), is of no relevance 
+when the special or local law deals with a suit, appeal or application, 
+as the case may be, which is to be filed before a quasi-judicial 
+body – Question whether a certain provision in a special or a local 
+law expressly excludes the provisions of s.4 to 24 of the Act, 1963 
+respectively arises only in pursuance of the savings provision 
+u/s.29(2) of the Act, 1963 – As a natural corollary, if s.29(2) is, by 
+itself, inapplicable to a particular case then there would be no need 
+to look into or analyse whether there is any express exclusion. 
+(x) Appeal u/s.58(3) of the Act, 2013 preferred before the CLB-
+quasi-judicial body are being dealt with, it cannot be said that the 
+principles underlying s.5 of the Act, 1963 must be applied – s.29(2) 
+of the Act, 1963 is, of no relevance and there arises no occasion 
+to examine whether s.58(3) of the Act, 2013 “expressly excludes” 
+the application of s.5 of the Act, 1963. 
+(xi) Simpliciter limitation period prescribed u/s.58(3) of the Act, 
+2013 must not be read to be merely directory – Presence of any 
+additional pre-emptory language in the form of “but not thereafter” 
+or “shall” would not always be necessary to convey that the 
+prescribed period is mandatory.
+(xii) s.433 of the Act, 2013 which empowers the NCLT and the 
+NCLAT respectively to apply the provisions of the Act, 1963, as far 
+as may be, to the proceedings and appeals before itself, cannot be 
+borrowed to signify the existence of a similar power with respect 
+to the CLB – Moreover, the remedy of the respondent was already 
+time-barred before the coming into force of s.58(3) of the Act, 2013, 
+let alone the coming into force of s.433 of the Act, 2013 – Hence, 
+the change in law cannot enure to the benefit of the respondent.
+Thus, the High Court erred in dismissing the statutory appeal filed 
+u/s.10F of the erstwhile Act and thereby, affirming the order of the 
+CLB condoning the delay of 249 days in filing the appeal u/s.58(3) 
+of the Act, 2013 – Order passed by the High Court set aside – 
+Company Law Board Regulations, 1991 – Regn 44 – Companies 
+Act, 1956 – s.10F. [Paras 160, 161]
+
+[2026] 1 S.C.R. 
+231
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+Companies Act, 2013 – Implementation of the provisions of 
+the Act, 2013 in phases – Powers conferred upon the CLB – 
+Discussed. [Paras 33-41]
+Limitation Act, 1963 – ss.5 and 14 – Extension of prescribed 
+period in certain cases – Exclusion of time of proceeding bona 
+fide in court without jurisdiction – Difference between the 
+principles underlying ss.5 and 14 – Explained. [Paras 66-93]
+Case Law Cited
+Officer on Special Duty (Land Acquisition) and Another v. Shah 
+Manilal Chandulal and Others [1996] 2 SCR 366 : (1996) 9 SCC 
+414; Prakash H. Jain v. Marie Fernandes [2003] Supp. 3 SCR 
+1011 : (2003) 8 SCC 431; Om Prakash v. Ashwani Kumar Bassi 
+[2010] 10 SCR 550 : (2010) 9 SCC 183; Commissioner of Sales 
+Tax, U.P., Lucknow v. Parson Tools and Plants, Kanpur [1975] 3 
+SCR 743 : (1975) 4 SCC 22 – relied on. 
+Thirumalai Chemicals Limited v. Union of India and Others [2011] 
+4 SCR 838 : (2011) 6 SCC 739 – distinguished.
+Smt. Nupur Mitra v. Basubani Ltd., 1999 SCC OnLine Cal 47; 
+Mackintosh Burn Ltd. v. Sarkar Chowdhury Enterprises P. Ltd. 
+2015 SCC OnLine Cal 10466 – disapproved.
+M.P. Steel Corporation v. Commissioner of Central Excise [2015] 
+7 SCR 291 : (2015) 7 SCC 58; Canara Bank v. Nuclear Power 
+Corporation of India Ltd. [1995] 2 SCR 482: (1995) Supp. 3 
+SCC 81; Lakshmi Narayan Guin v. Niranjan Modak [1985] 2 
+SCR 202 : AIR 1985 SC 111; Mardia Chemicals Ltd. v. Union 
+of India [2004] 3 SCR 982 : (2004) 4 SCC 311; Gopal Sardar v. 
+Karuna Sardar [2004] 2 SCR 826 : (2004) 4 SCC 252; Dilip v. 
+Mohd. Azizul Haque & Anr. [2000] 2 SCR 280 : (2000) 3 SCC 
+607; H.V. Rajan v. C.N. Gopal & Ors. (1975) 4 SCC 302; Town 
+Municipal Council, Athani  v. Presiding Officer, Labour Courts, 
+Hubli and Others [1970] 1 SCR 51 : (1969) 1 SCC 873; Kerala 
+State Electricity Board, Trivandrum v. T.P. Kunhaliumma [1977] 
+1 SCR 996 : (1976) 4 SCC 634; Ganesan v. Commission, Tamil 
+Nadu Hindu Religious and Charitable Endowments Board and 
+Others [2019] 7 SCR 102 : (2019) 7 SCC 108; Shivamma 
+(Dead) by LRs v. Karnataka Housing Board, 2025 SCC OnLine 
+SC 1969; Consolidated Engineering Enterprises v. Principal 
+Secretary, Irrigation Department and Others [2008] 5 SCR 
+
+232
+[2026] 1 S.C.R.
+Supreme Court Reports
+1108 : (2008) 7 SCC 169; Sakaru v. Tanaji [1985] Supp. 2 
+SCR 109 : (1985) 3 SCC 590; Sesh Nath Singh and Another v. 
+Baidyabati Sheoraphuli Co-operative Bank Limited and Another 
+[2021] 3 SCR 806 : (2021) 7 SCC 313; International Asset 
+Reconstruction Company of India Limited v. Official Liquidator of 
+Aldrich Pharmaceuticals Limited and Others [2017] 10 SCR 199 
+: (2017) 16 SCC 137; Simplex Infrastructure Limited v. Union 
+of India [2018] 14 SCR 676 : (2019) 2 SCC 455; Fairgrowth 
+Investments Ltd. v. Custodian [2004] Supp. 5 SCR 505 : (2004) 
+11 SCC 472; B.K. Educational Services Private Limited v. Parag 
+Gupta and Associates [2018] 12 SCR 794 : (2019) 11 SCC 633; 
+Basubani Private Ltd. and Anr. v. Nupur Mitra and Ors. (Civil 
+Appeal Nos. 5063-5064 of 1999); Mackintosh Burn Ltd. v. Sarkar 
+and Chowdhury Enterprises Private Limited [2018] 3SCR83 : 
+(2018) 5 SCC 575 – referred to. 
+List of Acts
+Companies Act, 1956; Company Law Board Regulations, 1991; 
+Code of Civil Procedure, 1908; Limitation Act, 1963.
+List of Keywords
+Company Law Board-CLB; Quasi-judicial body; Power to condone 
+delay in filing appeal; Retrospective effect; Refusal of registration 
+and appeal against refusal; Power of Company Law Board.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 92 
+of 2026
+From the Judgment and Order dated 16.12.2016 of the High Court 
+at Calcutta in APO No. 222 of 2016
+Appearances for Parties
+Advs. for the Appellant(s):
+Ms. Nina Nariman, Ramesh N. Keswani, Pranav Singal, Ravi 
+Raghunath Vachher, Arjun Vachher, Samarth Suri, R. N. Keswani.
+Advs. for the Respondent(s):
+Ms. Meenakshi Arora, Sr. Adv., Indranil Ghosh, Ms. Sreya Basu 
+Mallick, Plazer Moktan, Shuvashish Sengupta, Ankit Dey, Satya 
+Mitra.
+
+[2026] 1 S.C.R. 
+233
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+Judgment / Order of the Supreme Court
+Judgment
+J.B. Pardiwala, J.
+For the convenience of exposition, this judgment is divided into the 
+following parts:- 
+INDEX*
+A. FACTUAL MATRIX ............................................................................
+3
+B. DECISION OF THE CLB ...................................................................
+7
+C. THE IMPUGNED DECISION .............................................................
+9
+D. SUBMISSIONS OF THE PARTIES ................................................... 16
+I.	
+Submissions on behalf of the appellant company ............... 16
+II.	 Submissions on behalf of the respondent ............................ 18
+E.
+ISSUES FOR DETERMINATION ...................................................... 21
+F.
+ANALYSIS ......................................................................................... 22
+I.	
+The implementation of the provisions of the Act, 2013 in 
+phases and the powers conferred upon the CLB in the period 
+between 12.09.2013 and 01.06.2016. ....................................... 22
+II.	 Whether the CLB, being a quasi-judicial body, could be said 
+to have the power to condone the delay in filing an appeal 
+under Section 58(3) of the Act, 2013? .................................... 25
+a.	 The Act, 1963, per say, does not apply to quasi-judicial 
+bodies – emphasis on the court as an institution. ........ 25
+b.	 Decisions of this Court as regards the application of 
+Section 5 of the Act, 1963 to quasi-judicial bodies or 
+tribunals .............................................................................. 37
+c.	 Whether the principles underlying certain provisions of 
+the Act, 1963 could be made applicable to quasi-judicial 
+bodies or tribunals. ............................................................ 42
+* Ed. Note: Pagination as per the original Judgment.
+
+234
+[2026] 1 S.C.R.
+Supreme Court Reports
+i.	
+The difference between the principles underlying 
+Sections 5 and 14 of the Act, 1963 respectively ............... 46
+ii.	
+The decision of this Court in International Asset 
+Reconstruction Company of India Limited. ................... 61
+iii.	 Whether the CLB Regulations confer any discretionary 
+power to the CLB to extend time or condone delay under 
+Section 5 of the Act, 1963? ........................................... 64
+d.	 How Section 58(3) of the Act, 2013 which is a simpliciter 
+provision prescribing a limitation period, must be 
+construed. ........................................................................... 67
+III.	 Whether Section 433 of the Act, 2013 must be made 
+retrospectively applicable or the change in law during the 
+pendency of the appeal must be taken into account in the 
+facts and circumstances of the present case? ..................... 80
+G. CONCLUSION ................................................................................... 93
+1.	
+Leave granted. 
+2.	
+This appeal arises from the judgment and order dated 16.12.2016, 
+passed by the High Court at Calcutta in A.P.O. No. 222/2016 
+(hereinafter, the “impugned decision”), by which the High Court 
+dismissed the appeal filed by the appellant herein and thereby, 
+affirmed the order passed by the Company Law Board, Kolkata Bench 
+(hereinafter, the “CLB”) in C.A. No. 81 of 2014, condoning the delay 
+of 249 days in filing the appeal under Section 58(3) of the Companies 
+Act, 2013 (hereinafter, “the Act, 2013”)by the respondent herein. 
+A.	
+FACTUAL MATRIX 
+3.	
+The Property Company (P) Ltd. (hereinafter, the “appellant 
+company”) is a private limited company having a total of 631 fully 
+paid-up equity shares. Ms. Mehroo Mazda, the mother of Mr. Rohinten 
+Daddy Mazda, (hereinafter, the “respondent”), is said to have been a 
+shareholder, holding 20 shares of the appellant company (hereinafter, 
+the “subject shares”). Ms. Mehroo Mazda had passed away on 
+22.07.1989, however, two years prior to her demise, she is said to 
+
+[2026] 1 S.C.R. 
+235
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+have bequeathed the subject shares to the respondent through her 
+last will and testament dated 19.06.1987. Eventually, the respondent 
+is also said to have obtained a probate of her will on 30.11.1990. 
+4.	
+Vide letter dated 01.03.2013, i.e., after a gap of about 23 years 
+from the date of obtaining the probate, the respondent’s advocate 
+had sent a notice to the appellant company seeking registration of 
+the transmission of the subject shares. However, within a period of 
+two months, vide communication dated 30.04.2013, the appellant 
+company had replied to the aforesaid notice and refused such 
+registration. It is pertinent to note that, during this period, it was 
+Section 111 of the erstwhile Companies Act, 1956 (hereinafter, 
+the “Erstwhile Act”) which was in force. Sub-sections (2) and (3) 
+respectively of Section 111 stipulated that the person giving intimation 
+of the transmission of shares may prefer an appeal against such 
+refusal before the CLB, but that this must be done within a period 
+of two months from the receipt of the notice of refusal from the 
+company. The said period of two months lapsed on 30.06.2013 
+and the respondent failed to take any action in this regard within 
+the prescribed time period.
+5.	
+It is the case of the respondent that on or about 09.07.2013, the 
+respondent who is a resident of London and a practising barrister, 
+came to Kolkata and had held a conference with his advocates as 
+regards the approach to be taken in the matter at hand, amongst 
+others. As per his advocate’s advice, vide communication dated 
+18.07.2013, yet another request was said to have been made to 
+the appellant company to register the transmission of the subject 
+shares. This communication is said to have also informed that the 
+respondent would initiate appropriate legal action if the registration 
+was not carried forward with. Thereafter, on or about 23.07.2013, 
+the respondent is said to have departed from Kolkata. 
+6.	
+Meanwhile, the Act, 2013 had replaced the Erstwhile Act and was 
+published in the Official Gazette on 30.08.2013. However, not all 
+provisions came into force on the said date. The Act, 2013 was 
+implemented in a phased manner. Several provisions of the Act, 
+2013 had been brought into effect on 12.09.2013 and Section 58 
+along with Section 59 (which corresponds to Sections 111 and 111A 
+of the erstwhile Act respectively) were amongst these provisions. In 
+other words, as on 12.09.2013, Section 111 and 111A of the erstwhile 
+
+236
+[2026] 1 S.C.R.
+Supreme Court Reports
+Act respectively, ceased to have any effect and was replaced by the 
+new Sections 58 and 59 of the Act, 2013 respectively. The same 
+was clarified vide Circular No. 16 of 2013 dated 18.09.2013 issued 
+by the Ministry of Corporate Affairs, Government of India. 
+7.	
+It would be apposite to mention that the appellant company afforded 
+no reply to the aforesaid second communication dated 18.07.2013 
+sent by the respondent’s advocates. Thereafter, the respondent is 
+said to have returned to India during the second week of December, 
+2013 and also have instructed his advocates to proceed with taking 
+appropriate legal recourse before a competent court of law. 
+8.	
+In pursuance of the same, after a period of about five months from 
+the second communication i.e., on 12.12.2013, the respondent’s 
+advocate forwarded a copy of the petition filed under Section 111A 
+of the Erstwhile Act to the appellant company and presented the 
+same before the Bench Officer, CLB, on the very next day i.e., on 
+13.12.2013. However, it seems that certain defects, including that 
+the erstwhile Sections 111 and 111A respectively, had been replaced 
+by the new Sections 58 and 59 respectively, were identified and the 
+Bench Officer vide letter dated 16.12.2013 requested the same to 
+be addressed and rectified within a period of 15 days. 
+9.	
+The respondent thought fit to file a fresh petition instead of rectifying 
+the defects as aforesaid and therefore, a fresh appeal under Section 
+58 of the Act, 2013 was filed before the CLB on 07.02.2014. The 
+same came to be numbered as C.P. No. 31 of 2014. In the aforesaid 
+appeal, the respondent had prayed for the following reliefs: 
+“(a) An order may be passed directing the respondent 
+company to register the transfer/transmission of 20 equity 
+shares in favour of the petitioner within a period of ten days; 
+(b) That an order may be passed to rectify the register of 
+members of the respondent company and induct the same 
+of the petitioner in place of the transferor in relation to the 
+20 shares in question and all benefits such as rights/bonus, 
+etc. that have accrued thereupon since the date of purchase; 
+(c) Such orders as to the cost as may be deemed 
+appropriate by the Hon’ble Bench; 
+(d) Such further directions as the Hon’ble Bench may be 
+pleased to give;”
+
+[2026] 1 S.C.R. 
+237
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+10.	 Along with the aforesaid appeal, the respondent also filed an 
+application bearing C.A. No. 81 of 2014 under Regulation 44 of 
+the Company Law Board Regulations, 1991 (hereinafter, the “CLB 
+Regulations”) seeking the condonation of delay of 249 days in 
+preferring the appeal under Section 58 of the Act, 2013. 
+11.	 Soon thereafter, on 04.03.2014, the appellant company filed an 
+application praying to dismiss the C.P. No. 31 of 2014 as being 
+barred under Order XXIII, Rule 1(4) of the Code of Civil Procedure, 
+1908 (hereinafter, the “CPC”) more particularly because the previous 
+petition filed by the respondent on 13.12.2013 as regards the same 
+subject-matter, had been abandoned by the respondent. Vide order 
+dated 09.01.2015, the CLB held that the subsequent petition filed 
+on 07.02.2014 under Section 58 of the Act, 2013 was maintainable 
+because the earlier petition remained unregistered and un-numbered 
+and therefore, the respondent could not be said to have abandoned 
+his claim in choosing to file a fresh petition/appeal. 
+12.	 Aggrieved by the aforesaid order of the CLB, the appellant company 
+filed an appeal before the High Court and the same came to be 
+dismissed vide order dated 26.02.2015. The order of dismissal was 
+further affirmed by this Court vide order dated 03.08.2015. In short, 
+the order of the CLB holding that the subsequent petition filed under 
+Section 58 of the Act, 2013, was maintainable, attained finality. 
+B.	
+DECISION OF THE CLB 
+13.	 As far as the application made before the CLB for condonation of 
+delay in filing the subsequent petition dated 07.02.2014 is concerned, 
+the same was allowed vide order dated 27.05.2016 and the delay of 
+249 days was condoned. While allowing the aforesaid application, 
+the CLB had observed the following: 
+(i)	
+First, that the delay of 249 days primarily occurred owing to the 
+fact that the respondent stayed in London and also because 
+the earlier petition/appeal dated 13.12.2013 was filed under 
+Section 111A of the erstwhile Act, which provision had ceased 
+to have any effect post 12.09.2013. 
+(ii)	
+Secondly, that the technical ground of delay in filing the 
+company petition must not overshadow or come in the way of 
+the registration of transmission of the subject shares despite 
+the fact that probate was granted on 30.11.1990. 
+
+238
+[2026] 1 S.C.R.
+Supreme Court Reports
+(iii)	 Thirdly, that reasonable steps were taken by the respondent 
+from the 2013 onwards to get the shares registered and in the 
+interests of justice, the delay should be condoned. 
+(iv)	 Lastly, considerable weight seems to have been placed on the 
+fact that the underlying Company Petition bearing C.P. No. 31 
+of 2014 had been held to be maintainable and that the same 
+was also affirmed by this Court.
+The relevant observations are reproduced hereinbelow: 
+“5.1 Under the aforesaid facts and circumstances, it is clear 
+that the Petitioner appears to have remained silent from 
+1990 till the beginning of 2013 and there is no explanation 
+as to such inaction on the part of the petitioner for making 
+request to the Respondent Company for transmission of 
+20 shares in his favour based on the probate of Will dated 
+30.11.1990. However, on 12.09.2013, new Section 58 of 
+the Companies Act, 2013 has become effective and hence, 
+the Petitioner was under obligation to initiate action for filing 
+the Petition under Section 58 of the Companies Act, 2013 
+within the permissible time. However, due to his stay in 
+London and procedural discussions/conferences and also, 
+the Company Petition wrongly filed under section 111A of 
+the Companies Act, 1956, delay has occurred for 249 days. 
+Here, it is relevant to highlight that the Company petition 
+has been held maintainable by this Hon’ble Board vide 
+order dated 09.01.2015 in the matter of C.A. No.167/2014. 
+Apart from this, it is also viewed that merely the technical 
+ground of delay of 249 days in filing the petition should not 
+come in the way of transmission of shares despite probate 
+of Will. Therefore, in the broader perspective, I am of the 
+considered opinion that the Petitioner has taken reasonable 
+steps at least from 2013 onwards and the 20 shares 
+under transmission need to be represented by the legal 
+representative of the deceased member of the Company. 
+As such, for the ends of justice, I hereby condone the delay 
+of 249 days in filing the Company Petition No. 31 of 2014.”
+C.	
+THE IMPUGNED DECISION 
+14.	 It is pertinent to note that Section 434 of the Act, 2013 had come into 
+force with effect from 01.06.2016 and sub-section 1(b) of Section 434 
+
+[2026] 1 S.C.R. 
+239
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+provided that any person who is aggrieved by any decision or order 
+of the CLB made before 01.06.2016 may file an appeal, on any 
+question of law, before the High Court, within 60 days of the date 
+of communication of the decision of the CLB. Therefore, upon being 
+aggrieved by the aforesaid order of the CLB dated 27.05.2016, on 
+22.07.2016, the appellant company preferred an appeal under Section 
+10F of the Erstwhile Act before the High Court. 
+15.	 It is also apposite to mention that, on 01.06.2016, Section 433 of the 
+Act, 2013, which applied the provisions of the Limitation Act, 1963 
+(hereinafter, the “Act, 1963”) to proceedings or appeals before the 
+National Company Law Tribunal (hereinafter, the “NCLT”) and the 
+National Company Law Appellate Tribunal (hereinafter, the “NCLAT”), 
+was brought into force. The said provision reads as under: 
+“433. Limitation. – The provisions of the Limitation 
+Act, 1963 (36 of 1963) shall, as far as may be, apply to 
+proceedings or appeals before the Tribunal or the Appellate 
+Tribunal, as the case may be.”
+16.	 The High Court in the impugned decision delved into the issue of 
+whether the CLB lacked authority in receiving the appeal under 
+Section 58 of the Act, 2013 beyond the time prescribed therein. Vide 
+its order and judgement dated 16.12.2016, the High Court dismissed 
+the appeal and thereby, upheld the order of the CLB by which the 
+period of delay of 249 days was condoned. While doing so, the High 
+Court discussed as follows: 
+(i)	
+First, it was acknowledged that under the provisions of the 
+Erstwhile Act, the CLB would have the powers which are normally 
+vested in a ‘Court’ only to the extent that Section 10E(4C) of 
+the Erstwhile Act would allow. Therefore, it was a ‘court’ only in 
+a restricted sense. Furthermore, it was stated that there cannot 
+be any doubt that the provisions of Section 5 of the Act, 1963 
+would only be applicable to courts and not to any tribunal/
+quasi-judicial body including the CLB, unless such authorities 
+are vested with the powers to condone delay. The decision 
+of this Court in M.P. Steel Corporation v. Commissioner of 
+Central Excise reported in (2015) 7 SCC 58 was discussed 
+in this regard. 
+(ii)	
+Secondly, heavy reliance was placed on the decision of this Court 
+in Canara Bank v. Nuclear Power Corporation of India Ltd. 
+
+240
+[2026] 1 S.C.R.
+Supreme Court Reports
+reported in (1995) Supp (3) SCC 81 and a decision rendered 
+by the Division Bench of the Calcutta High Court in Smt. Nupur 
+Mitra v. Basubani Ltd. reported in (1999) SCC OnLine Cal 47. It 
+was stated that Nupur Mitra (supra) had held that in proceedings 
+under Section 111 of the Erstwhile Act, the provisions of the 
+Limitation Act would apply. This view of the Division Bench was 
+also stated to have been affirmed by this Court when the matter 
+was taken in appeal. Therefore, it was opined that the CLB could 
+consider an application for condonation of delay as regards an 
+appeal made under Section 58 of the Act, 2013 (which had 
+replaced Section 111 of the Erstwhile Act) as well. 
+(iii)	 Thirdly, reference was made to the decision of a Single Judge 
+of the Calcutta High Court in Mackintosh Burn Ltd. v. Sarkar 
+Chowdhury Enterprises P. Ltd. reported in 2015 SCC OnLine 
+Cal 10466 wherein it was observed that although Section 58(4) 
+of the Act, 2013 sets certain time limits, yet the same should not 
+be construed to mean that the CLB would be prevented from 
+receiving an appeal thereunder beyond the stipulated period. 
+The provision also does not explicitly prohibit the receipt of an 
+appeal beyond the expiry of the time-limits indicated therein. 
+Furthermore, it was stated that it has been judicially recognised 
+that the principles contained in the Act, 1963 would be applicable 
+to matters before the CLB.
+(iv)	 Lastly, it was observed that a High Court exercising appellate 
+jurisdiction would be required to take into consideration the 
+change in law, if any, that may have occurred during the time 
+the appeal is being decided. For this purpose, the decision 
+of this Court in Lakshmi Narayan Guin v. Niranjan Modak 
+reported in AIR 1985 SC 111 was referred to. The change 
+being alluded to in the present case was the coming into force 
+of Section 433 of the Act, 2013 which expressly made the Act, 
+1963 applicable to proceedings before the NCLT and NCLAT 
+respectively. It was also stated that an appeal is a continuation 
+of the original proceedings and the order of the CLB, being 
+subject to appeal, could not be said to have reached finality. 
+Therefore, no right could be said to have vested in the appellant 
+company such that they could prevent the application of the 
+Act, 1963 to proceedings before the CLB despite the change 
+in law in that regard. 
+
+[2026] 1 S.C.R. 
+241
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+17.	 The relevant observations made in the impugned decision are as 
+under: 
+“Under the provisions of Companies Act, 1956, the 
+Company Law Board (CLB) is a Court in a restricted sense. 
+Under Section 10E (4C) of the Companies Act, 1956, the 
+CLB would have powers under the Code of Civil Procedure, 
+1908 (5 of 1908) only in respect of the matters specified 
+in Section 10E (4C) (a) to (f) of the Companies Act. The 
+Company Law Board is a quasi-judicial authority to be 
+guided by the principles of natural justice in exercise of its 
+power and discharge its functions under the Companies 
+Act, 1956 and it shall act in its discretion. There cannot be 
+any doubt that the provisions of Section 5 of the Limitation 
+Act would only be applicable to the Courts and not to any 
+Tribunal, Quasi-Judicial bodies including CLB unless such 
+authorities are vested with the power of enlargement. 
+In M.P. Steel Corporation (supra), the Hon’ble Supreme 
+Court after taking into consideration a large number of 
+decisions held that a series of decisions of the Supreme 
+Court have also clearly held that the Limitation Act applies 
+only to Courts and does not apply to quasi-judicial bodies 
+and the decision in Madan Lal Das & Sons reported at ( 
+1976) 4 SCC, 464, a three-Judge Bench of the Supreme 
+Court is per incuriam as it was decided without adverting 
+to either Parson Tools, (1975) 4 SCC 22 or other earlier 
+judgments. Madan Lal case, therefore, is not an authority 
+for the proposition that the Limitation Act would apply to 
+tribunals as opposed to courts.
+-xxx-
+The three decisions of the Company Law Board relied 
+upon by Mr. Saha does not appear to have taken into 
+consideration the decision of the Hon’ble Supreme Court in 
+Canara Bank Vs. Nuclear Power Corporation of India Ltd. 
+& Ors. reported at 1995 (84) Comp Cas 70; 1995(Sup3) 
+SCC 81 and a Division Bench Judgement of the Hon’ble 
+High Court in Smt. Nupur Mitra & Anr. Vs. Basubani Pvt. 
+Ltd. & Ors. reported at 1999 (2) CLT 264 where it has 
+been clearly held that in the absence of a specific provision 
+
+242
+[2026] 1 S.C.R.
+Supreme Court Reports
+covering application under Section 111, the residuary 
+Article, namely, Article 137 would apply.
+In Smt. Nupur Mitra (supra), the Hon’ble Division Bench 
+relying upon a decision of the Hon’ble Supreme Court 
+in Canara Bank (supra) held that in proceedings under 
+Section 111 of the Act the provisions of the Limitation Act 
+would apply. The judgment was taken in appeal wherein 
+the Supreme Court after observing, “various contentions 
+are raised on behalf of both the parties before us and, 
+in particular on behalf of the appellants as regards the 
+limitation and delay. The respondents in their petition 
+have made out a prima facie case for condonation 
+of delay and if necessary, the respondents may file 
+such documents as permissible in law to get the delay 
+condoned’’, directed the Company Law Board to hear 
+the matter afresh. Thus, in view of the Supreme Court 
+upholding the decision of the Calcutta High Court that 
+the provisions of the Limitation Act are applicable to the 
+proceedings under Section 111 of the Companies Act, the 
+said decision was binding on the Company Law Board. 
+If so, then the application for condonation of delay can 
+be considered under Section 5 of the Limitation Act. In 
+regard to the application of the Section, the settled law 
+as propounded by the Supreme Court in a number of 
+cases is that the term “sufficient cause” in Section 5 must 
+receive liberal construction so as to advance substantial 
+justice and generally delays in bringing the appeal are 
+required to be condoned in the interest of justice where 
+no gross negligence or deliberate inaction or lack of bona 
+fides is imputable to the parties seeking condonation 
+of delay. It may not be out of place to mention that in 
+the case of Smt. Nupur Mitra (supra) the petition under 
+Section 111 of the Act was filed nearly 50 years after 
+the allotment of shares and the Company Law Board 
+dismissed the Petition as time-barred. The order was set 
+aside by the Division Bench of the Calcutta High Court, 
+which decision was confirmed by the Supreme Court 
+and the matter was remanded back to the Company 
+Law Board for consideration afresh.
+
+[2026] 1 S.C.R. 
+243
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+In Smt. Nupur Mitra (supra) in Paragraph 65 of the 
+said report, the Hon’ble Division Bench considered the 
+applicability of the Limitation Act and held:-
+“65. Assuming that the Limitation Act, 1963 does apply, in 
+the absence of a specific provision covering applications 
+under Section 111, the residuary article namely Article 
+137 would apply. If the cause of action arose in 1996 as 
+claimed by the appellants, the application under Section 
+111 having been filed in 1998 would be within time.”
+-xxx-
+A Co-ordinate Bench in M/s Mackintosh Burn (supra) 
+answered the said question in the manner following:- 
+“Section 58(4) of the Act permits an application though 
+the exact word used is “appeal” to be filed by a person 
+within the time stipulated in such provision. The provision 
+is for the benefit of the transferees of shares in a public 
+company and the time-limits are 60 days from the date of 
+the refusal to register the transfer or 90 days of the delivery 
+of the instrument for transfer to the company without any 
+intimation as to its fate. 
+Though the provision sets the time-limits as above, nothing 
+therein prevents the Company Law Board from receiving 
+a petition or application thereunder beyond the stipulated 
+period. 
+Since it is now judicially recognized that the principles 
+contained in the Limitation Act, 1963 would be applicable 
+to matters before the Company Law Board, irrespective 
+of the use of the word “appeal” in the relevant provision, 
+it would appear that the Company Law Board would have 
+authority to receive a petition after the expiry of the specified 
+period, by applying the principles of the Limitation Act as 
+may be applicable. The question of law sought to be raised 
+is of no consequence since the provision does not prohibit 
+the receipt of a petition or application thereunder after the 
+expiry of the time-limits indicated therein.” 
+Moreover, the High Court in exercising an appellate 
+jurisdiction is required to take into consideration the change 
+
+244
+[2026] 1 S.C.R.
+Supreme Court Reports
+of law. In fact, the decisions cited by Mr. Saha in order to 
+emphasize that the said change of law did not affect the 
+pending proceeding supports the respondent more than 
+the appellant. In Lakshminarayan Guin (supra), the Hon’ble 
+Supreme Court had taken note of the change of law to 
+extend protection to a tenant against eviction which was 
+not available to the tenant when the original proceeding 
+was instituted. The intention of the legislature to extend 
+the benefit of such amendment to a tenant in the pending 
+proceeding was manifest. The manifest intention with 
+which Mr. Saha seeks to support the observation of the 
+Hon’ble Supreme Court in Lakshminarayan Guin (supra) 
+equally applies in the instant case as failure to apply such 
+principle may cause manifest injustice and miscarriage of 
+justice since by operation of law the petitioner is entitled 
+to have his name recorded in the share register and the 
+refusal to register the share in the name of the petitioner 
+is patently illegal.
+-xxx-
+The very fact that an appeal is a continuation of proceedings 
+and the order of CLB is subject to appeal and has not 
+reached finality, therefore, no right appears to have been 
+vested in the appellant in order to attract the mischief of 
+affecting vested right, if there be any. 
+Under such circumstances, this Court finds no reason 
+to interfere with the order passed by the Company Law 
+Board. Since legal issue sought to be raised is devoid on 
+merit ACO No.91 of 2016 and APO No.222 of 2016 are 
+dismissed. 
+However, there shall be no order as to costs.”
+(Emphasis supplied)
+D.	
+SUBMISSIONS OF THE PARTIES 
+I.	
+Submissions on behalf of the appellant company 
+18.	 Ms. Nina Nariman, the learned counsel appearing on behalf of the 
+appellant company submitted, at the outset, that the impugned 
+
+[2026] 1 S.C.R. 
+245
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+decision fails to take into account the settled position of law that 
+the Act, 1963 is not applicable to tribunals or quasi-judicial bodies. 
+Therefore, the CLB acted without authority while condoning the delay 
+of 249 days in filing the appeal under Section 58 of the Act, 2013. 
+19.	 It was submitted that Regulation 44 of the CLB Regulations saving 
+the inherent powers of the CLB could not be said to empower it to 
+circumvent the mandatory time-limit to file a petition provided in the 
+statute and that the said regulation has no manner of application in 
+the matter of condonation of delay in the instant case. The power of 
+condonation has to be conferred specifically by the statute itself or 
+by way of the statute adopting the provisions of the Act, 1963 akin 
+to what has been provided for under Section 433 of the Act, 2013. 
+20.	 It was submitted that on the date on which the decision of the CLB 
+was rendered, the provisions of Section 433 of the Act, 2013 had not 
+come into force. They had come into force only w.e.f. 01.06.2016 i.e., 
+four days after the CLB had passed its order. While it is conceded 
+that the effect of the coming into force of Section 433 is that the NCLT 
+would have the powers to condone delay in respect of “proceedings” 
+or “appeals” before itself if sufficient cause is made out, the same 
+cannot be imputed to the status of things which existed prior to 
+01.06.2016. 
+21.	 The counsel would also submit that an appeal under Section 58(3) 
+of the Act, 2013 would be in the nature of an original proceeding and 
+Section 5 of the Act, 1963 could not be said to confer any power 
+upon a court or tribunal to condone delay in respect of a proceeding 
+of original nature. It is only an “appeal” or an “application” in respect 
+of which delay can be condoned. 
+22.	 She would submit that Section 58(3) of the Act, 2013 is analogous 
+to Section 111(3) of the Erstwhile Act. The decision of this Court in 
+Canara Bank (supra) had observed that the appeal by a shareholder 
+instituted before the CLB under Sections 111(2) and 111(3) of the 
+Erstwhile Act respectively, would be an ‘original application’ despite 
+its nomenclature as an ‘appeal’. The counsel placed further reliance 
+on the decisions of this Court in Mardia Chemicals Ltd. v. Union of 
+India reported in (2004) 4 SCC 311 and Gopal Sardar v. Karuna 
+Sardar reported in (2004) 4 SCC 252 to buttress her argument that 
+proceedings would be of an original nature despite the use of the 
+word “appeal” under the said provision. 
+
+246
+[2026] 1 S.C.R.
+Supreme Court Reports
+23.	 The counsel would also submit that the impugned decision had 
+misread the observations made by this Court in the order dated 
+14.09.1999 in Civil Appeal Nos. 5063-64 of 1999, by which this 
+Court disposed of the appeal against the decision of the Calcutta 
+High Court in Smt. Nupur Mitra (supra). 
+24.	 In such circumstances referred to above, the learned counsel prayed 
+that there being merit in her appeal, the same may be allowed and 
+the impugned decision of the High Court be set-aside. 
+II.	
+Submissions on behalf of the respondent 
+25.	 On the other hand, Ms. Meenakshi Arora, the learned Senior Counsel 
+appearing for the respondent would submit that the impugned decision 
+correctly arrived at the conclusion that there was no negligence on 
+the part of the respondent in filing the appeal before the CLB under 
+Section 58 of the Act, 2013 and also that the application seeking 
+condonation of delay was rightly allowed. 
+26.	 The counsel would submit that Section 58(3) of the Act, 2013 
+prescribes a period of 30 days from the date of the notice of refusal 
+from the company or in case no such notice was obtained, then a 
+period of 60 days from the date the instrument of transfer or intimation 
+of transmission was delivered to the company, within which an appeal 
+must be preferred to the CLB (now, NCLT) by the transferee. 
+27.	 The counsel drew a comparison with Section 34 of the Arbitration 
+and Conciliation Act, 1996 to indicate that unlike the said provision, 
+which uses the words “but not thereafter”, there was no indication 
+under Section 58(3) that an appeal cannot be filed beyond the period 
+of 30 or 60 days, as the case may be. 
+28.	 The counsel submitted that Section 29(2) of the Act, 1963 clearly 
+provides that where any special or local law prescribes for any 
+suit, appeal or application, a period of limitation different from that 
+prescribed by the Schedule to the Act, 1963, then Section 3 of the 
+Act, 1963 would apply as if such period indicated under the special 
+or local law were the period prescribed by the Schedule. Therefore, 
+for determining any period of limitation prescribed for a suit, appeal 
+or application by any special or local law, the provisions contained 
+in Sections 4 to 24 of the Act, 1963 respectively (both inclusive) 
+would apply, only insofar as, and to the extent of which, they are not 
+expressly excluded by such special or local law. In her view, even 
+
+[2026] 1 S.C.R. 
+247
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+before the coming into force of Section 433 of the Act, 2013, there 
+was no express exclusion of the provisions of the Act, 1963 and 
+therefore, the CLB could be said to have the power under Section 5 
+of the Act, 1963 to condone the delay in preferring the appeal under 
+Section 58(3) of the Act, 2013. 
+29.	 The counsel placed heavy reliance on the decision of this Court in 
+M.P. Steel (supra) wherein it was held that the principles of the Act, 
+1963 as contained Section 14 would apply to applications or appeals 
+made before a quasi-judicial body/tribunal. 
+30.	 Even otherwise, it was submitted that since an appeal before the High 
+Court under Section 10F of the Erstwhile Act would be a continuation 
+of the original proceedings, the order of the CLB had not attained 
+finality and the High Court was right in considering the change in law 
+that was brought forth by the coming into force of Section 433 of the 
+Act, 2013. Therefore, no right could be said to have been otherwise 
+vested in the appellant company. In this regard, the counsel would 
+refer to the decision of this Court in Lakshmi Narayan Guin (supra), 
+Dilip v. Mohd. Azizul Haque & Anr. reported in (2000) 3 SCC 607 
+and H.V. Rajan v. C.N. Gopal & Ors. reported in (1975) 4 SCC 302.
+31.	 In such circumstances as referred to above, the counsel prayed that 
+there being no merit in this appeal, the same may be dismissed. 
+E.	
+ISSUES FOR DETERMINATION
+32.	 Having heard the learned counsel appearing for the parties and 
+having gone through the materials on record, the following questions 
+fall for our consideration: 
+I.	
+Whether the CLB, being a quasi-judicial body, could be said to 
+have the power to condone the delay in filing an appeal under 
+Section 58(3) of the Act, 2013? In other words, even if Section 
+5 of the Act, 1963, per say, could not be applied to quasi-judicial 
+bodies, whether the principles underlying Section 5 of the Act, 
+1963 be made applicable to an appeal under Section 58(3) of 
+the Act, 2013, instituted before the CLB? 
+II.	
+Whether Section 433 of the Act, 2013 which was brought into 
+force on 01.06.2016 in order to empower the NCLT and NCLAT 
+respectively, to apply the provisions of the Act, 1963, could be 
+given retrospective effect such that it applied to the CLB as well? 
+
+248
+[2026] 1 S.C.R.
+Supreme Court Reports
+F.	
+ANALYSIS 
+I.	
+The implementation of the provisions of the Act, 2013 in 
+phases and the powers conferred upon the CLB in the 
+period between 12.09.2013 and 01.06.2016. 
+33.	 In order to ensure a smooth transition into the new framework, 
+the Act, 2013 was implemented in phases. Section 1 of the Act, 
+2013 came into force on 30.08.2013. Section 1, itself, indicated 
+that different dates may be appointed for the coming into force of 
+different provisions. 
+34.	 A group of 98 sections or parts thereof was brought into force on 
+12.09.2013. It is noteworthy to mention that Section 58 of the Act, 
+2013 formed a part of this group. 
+35.	 Much thereafter, on 01.06.2016, Chapter XXVII which contained 
+several provisions relating to the constitution of the NCLT and NCLAT 
+respectively and their powers, was brought into force. This included 
+Section 433 as well. 
+36.	 In the period between 12.09.2013 and 01.06.2016, a mix of provisions 
+i.e., certain provisions from the Erstwhile Act and certain provisions 
+from the Act, 2013 held the field. In other words, when the new 
+provisions were being brought into force in phases, the provisions 
+of the Erstwhile Act were also being repealed in phases. 
+37.	 The facts and circumstances of the present matter are peculiar for 
+the reason that the appeal under Section 58(3) of the Act, 2013 was 
+filed during this period between 12.09.2013 and 01.06.2016. In other 
+words, the Section 58(3) appeal was filed at a time when the NCLT 
+and NCLAT had not yet been constituted. Therefore, although the 
+appeal was made under the new provision of the Act, 2013, yet the 
+body/forum before which it was made was one constituted under 
+the provisions of the Erstwhile Act, i.e., the CLB. 
+38.	 Insofar as the CLB is concerned, Section 10E of the Erstwhile Act 
+dealt with how it was to be constituted and the kind of powers that 
+it could exercise. More particularly, Section 10E(4C) of the Erstwhile 
+Act specifically stated that the CLB shall have the same powers which 
+are otherwise vested in a Court trying a suit under the CPC, only 
+in respect of certain specific matters which included the discovery 
+and inspection of documents, examining witnesses on oath etc. In 
+
+[2026] 1 S.C.R. 
+249
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+respect of matters pertaining to limitation, there was no express 
+provision which permitted the CLB to act in a manner similar to that 
+of a court. The relevant provision is reproduced as under: 
+“(4C) Every Bench referred to in sub-section (4B) shall 
+have powers which are vested in a Court under the Code 
+of Civil Procedure, 1908 (5 of 1908), while trying a suit, 
+in respect of the following matters, namely : - 
+(a) discovery and inspection of documents or other material 
+objects producible as evidence ; 
+(b) enforcing the attendance of witnesses and requiring 
+the deposit of their expenses ; 
+(c) compelling the production of documents or other 
+material objects producible as evidence and impounding 
+the same ; 
+(d) examining witnesses on oath ; 
+(e) granting adjournments ; 
+(f) reception of evidence on affidavits.” 
+39.	 It was only when an appeal was instituted before the High Court, 
+by a person aggrieved by any decision or order of the CLB, that 
+Section 10F of the Erstwhile Act, allowed the condonation of delay 
+upon sufficient cause being shown. However, even this was capped 
+for a further period not exceeding sixty days. In other words, the 
+maximum period within which one could prefer an appeal before the 
+High Court against an order of the CLB was 120 days (60 days + 
+60 days). Section 10F is reproduced as under: 
+“10F. APPEALS AGAINST THE ORDERS OF THE 
+COMPANY LAW BOARD 
+Any person aggrieved by any decision or order of the 
+Company Law Board may file an appeal to the High Court 
+within sixty days from the date of communication of the 
+decision or order of the Company Law Board to him on 
+any question of law arising out of such order : 
+Provided that the High Court may, if it is satisfied that the 
+appellant was prevented by sufficient cause from filing the 
+
+250
+[2026] 1 S.C.R.
+Supreme Court Reports
+appeal within the said period, allow it to be filed within a 
+further period not exceeding sixty days.”
+(Emphasis supplied)
+40.	 What is evident from the aforesaid is that, during the period between 
+12.09.2013 and 01.06.2016, it was the CLB which was the adjudicating 
+authority even as regards a proceeding initiated under the new 
+provisions of the Act, 2013. We deem it necessary to reemphasize 
+that there was no provision either akin to or corresponding to Section 
+433 of the Act, 2013 which empowered the CLB to apply the Act, 1963 
+during this period between 12.09.2013 and 01.06.2016. The legislature 
+had very consciously timed the coming into force of Section 433 of the 
+Act, 2013 with that of the creation of the NCLT and NCLAT respectively, 
+which unambiguously revealed their intention to not confer the CLB 
+with any power insofar as the issue of limitation was concerned. 
+41.	 Therefore, it now becomes necessary for us to examine whether 
+the Act, 1963 would apply to those quasi-judicial bodies which are 
+not specifically or expressly empowered to apply the provisions of 
+the Act, 1963. Even if this is answered in the negative, would it be 
+permissible for us to accept the submission made by Ms. Arora that 
+the principles underlying certain provisions of the Act, 1963 should 
+nevertheless be made applicable to such quasi-judicial bodies? 
+II.	
+Whether the CLB, being a quasi-judicial body, could be 
+said to have the power to condone the delay in filing an 
+appeal under Section 58(3) of the Act, 2013?
+a.	
+The Act, 1963, per say, does not apply to quasi-judicial 
+bodies – emphasis on the court as an institution. 
+42.	 In the absence of a specific provision in the special legislation which 
+expressly extends the application of the Act, 1963 to proceedings 
+before the concerned quasi-judicial body or the system of quasi-
+judicial bodies, the thumb rule is that the rules of limitation, not 
+only those that seek to lay down a prescribed period but also those 
+envisaged under Sections 4 to 24 respectively of the Act, 1963, 
+would remain inapplicable to quasi-judicial bodies. 
+43.	 The crux of the underlying reasoning behind such a position is the 
+reluctance and disinclination to apply those rules and principles 
+
+[2026] 1 S.C.R. 
+251
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+pertaining to limitation, to bodies to which it was not contemplated 
+to have any application. This can be a double-edged sword at times, 
+i.e., although the proceedings before these quasi-judicial bodies would 
+be governed by their own prescribed period of limitation without any 
+conflict with the timelines laid out in the Schedule to the Act, 1963 
+yet this would also mean that the other provisions included within 
+Sections 4 to 24 respectively of the Act, 1963, which more often 
+than not, come to the aid of the litigant, would remain inaccessible 
+to persons pursuing remedies before quasi-judicial bodies. 
+44.	 This general and universal rule that the Act, 1963 only applies to 
+‘civil courts’ was expounded in the decision of this Court in Town 
+Municipal Council, Athani v. Presiding Officer, Labour Courts, 
+Hubli and Others reported in (1969) 1 SCC 873 which was concerned 
+with applications made by workmen, before the Labour Court, under 
+Section 33-C(2) of the Industrial Disputes Act, 1947. The aforesaid 
+legislation did not expressly make the provisions of the Act, 1963 
+applicable to Labour Courts. However, one of the pleas raised was 
+that the applications under Section 33-C(2) were time-barred in view 
+of Article 137 of the Schedule to the Act, 1963. The aforesaid plea 
+came to be rejected and a two-fold reasoning was assigned – (a) 
+that the provisions of the Act, 1963, more specifically, Article 137, 
+would only govern applications made under the CPC; and (b) At the 
+very least, it was stated that Article 137 is only concerned with those 
+applications which are presented to a “court” as understood in the 
+strictest sense and not to quasi-judicial bodies. On the latter aspect, 
+with which we are directly concerned, it was elaborated as follows: 
+(i)	
+First, that on a closer look at the Articles under the Third 
+Division of the Schedule to the Act, 1963, which deals with 
+‘applications’, it is plainly evident that all these applications 
+should be presented before a ‘court’. Even the applications as 
+regards the Arbitration and Conciliation Act, 1996, which find 
+mention in the Third Division, were to be presented before 
+‘courts’. Therefore, the determining factor would be whether 
+the application is made before a court or not. In other words, 
+it is the forum before which the application is made which 
+ought to be given importance to. If it is a court then, there 
+would be no restriction in applying the Articles contained in 
+the third division for the purpose of limitation. However, if the 
+application is made before a tribunal or a quasi-judicial body, 
+
+252
+[2026] 1 S.C.R.
+Supreme Court Reports
+then the said Articles cannot be applied. To put it simply, “the 
+scope of the various articles in this division cannot be held to 
+have been so enlarged as to include within them applications 
+to bodies other than courts, such as a quasi-judicial tribunal, 
+or even an executive authority”. 
+(ii)	
+Secondly, the change in the long title of the Act, 1963 in 
+comparison to the old Limitation Act, 1908 was taken note of. 
+It was changed from “an Act to consolidate and amend the law 
+for the limitation of suits and for other purposes” to “An Act to 
+consolidate and amend the law for the limitation of suits and 
+other proceedings and for purposes connected therewith”. It was 
+opined that the addition of the word “other proceedings” in the 
+long title, could not be said to necessarily imply that the Act, 
+1963 was now enlarged in scope to also govern proceedings 
+before any authority, whether executive or quasi-judicial, in 
+comparison to the old Limitation Act which was intended to 
+govern proceedings before civil courts only. The purposes for 
+which the Act, 1963 was enacted, in the opinion of this Court, 
+could not be construed as having been fundamentally altered due 
+to the change in the phrasing of the long title to the Act, 1963. 
+The relevant observations are thus: 
+“12.This point, in our opinion, may be looked at from another 
+angle also. When this Court earlier held that all the articles 
+in the third division to the schedule, including Article 181 
+of the Limitation Act of 1908, governed applications under 
+the Code of Civil Procedure only, it clearly implied that the 
+applications must be presented to a court governed by the 
+Code of Civil Procedure. Even the applications under the 
+Arbitration Act that were included within the third division by 
+amendment of Articles 158 and 178 were to be presented 
+to courts whose proceedings were governed by the Code of 
+Civil Procedure. At best, the further amendment now made 
+enlarges the scope of the third division of the schedule so 
+as also to include some applications presented to courts 
+governed by the Code of Criminal Procedure. One factor 
+at least remains constant and that is that the applications 
+must be to courts to be governed by the articles in this 
+division. The scope of the various articles in this division 
+
+[2026] 1 S.C.R. 
+253
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+cannot be held to have been so enlarged as to include 
+within them applications to bodies other than courts, such 
+as a quasi-judicial tribunal, or even an executive authority. 
+An Industrial Tribunal or a Labour Court dealing with 
+applications or references under the Act are not courts 
+and they are in no way governed either by the Code of 
+Civil Procedure or the Code of Criminal Procedure. We 
+cannot, therefore, accept the submission made that this 
+article will apply even to applications made to an Industrial 
+Tribunal or a Labour Court. The alterations made in the 
+article and in the new Act cannot, in our opinion, justify the 
+interpretation that even applications presented to bodies, 
+other than courts, are now to be governed for purposes 
+of limitation by Article 137. 
+13.Reliance in this connection was placed by learned 
+counsel for the appellant primarily on the decision of the 
+Bombay High Court inP.K. Parwalv.Labour Court, Nagpur. 
+[1966 SCC OnLine Bom 99 : (1968) 70 Bom LR 104] We 
+are unable to agree with the view taken by the Bombay 
+High Court in that case. The High Court ignored the 
+circumstance that the provisions of Article 137 were sought 
+to be applied to an application which was presented not to 
+a court but to a Labour Court dealing with an application 
+under Section 33-C(2) of the Act and that such a Labour 
+Court is not governed by any procedural code relating to 
+Civil or Criminal Proceedings. That court appears to have 
+been considerably impressed by the fact that, in the new 
+Limitation Act of 1963, an alteration was made in the long 
+title which has been incorrectly described by that court 
+as preamble. Under the old Limitation Act, no doubt, the 
+long title was “an Act to consolidate and amend the law 
+for the limitation of suits and for other purposes”, while, in 
+the new Act of 1963, the long title is “An Act to consolidate 
+and amend the law for the limitation of suits and other 
+proceedings and for purposes connected therewith”. In the 
+long title, thus, the words “other proceedings” have been 
+added; but we do not think that this addition necessarily 
+implies that the Limitation Act is intended to govern 
+proceedings before any authority, whether executive or 
+
+254
+[2026] 1 S.C.R.
+Supreme Court Reports
+quasi-judicial, when, earlier, the old Act was intended to 
+govern proceedings before civil courts only. It is also true 
+that the preamble which existed in the old Limitation Act 
+of 1908, has been omitted in the new Act of 1963. The 
+omission of the preamble does not, however, indicate that 
+there was any intention of the legislature to change the 
+purposes for which the Limitation Act has been enforced. 
+The Bombay High Court also attached importance to the 
+circumstance that the scope of the new Limitation Act has 
+been enlarged by changing the definition of “applicant” 
+in Section 2(a) of the new Act so as to include even a 
+petitioner and the word “application” so as to include a 
+petition. The question still remains whether this alteration 
+can be held to be intended to cover petitions by a petitioner 
+to authorities other than Courts. We are unable to find 
+any provision in the new Limitation Act which would justify 
+holding that these changes in definition were intended to 
+make the Limitation Act applicable to proceedings before 
+bodies other than Courts. We have already taken notice of 
+the change introduced in the third division of the Schedule 
+by including references to applications under the Code of 
+Criminal Procedure, which was the only other aspect relied 
+upon by the Bombay High Court in support of its view 
+that applications under Section 33-C of the Act will also 
+be governed by the new Article 137. For the reasons we 
+have indicated earlier, we are unable to accept the view 
+expressed by the Bombay High Court; and we hold that 
+Article 137 of the Schedule to the Limitation Act, 1963, does 
+not apply to applications under Section 33-C(2) of the Act, 
+so that the previous decision of this Court that no limitation 
+is prescribed for such applications remains unaffected.”
+(Emphasis supplied)
+45.	 The first leg of the two-fold reasoning adopted in Town Municipal 
+Council, Athani (supra) came to be seriously doubted and the fate 
+of applications made under other laws but before “courts” seemed to 
+be in a limbo. More particularly, the question was whether applications 
+made to courts under the provisions of other laws, apart from the 
+CPC, would be included within the scope of the Act, 1963 or not. 
+
+[2026] 1 S.C.R. 
+255
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+46.	 The aforesaid confusion was resolved by the three-judge 
+bench decision of this Court in Kerala State Electricity Board, 
+Trivandrum v. T.P. Kunhaliumma reported in (1976) 4 SCC 634. 
+Therein, the issue was whether Article 137 of the Act, 1963 would 
+apply to a petition under Section 16(3) of the Indian Telegraph Act, 
+1885 claiming compensation against the Electricity Board, made 
+before the District Judge. While reaching the conclusion that Article 
+137 of the Act, 1963 would apply to any petition or application filed 
+under ‘any Act’ to a civil court and disagreeing with Town Municipal 
+Council, Athani (supra) on this aspect, the Bench elucidated as 
+follows: 
+(i)	
+First, that Article 137 of the Act, 1963 would include a petition 
+or any application made under ‘any Act’ and cannot be strictly 
+confined to applications made under the CPC. However, one 
+must be cognisant in recognising that such an application under 
+any other Act should be made before a ‘court’ as understood in 
+the traditional sense. The reason being that Sections 4 and 5 of 
+the Act, 1963 respectively speak of the expiry of the prescribed 
+period when the ‘court’ is closed and also extension of the 
+prescribed period if the ‘court’ is satisfied about the existence 
+of sufficient cause in not preferring the appeal or application 
+during the stipulated time period. 
+(ii)	
+Secondly, this Court delved into the aspect of the specific 
+import of the words “District Judge” used in Section 16(3) of 
+the Indian Telegraph Act, 1885. In other words, the attempt 
+was to ascertain whether the aforesaid words would refer to a 
+determination by the District Judge ‘acting judicially as a court’ 
+or not. It was held that Section 16 contained intrinsic evidence 
+to indicate that reference was being made to the ‘court of the 
+District Judge’. Therefore, it was concluded, that there existed 
+no reason to withhold the application of Article 137. 
+The relevant observations are reproduced hereinbelow: 
+“18.The alteration of the division as well as the change in 
+the collocation of words in Article 137 of the Limitation Act, 
+1963 compared with Article 181 of the 1908 Limitation Act 
+shows that applications contemplated under Article 137 are 
+not applications confined to the Code of Civil Procedure. 
+In the 1908 Limitation Act there was no division between 
+
+256
+[2026] 1 S.C.R.
+Supreme Court Reports
+applications in specified cases and other applications as in 
+the 1963 Limitation Act. The words “any other application” 
+under Article 137 cannot be said on the principle of ejusdem 
+generis to be applications under the Civil Procedure Code 
+other than those mentioned in Part I of the third division. 
+Any other application under Article 137 would be petition 
+or any application under any Act. But it has to be an 
+application to a court for the reason that Sections 4 and 
+5 of the 1963 Limitation Act speak of expiry of prescribed 
+period when court is closed and extension of prescribed 
+period if applicant or the appellant satisfies the court that 
+he had sufficient cause for not preferring the appeal or 
+making the application during such period. 
+-xxx-
+20.The provisions in the Telegraph Act which contemplate 
+determination by the District Judge of payment of 
+compensation payable under Section 10 of the Act indicate 
+that the District Judge acts judicially as a court. Where by 
+statutes matters are referred for determination by a court of 
+record with no further provision the necessary implication 
+is that the court will determine the matters as a court. 
+(SeeNational Telephone Co. Ltd.v.Postmaster-General[1913 
+AC 546 : 82 LJKB 1197 : 29 TLR 637] . In the present case 
+the statute makes the reference to the District Judge as 
+the Presiding Judge of the District Court. In many statutes 
+reference is made to the District Judge under this particular 
+title while the intention is to refer to the court of the District 
+Judge. The Telegraph Act in Section 16 contains intrinsic 
+evidence that the District Judge is mentioned there as the 
+court of the District Judge. Section 16(4) of the Telegraph 
+Act requires payment into the court of the District Judge 
+such amount as the telegraph authority deems sufficient 
+if any dispute arises as to the persons entitled to receive 
+compensation. Again, in Section 34 of the Telegraph Act 
+reference is made to payment of court fees and issue of 
+processes both of which suggest that the ordinary machinery 
+of a court of civil jurisdiction is being made available for the 
+settlement of these disputes. Section 3(17) of the General 
+Clauses Act states that the District Judge in any Act of 
+
+[2026] 1 S.C.R. 
+257
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+the Central Legislature means the judge of a principal civil 
+court of original jurisdiction other than the High Court in 
+the exercise of its original civil jurisdiction, unless there 
+is anything repugnant in the context. In the Telegraph Act 
+there is nothing in the context to suggest that the reference 
+to the District Judge is not intended as a reference to the 
+District Court which seems to be the meaning implied by the 
+definition applicable thereto. The District Judge under the 
+Telegraph Act acts as a civil court in dealing with applications 
+under Section 16 of the Telegraph Act.
+21.The changed definition of the words “applicant” and 
+“application” contained in Sections 2(a) and 2(b) of the 
+1963 Limitation Act indicates the object of the Limitation 
+Act to include petitions, original or otherwise, under special 
+laws. The interpretation which was given to Article 181 
+of the 1908 Limitation Act on the principle of ejusdem 
+generis is not applicable with regard to Article 137 of the 
+1963 Limitation Act. Article 137 stands in isolation from 
+all other articles in Part I of the third division. This Court 
+inNityananda Joshi casehas rightly thrown doubt on the 
+two-Judge Bench decision of this Court inAthani Municipal 
+Council casewhere this Court construed Article 137 to be 
+referable to applications under the Civil Procedure Code. 
+Article 137 includes petitions within the word “applications”. 
+These petitions and applications can be under any special 
+Act as in the present case.
+22.The conclusion we reach is that Article 137 of the 1963 
+Limitation Act will apply to any petition or application filed 
+under any Act to a civil court. With respect we differ from 
+the view taken by the two-judge bench of this Court inAthani 
+Municipal Council case[(1969) 1 SCC 873 : (1970) 1 SCR 
+51] and hold that Article 137 of the 1963 Limitation Act is 
+not confined to applications contemplated by or under the 
+Code of Civil Procedure. The petition in the present case 
+was to the District Judge as a court. The petition was one 
+contemplated by the Telegraph Act for judicial decision. 
+The petition is an application falling within the scope of 
+Article 137 of the 1963 Limitation Act.”
+(Emphasis supplied) 
+
+258
+[2026] 1 S.C.R.
+Supreme Court Reports
+47.	 Although the aforesaid two decisions of this Court were directly 
+concerned with the application of Article 137 of the Schedule to the 
+Act, 1963 to applications made before quasi-judicial bodies, yet they 
+laid down a larger general rule regarding the scope and extent of 
+application of the Act, 1963, as a whole, to tribunals or quasi-judicial 
+bodies created by special laws; more particularly those laws, wherein 
+no express provision seeking to apply the Act, 1963 to proceedings 
+before the concerned quasi-judicial body/tribunal existed. 
+48.	 On a careful scrutiny, it can be culled out that the aspect which 
+pre-occupied this Court in the aforementioned two decisions is the 
+absolute necessity of the ‘court’ or the system of courts as envisaged 
+in the Constitution which ought to be held as solely capable of 
+applying the provisions of the Act, 1963. Therefore, notable and 
+significant emphasis was placed on which institution/body is seeking 
+to employ certain provisions of limitation or exercise the powers 
+entrusted under the Act, 1963. The general rule, in this context, is 
+a strict and unmalleable one i.e., it is only the courts which would 
+concern itself with the provisions of the Act, 1963 unless expressly 
+indicated otherwise in any special law governing quasi-judicial bodies. 
+49.	 This general rule was only bolstered through several landmark 
+decisions which came subsequently. A three-judge bench of this Court 
+in Commissioner of Sales Tax, U.P., Lucknow v. Parson Tools 
+and Plants, Kanpur reported in (1975) 4 SCC 22 observed thus: 
+“9.[…] In view of these pronouncements of this Court, 
+there is no room for argument that the Appellate Authority 
+and the Judge (Revisions) Sales tax exercising jurisdiction 
+under the Sales Tax Act, are “courts”. They are merely 
+Administrative Tribunals and “not courts”. Section 14, 
+Limitation Act, therefore, does not, in terms apply to 
+proceedings before such tribunals.”
+(Emphasis supplied)
+50.	 Several decisions that came subsequent to Parson Tools (supra) 
+have also reinforced that the Act, 1963 could be applied to appeals 
+or applications made to ‘courts’ only. Without engaging in the exercise 
+of specifically referring to each of these decisions, we refer with profit 
+to the decision of this Court in M.P. Steel (supra), wherein this issue 
+was put to rest and it was stated as follows: 
+
+[2026] 1 S.C.R. 
+259
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+“19. […] On a plain reading of the provisions of the 
+Limitation Act, it becomes clear that suits, appeals and 
+applications are only to be considered (from the limitation 
+point of view) if they are filed in courts and not in quasi-
+judicial bodies.
+-xxx-
+21. […] The question in this case is whether the Limitation 
+Act extends beyond the court system mentioned above and 
+embraces within its scope quasi-judicial bodies as well?
+22.A series of decisions of this Court have clearly held 
+that the Limitation Act applies only to courts and does not 
+apply to quasi-judicial bodies. […]”
+(Emphasis supplied)
+51.	 On a reading of the aforementioned decisions, it can be stated, 
+without doubt, that the provisions of the Act, 1963 (provisions that lay 
+down a prescribed period of limitation as well as Sections 4 to 24 of 
+the Act, 1963 respectively) would only apply to suits, applications or 
+appeals which are made under any law to ‘courts’ and not to those 
+made before quasi-judicial bodies or tribunals, unless such quasi-
+judicial bodies or tribunals are specifically empowered in that regard. 
+52.	 This discussion which reveals that the application of the provisions 
+of the Act, 1963 is “body/forum specific” would also be relevant in 
+addressing a particular submission made by Ms. Arora - that Section 
+433 of the Act, 2013 which specifically empowers the NCLT and 
+the NCLAT respectively to apply the provisions of the Act, 1963 to 
+proceedings or appeals before itself, must be given retrospective 
+effect such that it applies to the CLB as well. However, we shall deal 
+with this submission, in the latter parts of our discussion. 
+b.	
+Decisions of this Court as regards the application of Section 
+5 of the Act, 1963 to quasi-judicial bodies or tribunals 
+53.	 Insofar as the application of Section 5 of the Act, 1963 to quasi-
+judicial bodies is concerned, this Court has always indicated that the 
+same can only be applied to ‘courts’. In Officer on Special Duty 
+(Land Acquisition) and Another v. Shah Manilal Chandulal and 
+Others reported in (1996) 9 SCC 414, this Court had categorically 
+
+260
+[2026] 1 S.C.R.
+Supreme Court Reports
+held that Section 5 of the Act, 1963 cannot be resorted to by statutory 
+authorities which are not ‘courts’. Therein, this Court was concerned 
+with whether the Collector or the Land Acquisition Officer could 
+extend time. 
+54.	 It is interesting to note that in Officer on Special Duty (supra), a 
+State amendment to the concerned provision clarified that the orders 
+made by the Collector under that provision shall be subject to revision 
+by the High Court and for that specific purpose, the Collector was 
+to be considered to be a court subordinate to the High Court. In the 
+impugned decision therein, this amendment was wrongly construed 
+as conferring the Collector with the powers of a court even as regards 
+Section 5 of the Act, 1963. This Court clarified that the aforesaid 
+local amendment treated the Collector as a court only for a ’limited 
+purpose’ i.e., for the exercise of revisional jurisdiction and that this 
+could not be conflated with the powers under Section 5 of the Act, 
+1963. The relevant observations are thus: 
+“4.The question, therefore, is: whether Section 5 of the 
+Limitation Act would apply? The High Court relied upon 
+sub-section (3) of Section 18 which was made by way of a 
+local amendment, i.e., the Land Acquisition (Maharashtra 
+Extension and Amendment) Act 38 of 1964 which reads 
+thus:
+“Any order made by the Collector on an 
+application under this section shall be subject 
+to revision by the High Court, as if the Collector 
+were a Court subordinate to the High Court 
+within the meaning of Section 115 of the Code 
+of Civil Procedure, 1908.”
+5.It would appear that the High Court of Gujarat has taken 
+a consistent view that, by operation of sub-section (3), as 
+the Collector was designated to be a court subordinate to 
+the High Court under Section 115, Civil Procedure Code 
+(for short “CPC”), Section 5 of the Limitation Act (26 of 
+1963) stands attracted. Though sub-section (3) of Section 
+18, by virtue of local amendments, treated the Collector 
+as court for a limited purpose of exercising revisional 
+jurisdiction under Section 115, CPC to correct errors of 
+orders passed by the Collector under Section 18, he cannot 
+
+[2026] 1 S.C.R. 
+261
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+be considered to be a court for the purpose of Section 5 
+of the Limitation Act. Section 5 of the Limitation Act stands 
+attracted only when LAO acts as a court.”
+(Emphasis supplied)
+55.	 Another decision of this Court in Prakash H. Jain v. Marie Fernandes 
+(supra) reported in (2003) 8 SCC 431 which was also concerned with 
+the condonation of delay by a statutory authority, observed as follows:
+i.	
+First, that while considering the issue of condonation of delay, 
+one must look not only at the nature and character of the 
+authority i.e., whether it is a court or not, but also pay careful 
+attention to the nature of the powers already conferred upon 
+such authorities, the scheme underlying the provisions of the 
+concerned Act, the extent or the boundaries of the powers 
+contained therein and especially take into account the intention 
+of the legislature. 
+ii.	
+Secondly, there is no such thing as any inherent power to 
+condone delay in filing any proceedings, unless specifically 
+warranted and permitted by law, since reading such an inherent 
+power would have the consequence of altering the rights accrued 
+to a party under the concerned statute. 
+iii.	
+Thirdly, when a statutory authority is ‘deemed’ to be a court for 
+certain limited and specific purposes, it must not be taken to 
+mean that it would be a court for any and all other purposes as 
+well. The legal fiction must be given full effect, however, it must 
+not be extended beyond the purpose for which the fiction was 
+created. Therefore, unless expressly indicated, such statutory 
+authorities cannot be clothed with any power that is to be 
+exercised under the Act, 1963. 
+The relevant observations are reproduced hereinbelow: 
+“10.We have carefully considered the submissions of the 
+learned counsel appearing on either side. Questions of the 
+nature raised before us have to be considered not only 
+on the nature and character of the authority, whether it is 
+court or not but also on the nature of powers conferred 
+on such authority or court, the scheme underlying the 
+provisions of the Act concerned and the nature of powers, 
+
+262
+[2026] 1 S.C.R.
+Supreme Court Reports
+the extent thereof or the limitations, if any, contained therein 
+with particular reference to the intention of the legislature 
+as well, found expressed therein. There is no such thing 
+as any inherent power of court to condone delay in filing 
+proceedings before a court/authority concerned, unless 
+the law warrants and permits it, since it has a tendency 
+to alter the rights accrued to one or the other party under 
+the statute concerned. […]”
+-xxx-
+12. […] but the various provisions under Chapter VIII 
+unmistakably indicate that the competent authority 
+constituted thereunder is not “court” and the mere fact that 
+such authority is deemed to be court only for limited and 
+specific purposes, cannot make it a court for all or any 
+other purpose and at any rate for the purpose of either 
+making the provisions of the Limitation Act, 1963 attracted 
+to proceedings before such competent authority or clothe 
+such authority with any power to be exercised under the 
+Limitation Act. It is by now well settled by innumerable 
+judgments of various courts including this Court, that 
+when a statute enacts that anything shall be deemed to 
+be some other thing the only meaning possible is that 
+whereas the said thing is not in reality that something, 
+the legislative enactment requires it to be treated as if 
+it is so. Similarly, though full effect must be given to the 
+legal fiction, it should not be extended beyond the purpose 
+for which the fiction has been created and all the more, 
+when the deeming clause itself confines, as in the present 
+case, the creation of fiction for only a limited purpose as 
+indicated therein. Consequently, under the very scheme 
+of provisions enacted in Chapter VIII of the Act and the 
+avowed legislative purpose obviously made known patently 
+by those very provisions, the competent authority can by 
+no means be said to be “court” for any and every purpose 
+and that too for availing of or exercising powers under the 
+Limitation Act, 1963.
+13.The competent authority constituted under and for the 
+purposes of the provisions contained in Chapter VIII of 
+
+[2026] 1 S.C.R. 
+263
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+the Act is merely and at best a statutory authority created 
+for a definite purpose and to exercise, no doubt, powers 
+in a quasi-judicial manner but its powers are strictly 
+circumscribed by the very statutory provisions which 
+conferred upon it those powers and the same could be 
+exercised in the manner provided therefor and subject 
+to such conditions and limitations stipulated by the very 
+provision of law under which the competent authority itself 
+has been created.”
+(Emphasis supplied)
+56.	 Viewing the facts and circumstances of the present case in light of 
+the ratio of Officer on Special Duty (supra) and Prakash H. Jain 
+(supra), it can be seen that the CLB was also to be treated as a 
+court but for very limited purposes which were enumerated under 
+Section 10E(4C) of the Erstwhile Act. Therefore, the powers conferred 
+under Section 10E(4C) must neither be conflated with nor extended 
+to encompass the powers which a court would otherwise exercise 
+under Section 5 of the Act, 1963.
+57.	 In yet another decision of this Court in Om Prakash v. Ashwani 
+Kumar Bassi reported in (2010) 9 SCC 183, it was stated that the 
+Rent Controller, being a creature of statute, would only be able to 
+act in terms of the powers vested in him by the statute and would 
+therefore, be incapable of entertaining an application under Section 
+5 of the Act, 1963 for the condonation of delay or extension of time. 
+It was observed thus:
+“24. […] There is no specific provision to vest the Rent 
+Controller with authority to extend the time for making of 
+such affidavit and the application. The Rent Controller 
+being a creature of statute can only act in terms of the 
+powers vested in him by statute and cannot, therefore, 
+entertain an application under Section 5 of the Limitation 
+Act for condonation of delay since the statute does not 
+vest him with such power.”
+(Emphasis supplied)
+58.	 The aforesaid decisions are direct authorities for the proposition that 
+Section 5 of the Act, 1963 is not to be utilised by statutory bodies 
+
+264
+[2026] 1 S.C.R.
+Supreme Court Reports
+or authorities for the purpose of extending time or condoning delay. 
+However, since heavy reliance has been placed on the decision of 
+this Court in M.P. Steel (supra) to submit that the principles underlying 
+Section 5 of the Act, 1963 must nevertheless be made applicable 
+to statutory authorities or quasi-judicial bodies, we must see if the 
+decisions of this Court in Officer on Special Duty (supra), Prakash 
+H. Jain (supra) and Om Prakash (supra) still hold good. 
+c.	
+Whether the principles underlying certain provisions of 
+the Act, 1963 could be made applicable to quasi-judicial 
+bodies or tribunals. 
+59.	 We are aware that although the provisions of the Act, 1963 per 
+say have been made inapplicable to applications or appeals before 
+quasi-judicial bodies, yet the principles underlying the provisions of 
+the Act, 1963, more specifically Section 14 thereof, have been made 
+applicable to applications or appeals made before quasi-judicial 
+bodies. This aspect of applying the principles underlying Section 14 
+of the Act, 1963 was discussed in Parson Tools (supra). 
+60.	 Although the decision in Parson Tools (supra) did not apply the 
+principles underlying Section 14 of the Act, 1963 to the facts of their 
+case, based on how the concerned provision i.e., Section 10 of the 
+U.P. Sales Tax Act, 1948, was phrased, yet it left open the possibility 
+for future decisions to apply the said principles where a contrary 
+intention could not be inferred or culled out from the provision to 
+which the principles underlying Section 14 was sought to be applied.
+61.	 Subsequently, this Court in M.P. Steel (supra) took forward the idea 
+that the principles underlying Section 14 of the Act, 1963 could be 
+applied to a provision, unless a contrary intention appears from its 
+wording. This was because the principles upon which Section 14 
+is based are those which advance the cause of justice. In the facts 
+of that case, this Court permitted the application of the principles 
+underlying Section 14 of the Act, 1963 to an appeal filed by the 
+appellant under Section 128 of the Customs Act, 1962 and remanded 
+the matter to the Commissioner (Appeals) for a decision on merits. 
+62.	 In the course of arriving at the said conclusion, M.P. Steel (supra) 
+referred to a vital distinction between exclusion of time and 
+condonation of delay, the former relating to Section 14 of the Act, 
+1963 and the latter relating to Section 5 of the Act, 1963. This 
+
+[2026] 1 S.C.R. 
+265
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+difference was discussed because the provision with which they 
+were concerned i.e., Section 128 of the Customs Act, 1962, stated 
+that time could not be ‘extended’ beyond a further period of three 
+months. In examining whether the aforesaid stipulation would impede 
+or qualify the application of the principles underlying Section 14 of 
+the Act, 1963, it was stated that ‘exclusion of time’ is conceptually 
+different from ‘extension of time/condonation of delay’ and it is 
+only the latter for which the statute has prescribed an outer-limit 
+of an additional period of three months. Therefore, as far as the 
+exclusion of time under Section 14 was concerned, it could not be 
+said that there was any upper-limit as such that was prescribed in 
+the provision. The relevant observations made in M.P. Steel (supra) 
+are reproduced as follows: 
+“43.[…] Also, the principle of Section 14 would apply 
+not merely in condoning delay within the outer period 
+prescribed for condonation but would apply dehors such 
+period for the reason pointed out inConsolidated Engg. 
+[(2008) 7 SCC 169] above, being the difference between 
+exclusion of a certain period altogether under Section 14 
+principles and condoning delay. As has been pointed out 
+in the said judgment, when a certain period is excluded 
+by applying the principles contained in Section 14, there is 
+no delay to be attributed to the appellant and the limitation 
+period provided by the statute concerned continues to be 
+the stated period and not more than the stated period. We 
+conclude, therefore, that the principle of Section 14 which 
+is a principle based on advancing the cause of justice 
+would certainly apply to exclude time taken in prosecuting 
+proceedings which are bona fide and with due diligence 
+pursued, which ultimately end without a decision on the 
+merits of the case.”
+(Emphasis supplied)
+63.	 In contemplating whether the aforesaid decisions in Parson Tools 
+(supra) and M.P. Steel (supra) which relate to applying the principles 
+underlying Section 14 of the Act, 1963 to provisions which pertain 
+to quasi-judicial bodies, could also be resorted to in the present 
+case, we must take forward the distinction between Section 5 and 
+Section 14 of the Act, 1963 respectively which was alluded to in M.P. 
+
+266
+[2026] 1 S.C.R.
+Supreme Court Reports
+Steel (supra). This is because we are concerned with whether the 
+principles underlying Section 5 of the Act, 1963, could be applied 
+to provisions relating to quasi-judicial bodies in the same manner 
+as that of Section 14. 
+64.	 The decision of this Court in Ganesan v. Commission, Tamil 
+Nadu Hindu Religious and Charitable Endowments Board and 
+Others reported in (2019) 7 SCC 108 was directly concerned with 
+the applicability of Section 5 of the Act, 1963 to appeal proceedings 
+before a statutory authority and also had the opportunity to look into 
+the decision in M.P. Steel (supra). Despite this, Ganesan (supra) 
+arrived at the conclusion that the ratio of M.P. Steel (supra) had no 
+application to their case since it pertained to Section 14 and not 
+Section 5 of the Act, 1963. Therefore, it refused to condone delay 
+by briefly observing as follows:
+“44.The two-Judge Bench inM.P. Steel Corpn.[M.P. Steel 
+Corpn.v.CCE, (2015) 7 SCC 58 : (2015) 3 SCC (Civ) 510] , 
+however, held that the provisions of Section 14 would 
+certainly apply. We in the present case are concerned 
+only with applicability of Section 5 of the Limitation Act.”
+65.	 The aforesaid approach taken in Ganesan (supra), by itself, is 
+sufficient indication that the principles underlying Section 5 of the 
+Act, 1963 cannot be applied to quasi-judicial bodies. However, to 
+obviate any further confusion on this legal issue, we would like to take 
+forward this conclusion arrived at in Ganesan (supra) a bit further 
+and elucidate why the treatment as regards the principles underlying 
+Sections 5 and 14 of the Act, 1963 respectively, must be different. 
+i.	
+The difference between the principles underlying Sections 
+5 and 14 of the Act, 1963 respectively
+66.	 Section 5 of the Act, 1963, with which we are directly concerned, 
+reads thus:
+“5. Extension of prescribed period in certain cases.—
+Any appeal or any application, other than an application 
+under any of the provisions of Order XXI of the Code of 
+Civil Procedure, 1908 (5 of 1908), may be admitted after the 
+prescribed period if the appellant or the applicant satisfies 
+the court that he had sufficient cause for not preferring 
+the appeal or making the application within such period. 
+
+[2026] 1 S.C.R. 
+267
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+Explanation.—The fact that the appellant or the applicant 
+was misled by any order, practice or judgment of the High 
+Court in ascertaining or computing the prescribed period 
+may be sufficient cause within the meaning of this section.”
+67.	 The marginal note to Section 5 reads – “Extension of prescribed 
+period in certain cases”. Therefore, it is limpid that what the provision 
+contemplates is the “extension” of the prescribed period of limitation 
+and not the exclusion of it. 
+68.	 It is also well-established that the term “sufficient cause” under 
+Section 5 must not be subject to undue rigidity and must be construed 
+in a manner such that it can be contextualised in the facts and 
+circumstances of each case. In other words, it must be kept sufficiently 
+flexible and not be subject to an exhaustive set of circumstances or 
+reasons. Courts must adopt a liberal and justice-oriented approach 
+in assessing whether sufficient cause is made out. While there exists 
+some outer boundaries within which the term “sufficient cause” must 
+be construed, yet it is no doubt true that a significant amount of 
+leeway is given to courts which are faced with an application under 
+Section 5 of the Act, 1963 to ascertain whether the reasons assigned 
+qualify the subjective test of the words “sufficient cause”. 
+69.	 Furthermore, the use of the words “may be admitted” in the substantive 
+part of the provision indicates that the power which is vested with 
+the court to admit an appeal or an application after the prescribed 
+period, upon sufficient cause being established, is discretionary in 
+nature. There is not one but a two-layered exercise of discretion 
+which is involved in a Section 5 application – i.e., first, in determining 
+whether “sufficient cause” existed and when the same is answered in 
+the affirmative, then, secondly, in assessing whether the case is a fit 
+one for the extension of time/condonation of delay [See: Shivamma 
+(Dead) by LRs v. Karnataka Housing Board reported in 2025 SCC 
+OnLine SC 1969]
+70.	 In contradistinction, Section 14 of the Act, 1963 reads thus: 
+“14. Exclusion of time of proceeding bona fide in 
+court without jurisdiction.—(1) In computing the period 
+of limitation for any suit the time during which the plaintiff 
+has been prosecuting with due diligence another civil 
+proceeding, whether in a court of first instance or of appeal 
+or revision, against the defendant shall be excluded, where 
+
+268
+[2026] 1 S.C.R.
+Supreme Court Reports
+the proceeding relates to the same matter in issue and 
+is prosecuted in good faith in a court which, from defect 
+of jurisdiction or other cause of a like nature, is unable 
+to entertain it. 
+(2) In computing the period of limitation for any application, 
+the time during which the applicant has been prosecuting 
+with due diligence another civil proceeding, whether in a 
+court of first instance or of appeal or revision, against the 
+same party for the same relief shall be excluded, where 
+such proceeding is prosecuted in good faith in a court 
+which, from defect of jurisdiction or other cause of a like 
+nature, is unable to entertain it. 
+(3) Notwithstanding anything contained in rule 2 of Order 
+XXIII of the Code of Civil Procedure, 1908 (5 of 1908), 
+the provisions of sub-section (1) shall apply in relation 
+to a fresh suit instituted on permission granted by the 
+court under rule 1 of that Order, where such permission 
+is granted on the ground that the first suit must fail by 
+reason of a defect in the jurisdiction of the court or other 
+cause of a like nature. 
+Explanation.—For the purposes of this section,— 
+(a) in excluding the time during which a former civil 
+proceeding was pending, the day on which that proceeding 
+was instituted and the day on which it ended shall both 
+be counted;
+(b) a plaintiff or an applicant resisting an appeal shall be 
+deemed to be prosecuting a proceeding; 
+(c) misjoinder of parties or of causes of action shall be 
+deemed to be a cause of a like nature with defect of 
+jurisdiction.”
+71.	 The marginal note to Section 14 reads – “Exclusion of time of 
+proceeding bona fide in court without jurisdiction”. Therefore, at first 
+blush, what becomes evident is that the provision is concerned with 
+“exclusion” and not “extension”. 
+72.	 On a further reading of the aforesaid, one can see that there are 
+certain well-defined pre-requisites that must be satisfied for a party 
+
+[2026] 1 S.C.R. 
+269
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+to take benefit of Section 14. Section 14(2) deals with computing 
+the period of limitation for an application and the following are its 
+requisite conditions – First, both the earlier and the subsequent 
+proceedings must be civil proceedings; Secondly, both the earlier 
+and the subsequent proceedings must be before a court; Thirdly, 
+they must be between the same parties; Fourthly, they must be for 
+the same relief; Fifthly, the previous proceedings must have been 
+incapable of being entertained owing to a defect of jurisdiction or 
+any other cause of a like nature; Lastly, the earlier proceedings must 
+have been prosecuted with good faith and due-diligence. 
+73.	 Insofar as the second condition referred to above is concerned 
+i.e., that both the earlier and the subsequent proceedings must 
+be before a court, this Court in M.P. Steel (supra) clarified that 
+the word “court” in Section 14 has now been expanded to include 
+tribunals as well, but only insofar as the abortive proceeding is 
+concerned. In other words, the application under Section 14 must 
+still be made before a “civil court” or a court as understood in the 
+traditional sense, but the time which is sought to be excluded may 
+pertain to proceedings undertaken before a quasi-judicial forum. It 
+was observed thus: 
+“34.[…] This Court made a distinction between “civil court” 
+and “court” and expanded the scope of Section 14 stating 
+that any authority or tribunal having the trappings of a court 
+would be a “court” within the meaning of Section 14. It 
+must be remembered that the word “court” refers only to 
+a proceeding which proves to be abortive. In this context, 
+for Section 14 to apply, two conditions have to be met. 
+First, the primary proceeding must be a suit, appeal or 
+application filed in a civil court. Second, it is only when it 
+comes to excluding time in an abortive proceeding that the 
+word “court” has been expanded to include proceedings 
+before tribunals.”
+(Emphasis supplied)
+74.	 Another pertinent aspect under Section 14(2) is the use of the words 
+“shall be excluded” which indicates that the provision is couched 
+in mandatory language. Meaning thereby that, when the defined 
+conditions or pre-requisites of Section 14(2) are satisfied, the court 
+would be obligated to exclude the time concerned and it would not 
+
+270
+[2026] 1 S.C.R.
+Supreme Court Reports
+be open for the court to disallow the Section 14(2) application for 
+any ancillary reason. 
+75.	 What flows from this preliminary examination of Sections 5 and 
+14 of the Act, 1963 respectively, is that – First, one pertains to the 
+exercise of a discretionary power vested in courts and the other is 
+a mandatory provision independent of any exercise of discretion; 
+Secondly, one refers to “sufficient cause” which term by itself is 
+subject to a good amount of elasticity and the other has delineated 
+well-defined conditions which must be met; and Lastly, one deals 
+with the extension of time while the other is concerned with the 
+exclusion of time. 
+76.	 One common aspect that cuts through both provisions is, of course, 
+that both have been enacted to advance the cause of substantial 
+justice. However, we must be mindful in equating, without distinction, 
+the principles underlying Sections 5 and 14 of the Act, 1963 
+respectively and erasing the very apparent differences which exist 
+between the two provisions. 
+77.	 In this context, it would be apposite to point out that a three-judge 
+bench of this Court in Consolidated Engineering Enterprises v. 
+Principal Secretary, Irrigation Department and Others reported in 
+(2008) 7 SCC 169 indicated that the principles underlying Sections 
+5 and 14 of the Act, 1962 respectively, stand on a different footing. 
+It was emphasized that while the power to excuse delay and grant 
+extension of time under Section 5 is discretionary, the power to 
+exclude time under Section 14 is mandatory when the necessary 
+ingredients are fulfilled. Section 5 is much broader in scope because a 
+multitude of reasons could constitute “sufficient cause” for the purpose 
+of condonation or extension. The relevant observations are thus: 
+“28.Further, there is fundamental distinction between the 
+discretion to be exercised under Section 5 of the Limitation 
+Act and exclusion of the time provided in Section 14 of 
+the said Act. The power to excuse delay and grant an 
+extension of time under Section 5 is discretionary whereas 
+under Section 14, exclusion of time is mandatory, if the 
+requisite conditions are satisfied. Section 5 is broader in 
+its sweep than Section 14 in the sense that a number of 
+widely different reasons can be advanced and established 
+to show that there was sufficient cause in not filing the 
+
+[2026] 1 S.C.R. 
+271
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+appeal or the application within time. The ingredients in 
+respect of Sections 5 and 14 are different. The effect of 
+Section 14 is that in order to ascertain what is the date of 
+expiration of the “prescribed period”, the days excluded 
+from operating by way of limitation, have to be added to 
+what is primarily the period of limitation prescribed. […].”
+(Emphasis supplied)
+78.	 One might still take the view that the difference between extension 
+and exclusion is only semantic. However, such a view would seriously 
+misconstrue the plain language and intent underlying these two 
+provisions. On the one hand, when the court extends time under 
+Section 5, what essentially occurs is that the applicant is required to 
+satisfy the court about the existence of a sufficient cause starting from 
+the date on which limitation began till the actual date of filing. Upon 
+being satisfied about the existence of sufficient cause, the court then 
+extends the prescribed period of limitation itself till the date of filing of 
+the appeal or application, as the case may be, such that the appeal 
+or application is deemed to have been filed within limitation, under 
+the eyes of law. In other words, the non-filing of the appeal or the 
+application within prescribed period of limitation is only excused and 
+the mandatory bar under Section 3 of the Act, 1963 is overcome by 
+stretching out the prescribed period of limitation, through discretion, 
+in the peculiar facts and circumstances of each case.
+79.	 On the other hand, when the court is contemplating the exclusion of 
+time under Section 14, the prescribed period of limitation continues 
+to be unaltered. What happens is that, in computing the limitation 
+period, the time during which the applicant was prosecuting the 
+abortive proceeding is altogether excluded. This is substantiated 
+by the observation of this Court in M.P. Steel (supra) that – “when 
+a certain period is excluded, by applying the principles contained in 
+Section 14, there is no delay to be attributed to the appellant, and 
+the limitation period provided by the statute concerned continues to 
+be the stated period and not more than the stated period.”. 
+80.	 The effect of the exclusion is, therefore, that, the applicant or the 
+appellant, as the case may be, is placed in a position wherein it is 
+assumed that the abortive proceeding never even occurred in the 
+first place. The law permits such an assumption if the ingredients 
+under Section 14 are satisfied. There arises no question of stretching 
+
+272
+[2026] 1 S.C.R.
+Supreme Court Reports
+out the prescribed period of limitation through discretion. It is as 
+though the time during which the abortive proceeding was prosecuted 
+is expunged in the eyes of law. Such an erasure is allowed also 
+because no delay could be said to be attributed to the applicant or 
+the appellant, as the case may be. 
+81.	 However, when an extension occurs under Section 5, the delay is, in 
+clear terms, attributed to the applicant or the appellant, as the case 
+may be. It is just that such a delay does not have the consequence 
+of the application or the appeal being disallowed due to the mandate 
+under Section 3 of the Act, 1963. The effect of Section 5 is that the 
+period during which the sufficient cause persisted is not erased in the 
+eyes of law; rather the prescribed period of limitation is discretionarily 
+adjusted for the benefit of the litigant. 
+82.	 In simple terms, it could be said that, under Section 5, it is the 
+limitation period itself which is being discretionarily extended; whereas, 
+under Section 14, the clock is reversed and the litigant’s position is 
+restored to some specific date which is within the prescribed period 
+of limitation. After being placed back within the prescribed period of 
+limitation, the litigant would thereafter be “entitled” to file the appeal or 
+application, as the case may be, as a “matter of right”. There arises 
+no such question of right insofar as the mechanism contemplated 
+under Section 5 is concerned. Under Section 5, even after satisfying 
+the court that sufficient cause existed, the litigant cannot claim the 
+extension as a matter of right, since it is the exercise of discretion 
+which is the decisive factor.
+83.	 To illustrate, if the prescribed period of limitation for preferring some 
+appeal/application is 180 days, and say, the litigant prefers the same 
+appeal/application on the 300th day - Here, the effect of Section 5 
+would be that, if sufficient cause existed, the limitation period itself 
+is extended such that it becomes 300 days. Now consider the same 
+appeal/application for which the prescribed period of limitation is 180 
+days, and say, the applicant was prosecuting an abortive proceeding 
+from the 120th day - Here, the effect of a Section 14 application would 
+be that, if its pre-requisites are fulfilled, the clock is turned back and 
+the applicant is placed, yet again, on the 120th day i.e., the date on 
+which he could file the same appeal/application as a matter of right. 
+84.	 This nuanced distinction between extension and exclusion is relevant 
+for our discussion on whether the principles underlying Sections 
+
+[2026] 1 S.C.R. 
+273
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+5 and 14 of the Act, 1963 could both be analogously applied to 
+proceedings before quasi-judicial bodies because, as aforementioned, 
+under Section 5, the courts exercise discretion in extending and 
+more specifically, adjusting the prescribed period of limitation itself 
+to create a fresh period of limitation. Whereas, insofar as Section 
+14 is concerned, the prescribed period of limitation remains intact. 
+The mechanism envisaged under Section 5 is proximally bound and 
+tethered to the discretion with which a civil court is empowered and 
+that under Section 14 is anchored on restoring the right of a litigant 
+to institute an appeal or application, as the case may be, within the 
+prescribed period of limitation. This restoration is based on fixed 
+and well-defined conditions which leaves no room for any exercise 
+of discretion. In other words, Section 14 allows the litigant to file the 
+appeal or the application, as the case may be, as a matter of right 
+by reinstating him on a specific point in the timeline wherein he is 
+entitled to exercise the said right, whereas Section 5 acknowledges 
+that he may not be entitled as a matter of right to file the appeal or 
+the application, as the case may be, but extends time in his favour 
+due to some inherent discretion vested in civil courts. 
+85.	 Both provisions work in the interest of the litigant and seek to further 
+the cause of substantive justice, however, the kind and nature of the 
+power exercised under the two provisions, as well as the mechanism 
+envisaged therein, are quite distinct.
+86.	 Another key difference between Sections 5 and 14 of the Act, 
+1963 respectively was pointed out by the decision of this Court in 
+Sakaru v. Tanaji reported in (1985) 3 SCC 590. While Section 14 
+pertains to “computation of the period of limitation”, Section 5 is a 
+provision that comes into play once such a computation is already 
+completed and the appeal or the application, as the case may be, 
+is still beyond the prescribed period of limitation. To put it simply, 
+the discretion to ‘extend’ time can only be contemplated once the 
+process of computation (which includes ‘exclusion’ of time) is done 
+with. The relevant observations are thus: 
+3. […] The provisions relating to computation of the period 
+of limitation are contained in Sections 12 to 24 included 
+in Part III of the Limitation Act, 1963. Section 5 is not 
+a provision dealing with “computation of the period of 
+limitation”. It is only after the process of computation is 
+
+274
+[2026] 1 S.C.R.
+Supreme Court Reports
+completed and it is found that an appeal or application 
+has been filed after the expiry of the prescribed period 
+that the question of extension of the period under Section 
+5 can arise.”
+(Emphasis supplied)
+87.	 Despite the differences delineated above, as a last resort, one 
+could possibly cite the discussion undertaken by this Court in M.P. 
+Steel (supra) whereby, Sections 6 and 14 of the Act, 1963 and their 
+underlying principles were equated and it was stated that both can 
+be analogously applied to quasi-judicial bodies. Moreover, one would 
+also be right in pointing out that while Section 14 is a computation 
+provision, Section 6 is not. In that context, the question would arise 
+as to why the rationale adopted for Section 6 cannot be true for 
+Section 5 as well? 
+88.	 We are of the view that there exist several identical features between 
+Sections 6 and 14 of the Act, 1963 respectively and the same identity 
+cannot be said to exist vis-á-vis Section 5. Section 6 which deals 
+with “legal disability” is similar to Section 14 on several aspects – 
+First, it is also a provision which envisages ‘exclusion of time’ and 
+has nothing to do with extension of time. Secondly, the provision is 
+also mandatory in nature and the use of the word “may” does not 
+refer to the discretion granted to the court, but rather, the discretion 
+given to the litigant to institute a suit or an application, as the case 
+may be. Thirdly, it also indicates that after the period during which 
+the legal disability persisted is excluded, the litigant is entitled to 
+institute the suit or the application, as the case may be, as a “matter 
+of right”. This is evident from the use of the words “Where a person 
+entitled…, as would otherwise have been allowed”.
+89.	 As we have explained in the preceding paragraphs, such points of 
+identity does not exist vis-á-vis Section 5. 
+90.	 In light of all the aforesaid, it is our view that the discretionary power 
+to adjust the period of limitation itself, must be specifically granted 
+to the concerned quasi-judicial body or tribunal and there must be 
+a reasonable indication from the language of the statute that such 
+a discretion which is otherwise vested in civil courts, is also vested 
+in the concerned quasi-judicial body. We can think of two ways in 
+which this can be done:
+
+[2026] 1 S.C.R. 
+275
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+a.	
+Through a proviso or a sub-section in the concerned section 
+stating that the quasi-judicial body can extend time for filing 
+the said appeal or application, as the case may be, upon the 
+satisfaction that sufficient cause existed. 
+To illustrate, such a sub-rule or proviso may read 
+thus - “provided that the Company Law Board may, 
+if it is satisfied that the appellant was prevented by 
+sufficient cause from filing the appeal within the said 
+period, allow it to be filed within a further period not 
+exceeding 60 days” or “…within a further period of 
+60 days” or “…within a period of 60 days but not 
+thereafter”. 
+Courts have interpreted such provisions to confer a limited 
+discretionary power to the quasi-judicial bodies to extend time. 
+We say that it is limited because the exercise of such discretion 
+is subject to an outer-limit (which is 60 days in our illustration). 
+If no such outer-limit is prescribed, then the discretionary power 
+to extend time would be unlimited. 
+b.	
+Through a separate provision within the scheme of the entire 
+legislation stating that the quasi-judicial body would be able to 
+apply the provisions of the Act, 1963 (akin to that of Section 
+433 of the Act, 2013).
+To illustrate, such a separate provision may read 
+thus – “The provisions of the Limitation Act, 1963 (36 
+of 1963) shall, as far as may be, apply to proceedings 
+or appeals before the Company Law Board”. 
+Such a provision would have empowered the CLB to exercise the 
+discretionary power to apply Section 5 of the Act, 1963. We say 
+so also because, at present, the NCLT and NCLAT do exercise 
+their discretionary powers to extend time, as regards proceedings 
+and appeals before themselves, due to the coming into force of 
+Section 433 of the Act, 2013. The only restriction to the exercise 
+of such a discretion would be an outer-limit, if any, indicated by 
+the concerned provision, owing to the use of the words “as far 
+as may be” in provisions like Section 433 of the Act, 2013.
+91.	 To obviate any confusion, we have noted that the phrase “as far as 
+may be”, by itself, may not be sufficient to preclude the application 
+
+276
+[2026] 1 S.C.R.
+Supreme Court Reports
+of Section 5 of the Act, 1963 altogether. The decision of this Court 
+in Sesh Nath Singh and Another v. Baidyabati Sheoraphuli Co-
+operative Bank Limited and Another reported in (2021) 7 SCC 313 
+provides some important clarification in that regard. Section 238-A 
+of the Insolvency and Bankruptcy Code, 2016 (hereinafter, the “IBC, 
+2016”) is pari materia to that of Section 433 of the Act, 2013 and also 
+employs the phrase “as far as may be”. In discussing the meaning 
+of this expression, this Court pointed out that due to the existence 
+of Section 238-A, the provisions of the Act, 1963, including that of 
+Section 5, would apply to proceedings or appeals instituted under 
+the IBC, 2016. In other words, the NCLT, NCLAT, DRT and DRAT 
+respectively, could exercise their discretion to extend time insofar 
+as the IBC, 2016 is concerned. The relevant observations are thus: 
+“56.For the sake of convenience, and to avoid prolixity 
+and unnecessary repetition, all the aforesaid issues are 
+dealt with together. Section 238-A IBC provides that the 
+provisions of the Limitation Act shall, as far as may be, 
+apply to proceedings before the adjudicating authority 
+(NCLT) andNclat.
+57.It is well settled by a plethora of judgments of this 
+Court as also different High Courts and, in particular, the 
+judgment of this Court inB.K. Educational Services (P) 
+Ltd.v.Parag Gupta & Associates[B.K. Educational Services 
+(P) Ltd.v.Parag Gupta & Associates, (2019) 11 SCC 633 
+: (2018) 5 SCC (Civ) 528] NCLT/Nclathas the discretion 
+to entertain an application/appeal after the prescribed 
+period of limitation. The condition precedent for exercise 
+of such discretion is the existence of sufficient cause for 
+not preferring the appeal and/or the application within the 
+period prescribed by limitation.”
+(Emphasis supplied)
+92.	 However, suppose the concerned provision already provides that 
+delay can only be condoned within a maximum outer-limit, then such 
+an outer-limit would have to be harmoniously read with the expression 
+“as far as may be” to curtail the power to exercise discretion in 
+condoning delay within that outer-limit. 
+
+[2026] 1 S.C.R. 
+277
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+93.	 In the absence of any legislative intent being evident in the form 
+of (a) or (b), it would not be proper for us to take the view that the 
+principles underlying Section 5 must apply to such bodies, even by 
+analogy. The argument that the principles underlying Sections 6 or 
+14 of the Act, 1963 respectively, could be applied to quasi-judicial 
+bodies is not sufficient reason to hold the same insofar as Section 
+5 of the Act, 1963 is concerned. 
+ii.	
+The decision of this Court in International Asset 
+Reconstruction Company of India Limited. 
+94.	 As indicated by us in the preceding paragraphs, whether the 
+provisions of the Act, 1963 stand excluded and more particularly, 
+whether there is an embargo on the application of Section 5 of 
+the Act, 1963 must be examined conscientiously, keeping in mind 
+the overall scheme of the Act in question and the intention of the 
+legislature. The decision of a three-judge bench of this Court in 
+International Asset Reconstruction Company of India Limited 
+v. Official Liquidator of Aldrich Pharmaceuticals Limited and 
+Others reported in (2017) 16 SCC 137 has shed light on how such 
+an exercise is to be conducted. It dealt with the application of Section 
+5 of the Act, 1963 to an appeal before the Debt Recovery Tribunal 
+(hereinafter, the “DRT”) under Section 30 of the Recovery of Debts 
+and Bankruptcy Act, 1993 (hereinafter, the “Act, 1993”). 
+95.	 It would be apposite to mention that Section 24 of the same Act 
+read as follows: “The provisions of the Limitation Act, 1963 (36 of 
+1963), shall, as far as may be, apply to an application made to a 
+Tribunal.” Upon a cursory reading of the aforesaid Section 24, one 
+might assume that it is similar to that of Section 433 of the Act, 
+2013. However, a deeper analysis would reveal that while Section 
+433 of the Act, 2013 applies to “proceedings or appeals” before the 
+NCLT or the NCLAT, Section 24 of the Act, 1993 applies only to 
+an “application” made before the DRT. This was a crucial point of 
+difference which proved to be instrumental to the issue with which 
+International Asset Reconstruction Company (supra) was faced 
+with, because it related to an ‘appeal’ and not an application made 
+before the DRT. 
+96.	 Since the general rule is that the Act, 1963 would not apply to 
+quasi-judicial bodies or tribunals, unless expressly specified, this 
+Court turned its attention to any indication within the statute which 
+
+278
+[2026] 1 S.C.R.
+Supreme Court Reports
+could signal that Section 5 of the Act, 1963 was intended to be 
+applied to ‘appeals’ made before the DRT as well. In doing so, it 
+was observed thus:
+“13.The RDB Act is a special law. The proceedings 
+are before a statutory Tribunal. The scheme of the Act 
+manifestly provides that the legislature has provided for 
+application of the Limitation Act to original proceedings 
+before the Tribunal under Section 19 only. The Appellate 
+Tribunal has been conferred the power to condone delay 
+beyond 45 days under Section 20(3) of the Act. The 
+proceedings before the Recovery Officer are not before 
+a Tribunal. Section 24 is limited in its application to 
+proceedings before the Tribunal originating under Section 
+19 only. The exclusion of any provision for extension of 
+time by the Tribunal in preferring an appeal under Section 
+30 of the Act makes it manifest that the legislative intent 
+for exclusion was express. The application of Section 
+5 of the Limitation Act by resort to Section 29(2) of 
+the Limitation Act, 1963 therefore does not arise. The 
+prescribed period of 30 days under Section 30(1) of the 
+RDB Act for preferring an appeal against the order of 
+the Recovery Officer therefore cannot be condoned by 
+application of Section 5 of the Limitation Act.”
+(Emphasis supplied)
+97.	 It was observed that the power as regards condonation of delay was 
+given to the DRT via Section 24 only when an original ‘application’ 
+was made under Section 19 of the said Act and to the Appellate 
+Tribunal via Section 20(3) when an appeal was made before it under 
+Section 20. On the contrary, insofar as ‘appeals’ made to the DRT 
+under Section 30 were concerned, it was held that the exclusion of 
+Section 5 of the Act, 1963 was manifestly express. 
+98.	 The decision in International Asset Reconstruction Company 
+(supra) furthers the proposition which has been well-cemented over 
+the years that, one must carefully inspect and scrutinise the scheme 
+of the Act and the intention of the legislature before conferring the 
+power to extend time or condone delay to quasi-judicial bodies or 
+tribunals. The exercise must be rooted in vigilance and not haste. 
+
+[2026] 1 S.C.R. 
+279
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+iii.	
+Whether the CLB Regulations confer any discretionary 
+power to the CLB to extend time or condone delay under 
+Section 5 of the Act, 1963? 
+99.	 In the facts and circumstances of the present case, the CLB seems 
+to have traced its power to condone delay/extend time to Regulation 
+44 of the CLB Regulations. However, it is the submission of Ms. 
+Nariman that the said regulation which saves the inherent powers of 
+the CLB cannot be used to allow the circumvention of the mandatory 
+time-limit prescribed for filing an appeal under Section 58 of the Act, 
+2013. Regulation 44 reads thus: 
+“44. Saving of inherent power of the Bench – Nothing 
+in these rules shall be deemed to limit or otherwise affect 
+the inherent power of the Bench to make such orders as 
+may be necessary for the ends of justice or to prevent 
+abuse of the process of the Bench.”
+100.	It is well-established that although the exercise of inherent powers are 
+in addition to the powers specifically conferred on the concerned body 
+or institution, yet such an exercise of power must be complementary 
+to and not be in conflict with any express provision or be contrary to 
+the intention of the legislature. It is only when a provision is silent as 
+regards some procedural aspect that the inherent power can come 
+to the aid of the parties. One must be careful in ascertaining when 
+there is an unintentional silence and when there exists a deliberate 
+omission. 
+101.	Moreover, this Court in Prakash H. Jain (supra) has already 
+unequivocally stated that there cannot be any inherent power to 
+extend the period of limitation prescribed for the filing of any appeal 
+or application. 
+102.	One could argue that it is the same inherent power which is exercised 
+by a quasi-judicial body or tribunal when it applies the principles 
+underlying Section 14 of the Act, 1963. However, as we have already 
+explained, the principles underlying Sections 5 and 14 of the Act, 
+1963, could not be said to be on the same footing. 
+103.	With respect to the issue with which we are concerned, we have 
+already established that when the legislature has intended for a 
+quasi-judicial body or a tribunal to apply the provisions of the Act, 
+1963, more particularly, confer the power of ‘extension of time’, they 
+
+280
+[2026] 1 S.C.R.
+Supreme Court Reports
+have indicated the same in some way or the other, in an express 
+manner. Regulation 44 cannot be resorted to in order to confer a 
+power upon the CLB which the legislature in their wisdom did not 
+intend to confer. 
+104.	To buttress this line of reasoning further, let us look at Regulations 
+25 and 43 of the CLB Regulations respectively:
+“25. Hearing of petition – The Bench may, if sufficient 
+cause is shown at any stage of the proceeding grant time 
+to the parties or any of them and adjourn the hearing of 
+the petition or the application. The Bench may make such 
+order as it thinks fit with respect to the costs occasioned 
+by such adjournment.
+-xxx-
+43. Enlargement of time – Where any period is fixed 
+by or under these regulations or granted by a Bench, 
+for the doing of any act, or filing of any documents or 
+representation, the Bench, may, in its discretion, from time 
+to time, enlarge such period, even though the period fixed 
+by or under these regulations or granted by the Bench 
+may have expired.”
+105.	Regulation 25 deals with the discretion given to the CLB to grant 
+additional time on an altogether different aspect. It deals with granting 
+time, upon showing that sufficient cause existed, for the ‘adjournment’ of 
+a hearing of the petition or application, as the case may be. One must 
+not conflate this with the power to enlarge or extend time for the filing 
+of the petition or application itself with is dealt with by the Act, 2013. 
+106.	This is precisely why Regulation 43 which deals with the enlargement 
+of time has also carefully used the words “Where any period is fixed 
+by or under these regulations or granted by a Bench…”. This makes 
+it clearly evident that the discretion to enlarge time which is dealt 
+with under the CLB Regulations pertain to those aspects which 
+are dealt with under the CLB Regulations only or those otherwise 
+granted by the Bench. They have no relation whatsoever with the 
+prescribed period of limitation which governs the filing of the appeal 
+or application under the Act, 2013 or its extension. 
+107.	This discussion again goes to substantiate the view that, when the 
+question is as regards the “extension of time” in the filing of an 
+
+[2026] 1 S.C.R. 
+281
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+appeal or application itself, before a quasi-judicial body, we must be 
+careful to not overread between the silences and instead, must look 
+at whether there is any express indication to that effect. Whenever 
+and wherever the legislature deemed it fit, it has granted either a 
+limited or an unlimited power to extend time.
+d.	
+How Section 58(3) of the Act, 2013 which is a simpliciter 
+provision prescribing a limitation period, must be construed. 
+108.	Section 58 of the Act, 2013 under which provision the respondent 
+herein filed an appeal before the CLB, is reproduced as thus: 
+“58. Refusal of registration and appeal against refusal.—
+(1) If a private company limited by shares refuses, whether 
+in pursuance of any power of the company under its articles 
+or otherwise, to register the transfer of, or the transmission 
+by operation of law of the right to, any securities or interest 
+of a member in the company, it shall within a period of thirty 
+days from the date on which the instrument of transfer, or 
+the intimation of such transmission, as the case may be, 
+was delivered to the company, send notice of the refusal 
+to the transfer or and the transferee or to the person giving 
+intimation of such transmission, as the case may be, giving 
+reasons for such refusal. 
+(2) Without prejudice to sub-section (1), the securities or 
+other interest of any member in a public company shall 
+be freely transferable: 
+Provided that any contract or arrangement between two 
+or more persons in respect of transfer of securities shall 
+be enforceable as a contract. 
+(3) The transferee may appeal to the Tribunal against 
+the refusal within a period of thirty days from the date of 
+receipt of the notice or in case no notice has been sent 
+by the company, within a period of sixty days from the 
+date on which the instrument of transfer or the intimation 
+of transmission, as the case may be, was delivered to 
+the company. 
+(4) If a public company without sufficient cause refuses to 
+register the transfer of securities within a period of thirty 
+
+282
+[2026] 1 S.C.R.
+Supreme Court Reports
+days from the date on which the instrument of transfer 
+or the intimation of transmission, as the case may be, is 
+delivered to the company, the transferee may, within a 
+period of sixty days of such refusal or where no intimation 
+has been received from the company, within ninety days 
+of the delivery of the instrument of transfer or intimation 
+of transmission, appeal to the Tribunal. 
+(5) The Tribunal, while dealing with an appeal made under 
+sub-section (3) or sub-section (4), may, after hearing the 
+parties, either dismiss the appeal, or by order— 
+(a) direct that the transfer or transmission shall be 
+registered by the company and the company shall 
+comply with such order within a period of ten days 
+of the receipt of the order; or (b) direct rectification 
+of the register and also direct the company to pay 
+damages, if any, sustained by any party aggrieved. 
+(6) If a person contravenes the order of the Tribunal under 
+this section, he shall be punishable with imprisonment for 
+a term which shall not be less than one year but which 
+may extend to three years and with fine which shall not 
+be less than one lakh rupees but which may extend to 
+five lakh rupees.”
+109.	Section 58(1) of the 2013 Act deals with a scenario wherein, a 
+private company limited by shares, refuses to register the transfer 
+or the transmission of the right to any securities or the interest of 
+a member in the company, in favour of the transferee. This refusal 
+may be in pursuance of any power of the company under its articles 
+or otherwise. Such a refusal by the company must be made within 
+a period of thirty days from the date on which the instrument of 
+transfer or the intimation of such transmission, was delivered to the 
+company. This refusal must be in the form of a reasoned notice, 
+made either to the transferor and the transferee, or to the person 
+giving intimation of the transmission to the company.
+110.	Section 58(3) is of particular significance to the present matter. It 
+discusses the mechanism which must be adopted or the further course 
+of action available to a transferee who is aggrieved by the decision 
+of private company refusing to register the transfer or transmission 
+of shares. According to Section 58(3), the transferee has to prefer 
+
+[2026] 1 S.C.R. 
+283
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+an appeal before the NCLT (or the CLB during the period between 
+12.09.2013 and 01.06.2016) against the refusal of the company, 
+within a period of thirty days from the date of receipt of the notice of 
+refusal. In case no notice of refusal has been sent by the company, 
+then the transferee has to prefer an appeal within a period of sixty 
+days from the date on which the instrument of transfer or intimation 
+of transmission was delivered to the company. 
+111.	 The entire question of how a particular provision of a special statute 
+must be construed, for the purposes of limitation, directly arises 
+as a consequence of the savings provision in the Act, 1963, which 
+reads thus: 
+“29. Savings. – […] (2) Where any special or local law 
+prescribes for any suit, appeal or application a period 
+of limitation different from the period prescribed by the 
+Schedule, the provisions of section 3 shall apply as if 
+such period were the period prescribed by the Schedule 
+and for the purpose of determining any period of limitation 
+prescribed for any suit, appeal or application by any special 
+or local law, the provisions contained in sections 4 to 24 
+(inclusive) shall apply only in so far as, and to the extent 
+to which, they are not expressly excluded by such special 
+or local law.”
+112.	Section 29(2) states that, if any special or local law prescribes a 
+certain period of limitation for any suit, appeal or application, as the 
+case may be, which is different from that of the Schedule to the Act, 
+1963, then it is that period of limitation under the special or local law 
+which must be looked into and not those periods which are prescribed 
+under the Schedule to the Act, 1963. Through a deeming fiction, the 
+period prescribed under that special or local law is considered to be 
+that which is prescribed under the Schedule to the Act, 1963 for the 
+purpose of application of Section 3 of the Act, 1963. 
+113.	Moving further, apart from ascertaining what would be the prescribed 
+period of limitation, more often than not, the question is also whether 
+Section(s) 4 to 24 (both inclusive) of the Act, 1963 could be made 
+applicable to that specific provision in the special or local law. For 
+this purpose, one must examine whether the special or local law 
+expressly excludes the application of Sections 4 to 24 of the Act, 
+1963. 
+
+284
+[2026] 1 S.C.R.
+Supreme Court Reports
+114.	For example, take Section 34(3) of the Arbitration and Conciliation 
+Act, 1996 with which this Court in Consolidated Engineering (supra) 
+was concerned with. Ms. Arora has also laid particular emphasis 
+on Section 34(3) of the Arbitration and Conciliation Act, 1996 to 
+drive home her submission that there is no indication under Section 
+58(3) of the Act, 2013 which expressly excludes the application of 
+Section 5 of the Act, 1963. Therefore, we deem it fit to explain the 
+rationale underlying our reasoning using the same provision and it 
+is reproduced as follows: 
+“(3) An application for setting aside may not be made 
+after three months have elapsed from the date on which 
+the party making that application had received the arbitral 
+award or, if a request had been made under section 33, 
+from the date on which that request had been disposed 
+of by the arbitral tribunal: 
+Provided that if the Court is satisfied that the applicant was 
+prevented by sufficient cause from making the application 
+within the said period of three months it may entertain the 
+application within a further period of thirty days, but not 
+thereafter.”
+(Emphasis supplied)
+115.	In the said provision, the prescribed period of limitation for filing an 
+application to set aside an arbitral award is three months. Therefore, 
+if looked at from the lens of Section 29(2) of the Act, 1963, it would 
+mean that instead of applying Article 137 of the Schedule to the 
+Act, 1963 which prescribes a three-year limitation period, one must 
+give priority to the period so specifically prescribed by the legislature 
+under the special act, which is three months. 
+116.	The proviso to Section 34(3) then states that, upon sufficient cause 
+being shown, the application to set aside an arbitral award could be 
+entertained within a further period of thirty days but not thereafter. 
+In light of the language used, what then has to be determined is 
+whether any provision within Sections 4 to 24 of the Act, 1963 was 
+expressly excluded. 
+117.	A reading of the proviso to Section 34(3) reveals that the application 
+of Section 5 of the Act, 1963 has been restricted or rather, curtailed to 
+
+[2026] 1 S.C.R. 
+285
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+an outer-limit of thirty days by the use of the phrase “within a further 
+period of thirty days but not thereafter”. In other words, in Section 
+34(3) of the Arbitration and Conciliation Act, 1996, Section 5 of the 
+Act, 1963 which pertains to extension of time upon the showing of 
+sufficient cause, is only applicable to a limited extent and is confined 
+to that thirty-day additional period. The same was buttressed in the 
+decision of this Court in Simplex Infrastructure Limited v. Union 
+of India reported in (2019) 2 SCC 455. 
+118.	However, insofar as Section 14 of the Act, 1963 was concerned, 
+this Court in Consolidated Engineering (supra) held that it has 
+not been expressly excluded by Section 34(3) of the Arbitration and 
+Conciliation Act, 1996 and could apply to its fullest extent i.e., even 
+without any outer-limit. 
+119.	What the aforesaid example indicates is that the question of whether 
+a certain provision in a special or a local law expressly excludes the 
+provisions of Section 4 to 24 of the Act, 1963 arises only in pursuance 
+of the savings provision under Section 29(2) of the Act, 1963. As 
+a natural corollary, if Section 29(2) is, by itself, inapplicable to a 
+particular case then there would be no need to look into or analyse 
+whether there is any express exclusion. 
+120.	This Court in Ganesan (supra) has unequivocally held that Section 
+29(2) of the Act, 1963 only relates to those provisions in the special 
+or local law which deal with suits, applications or appeals, which are 
+to be filed before a ‘court’. Therefore, when a special or a local law 
+deals with the filing of a suit, application or appeal, as the case may 
+be, before quasi-judicial bodies or tribunals, the savings provision 
+in Section 29(2) of the Act, 1963 does not have any relevance. The 
+relevant observations are reproduced hereinbelow: 
+“60.1.The applicability of Section 29(2) of the Limitation 
+Act is with regard to different limitations prescribed for 
+any suit, appeal or application when to be filed in a 
+court.
+60.2.Section 29(2) cannot be pressed in service with 
+regard to filing of suits, appeals and applications before the 
+statutory authorities and tribunals provided in a special or 
+local law. The Commissioner while hearing of the appeal 
+under Section 69 of the 1959 Act is not entitled to condone 
+
+286
+[2026] 1 S.C.R.
+Supreme Court Reports
+the delay in filing appeal, since, provision of Section 5 shall 
+not be attracted by strength of Section 29(2) of the Act.”
+(Emphasis supplied)
+121.	 M.P. Steel (supra) had also indicated that which was subsequently 
+laid down in Ganesan (supra) and stated that the special or local law 
+referred to in Section 29(2) of the Act, 1963 must concern itself with 
+a suit, application or appeal of the nature described in the Schedule 
+to the Act, 1963 i.e., those that are filed before ‘courts’. Therefore, 
+Section 29(2) would not get attracted when the suit, application or 
+appeal referred to in the special law relates to those which are made 
+before quasi-judicial bodies. The relevant observations are thus: 
+“33. […] A bare reading of this section would show that the 
+special or local law described therein should prescribe for 
+any suit, appeal or application a period of limitation different 
+from the period prescribed by the Schedule. This would 
+necessarily mean that such special or local law would 
+have to lay down that the suit, appeal or application to be 
+instituted under it should be a suit, appeal or application 
+of the nature described in the Schedule. We have already 
+held that such suits, appeals or applications as are referred 
+to in the Schedule are only to courts and not to quasi-
+judicial bodies or tribunals. It is clear, therefore, that only 
+when a suit, appeal or application of the description in the 
+Schedule is to be filed in a court under a special or local 
+law that the provision gets attracted.[…]”
+(Emphasis supplied)
+122.	In the example which we had discussed, the provision in the special 
+law i.e., Section 34(3) of the Arbitration and Conciliation Act, 1996, 
+was one which dealt with an application to be made before a ‘court’. 
+It fell within the scope of Section 29(2) of the Act, 1963 and therefore, 
+one could indulge with the aspect of express exclusion with respect 
+to Section 34(3) of the Arbitration and Conciliation Act, 1996. 
+123.	In the present case, we need not undertake any exhaustive 
+examination as to whether Section 58(3) of the Act, 2013 expressly 
+excludes the application of Section 5 of the Act, 1963 because of the 
+non-application of Section 29(2) of the Act, 1963. The non-application 
+
+[2026] 1 S.C.R. 
+287
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+of Section 29(2) of the Act, 1963 is in turn owing to Section 58(3) of 
+the Act, 2013 being concerned with an appeal which is to be made 
+before a quasi-judicial body and not before a ‘court’. 
+124.	The general rule as regards any appeal or application filed before 
+a ‘court’ is that the provisions of the Act, 1963 would apply, unless 
+indicated otherwise. This is precisely why one enters into the debate 
+of “express exclusion”. However, the reverse is the general rule 
+insofar as quasi-judicial bodies or tribunals are concerned i.e., that the 
+provisions of the Act, 1963 do not apply, unless indicated otherwise. 
+Therefore, the focus would shift to whether there is any “express 
+inclusion” rather than an “express exclusion”. An exception to this 
+shift in focus, or in other words, a reason why one would still look at 
+whether sections 4 to 24 of the Act, 1963 is “expressly excluded” is 
+when the argument that the principles underlying certain provisions 
+of the Act, 1963, like Section 6 or 14 must be made applicable to 
+quasi-judicial bodies, succeeds or is being considered. This was the 
+situation in Parson Tools (supra) and M.P. Steel (supra). However, 
+we have assigned elaborate reasons as to why we are not inclined 
+to apply the principles underlying Section 5 of the Act, 1963 to quasi-
+judicial bodies or tribunals. Therefore, there arises no occasion for 
+us to explore this aspect of express exclusion. 
+125.	In light of the aforesaid, we find no merit in the submission put forth 
+by Ms. Arora that even before the coming into force of Section 433 
+of the Act, 2013, there was no express exclusion of the provisions of 
+the Act, 1963 and therefore, the CLB could be said to have the power 
+under Section 5 of the Act, 1963 to condone the delay in preferring 
+the appeal under Section 58(3) of the Act, 2013. The absence of 
+express exclusion, by itself, cannot be said to have conferred the 
+CLB with the power to condone delay.
+126.	Having said the above, the next question which arises is regarding 
+how the simpliciter limitation period prescribed under Section 58(3) 
+of the Act, 2013, must be construed? To answer this, we find it 
+apposite to bring forth certain observations made by this Court in 
+Fairgrowth Investments Ltd v. Custodian reported in (2004) 11 
+SCC 472. The relevant observations are thus: 
+“9.We are of the view that the provision prescribing a time-
+limit for filing a petition for objection under Section 4(2) of 
+the Act is mandatory in the sense that the period prescribed 
+
+288
+[2026] 1 S.C.R.
+Supreme Court Reports
+cannot be extended by the court under any inherent 
+jurisdiction of the Special Court. Prescribed periods for 
+initiating or taking steps in legal proceedings are intended 
+to be abided by, subject to any power expressly conferred 
+on the court to condone any delay. Thus the Limitation 
+Act, 1963 provides for different periods of limitation within 
+which suits, appeals and applications may be instituted 
+or filed or made as the case may be. It also provides for 
+exclusion of time from the prescribed periods in certain 
+cases, lays down bases for computing the period of 
+limitation prescribed and expressly provides for extension 
+of time under Section 5 in respect of certain proceedings. 
+If the periods prescribed were not mandatory, it was not 
+necessary to provide for exclusion or extension of time in 
+certain circumstances nor would the method of computation 
+of time have any meaning.
+10.Section 4(2) of the Act plainly read simply requires a 
+person objecting to a notification issued under sub-section 
+(2) of Section 3 to file a petition raising such objections within 
+30 days of the issuance of such notification. The words 
+are unequivocal and unqualified and there is no scope for 
+reading in a power of court to dispense with the time-limit 
+on the basis of any principle of interpretation of statutory 
+provisions. InR. Rudraiahv.State of Karnataka[(1998) 3 
+SCC 23] it was contended on behalf of the appellants 
+that Section 48-A of the Karnataka Land Reforms Act, 
+1961 which provided for the making of an application 
+within a particular period should be construed liberally 
+in favour of tenants so that the period was to be read as 
+extendable. The submission was rejected on the ground 
+that the language of Section 48-A was unambiguous and 
+could not be interpreted differently only on the ground of 
+hardship to the tenants.
+11.The mere fact that the Special Court may have been 
+imbued with the same status of a High Court would not 
+alter the situation. We are of the view that it was not 
+necessary for Section 4(2) of the Act to use additional 
+peremptory language such as “but not thereafter” or “shall” 
+to mandate that an objection had to be made within 30 
+
+[2026] 1 S.C.R. 
+289
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+days. The mere use of the word “may” in Section 4(2) of 
+the Act does not indicate that the period prescribed under 
+the section is merely directory. The word “may” merely 
+enables or empowers the objector to file an objection. The 
+language in Section 4(2) of the Act may be compared with 
+Sections 4 and 6 of the Limitation Act, 1963. Section 4 of 
+the Limitation Act provides:
+“4.Expiry of prescribed period when court is 
+closed.—Where the prescribed period for any suit, 
+appeal or application expires on a day when the 
+court is closed, the suit, appeal or applicationmaybe 
+instituted, preferred or made on the day when the 
+court reopens.”
+Certain sub-sections of Section 6 of the Limitation Act also 
+provide for the period within which a minor or insane or 
+an idiotmayinstitute suits. It cannot be contended that the 
+word “may” in these sections indicates that the prescribed 
+periods were merely directory. This Court inMangu Ramv.
+Municipal Corpn. of Delhi[(1976) 1 SCC 392 : 1976 SCC 
+(Cri) 10] described statutory provisions of periods of 
+limitation as “mandatory and compulsive” and also said: 
+(SCC p. 397, para 7)
+“It is because a bar against entertainment of an 
+application beyond the period of limitation is created 
+by a special or local law that it becomes necessary 
+to invoke the aid of Section 5 (of the Limitation Act) 
+in order that the application may be entertained 
+despite such bar.”
+12.If the power to condone delay were implicit in every 
+statutory provision providing for a period of limitation in 
+respect of proceedings before courts, Section 29(2) of the 
+Limitation Act, 1963 would be rendered redundant. We 
+will discuss the scope and applicability of Section 29(2) 
+in greater detail subsequently.”
+(Emphasis supplied)
+127.	What we understand from the aforesaid observations in Fairgrowth 
+(supra), is that: 
+
+290
+[2026] 1 S.C.R.
+Supreme Court Reports
+i.	
+First, the prescribed periods for the initiation or taking of any 
+steps in pursuance of legal proceedings, even insofar as the 
+traditional civil courts are concerned, are generally intended to be 
+abided by. If in case all prescribed periods were not mandatory 
+and only directory, then there would have been no necessity 
+to provide for the exclusion or the extension of time under 
+the Act, 1963 under certain circumstances and the method of 
+computation of time would also not have any meaning. 
+ii.	
+Secondly, it is only after considering the mandatory nature of 
+the prescribed periods that the civil court is empowered under 
+Section 5 of the Act, 1963 to condone delay. If the said provision 
+were not present then even civil courts would not have had 
+the power to condone delay. Hence, any quasi-judicial body 
+or tribunal which otherwise does not fall within the ambit of 
+Section 5 of the Act, 1963 and which is also not specifically 
+empowered to condone delay, cannot extend time under the 
+notion that the prescribed period is only directory.
+iii.	
+Thirdly, when the provision, in a plain, unequivocal and 
+unqualified manner, states that something must be done within 
+a said period of time, there would be no scope to read in any 
+ancillary power to dispense with the said time-limit. The existence 
+of any additional pre-emptory language in the form of “but not 
+thereafter” or “shall” would not be necessary to convey the 
+mandate of the prescribed period. 
+iv.	
+Lastly, the mere use of the word “may”, in all situations, would 
+not indicate that a period prescribed is merely directory. In a 
+lot of contexts, the word “may” has been used to indicate the 
+option available to a certain person to file an application, appeal 
+or objection. To put it simply, it could just signify that someone 
+would be enabled or empowered to do something. 
+128.	Section 58(3) of the Act, 2013 uses the expression “The transferee 
+may appeal to the Tribunal”. As elucidated in Fairgrowth (supra), 
+we are also of the view that the use of this word does not directly 
+give rise to any inference that the limitation period prescribed therein 
+is only directory. 
+129.	Therefore, the respondent herein must have preferred his appeal 
+under Section 58(3) of the Act, 2013 before the CLB, strictly within 
+the time-limit prescribed therein. 
+
+[2026] 1 S.C.R. 
+291
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+III.	
+Whether Section 433 of the Act, 2013 must be made 
+retrospectively applicable or the change in law during the 
+pendency of the appeal must be taken into account in the 
+facts and circumstances of the present case? 
+130.	As indicated previously, Section 433 of the Act, 2013 was brought into 
+force w.e.f 01.06.2016 i.e., from the same date on which the NCLT 
+and the NCLAT respectively came to be constituted. In the phased 
+manner of implementation of the provisions of the Act, 2013, such a 
+decision to time the coming into force of Section 433 in a way that 
+coincides with the creation of the NCLT and NCLAT respectively, 
+was clear and conscious. This, by itself, is a good indication to steer 
+away from the retrospective application of Section 433 in favour of 
+the CLB. 
+131.	Further, in the course of our initial discussion on whether the provisions 
+of the Act, 1963 could, per say, be said to apply to quasi-judicial 
+bodies, we had also indicated that the jurisprudence surrounding the 
+application of the Act, 1963 is body/institution specific. In other words, 
+the first step in approaching all such matters is to see whether the 
+concerned body could be said to be a ‘civil court’ or not. If answered 
+in the negative, then the endeavour is to figure out whether that body 
+has been specifically empowered to apply the provisions of the Act, 
+1963. The general rule insofar as quasi-judicial bodies or tribunals 
+are concerned, is that the provisions of the Act, 1963 do not apply 
+unless indicated otherwise. Therefore, “express inclusion” as we had 
+indicated earlier, must be present. 
+132.	It is in this background that we are of the view that Section 433 which 
+empowers the NCLT and the NCLAT respectively to apply the provisions 
+of the Act, 1963, as far as may be, to proceedings and appeals before 
+itself, cannot be borrowed to signify the existence of a similar power 
+with respect to the CLB. Although much of what the CLB was doing 
+earlier is being done by the NCLT presently, both are different bodies, 
+created at different times and endowed with different powers. 
+133.	We had also contemplated on whether the period between 12.09.2013 
+and 01.06.2016 should be treated differently and whether the powers 
+exercised by the NCLT by virtue of Section 433 of the Act, 2013 
+must be extended to the CLB during this specific window of time. 
+However, the scheme of the Act, 2013 and the manner in which it was 
+implemented leaves no room for such an interpretation. It was fairly 
+
+292
+[2026] 1 S.C.R.
+Supreme Court Reports
+clear that it was the CLB which would function as the adjudicating 
+authority in respect of several matters during this period until the 
+NCLT was created and there remained no confusion on whether the 
+CLB’s powers had been enhanced in any manner or not. 
+134.	In B.K. Educational Services Private Limited v. Parag Gupta 
+and Associates reported in (2019) 11 SCC 633, the question 
+admittedly related to the retrospective application of Section 238-A 
+of the IBC, 2016 which provision was pari materia to Section 433 
+of the Act, 2013. However, the background in which it was raised 
+was altogether different. 
+135.	The issue in B.K. Educational Services (supra) was whether Section 
+238-A of the IBC, 2016 (pari materia to Section 433 of the Act, 2013) 
+which was inserted through the Amendment Act of 2018 with effect 
+from 06.06.2018 could be said to have retrospective application from 
+the date of commencement of the IBC, 2016 i.e. from 01.12.2016. 
+In examining the reason behind the introduction of Section 238-A, it 
+was culled out that the legislature had always intended for the Act, 
+1963 and the rules of limitation to apply to the IBC, 2016, especially 
+with respect to the applications filed under Sections 7 and 9 of the 
+IBC, 2016 respectively. In other words, the issue therein related to 
+the retrospective application of the provision of an amending Act 
+which was clarificatory in nature. 
+136.	It is also of note that in B.K. Educational Services (supra), in 
+the period between 01.12.2016 and 06.06.2018 i.e., the period for 
+which retrospective application was sought, it was still the NCLT that 
+was hearing applications under Sections 7 and 9 of the IBC, 2016 
+respectively. To put it simply, it was not a case wherein a different 
+body was adjudicating the applications filed under Sections 7 and 
+9 respectively during 06.06.2018 and 01.12.2016. The issue was 
+simple – when the NCLT was explicitly empowered to apply the 
+provisions of the Act, 1963 on and after 06.06.2018 by way of Section 
+238-A of the IBC, 2016, could it be said that the NCLT also would 
+have been empowered to apply the Act, 1963 before 06.06.2018?. 
+This was what was answered in the affirmative. 
+137.	Moreover, one another significant aspect in B.K. Educational 
+Services (supra) was that, as on 01.06.2016, the NCLT was already 
+empowered under Section 433 of the Act, 2013 to apply the provisions 
+of the Act, 1963. This power of the NCLT was said to apply even 
+
+[2026] 1 S.C.R. 
+293
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+when the NCLT decided applications under Sections 7 and 9 of the 
+IBC, 2016 respectively. The same is evident from the observation 
+in B.K. Educational Services (supra) that – “Given the fact that 
+the “procedure” that would apply to NCLT would be the procedure 
+contained inter alia in the Limitation Act, it is clear that NCLT would 
+have to decide applications made to it under the Code in the same 
+manner as it exercises its other jurisdiction under the Companies Act.“
+138.	In light of all these differences, any reliance on B.K. Educational 
+Services (supra) to further the argument that Section 433 of the Act, 
+2013 must be applied to the CLB, would be unfounded.
+139.	This issue may be viewed at from one another angle. It is no more 
+res integra that limitation being a procedural law, a change in law in 
+that regard applies retrospectively. However, this general principle 
+has certain exceptions – (a) the new law of limitation providing for 
+a longer period cannot revive a dead remedy and, (b) the new law 
+of limitation cannot suddenly extinguish a vested right of action by 
+providing for a shorter period of limitation. 
+140.	Some pertinent observations in this regard was made by the decision 
+of this Court in Thirumalai Chemicals Limited v. Union of India and 
+Others reported in (2011) 6 SCC 739 and the same is reproduced 
+as follows: 
+“Law of limitation
+29.Law of limitation is generally regarded as procedural 
+and its object is not to create any right but to prescribe 
+periods within which legal proceedings be instituted for 
+enforcement of rights which exist under substantive law. 
+On expiry of the period of limitation, the right to sue comes 
+to an end and if a particular right of action had become 
+time-barred under the earlier statute of limitation the right 
+is not revived by the provision of the latest statute. Statutes 
+of limitation are thus retrospective insofar as they apply 
+to all legal proceedings brought after their operation for 
+enforcing cause of action accrued earlier, but they are 
+prospective in the sense that they neither have the effect 
+of reviving the right of action which is already barred on 
+the date of their coming into operation, nor do they have 
+the effect of extinguishing a right of action subsisting on 
+
+294
+[2026] 1 S.C.R.
+Supreme Court Reports
+that date. Bennion onStatutory Interpretation, 5th Edn. 
+(2008), p. 321 while dealing with retrospective operation 
+of procedural provisions has stated that provisions laying 
+down limitation periods fall into a special category and 
+opined that although prima facie procedural, they are 
+capable of effectively depriving persons of accrued rights 
+and therefore they need be approached with caution.
+-xxx-
+32.Limitation provisions therefore can be procedural in the 
+context of one set of facts but substantive in the context of 
+different set of facts because rights can accrue to both the 
+parties. In such a situation, test is to see whether the statute, 
+if applied retrospectively to a particular type of case, would 
+impair existing rights and obligations. An accrued right to 
+plead a time bar, which is acquired after the lapse of the 
+statutory period, is nevertheless a right, even though it arises 
+under an Act which is procedural and a right which is not 
+to be taken away pleading retrospective operation unless a 
+contrary intention is discernible from the statute. Therefore, 
+unless the language clearly manifests in express terms 
+or by necessary implication, a contrary intention a statute 
+divesting vested rights is to be construed as prospective.”
+(Emphasis supplied)
+141.	What is therefore evident is that, if the retrospective application 
+of a procedural law, including that of limitation, affects or divests 
+vested rights, the general rule that procedural law must be given 
+retrospective effect, could be deviated from. In such cases, giving 
+prospective effect may be favoured even if the matter pertains to 
+limitation. However, if no such vested right could be said to exist, 
+then giving retrospective effect is the way to go. 
+142.	In Thirumalai Chemicals (supra), the cause of action arose when 
+the Foreign Exchange Regulation Act, 1973 (hereinafter, the “FERA”) 
+was in force, but the impugned orders were issued when the Foreign 
+Exchange Management Act, 1999 (hereinafter, the “FEMA”) was in 
+force. The difference in the two regimes insofar as the limitation period 
+for filing an appeal was concerned was that, in the former regime, 
+the prescribed period of limitation was 45 days and delay could be 
+
+[2026] 1 S.C.R. 
+295
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+condoned upon sufficient cause being shown for an additional period 
+of 90 days. In the latter regime, the prescribed period of limitation was 
+45 days and delay could be condoned upon sufficient cause being 
+shown without any outer-limit. The appeal therein was admittedly 
+belated. The issue related to whether the power to condone delay 
+under the old regime or the new regime must be looked at.
+143.	In Thirumalai Chemicals (supra), this Court applied the provisions 
+of the new regime based on the general principle that matters of 
+procedure, including limitation, are to be given retrospective effect. 
+Moreover, since the impugned orders were issued when the new 
+regime was already in force, there was no vested right which accrued 
+to the opposite party to plead any time bar in filing the appeal based 
+on the old regime. In other words, the opposite party did not have 
+any vested right to claim that delay could not be condoned beyond 
+a period of 90 days as laid out in the old regime. 
+144.	The facts and circumstances of the present case are slightly different 
+from that in Thirumalai Chemicals (supra). As aforementioned, the 
+newer law of limitation which is applicable to the matter cannot revive 
+a dead remedy. In the facts of our case, the appellant company issued 
+its notice refusing to register the transmission of shares on 30.04.2013 
+i.e., during a time when the regime under the Erstwhile Act was in 
+vogue. More specifically, it was Section 111(2) r/w Section 111(3) 
+of the Erstwhile Act which governed the field. According to those 
+provisions, the respondent herein must have preferred an appeal 
+before the CLB within a period of two months from the date of the 
+notice of refusal i.e., before 30.06.2013. It is not in dispute that the 
+respondent failed to file such an appeal before 30.06.2013. There 
+existed no power to condone delay with the CLB during this period. 
+Therefore, the remedy under Section 111(2) r/w Section 111(3) of the 
+Erstwhile Act was already dead, much before the coming into force 
+of Section 58 of the Act, 2013 on 12.09.2013 let alone the coming 
+into force of Section 433 of the Act, 2013 on 01.06.2016. 
+145.	Hence, in such a scenario, it would not be permissible for one to say 
+that the power to condone delay which has been given to the NCLT 
+beginning from 01.06.2016 must enure to the benefit of an appeal 
+which had become time-barred much before the commencement of 
+the Act, 2013. If such an argument is accepted then it would have 
+the consequence of affecting vested rights. 
+
+296
+[2026] 1 S.C.R.
+Supreme Court Reports
+146.	In light of the aforesaid, we do not wish to engage in any further 
+discussion on whether the change in law due to the coming into force 
+of Section 433 of the Act, 2013 had any bearing on the present case. 
+147.	Before we conclude, we deem it appropriate to discuss certain 
+decisions of this Court and of the Calcutta High Court, upon which 
+the impugned decision had placed considerable reliance. 
+148.	First, is the decision of a three-judge bench of this Court in Canara 
+Bank (supra) which dealt with whether the CLB could be considered 
+to be a ‘civil court’ for the purposes of Section 9-A of the Special 
+Court (Trial of Offences Relating to Transactions in Securities) Act, 
+1992 (hereinafter, the “Act, 1992”). Interestingly, this question was 
+also raised in the background of Section 111(2) r/w Section 111(3) 
+of the Erstwhile Act (now Section 58(3) of the Act, 2013). Therein, 
+if the CLB was to be considered a ‘civil court’ for the purposes of 
+Section 9-A of the Act, 1992, then its jurisdiction vis-à-vis a suit, 
+claim or other legal proceeding that overlapped with those under 
+the purview of the Special Court, would be affected. In other words, 
+those matters could be transferred from the CLB to the Special Court. 
+149.	Keeping in view the object of the Act, 1992, this Court thought it 
+appropriate to attribute a wider meaning to the word ‘civil court’ 
+used in Section 9-A to encompass not only the traditional courts of 
+civil judicature but all bodies, both courts and tribunals, which act 
+judicially to deal with matters and claims. This interpretation was 
+tailored in light of the mischief which was sought to be curtailed and 
+the remedy sought to be advanced by the Act, 1992. 
+150.	Therefore, the decision in Canara Bank (supra) was very specific 
+to the Act, 1992 and was given in the context of the peculiar legal 
+issue involved therein i.e., transfer of proceedings from the CLB 
+to the Special Court. This decision cannot come to the aid of the 
+respondents for the proposition that the CLB must also be considered 
+to be a ‘court’ for the purposes of the Act, 1963 and more specifically, 
+for the purpose of condonation of delay/extension of time. 
+151.	Secondly, the impugned decision has also placed considerable 
+reliance on the Division Bench decision of the Calcutta High Court in 
+Nupur Mitra (supra). Therein, the CLB was faced with an application 
+under Section 111(4) of the Erstwhile Act for the rectification of the 
+register (corresponding to Section 59 of the Act, 2013) and was not 
+
+[2026] 1 S.C.R. 
+297
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+dealing with an appeal against the refusal to register the transfer 
+or transmission of shares under Section 111(2) r/w Section 111(3) 
+of the Erstwhile Act (corresponding to Section 58 of the Act, 2013). 
+152.	This difference is crucial because under Section 111(4) of the Erstwhile 
+Act and Section 59 of the Act, 2013, there is no period of limitation 
+which has been prescribed by the legislature. In other words, the 
+making of an application for the rectification of register under both 
+the Erstwhile Act and the Act, 2013 is not bound by a specific time-
+limit. On the other hand, under Section 111(2) r/w Section 111(3) 
+of the Erstwhile Act and Section 58(3) of the 2013, Act, there is a 
+specific period within which an appeal against the refusal to register 
+the transfer or transmission of shares has to be filed before the CLB 
+or the NCLT. 
+153.	We are not concerned with an appeal made under Section 59 of the 
+Act, 2013 for the rectification of the register which has no prescribed 
+period of limitation. Rather our focus is on Section 58 of the Act, 
+2013 under which the legislature has specified a particular time 
+period within which an appeal must be preferred. Therefore, on this 
+aspect alone, we are of the view that the observations of the Calcutta 
+High Court in Nupur Mitra (supra) as regards limitation are of no 
+relevance to the present matter. 
+154.	Even otherwise, the decision in Nupur Mitra (supra) did not 
+conclusively hold that the Act, 1963 would apply to an application for 
+the rectification of register under Section 111(4) of the Erstwhile Act. It 
+was stated that – “Assuming that the Limitation Act, 1963 does apply, 
+in the absence of a specific provision covering applications under 
+section 111, the residuary article namely Article 137 would apply. If 
+the cause of action arose in 1996 as claimed by the appellants, the 
+application under section 111 having been filed in 1998 would be within 
+time.” This was also observed in light of the fact that, irrespective 
+of whether the Act, 1963 applied or not, the conclusion was that 
+the application under Section 111(4) therein was not time-barred. 
+Therefore, we are not persuaded by the respondent’s reliance on 
+the observations made in Nupur Mitra (supra). 
+155.	It was under such circumstances that this Court in Basubani Private 
+Ltd. and Anr v. Nupur Mitra and Ors. (Civil Appeal Nos. 5063-
+5064 of 1999) considered it appropriate to not interfere with the 
+observations made in Nupur Mitra (supra). 
+
+298
+[2026] 1 S.C.R.
+Supreme Court Reports
+156.	Lastly, considerable reliance was also placed on the decision of 
+a Single Judge of the Calcutta High Court in Mackintosh (supra) 
+wherein it was stated that although Section 58(4) of the Act, 2013 
+prescribes a certain time-limit within which an appeal must be filed, yet 
+nothing could be said to prevent the CLB from receiving the appeal 
+thereunder beyond the stipulated period. The reasoning underlying 
+the said conclusion was two-fold – (a) it is judicially recognised that 
+the principles contained in the Act, 1963 would be applicable to the 
+matters before the CLB and, (b) the provision does not explicitly 
+prohibit the receipt of an appeal thereunder after the expiry of the 
+time-limit indicated therein. Insofar as the aforesaid two-pronged 
+reasoning is concerned, we have already explained as to how the 
+principles underlying Section 5 of the Act, 1963 stand on a different 
+footing and also that the use of any additional pre-emptory language 
+should not always be a requirement to read the prescribed period 
+of limitation as mandatory. Therefore, we are unable to agree with 
+the views expressed in Mackintosh (supra). 
+157.	The decision in Mackintosh (supra) was challenged by way of an 
+SLP before this Court in Mackintosh Burn Ltd. v. Sarkar and 
+Chowdhury Enterprises Private Limited reported in (2018) 5 SCC 
+575. However, the main issue canvassed was whether the High Court 
+must have decided the other questions of law which was raised in 
+the statutory appeal, apart from the question of limitation. This Court 
+answering in the affirmative stated that the High Court must have 
+considered all the grounds taken by the appellant justifying their refusal 
+to register the shares in favour of the respondent and not restricted 
+itself to the sole question of whether the CLB could have received 
+the appeal under Section 58(4) beyond the prescribed period therein. 
+By observing so, this Court had answered certain other questions of 
+law and remanded the matter to the NCLT for a decision on merits. 
+158.	While remanding the matter, this Court did not explicitly express 
+any agreement with the position as regards the power of the CLB 
+to condone delay taken in Mackintosh (supra). 
+159.	Ms. Nariman had also made certain submissions on the question 
+whether the proceedings under Section 58(3) of the Act, 2013 are 
+original proceedings in the nature of a suit or not, particularly because 
+neither Section 5 of the Act, 1963 nor its principles could apply to 
+proceedings which are of an original nature. However, having already 
+
+[2026] 1 S.C.R. 
+299
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+reached the conclusion that neither Section 5 of the Act, 1963 nor 
+its underlying principles could be said to be applicable to an appeal 
+filed before the CLB under Section 58(3) of the Act, 2013 owing to it 
+being a quasi-judicial body which has not been empowered to extend 
+time or condone delay, there arises no need for us to address this 
+additional submission. 
+G.	
+CONCLUSION 
+160.	A conspectus of the legal and factual discussion on the power of 
+the CLB to extend time or condone delay under Section 58(3) of 
+the Act, 2013 is as follows: 
+i.	
+The appeal under Section 58(3) of the Act, 2013 preferred by 
+the respondent herein was filed during the period between 
+12.09.2013 and 01.06.2016. Therefore, although the appeal 
+was made under the new provision of the Act, 2013, yet the 
+body/forum before which it was made i.e., the CLB, was one 
+constituted under the provisions of the Erstwhile Act. According 
+to Section 10E(4C) of the Erstwhile Act, the CLB was a court 
+only in the restricted sense. There existed no express provision 
+which empowered the CLB to apply the provisions of the Act, 
+1963 to the proceedings and appeals before itself. 
+ii.	
+In multiple decisions of this Court, notable and significant 
+emphasis has been placed on which institution/body is seeking 
+to employ the provisions of the Act, 1963 or exercise the powers 
+conferred under the Act, 1963. 
+iii.	
+The provisions of the Act, 1963 (provisions that lay down a 
+prescribed period of limitation as well as Sections 4 to 24 of the 
+Act, 1963 respectively) would only apply to suits, applications or 
+appeals, as the case may be, which are made under any law 
+to ‘courts’ and not to those made before quasi-judicial bodies 
+or tribunals, unless such quasi-judicial bodies or tribunals are 
+specifically empowered in that regard.
+iv.	
+In Officer on Special Duty (supra), Prakash H. Jain (supra) and 
+Om Prakash (supra) respectively, this Court has unequivocally 
+held that the power to extend time under Section 5 of the Act, 
+1963 cannot be resorted to by statutory authorities, quasi-judicial 
+bodies or tribunals, unless expressly indicated. It has been 
+clarified that when such authorities or bodies are deemed to be 
+
+300
+[2026] 1 S.C.R.
+Supreme Court Reports
+a court for certain limited or specified purposes, such a legal 
+fiction must not be extended beyond the purpose for which the 
+fiction was created so as to confer powers under Section 5 of 
+the Act, 1963 as well. 
+v.	
+In Parson Tools (supra) and M.P. Steel (supra) respectively, 
+this Court has developed a body of jurisprudence indicating that 
+the principles underlying Section 14 of the Act, 1963 could be 
+applied to the provisions relating to quasi-judicial bodies, unless 
+there is any express indication to the contrary in the wording 
+and scheme of the said provision. However, there exists a vital 
+distinction between the principles underlying Sections 5 and 
+14 respectively. 
+vi.	
+The differences between the principles underlying Sections 5 
+and 14 of the Act, 1963 respectively are as follows - First, one 
+pertains to the exercise of a discretionary power vested in the 
+courts and the other is a mandatory provision independent of 
+any exercise of discretion; Secondly, one refers to “sufficient 
+cause” which term by itself is subject to a good amount of 
+elasticity and the other has delineated well-defined conditions 
+which must be met; and Lastly, one deals with the extension 
+of time while the other is concerned with the exclusion of time.
+vii.	 The principles underlying Sections 5 and 14 of the Act, 1963 
+respectively, cannot be analogously applied to proceedings 
+before quasi-judicial bodies because in the former, the courts 
+exercise their discretion in extending and more specifically, 
+adjusting the prescribed period of limitation itself to create a 
+fresh period of limitation. No entitlement as a matter of right 
+arises vis-à-vis extension of time. Whereas, in the latter, the 
+prescribed period of limitation remains intact, no delay is 
+attributed to the litigant and the time during which the abortive 
+proceeding was being prosecuted is expunged in the eyes of the 
+law to place the litigant back or restore his position within the 
+prescribed period of limitation wherein he is entitled to file the 
+appeal or application, as the case may be, as a matter of right.
+viii.	 The mechanism envisaged under Section 5 is proximally 
+bound and tethered to the discretion with which a civil court is 
+empowered and that under Section 14 is anchored on restoring 
+the right of a litigant to institute an appeal or application, as the 
+
+[2026] 1 S.C.R. 
+301
+The Property Company (P) Ltd. v. Rohinten Daddy Mazda
+case may be, within the prescribed period of limitation. Both 
+provisions work in the interest of the litigant and seek to further 
+the cause of substantive justice, however, the kind and nature 
+of the power exercised under the two provisions, as well as the 
+mechanism envisaged therein, are quite distinct. 
+ix.	
+Moreover, the principles underlying Sections 5 and 14 of the 
+Act, 1963 respectively also stand on a different footing for the 
+reason that when the legislature has intended to grant powers 
+of extension of time, the same has been expressly indicated 
+either through the manner in which the concerned provision 
+is phrased (more often than not through a proviso) or by the 
+adoption of the Act, 1963 through a separate provision to the 
+special law as a whole (akin to Section 433 of the 2013, Act). 
+x.	
+Therefore, the decision of this Court in M.P. Steel (supra) 
+would not apply analogously to a situation when the principles 
+underlying Section 5 of the Act, 1963 are sought to be applied 
+by quasi-judicial bodies which aren’t empowered in that regard. 
+xi.	
+Regulation 44 of the CLB Regulations which saves the inherent 
+power of the CLB would not enable the CLB to extend time for the 
+filing of the appeal or the application itself, as the case may be. 
+xii.	 In Ganesan (supra), it has been settled that the savings provision 
+in the Act, 1963 i.e., Section 29(2), is of no relevance when 
+the special or local law deals with a suit, appeal or application, 
+as the case may be, which is to be filed before a quasi-judicial 
+body. The question whether a certain provision in a special or 
+a local law expressly excludes the provisions of Sections 4 to 
+24 of the Act, 1963 respectively arises only in pursuance of 
+the savings provision under Section 29(2) of the Act, 1963. As 
+a natural corollary, if Section 29(2) is, by itself, inapplicable to 
+a particular case then there would be no need to look into or 
+analyse whether there is any express exclusion.
+xiii.	 An exception to the aforesaid, i.e., a reason why one would still 
+look at whether Sections 4 to 24 of the Act, 1963 respectively 
+are “expressly excluded” irrespective of the application of 
+Section 29(2) of the Act, 1963, is when the argument that the 
+principles underlying those provisions of the Act, 1963, must 
+be applied, is being explored.
+
+302
+[2026] 1 S.C.R.
+Supreme Court Reports
+xiv.	 Presently, we are dealing with an appeal under Section 58(3) of 
+the Act, 2013 preferred before the CLB – a quasi-judicial body. 
+We have also answered in the negative on the submission 
+that the principles underlying Section 5 of the Act, 1963 must 
+be applied. Section 29(2) of the Act, 1963 is, therefore, of no 
+relevance and there arises no occasion to examine whether 
+Section 58(3) of the Act, 2013 “expressly excludes” the 
+application of Section 5 of the Act, 1963. 
+xv.	
+The simpliciter limitation period prescribed under Section 58(3) 
+of the Act, 2013 must not be read to be merely directory. The 
+presence of any additional pre-emptory language in the form 
+of “but not thereafter” or “shall” would not always be necessary 
+to convey that the prescribed period is mandatory. 
+xvi.	 Section 433 of the Act, 2013 which empowers the NCLT and 
+the NCLAT respectively to apply the provisions of the Act, 
+1963, as far as may be, to the proceedings and appeals before 
+itself, cannot be borrowed to signify the existence of a similar 
+power with respect to the CLB. Moreover, the remedy of the 
+respondent was already time-barred before the coming into 
+force of Section 58(3) of the Act, 2013, let alone the coming 
+into force of Section 433 of the Act, 2013. Hence, the change 
+in law cannot enure to the benefit of the present respondent. 
+161.	In the overall view of the matter, we have reached the conclusion that 
+the High Court could be said to have committed an error in dismissing 
+the statutory appeal filed under Section 10F of the Erstwhile Act 
+and thereby, affirming the order of the CLB condoning the delay of 
+249 days in filing the appeal under Section 58(3) of the Act, 2013. 
+162.	In the result, this appeal succeeds and is hereby, allowed. The 
+impugned judgement and order of the High Court is set-aside. 
+163.	Pending applications, if any, shall also stand disposed of. 
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Nidhi Jain
+
+

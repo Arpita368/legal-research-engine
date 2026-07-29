@@ -1,0 +1,686 @@
+[2026] 4 S.C.R. 381 : 2026 INSC 319
+Dr. S. Balagopal
+v.
+State of Tamil Nadu & Anr.
+(Criminal Appeal No. 1753 of 2026)
+06 April 2026
+[Pamidighantam Sri Narasimha and Manoj Misra,* JJ.]
+Issue for Consideration
+Issue arose whether the High Court was right in not quashing 
+the proceedings against the appellant surgeon who performed 
+Orchidectomy-removal of testicle on the one and a half year boy, 
+without obtaining the consent by the father-de facto complainant, 
+as alleged.
+Headnotes†
+Code of Criminal Procedure, 1973 – s.482 – Penal Code, 1860 – 
+Appellant-surgeon performed Orchidopexy-surgical procedure, 
+on a one and a half year boy, for which doctors had obtained 
+consent – Appellant also performed Orchidectomy-removal 
+of testicle on the boy – Allegations by the father-de facto 
+complainant that no consent was given for Orchidectomy – 
+FIR registered u/ss.312, 325, 426, 120-B, 406, 465, 468, 471 
+and s.501 (1) & (2) IPC against the doctor – Charge-sheet 
+submitted and the Magistrate took cognizance – Petitions filed 
+u/s.482 Cr.P.C., by the complainant to constitute a Medical 
+Board of three members so that a fair opinion is obtained – 
+Pursuant to the directions, the Medical Board constituted 
+which submitted its report – Petition also filed by the appellant 
+seeking quashing of the proceedings – High Court rejected 
+the same – Correctness:
+Held: In the opinion of the Medical Board the procedure 
+adopted was appropriate – Moreover, the operating surgeon 
+is the best judge of which one of the two procedures is to be 
+adopted – As regards any interpolation in the consent form to 
+add the alternative procedure-Orchidectomy, being a question 
+of fact is to be determined in a trial based on evidence led 
+therein and, thus, courts must be loath to examine such issues 
+* Author
+
+382
+[2026] 4 S.C.R.
+Supreme Court Reports
+in a summary proceeding, like the one u/s.482  – However, no 
+absolute bar on High Court’s power to consider questions of 
+fact in exercise of jurisdiction u/s.482, particularly when such 
+consideration necessary to prevent the abuse of the process of 
+the court or to secure the ends of justice – No malice attributed 
+to the doctor and no dispute that the consent form was executed 
+for undertaking medical procedure – Medical opinion is to the 
+effect that the procedure adopted by the doctor was one of the 
+alternatives recognized to meet such medical exigency – No doubt, 
+Medical Board’s opinion indicates that such procedure should be 
+carried out after obtaining consent, but nothing to indicate that 
+the consent form already obtained was not in order or that no 
+consent was obtained – Perusal of the consent letter indicates 
+that in the column where the nature of proposed surgery is to be 
+mentioned, both types of surgery-Orchidopexy and Orchidectomy 
+are mentioned by putting a slash, which means that the other 
+surgery, namely, Orchidectomy, was one of the options available – 
+No material on record that alternative surgery, Orchidectomy, 
+was entered by a different ink or in a different handwriting, and 
+having regard to the Medical Board’s opinion that in such medical 
+situations, Orchidectomy is a normal alternative, continuance of 
+criminal proceeding against the appellant abuse of the process 
+of the court and, thus, to secure the ends of justice, the same is 
+quashed – Impugned judgment and order of the High Court set 
+aside. [Paras 17-21]
+Case Law Cited
+Jacob Mathew v. State of Punjab [2005] Supp. 2 SCR 307 : (2005) 
+6 SCC 1 – held inapplicable.
+List of Acts
+Penal Code, 1860; Code of Criminal Procedure, 1973.
+List of Keywords
+Quashing the proceedings; Surgeon; Orchidectomy-removal of 
+testicle; Without obtaining consent by the father; Surgeon performed 
+Orchidopexy-surgical procedure that moves an undescended 
+testicle into the scrotum; Doctor obtained consent; Constitute 
+Medical Board; Fair opinion; Medical Board report.
+
+[2026] 4 S.C.R. 
+383
+Dr. S. Balagopal v. State of Tamil Nadu & Anr.
+Case Arising From
+CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 
+1753 of 2026
+From the Judgment and Order dated 25.09.2023 of the High Court 
+of Judicature at Madras in CRLOP No. 23349 of 2016.
+Appearances for Parties
+Advs. for the Appellant(s):
+K. Ravi Anantha Padmanabhan, Sr. Adv., T. R. B. Sivakumar, 
+Deva Vrat Anand.
+Advs. for the Respondent(s):
+V Krishnamurthy, Sr. A.A.G., D.kumanan, Ms. Deepa S, Sheikh F 
+Kalia, Veshal Tyagi, Chinmay Anand Panigrahi, Ms. Azka Sheikh 
+Kalia.
+Respondent-in-person.
+Judgment / Order of the Supreme Court
+Judgment
+Manoj Misra, J.
+1.	
+Leave granted.
+2.	
+This appeal arises from a petition1 filed under Section 482 of 
+the Code of Criminal Procedure, 19732 seeking quashing of the 
+proceedings in C.C. No. 13 of 2008 on the file of Judicial Magistrate 
+No.1, Poonamallee3. By the order impugned dated 25.09.2023, the 
+High Court of Judicature at Madras4 rejected the prayer to quash the 
+proceedings and issued a direction to expedite the same.
+FACTS
+3.	
+The second respondent (R-2) i.e., the de facto complainant made 
+a complaint, inter alia, alleging that his son, aged one and one-half 
+1	
+CRL. O.P. No. 23349/2016
+2	
+Cr.P.C.
+3	
+The learned Magistrate
+4	
+The High Court
+
+384
+[2026] 4 S.C.R.
+Supreme Court Reports
+years, was admitted in a hospital for a surgical procedure as one of 
+his testicles had not descended into the scrotal sac. According to R-2, 
+doctors had obtained his consent for Orchidopexy (i.e., the surgical 
+procedure that moves an undescended testicle into the scrotum), 
+but there was no consent for Orchidectomy (i.e., removal of testicle). 
+R-2 also alleged that prior to the surgery, the operating surgeon 
+had explained that in 99 percent of such cases there is no need to 
+remove the testicle. Therefore, specific consent for Orchidectomy 
+was neither sought nor given. Yet, Orchidectomy was performed and 
+in the consent form, by interpolation, Orchidectomy was inserted, 
+which amounted to an offence of forgery.
+4.	
+Based on the aforesaid allegations, a first information report5 was 
+registered at P.S. Ambathur on 08.08.2006 (i.e., FIR No. 1196 of 
+2006) under Sections 312, 325, 426, 120-B, 406, 465, 468, 471 and 
+section 501 (1) & (2) of the Indian Penal Code, 18606.
+5.	
+On the aforesaid FIR, the police, after investigation, submitted a 
+charge-sheet against the appellant (i.e., the operating surgeon) on 
+which the learned Magistrate took cognizance and registered C.C. 
+No. 13 of 2008. Aggrieved therewith, two petitions under Section 
+482 of Cr.P.C. were filed before the High Court. One was by R-2, 
+inter alia, to constitute a Medical Board of three members so that a 
+fair opinion is obtained. The second was by the appellant seeking 
+quashing of the proceedings of C.C. No. 13 of 2008. The High Court 
+vide order dated 19.03.2013 disposed of these two petitions in the 
+following terms:
+“14. Accordingly, both the criminal original petitions, namely 
+Crl. O.P. No.18043 of 2008 and Crl. O.P. No.7614 of 2008 
+are disposed of with the following directions:
+a) The prayer for quashing of the criminal proceedings in 
+CC. No.13 of 2008 made by the accused in his petition in 
+Crl. O.P. No.7614 of 2008 shall stand rejected.
+b) Since further investigation has been ordered, all further 
+proceedings in CC. No.13 of 2008 shall stand stayed till 
+the completion of the further investigation and submission 
+5	
+FIR
+6	
+IPC
+
+[2026] 4 S.C.R. 
+385
+Dr. S. Balagopal v. State of Tamil Nadu & Anr.
+of the further report subject to a rider that the accused 
+shall cooperate with the Investigating Officer in conducting 
+further investigation.
+c) The first part of the prayer made in Crl. O.P. No.18043 
+of 2008 filed by the de facto complainant viz., for a 
+direction to the Investigating Officer to act impartially is 
+negatived.
+d) The second part of the prayer made in Crl. O.P. No.18043 
+of 2008 praying for constitution of the Medical Board is 
+allowed and the Director of Medical Services, Chennai 
+is directed to constitute a Medical Board consisting of 
+following persons:
+i) A Specialist in Paediatric Surgery in Government 
+Services;
+ii) An expert in Pathology in Government Services; and 
+iii) An expert in Oncology in Government Services.
+e) The Medical Board should be constituted within one 
+month from the date of receipt of a copy of this order 
+and the Medical Board shall submit the report as early 
+as possible preferably within two months from the date 
+of constitution of the Medical Board. The report shall be 
+submitted to the Investigating Officer, marking a copy to 
+the Registrar Judicial of the Court.
+f) The Investigating Officer shall complete the investigation 
+within two months after the receipt of the opinion of the 
+Medical Board and submit further Final report.
+g) It shall not be necessary for the accused to make 
+periodical appearance before the learned Judicial 
+Magistrate I, Poonamallee till the submission of further 
+final report.
+Consequently, the connected miscellaneous petitions are 
+closed.”
+6.	
+Pursuant to the aforesaid directions, a Medical Board was constituted 
+which submitted its report dated 29.07.2010. The same is reproduced 
+below:
+
+386
+[2026] 4 S.C.R.
+Supreme Court Reports
+“FACT FINDING INQUIRY REPORT BY THE MEDICAL 
+BOARD CONSTITUTED IN RESPECT OF CRL. O. P No. 
+18043 of 2008, MP No.2, 4 & 5 of 2008 & CRL. O. P No. 
+7614 OF 2008 AND MP No.1 of 2008
+As per the directions of the Hon’ble High Court of Madras 
+issued in Crl. O P No. 18043 of 2008 M.P.No.2, 4 & 5 
+of 2008 and Crl. O.P No 7614 of 2008 & M.P. No 1 of 
+2008, I, the Director of Medical and Rural Health Services, 
+Chennai-6 have constituted a Medical Board comprising 
+the following specialists from Government Stanley Medical 
+College Hospital, Chennai-1 to offer their expert medical 
+opinion for the Left orchidectomy surgery done to one 
+male child namely, (xxxx) (name masked), aged 2 years, 
+son of (yyyy) (name masked).
+1. Dr. Mary Lilly, Professor and Head of Department, 
+Department of Pathology, Government Stanley Medical 
+College Hospital, Chennai-1
+2. Dr. J. Muthukumaran, Paediatric Surgeon, Government 
+Stanley Medical College Hospital, Chennai 1
+3. Dr. Ravel Naveen, Professor and Head of Department, 
+Department of Medical Oncology, Government Stanley 
+Medical College Hospital, Chennai – l 
+The left Orchidectomy surgery was done to the child by 
+one doctor namely Dr. Balagopal at M/s Sri Ramachandra 
+Medical Centre Hospital, Porur on 24/08/2005. Orchidectomy 
+surgery means removal of testis from the body. Orchidopexy 
+means retaining the testis and placing in the anatomical 
+position in the body. The constituted Medical Board was 
+convened on 01/07/20 13 and opined as follows:
+The Professor of Pathology, Government Stanley 
+Medical College Hospital, Chennai-1 has opined as
+The Histopathology Report carrying Hospital No.0000339902 
+of (xxxx) (name masked) 2 years a Male child.
+Accession No G.1852/05 under the unit by Dr. Balagopal 
+S. dated 31/08/2005. Histopathology Report copy received 
+shows:
+
+[2026] 4 S.C.R. 
+387
+Dr. S. Balagopal v. State of Tamil Nadu & Anr.
+1. Microscopy describes the tissue received and studied 
+as on soft tissue l X 0.5 cm. No special features/ organ 
+mentioned.
+2. Microscopy describes the tissues to be testis and 
+Epididymis with focal fibrotic areas.
+The pathological changes observed is ‘Focal fibrosis’.
+No other pathological character is described.
+The change described as focal fibrosis is consistent with 
+pathological changes observed in undescended testis.
+The Professor of Medical Oncology, Government 
+Stanley Medical College Hospital, Chennai-1 has 
+opined as
+2 years old child had a history of left undescended testis 
+and had undergone left orchidectomy. Pathology report 
+shows no features of malignancy in the undescended 
+testis specimen.
+According to the operative findings the left testis was very 
+small, cystic and dysplastic and hence probably a left 
+orchidectomy was done.
+Undescended testis is a risk factor for development of 
+malignancy.
+The Professor and Head of Department, Department 
+of Pediatric Surgery, Government Stanley Medical 
+College Hospital, Chennai-1 has opined as
+In case of undescended Testis generally the affected Testis 
+will be smaller than the normal size (or) it may present 
+as nubbin of tissue as the child grows (or) it may go in 
+form Torsion and gangrene of the testis as a complication.
+In case of Nubbin of tissue as it does not serve the purpose 
+(testis shape, sperm production) and more chance of 
+malignant transformation orchidectomy is preferred than 
+doing orchidopexy.
+In case of torsion testis and gangrene, orchidectomy is 
+preferred.
+
+388
+[2026] 4 S.C.R.
+Supreme Court Reports
+As per the case sheet and operation theatre notes, the 
+left testis seems to be (small, cystic, dysplastic, 0.7cm 
+size) a nubbin of tissue when compared with the testis on 
+the other side. In that situation the nubbin of tissue could 
+have been removed after:
+1. Explaining in detail about the problems of retaining the 
+affected testis.
+2. Getting consent from the parents for doing orchidectomy 
+to the child.
+CONCLUSIVE OPINION
+Pathology Speciality report reveals that at the time of 
+histopathological examination there is focal fibrosis present 
+in the sample. (No evidence of malignant changes).
+Department of Medical Oncology report reveals that the 
+left testis was very small, cystic and dysplastic and hence 
+probably a left orchidectomy was done.
+Undescended testis is a risk factor for development of 
+malignancy.
+Department of Pediatric Surgery report reveals that 
+In case of Nubbin of tissue as it does not serve the purpose 
+(testis shape, sperm production) and more chance of 
+malignant transformation, orchidectomy is preferred than 
+doing orchidopexy.
+a.	
+Explaining in detail about the problems of retaining 
+the affected testis.
+b.	
+Getting consent from the parents for doing 
+orchidectomy to the child.
+Hence it is opined that left orchidectomy surgery done to 
+the child (xxxx) (name masked), 2 years old, son of (yyyy) 
+(name masked) is an appropriate surgical procedure as 
+per medical ethics and it should have been done with the 
+consent of parents.
+Sd/- Director of Medical and Rural Health Services”
+7.	
+On receipt of the aforesaid report, the Investigating Officer wrote 
+a letter to the Director, Directorate of Medical and Rural Health 
+
+[2026] 4 S.C.R. 
+389
+Dr. S. Balagopal v. State of Tamil Nadu & Anr.
+Services, Chennai seeking an opinion on the consent form which 
+was obtained before the surgery. In response to the letter of the 
+Investigating Officer, a letter was issued from the office of the Director 
+of Medical and Rural Health Services, Chennai to the Investigating 
+Officer on 24.02.2014, stating as follows:
+“MEDICAL AND RURAL HEALTH SERVICES 
+DEPARTMENT
+From
+Dr. A. Chandranathan, M.D.,
+Director of Medical and Rural Health Services,
+Chennai - 6.
+To
+Inspector of Police,
+T-15, SRMC Police Station,
+Porur, Chennai - 600 116.
+Sir,
+Ref. No. 32780/ E7/ 3/ 2014, dated 24.02.2014.
+Sub: Criminal case in Cr.No.1196/2006 of T 15 SRMC 
+PS  – investigation pending - ascertain clarification 
+required - in the interest of successful prosecution of the 
+case -regarding.
+Ref: 
+1.	
+Letter along with the findings of the Tamil Nadu 
+Directorate of Medical and Rural Health Services 
+dated 27.07.2013.
+2.	
+The case is T15 SRMC PS Cr. No .1196/ 2006.
+3.	
+Your letter date is 18.01.2014.
+********
+1.	
+The left Orchidectomy surgery done to the child 
+namely xxxx (name masked), 2 years old boy, Son 
+of yyyy (name masked) is an appropriate Surgery 
+Procedure as per medical ethics and it should have 
+been done with the consent of parents.
+
+390
+[2026] 4 S.C.R.
+Supreme Court Reports
+For this above point it is clarified that in the case sheet it is 
+seen that informed consent for surgery in the printed form 
+is attached. This printed consent is a general procedure 
+for all the surgeries / treatment and is being obtained 
+from patients in each and every hospital. In this context, 
+it is mentioned “I understand that a diagnosis of Bilateral 
+undescended testis has been made on me and that surgical 
+operation Bilateral Orchidopexy / Left Orchidectomy has 
+been advised by my doctor”.
+In any surgery, the surgeon should have explained “what 
+procedure he is going to do with the patient and its 
+complication / nature of surgery in person, to ·the relative. 
+In this case the doctor has adopted general procedure 
+of obtaining consent in the printed form in which the 
+‘Orchidectomy’ is written, medical terms which the parents 
+could not understand.
+In this particular surgery, it is ascertained that only after 
+opening; the surgeon have come to a conclusion of 
+removing the unwanted testis and before removing the 
+testis he has obtained the consent in the printed form 
+may be without explaining the nature of surgery in detail 
+to the parents.
+(a) He has obtained the consent of the parents of the child 
+specifically to conduct the surgery towards removal of left 
+testis of xxxx (name masked) in printed form.
+(b) Yes per used.
+(c) The consent is obtained by Dr. Balagopal explaining 
+the consequences of retaining the left testis, which may 
+develop into malignancy or abscess formation (discharge 
+summary).
+(d) Prosecution could not be made against the doctor 
+since he has done the procedure as per medical ethics 
+and as he has explained the consequences of retaining 
+the left testis in the body, which may form abscess or 
+turn malignant.
+(e) No
+
+[2026] 4 S.C.R. 
+391
+Dr. S. Balagopal v. State of Tamil Nadu & Anr.
+(f) Not Applicable
+As per the opinion of the Professor of Pediatric Surgery 
+Dr. Balagopal has obtained the formal consent in ·the 
+printed form (for all the surgical purpose duly filled in) 
+explaining in detail about the problem of retaining the 
+affected testis. In case of Nubbin of tissue as it does not 
+serve the purpose (testis shape, sperm production) and 
+more chance of malignant transformation.
+Hence it is opined that the Left Orchidectomy done to one 
+xxxx (name masked) son of Mr. yyyy (name masked) is 
+an appropriate surgical procedure.
+Dr. Balagopal has obtained the consent in the common 
+printed form and explained in detail about the problem of 
+retaining the affected testis to parents, saying the affected 
+testis may transform to malignancy in future.
+Yours faithfully,
+For Director of Medical and Rural Health Services.”
+(Emphasis supplied)
+8.	
+After obtaining the report dated 24.02.2014, an additional report 
+was submitted giving details of the opinion of the Medical Board 
+as reproduced above. The charge sheet submitted reads as 
+under:
+“CHARGE SHEET
+ CHARGE SHEET IN T-15 SRMS POLICE STATION
+Crime No. 1196/2006
+U/S 336, 201, 465, & 471 IPC.
+……….
+ACCUSED: Dr. Balagopal, Age 38/2007 S/O K. Subramani, 
+No. 7 Suriya Bharani Colony, Saligramam, Chennai – 600093
+The accused noted in the margin is working as Consultant 
+Pediatric Surgeon in SRMC Center at Porur, within the 
+limits of SRMC PS. The hospital authority has authorized 
+the accused to perform all kinds of surgery including 
+
+392
+[2026] 4 S.C.R.
+Supreme Court Reports
+orchidopexy and orchidectomy. The witness (yyyy) (name 
+masked) is the father of male child (xxxx) (name masked) 
+aged about 1 1/2 years. The witness (yyyy) (name 
+masked) had admitted his child (xxxx) (name masked) 
+on 23.08.2005 at SRMC Hospital for Hernia Operation. 
+The hospital authority had referred the child (xxxx) to 
+the accused for performing Hernia Operation on the 
+child of witness (yyyy) (name masked) about the nature 
+of the operation on which he is going to perform on the 
+child i.e., hernia operation and also obtained consent 
+letter from the witness (yyyy) (name masked) by clearly 
+mentioning that the operation of positioning of testis 
+(bilateral Orchidopexy). The accused has not mentioned 
+anything about the removal of left testicle of the child in 
+the consent letter. Therefore, the witness has also signed 
+in the document believing that the accused would perform 
+only bilateral Orchidopexy.
+That on 24.08.2005 at about 3.30 P.M. at SRMC Hospital 
+Operation theatre when the child (xxxx) (name masked) 
+aged about 1 ½ year was admitted in the operation 
+theatre for hernia operation, the accused noted in the 
+margin being the surgeon of SRMC Hospital had acted 
+in a rash and negligent manner at the time of performing 
+the operation on the child and due to rash and negligent 
+act, the accused had removed the left testicle of the child 
+during the hernia operation. Therefore, the accused has 
+committed the offence punishable u/s 336 IPC.
+During the course of the same transaction the accused, 
+the surgeon of the same hospital, knowing that he had 
+performed the operation in a rash and negligent manner 
+which is punishable with imprisonment, intentionally 
+caused the disappearance of the evidence of his rash 
+negligent act to escape from the legal punishment, altered 
+the medical documents and consent letter for performing 
+surgery. Thereby the accused has committed the offence 
+punishable u/s 201 IPC.
+During the course of the same transaction, the accused 
+noted the margin has created a forged document by 
+
+[2026] 4 S.C.R. 
+393
+Dr. S. Balagopal v. State of Tamil Nadu & Anr.
+inserting a letter “left orchidectomy” in the consent letter of 
+the complainant to make other to believe that this witness 
+(yyyy) (name masked) had given consent for the removal 
+of left testicle of his child, and also used the above said 
+forged document as genuine to escape (sic) the legal 
+punishment for the offence of negligent act. Thereby the 
+accused has further committed the offences punishable 
+u/s 465, 471 IPC
+Hence the charge.
+Sd/-
+Inspector of Police
+T-15 S.R.M.C. P.S.
+Porur, Chennai - 116”
+9.	
+Aggrieved by the charge-sheet and the consequential proceedings, 
+which continued even after the additional reports of medical experts, 
+the appellant filed Crl. O.P. No. 23349 of 2016 for quashing the 
+entire proceeding pending as C.C. No. 13 of 2008 on the file of the 
+learned Magistrate.
+10.	 By the impugned order, the High Court dismissed the petition. Hence, 
+this appeal.
+11.	 We have heard learned counsel for the appellant as well as the 
+counsel appearing for the State. We also heard R-2 in person on 
+one date. 
+SUBMISSIONS ON BEHALF OF THE APPELLANT
+12.	 The learned counsel for the appellant submitted that the medical 
+report submitted by the Medical Board as well as the Final Report 
+submitted by the Investigating Officer does not castigate the 
+appellant for any kind of negligence. Moreover, it is now clear that 
+Orchidectomy was the appropriate procedure. The only point of 
+dispute is whether the de facto complainant i.e., father of the child 
+was informed about the surgical procedure to be undertaken and 
+whether there was a proper consent for that surgical procedure. 
+In this regard, what is important is that there was a consent letter 
+signed by R-2 for the surgery. The consent form was in a printed 
+format and the column regarding the nature of surgery advised 
+indicated “Bilateral Orchidopexy/Orchidectomy.” The allegation is 
+
+394
+[2026] 4 S.C.R.
+Supreme Court Reports
+that Orchidectomy was added by interpolation in the consent form 
+to save the doctor from the allegation of conducting surgery without 
+consent. It is contended that this very consent letter was sent to 
+the Director for his opinion and the Director had opined that there 
+was nothing suspicious about the consent. Besides, there is no 
+forensic report regarding interpolation of ‘Orchidectomy’ made in the 
+consent letter either by a different ink or in a different handwriting. 
+It is also submitted that a bare perusal of the consent letter/form 
+would indicate that it is in order. In these circumstances, it was 
+argued, the High Court had erred in not quashing the criminal 
+proceeding, particularly when there was a medical report in support 
+of appellant’s case.
+SUBMISSIONS ON BEHALF OF THE STATE
+13.	 Learned counsel appearing for the State submitted that though 
+there may be no negligence on the part of the doctor in performing 
+Orchidectomy, the doctor ought to have obtained a prior consent 
+for the said surgical procedure. Once the de facto complainant 
+alleges that he had not consented to Orchidectomy, it is a 
+matter of trial whether such consent was there or not. In such 
+circumstances, whether there was a valid consent or not, and 
+whether the consent letter has been manipulated or not, can best be 
+determined in a trial. Hence, the order of the High Court calls for no 
+interference.
+SUBMISSIONS ON BEHALF OF THE DE-FACTO COMPLAINANT
+14.	 The de-facto complainant (R-2), who appeared in person, submitted 
+that during surgery the doctor had asked him on phone whether he 
+should perform Orchidectomy or not. Further, the doctor informed 
+that if Orchidectomy is not performed, possibility of malignancy 
+in future cannot be ruled out. According to R-2, this question of 
+the doctor was answered in the negative and R-2 had specifically 
+stated that he would later consider whether removal of testis is to 
+be undertaken. Despite that, the doctor proceeded with the surgery 
+and removed the testicle without R-2’s consent and, to save himself, 
+later, the consent form was manipulated to show that the consent 
+was taken for Orchidectomy. In these circumstances, he prayed 
+that prima facie commission of offence is made out and therefore, 
+appeal be dismissed.
+
+[2026] 4 S.C.R. 
+395
+Dr. S. Balagopal v. State of Tamil Nadu & Anr.
+DISCUSSION
+15.	 We have accorded due consideration to the rival submissions and 
+have also perused the materials available on record.
+16.	 Before we proceed to address the rival contentions, we must bear in 
+mind that appellant-accused is a surgeon/doctor whose credentials 
+as a surgeon /doctor are not in issue. The criminal law has invariably 
+placed medical professionals on a pedestal different from ordinary 
+mortals. The IPC enacted as far back as in the year 1860 sets out a 
+few vocal examples. Section 88 in the Chapter on General Exceptions 
+provides exemption for acts not intended to cause death, done by 
+consent in good faith for person’s benefit. Section 92 provides for 
+exemption for acts done in good faith for the benefit of a person 
+without his consent though the acts cause harm to the person 
+and that person has not consented to suffer such harm. Based on 
+above, and upon a review of various decisions and reports, in Jacob 
+Mathew v. State of Punjab7 this Court observed:
+“48 (7). To prosecute a medical professional for negligence 
+under criminal law it must be shown that the accused did 
+something or failed to do something which in the given 
+facts and circumstances no medical professional in his 
+ordinary senses and prudence would have done or failed 
+to do. The hazard taken by the accused doctor should be 
+of such a nature that the injury which resulted was most 
+likely imminent.” 
+Having observed so, this Court proceeded to hold:
+“52. … A private complaint may not be entertained unless 
+the complainant has produced prima facie evidence before 
+the court in the form of a credible opinion given by another 
+competent doctor to support the charge of rashness 
+or negligence on the part of the accused doctor. The 
+investigating officer should, before proceeding against the 
+doctor accused of rash or negligent act or omission, obtain 
+an independent and competent medical opinion preferably 
+from a doctor in government service, qualified in that branch 
+of medical practice who can normally be expected to give 
+7	
+(2005) 6 SCC 1
+
+396
+[2026] 4 S.C.R.
+Supreme Court Reports
+an impartial and unbiased opinion applying the Bolam8 test 
+to the facts collected in the investigation. ..”
+17.	 In the instant case, the dispute is not regarding negligence on part 
+of the appellant, therefore the law laid down in Jacob Mathew 
+(supra) may not stricto sensu apply. However, the importance of 
+Medical Review Board’s report cannot be undermined. It highlights 
+the importance of Orchidectomy in cases related to undescended 
+testicle. Though it is alleged by the de facto complainant that he had 
+not consented for Orchidectomy, it is clear from the materials on 
+record that prior to the surgery consent form was obtained from the 
+father of the child. Thus, the issue is whether the consent was limited 
+to surgical procedure of Orchidopexy. According to the appellant, the 
+consent form had limited space in the column where the nature of 
+surgery had to be mentioned therefore, Orchidectomy was written 
+by putting a slash just below Orchidopexy in the consent form. What 
+is important is that the consent form was sent by the Investigating 
+Officer to the Director of the Medical and Rural Health Services for 
+his opinion. The Director had not found any fault in the consent 
+form. Rather, the Medical Board opines that Orchidectomy is an 
+alternative procedure which may be undertaken to obviate chances 
+of malignancy in future. Thus, in the opinion of the Medical Board 
+the procedure adopted was appropriate. Moreover, the operating 
+surgeon is the best judge of which one of the two procedures is to 
+be adopted. Therefore, the only issue which requires consideration 
+is whether there was any interpolation in the consent form to add 
+the alternative procedure (i.e., Orchidectomy). 
+18.	 Ordinarily, an issue of tampering/ interpolation in a document being a 
+question of fact is to be determined in a trial based on evidence led 
+therein and, therefore, courts must be loath to examine such issues 
+in a summary proceeding, like the one under Section 482 Cr.P.C. 
+However, there can be no absolute bar on High Court’s power to 
+consider questions of fact in exercise of jurisdiction under Section 482 
+8	
+Bolam v. Frien Hospital Management Committee, (1957) 1 WLR 582: (1957) 2 All ER 118 (QBD)
+“Where you get a situation which involves the use of some special skill or competence, then the 
+test as to whether there has been negligence or not is not test of the man on the top of a Clapham 
+omnibus, because he has not got this special skill. The test is the standard of the ordinary skilled 
+man exercising and professing to have that special skill. A man need not possess the highest 
+expert skill … It is well established law that it is sufficient if he exercises the ordinary skill of an 
+ordinary competent man exercising that particular art.”
+
+[2026] 4 S.C.R. 
+397
+Dr. S. Balagopal v. State of Tamil Nadu & Anr.
+Cr.P.C., particularly when such consideration is necessary to prevent 
+the abuse of the process of the court or to secure the ends of justice. 
+19.	 In the instant case, no malice is attributed to the doctor and there 
+is no dispute that the consent form was executed for undertaking a 
+medical procedure. Further, the medical opinion is to the effect that 
+the procedure adopted by the doctor was one of the alternatives 
+recognized to meet such a medical exigency. No doubt, Medical 
+Board’s opinion indicates that such procedure should be carried 
+out after obtaining consent, but there is nothing to indicate that the 
+consent form already obtained was not in order or that no consent 
+was obtained. Besides, the consent letter has been brought on record 
+as Annexure P-2. A perusal thereof would indicate that in the column 
+where the nature of proposed surgery is to be mentioned, both 
+types of surgery i.e., Orchidopexy and Orchiectomy are mentioned 
+by putting a slash (/), which means that the other surgery, namely, 
+Orchidectomy, was one of the options available.
+20.	 Taking a conspectus of all the facts and circumstances as also 
+that there is no material on record that alternative surgery, namely, 
+Orchidectomy, was entered by a different ink or in a different 
+handwriting, and having regard to the Medical Board’s opinion that 
+in such medical situations Orchidectomy is a normal alternative, we 
+are of the view that continuance of criminal proceeding against the 
+appellant would be nothing but abuse of the process of the court 
+and, therefore to secure the ends of justice, the same is liable to 
+be quashed. 
+21.	 Accordingly, the appeal is allowed. The impugned judgment and 
+order of the High Court is set aside. The proceedings of C.C. No. 
+13 of 2008 on the file of the learned Magistrate are hereby quashed. 
+There is no order as to costs.
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Nidhi Jain

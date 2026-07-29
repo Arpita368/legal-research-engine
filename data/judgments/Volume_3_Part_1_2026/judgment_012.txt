@@ -1,0 +1,1697 @@
+[2026] 3 S.C.R. 179 : 2026 INSC 159
+Harbinder Singh Sekhon & Ors.
+v.
+The State of Punjab & Ors.
+(Civil Appeal No. 2331 of 2026)
+13 February 2026
+[Vikram Nath* and Sandeep Mehta, JJ.]
+Issue for Consideration
+Issue arose for consideration whether change of land use-CLU 
+dated 13.12.2021 could have been granted for the proposed unit 
+when the land use under the Master Plan for Sangrur treated 
+the site as falling in rural agricultural zone; whether “approval” 
+recorded in the 43rd meeting of the Punjab Regional and Town 
+Planning and Development Board dated 05.01.2022 could lawfully 
+cure the admitted defect in the CLU and whether such approval is 
+capable in law of operating as an alteration or amendment of the 
+Master Plan under the PRTPD Act; whether the siting norms and 
+environmental safeguards, including the PPCB notification dated 
+02.09.1998 and the relevant regulatory framework, were complied 
+with in relation to the proximity of habitations and the school; and 
+whether the revised industrial sector categorisation issued by CPCB 
+in January, 2025, insofar as it reclassifies the activity described 
+as “stand-alone grinding unit without CPP” from “Red” category 
+to “Orange” category, together with the consequential relaxation 
+of siting and regulatory safeguards brought about by Notifications 
+GSR 84E dt 29.01.2025 and GSR 85E dt 30.01.2025, can be 
+sustained in law.
+Headnotes†
+Punjab Regional and Town Planning and Development Act, 
+1995 – Legality of the change of land use-CLU – Respondent 
+no. 9 purchased land for establishing cement related industrial 
+unit in close proximity to the agricultural lands and residential 
+houses of the appellants-group of agriculturists, and the 
+School located in the immediate vicinity of the proposed site – 
+CLU issued in favour of respondent no.9 for the proposed 
+unit – Appellant’s case that CLU was granted in a manner not 
+* Author
+
+180
+[2026] 3 S.C.R.
+Supreme Court Reports
+contemplated by the Act, and the proposed site falls within rural 
+agricultural zone under the Master Plan for Sangrur and that 
+red category polluting industry could not have been permitted 
+at the said location – Writ petitions thereagainst, dismissed 
+by the High Court holding that as on 13.12.2021, CLU did not 
+have statutory backing in the form contemplated by the Act, 
+however, upheld CLU since the Regional and Town Planning 
+and Development Board granted approval in its meeting dt 
+05.01.2022 and treated the said approval as curing the defect 
+and accepted the stand that the land use permissibility stood 
+validated thereafter – Justification:
+Held: CLU dated 13.12.2021 could not have been granted for the 
+proposed unit when, under the operative Master Plan for Sangrur, 
+the site fell in a rural agricultural zone where the proposed activity 
+was not permissible – Permission must be lawful when it is granted – 
+It cannot be rendered lawful by a later event unless the PRTPD 
+Act itself so provides – “Approval” recorded on 05.01.2022 could 
+not lawfully cure the defect in the CLU dated 13.12.2021, and it 
+is not capable, in law, of operating as an alteration or amendment 
+of the Master Plan under the PRTPD Act – Approach adopted by 
+the High Court, which treated the subsequent approval as curing 
+the illegality of the CLU, cannot be accepted when the statutory 
+structure does not permit legality to be supplied to an act which 
+was unlawful when done, by a later administrative approval which 
+does not itself satisfy the mandatory requirements governing 
+alteration or revision of the Master Plan – High Court’s approach, 
+which proceeded on the premise that an act lacking statutory 
+backing on the date of its issuance may nonetheless be sustained 
+by a subsequent ex post facto approval, is inconsistent with this 
+statutory structure – Siting norms and safeguards, including the 
+PPCB notification dated 02.09.1998 and the regulatory discipline 
+underlying prior environmental clearance under the EIA Notification, 
+2006, not complied with in the manner required by law – Proposed 
+control systems and future-stage compliances cannot substitute 
+the obligation to satisfy siting norms and the discipline underlying 
+prior environmental clearance at the relevant time – Nor can 
+subsequent material or later regulatory developments be invoked 
+to retrospectively validate the legality of permissions already found 
+to be without statutory foundation – Thus, judgment and order 
+passed by the High Court set aside – Change of Land Use granted 
+in favour of respondent no.9 quashed. [Paras 9-36]
+
+[2026] 3 S.C.R. 
+181
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+Environmental law – Reclassification from “Red” category to 
+“Orange” category – Revised industrial sector categorisation 
+issued by the CPCB in January, 2025 – Reclassification 
+of “stand-alone grinding unit without CPP (Captive Power 
+Plant) from “Red” category to “Orange” category with the 
+consequential relaxation of siting and regulatory safeguards 
+brought about by Notifications GSR 84E dt 29.01.2025 and 
+GSR 85E dt 30.01.2025 – Sustainability:
+Held: Revised categorisation and the consequential regulatory 
+relaxations elevate a generic classification methodology to a 
+position where it overrides preventive environmental safeguards, 
+without adequate regard to exposure risks, local conditions, or 
+the constitutional obligation to protect life and health – Such an 
+approach is inconsistent with the precautionary principle, the 
+doctrine of sustainable development, and the content of Art. 21 – 
+Revised categorisation and consequential relaxation of siting 
+safeguards materially affect the level of protection available to 
+civilians, including residents and school-going children, against 
+exposure to industrial pollution – By lowering the regulatory 
+threshold applicable to an activity with known particulate emission 
+characteristics, revised framework permits such units to be located 
+closer to habitations and educational institutions – Impact is not 
+speculative, it directly implicates public health and safety – Thus, 
+the present intervention warranted because the impugned actions 
+have the effect of lowering the constitutional minimum of protection 
+guaranteed to affected communities – Revised industrial sector 
+categorisation issued by the CPCB in January, 2025, insofar as it 
+reclassifies the activity described as a “stand-alone grinding unit 
+without CPP” from the “Red” category to the “Orange” category, 
+cannot be sustained in law – Said reclassification, read together 
+with the consequential relaxation of siting and regulatory safeguards 
+brought about by Notifications GSR 84E and GSR 85E has the effect 
+of diluting preventive environmental protections in a manner that 
+infringes the constitutional guarantees u/Arts.14 and 21 – Revised 
+industrial sector categorisation issued by the CPCB in January, 
+2025 quashed insofar as it reclassifies the activity described as a 
+“stand-alone grinding unit without CPP” from the “Red” category 
+to the “Orange” category – Notifications GSR 84E and GSR 85E 
+quashed insofar as they relax the applicable siting and regulatory 
+safeguards for such units on the basis of the said reclassification – 
+Any consent, approval or permission that has been granted solely 
+
+182
+[2026] 3 S.C.R.
+Supreme Court Reports
+on the basis of the said reclassification of “stand-alone grinding 
+unit without CPP” as an “Orange” category activity or on the basis 
+of the relaxed siting and regulatory safeguards introduced by 
+Notifications GSR 84E and GSR 85E will not survive and stands 
+withdrawn – CPCB or MoEF & CC not precluded from undertaking 
+fresh exercise of classification or regulatory review in accordance 
+with law – Constitution of India – Arts.14 and 21. [Paras 65-68]
+Environmental law – Environmental protection and 
+development – Constitutional balance – Explanation:
+Held: Economic development and industrial growth are legitimate 
+and important objectives of the State – However, in a constitutional 
+framework founded on the rule of law, development is not an 
+abstract or absolute goal – It is conditioned by the non-derogable 
+obligation to protect life, health, and environmental integrity – 
+Development that undermines these foundational values ceases 
+to be constitutionally permissible development – Doctrine of 
+sustainable development is not a slogan of compromise but a 
+principle of prioritisation – It requires that when developmental 
+activity poses a credible risk to human health or environmental 
+safety, regulatory frameworks must err on the side of protection – 
+Constitution does not permit a trade-off where civilian life and health 
+are exposed to foreseeable harm on the assumption that economic 
+benefit or industrial facilitation justifies such exposure – Arts.14 and 
+21 do not tolerate a regulatory calculus that treats environmental 
+safety as negotiable – If regulatory dilution were to be accepted, 
+it would mark a fundamental shift in environmental governance – 
+Sector-level reclassification, divorced from exposure realities and 
+local sensitivities, would become a ready instrument to justify siting 
+of polluting activities in close proximity to habitations, schools, 
+and other sensitive receptors – It would operate as a precedent, 
+enabling progressive erosion of preventive safeguards across 
+regions, with cumulative and irreversible consequences – Law does 
+not permit environmental protection to be weakened incrementally 
+until harm becomes inevitable – Environmental harm, once caused, 
+is often irreversible or incapable of full remediation – Public health 
+consequences, degradation of air quality, and long-term ecological 
+damage cannot be undone by subsequent regulatory correction – 
+Thus, environmental regulation is designed to be preventive rather 
+than reactive – Regulatory framework that allows risk to materialise 
+first and seeks to address consequences later is fundamentally 
+
+[2026] 3 S.C.R. 
+183
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+incompatible with constitutional environmental jurisprudence – This 
+Court does not ordinarily interfere with technical classifications or 
+policy determinations made by expert bodies, however, judicial 
+restraint cannot extend to abdication – Where regulatory action 
+results in lowering of the constitutional minimum of protection 
+guaranteed to citizens, particularly in matters affecting life and 
+health, judicial intervention becomes a constitutional obligation. 
+[Paras 60-64]
+Punjab Regional and Town Planning and Development Act, 
+1995 – ss.70, 75, 76, 79-81 – Preparation and approval of Master 
+Plans – Master Plan, its binding force, and the procedure for 
+alteration/revision – Control of development and “change of 
+land use” permissions – Explained. [Paras 7.1-7.10]
+Environment (Protection) Act, 1986 – Environment (Protection) 
+Rules, 1986 – EIA Notification dated 14.09.2006 – Environmental 
+clearance and siting safeguards – Explained. [Paras 7.11-7.13]
+Case Law Cited
+K. Ramadas Shenoy v. Town Municipal Council, Udipi [1975] 1 
+SCR 680 : (1974) 2 SCC 506; Bangalore Medical Trust v. B.S. 
+Muddappa [1991] 3 SCR 102 : (1991) 4 SCC 54; Vellore Citizens’ 
+Welfare Forum v. Union of India [1996] Supp. 5 SCR 241 : (1996) 5 
+SCC 647; M.C. Mehta v. Union of India [1996] Supp. 7 SCR 465 : 
+(1997) 3 SCC 715; Hospitality Assn. of Mudumalai v. In Defence 
+of Environment & Animals [2020] 10 SCR 273 : (2020) 10 SCC 
+589; M.C. Mehta v. Union of India (Shriram - Oleum Gas) [1987] 
+1 SCR 819 : (1987) 1 SCC 395; Indian Council for Enviro-Legal 
+Action v. Union of India [1996] 2 SCR 503 : (1996) 3 SCC 212; 
+A.P. Pollution Control Board v. Prof. M.V. Nayudu [1999] 1 SCR 
+235 : (1999) 2 SCC 718 – referred to.
+List of Acts
+Punjab Regional and Town Planning and Development Act, 
+1995; Constitution of India; Environment (Protection) Act, 1986; 
+Environment (Protection) Rules, 1986.
+List of Keywords
+Land use under the Master Plan for Sangrur; Rural agricultural zone; 
+Approval recorded in 43rd meeting of the Punjab Regional and Town 
+
+184
+[2026] 3 S.C.R.
+Supreme Court Reports
+Planning and Development Board dated 05.01.2022; Alteration or 
+amendment of the Master Plan; Siting norms and environmental 
+safeguards; PPCB notification dated 02.09.1998; Regulatory 
+framework; Revised industrial sector categorisation; Stand-alone 
+grinding unit without CPP; “Red” category; “Orange” category; 
+Relaxation of siting and regulatory safeguards; Notifications GSR 
+84E dated 29.01.2025; GSR 85E dated 30.01.2025; Principles of 
+environmental jurisprudence; Change of land use; Cement related 
+industrial unit; Close proximity to agricultural lands and residential 
+houses; Change of land use-CLU dated 13.12.2021; Environmental 
+clearance under EIA Notification, 2006; Preparation and approval 
+of Master Plans; Master Plan, its binding force, and procedure for 
+alteration/revision; Control of development and change of land 
+use permissions; Environmental clearance and siting safeguards; 
+Reclassification of “stand-alone grinding unit without CPP” from 
+“Red” category to “Orange” category; Precautionary principle; 
+Doctrine of sustainable development; Environmental protection 
+and development.
+Case Arising From
+CIVIL APPELLATE/ORIGINAL JURISDICTION: Civil Appeal No. 
+2331 of 2026
+From the Judgment and Order dated 29.02.2024 of the High Court 
+of Punjab & Haryana at Chandigarh in CWP No. 20134 of 2022
+With
+SLP (C) No. 8495 of 2024 and Writ Petition (C) No(s). 481 and 
+551 of 2025
+Appearances for Parties
+Advs. for the Petitioner(s):
+Mukul Rohatgi, Parthiv Goswami, Sr. Advs., Purushottam Sharma 
+Tripathi, Ms. Diksha Rai, Abhishek Tripathi, Amit, Ms. Vani Vyas, 
+Keshav Seghal, Ravi Chandra Prakash.
+Advs. for the Respondent(s):
+Ms. Aishwariya Bhati, A.S.G., Rajat Bhardwaj, A.A.G., Harin P 
+Raval, Rakesh Dwivedi, Anand Chibber, Ms. Ruchi Kohli, Sr. 
+Advs., Siddhant Sharma, Ms. Shreya Bansal, Ms. Shrestha 
+Narayan, Apoorv Shukla, Ms. Ishita Farsaiya, Ms. Prabhleen 
+
+[2026] 3 S.C.R. 
+185
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+A. Shukla, Ayush Acharjee, Apoorv Shukla, Ms. Ishita Farsaiya, 
+Ms. Prabhleen A. Shukla, Ayush Acharjee, Ateevraj Sandhu, 
+Ms. Shradha Deshmukh, Ms. Rajeshwari Shankar, Ms. Sherya Jain, 
+Ms. Riddhi Jad, Ms. Anuradha, Gurmeet Singh Makker, Sriram P., 
+Ms. Richa Kapoor, Ms. Udipti Chopra, Ms. Aditi Rathore, Sudeep 
+Kumar, Gaurav Dhama, Ms. Sushre Sirpa Sahu, Sumit Gaur.
+Judgment / Order of the Supreme Court
+Judgment
+Vikram Nath, J.
+1.	
+At the outset, it may be noted that the present judgment is structured 
+in two parts. The first part addresses the civil appeals arising out of 
+the Special Leave Petitions and examines the legality of the change 
+of Land Use and the impugned judgment of the High Court. The 
+second part separately considers the writ petitions under Article 32 
+of the Constitution of India, which raise an independent challenge 
+to subsequent regulatory actions taken during the pendency of the 
+appeals.
+Part I: For SLP (Civil) No. 8316 of 2024 and SLP (Civil) No. 8495 
+of 2024
+2.	
+Leave granted. 
+3.	
+The present appeals arise from the common judgment and order 
+dated 29.02.2024 passed by the High Court of Punjab and Haryana 
+at Chandigarh in CWP No. 20134 of 2022 and CWP No. 18676 of 
+2022. By the impugned judgment, the High Court dismissed the 
+writ petitions and upheld the change of Land Use dated 13.12.2021 
+granted in favour of “Shree Cement North Private Limited”. Civil 
+Appeal arising out of SLP (Civil) No. 8316 of 2024 has been filed by 
+the writ petitioners in CWP No. 20134 of 2022. Civil Appeal arising 
+out of SLP (Civil) No. 8495 of 2024 has been filed by Vasant Valley 
+Public School, which was the writ petitioner in CWP No. 18676 of 
+2022. For ease of reference, the parties shall be referred to as per 
+their status in SLP (Civil) No. 8316 of 2024. Accordingly, Respondent 
+No. 9 is Shree Cement North Private Limited, the main contesting 
+respondent, before this Court.
+
+186
+[2026] 3 S.C.R.
+Supreme Court Reports
+4.	
+The facts giving rise to the present appeals are as follows:
+4.1.	 The Appellant in Civil Appeal arising out of SLP (Civil) No. 
+8316 of 2024 is a group of agriculturists residing in and around 
+Sangrur, Punjab. The Appellants state that Respondent No. 9 
+purchased land admeasuring about 47.82 acres for establishing 
+a cement related industrial unit in close proximity to their 
+agricultural lands and residential houses. The Appellant in Civil 
+Appeal arising out of SLP (Civil) No. 8495 of 2024 is Vasant 
+Valley Public School. The School claims that its premises are 
+located in the immediate vicinity of the proposed site and that 
+the proposed activity would adversely affect the health and 
+safety of students and staff.
+4.2.	 On 13.12.2021, the Punjab Bureau of Investment Promotion 
+issued a Change of Land Use1 in favour of Respondent No. 9 
+for the proposed unit. On 14.12.2021, consent to establish/No 
+Objection Certificate from the pollution angle was granted under 
+the Single Window mechanism on the basis of Punjab Pollution 
+Control Board’s2 consideration. The Appellants contend that the 
+CLU was granted in a manner not contemplated by the Punjab 
+Regional and Town Planning and Development Act, 19953. The 
+Appellants also contend that the proposed site falls within a rural 
+agricultural zone under the Master Plan for Sangrur and that a 
+red category polluting industry could not have been permitted 
+at the said location.
+4.3.	 The agriculturist Appellants, therefore, instituted CWP No. 
+20134 of 2022 before the High Court challenging the CLU 
+dated 13.12.2021 and the consequent approvals. Vasant Valley 
+Public School instituted CWP No. 18676 of 2022 raising similar 
+objections and specifically relied upon the proximity of the 
+school and other habitations to the proposed site. During the 
+pendency of the writ proceedings, the High Court passed an 
+interim order dated 20.09.2022, and the interim arrangement 
+continued till the writ petitions were finally decided. 
+1	
+In short “CLU”
+2	
+In short “PPCB”
+3	
+In short “PRTPD Act”
+
+[2026] 3 S.C.R. 
+187
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+4.4.	 By the common judgment and order dated 29.02.2024, the 
+High Court dismissed both writ petitions. The High Court noted 
+that as on 13.12.2021, the CLU did not have statutory backing 
+in the form contemplated by the PRTPD Act. The High Court, 
+however, upheld the CLU on the reasoning that the Punjab 
+Regional and Town Planning and Development Board granted 
+approval in its 43rd meeting dated 05.01.2022. The High Court 
+treated the said approval as curing the defect and accepted the 
+stand that the land use permissibility stood validated thereafter.
+4.5.	 The High Court also proceeded on the basis that the decision 
+taken by the Planning Board on 05.01.2022 was relatable to the 
+power of amendment of the Master Plan. The High Court relied 
+upon Section 76 of the PRTPD Act and held that the approval 
+recorded in the 43rd meeting dated 05.01.2022 could operate to 
+support the CLU and to sustain the proposed industrial activity. 
+The High Court further proceeded on the premise that the 
+competent authorities had considered the relevant siting aspects 
+and that the CLU itself contained conditions and restrictions. 
+The High Court observed that if the conditions stipulated in the 
+CLU were violated, the affected persons would be at liberty to 
+pursue appropriate remedies.
+5.	
+Aggrieved by the dismissal of their writ petitions and by the upholding 
+of the CLU dated 13.12.2021, the Appellants have preferred the 
+present civil appeals.
+6.	
+We have heard the learned counsel for the parties, and we have gone 
+through the comprehensive material on record. In our considered 
+opinion, the following questions arise for determination in the present 
+appeals:
+I.	
+Whether the CLU dated 13.12.2021 could have been granted 
+for the proposed unit when the land use under the Master Plan 
+for Sangrur treated the site as falling in a rural agricultural zone.
+II.	
+Whether the “approval” recorded in the 43rd meeting of the 
+Punjab Regional and Town Planning and Development Board 
+dated 05.01.2022 could lawfully cure the admitted defect in the 
+CLU and whether such approval is capable in law of operating 
+as an alteration or amendment of the Master Plan under the 
+PRTPD Act.
+
+188
+[2026] 3 S.C.R.
+Supreme Court Reports
+III.	
+Whether the siting norms and environmental safeguards, 
+including the PPCB notification dated 02.09.1998 and the 
+relevant regulatory framework, were complied with in relation 
+to the proximity of habitations and the school, and whether the 
+process adopted by the authorities satisfies the requirements 
+of the prevailing legal norms. 
+7.	
+It is apparent that the controversy before us turns principally on 
+the statutory scheme governing the Master Plan and control of 
+development under the PRTPD Act; and the environmental and siting 
+safeguards applicable to a cement grinding unit as in the present case.
+A.	
+PRTPD Act, the Master Plan, its binding force, and the 
+procedure for alteration/revision
+7.1.	 Chapter X of the PRTPD Act deals with ‘Preparation and 
+Approval of Master Plans.’ Under the same, Section 70 of the 
+PRTPD Act lays down the foundational statutory scheme for 
+the preparation, approval, and legal operation of a Master Plan. 
+The same has been reproduced hereunder:
+“70. Outline Master Plan. - (1) As soon as may be 
+after the declaration of a planning area and after the 
+designation of a Planning Agency for that area, the 
+Designated Planning Agency shall, not later than 
+one year after such declaration or within such time 
+as [the State Government may, from time to time, 
+extend, prepare and submit to the State Government 
+for its approval a plan (hereinafter called the “Master 
+Plan”)] for the planning area or any of its part and 
+the Master Plan so prepared shall –
+(a) indicate broadly the manner in which the land in 
+the area should be used;
+(b) allocate areas or zones of land for use for different 
+purposes;
+(c) indicate, define and provide the existing and 
+proposed highways, roads, major streets and other 
+lines of communication;
+[(cc) indicate areas covered under heritage site and 
+the manner in which protection, preservation and 
+
+[2026] 3 S.C.R. 
+189
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+conservation of such site including its regulation and 
+control of development, which is either affecting the 
+heritage site or its vicinity, shall be carried out.]
+(d) include regulations (hereinafter called “Zoning 
+Regulations”) to regulate within each zone the 
+location, height, number of storeys and size of 
+buildings and other structures, open spaces and the 
+use of buildings, structures and land.
+(2) Subject to the provisions of the rules made under 
+this Act for regulating the form and contents of the 
+Master Plan, any such plan shall include such maps 
+and such descriptive matters as may be necessary to 
+explain and illustrate the proposals in the Master Plan.
+(3) [As soon as after the Master Plan has been 
+prepared under sub – section (1) ,by the Designated 
+Planning Agency, the State Government, not later 
+than such time, as may be prescribed, shall direct 
+the Designated Planning Agency to publish the 
+existing land use plan and master plan and the 
+place or places, where the copies of the same may 
+be inspected, for inviting objections in writing from 
+any person with respect to the existing land use plan 
+and master plan within a period of thirty days from 
+the date of publication.]
+(4) [The State Government, after considering the 
+objections and in consultation with the Board, may, 
+direct the Designated Planning Agency to modify the 
+Master Plan or approve it as such.]
+(5) [The Designated Planning Agency, after approval 
+of the State Government, shall publish the final 
+Master Plan in the Official Gazette, after carrying 
+out the modifications if any, under intimation to the 
+State Government within a period of thirty days 
+from the date of according approval by the State 
+Government.]”
+7.2.	 The provision makes it clear that the Master Plan is not a 
+mere policy document or an internal administrative guideline. 
+
+190
+[2026] 3 S.C.R.
+Supreme Court Reports
+It is a statutory instrument which governs how land in the 
+planning area is to be used and regulated. The Act places 
+the primary responsibility for preparing the Master Plan upon 
+the Designated Planning Agency, which is required to prepare 
+the plan and submit it to the State Government for approval. 
+The contents of the Master Plan, as reflected in the statutory 
+scheme, include the identification and allocation of land into 
+different zones for specified purposes and the regulatory norms 
+that will govern development and land use within those zones. 
+Equally significant is the procedure that Section 70 mandates 
+before a Master Plan can acquire enforceable effect. The Act 
+requires that the proposed Master Plan be brought into the 
+public domain, that the public be afforded an opportunity to 
+submit objections and suggestions within the prescribed period, 
+and that such objections and suggestions be considered by 
+the Designated Planning Agency before the plan is placed for 
+approval. This is not a procedural formality. It is a statutory 
+safeguard intended to ensure transparency, participatory 
+planning, and reasoned decision making, particularly because 
+zoning and land use decisions have a direct bearing on property 
+rights, local habitations, public amenities, and environmental 
+and health concerns.
+7.3.	 The Act then ties enforceability to publication in the Official 
+Gazette. In other words, the Master Plan becomes operational, 
+and thereby binding for land use regulation, only upon its 
+publication in the Official Gazette in the manner contemplated 
+by the statute. Section 75 of the PRTPD Act reinforces this 
+principle by reiterating that the Master Plan comes into 
+operation from the date of such publication, and the same 
+reads as follows:
+“75. [Coming into operation of Master Plan,- The 
+Master Plan come into operation from the date of 
+publication, referred in sub-section(5) of section 70.]”
+The combined statutory scheme indicates that once the Master 
+Plan is published and comes into operation, it binds both the 
+authorities and the public, and land use permissibility is to be 
+determined with reference to its zoning prescriptions unless the 
+statute is duly followed to alter or revise the plan.
+
+[2026] 3 S.C.R. 
+191
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+7.4.	 The same statutory discipline governs review and revision. 
+Section 76 of the PRTPD Act contemplates periodic review of 
+the Master Plan, and it permits revision where the statutory 
+authority considers it necessary. Section 76 reads as follows:
+“76(1) At any after time after the date on which the 
+Master Plan for an area comes into operation, and 
+atleast once after every ten years, after that date, the 
+Designated Planning Agency shall after carrying out 
+such fresh surveys as may be considered necessary 
+or as directed by the [State Government], prepare 
+and submit to the Board, a Master Plan after making 
+alterations or additions as it considers necessary.
+(2) The provisions of *[Sections 70 and 75] shall 
+mutatis mutandis as for as may be possible, apply 
+to the Master Plan submitted under sub-section (1).”
+However, the Act does not treat review as a mechanism 
+by which land use norms can be altered informally or on 
+a case by case basis. The provision expressly applies the 
+publication, objection, consideration, and gazette publication 
+requirements to a revised Master Plan as well. This legislative 
+design ensures that revision of the Master Plan, even when 
+undertaken as part of a periodic review cycle, remains subject 
+to the same safeguards of notice, participation, and formal 
+publication which give the Master Plan its legal force in the 
+first place.
+7.5.	 The Act also provides for the making of minor changes, but 
+even that power is not arbitrary. Where changes are proposed 
+to the Master Plan, including changes described as minor, the 
+statutory scheme requires that the State Government’s direction 
+and the fact of change be brought to the notice of the public in 
+the manner contemplated by the Act. The underlying principle 
+is that a change in zoning or land use permissibility cannot 
+rest only upon internal file notings, minutes, or administrative 
+approvals. Where the change alters the operative land use 
+framework that binds the public and the authorities, the statute 
+insists upon transparency and public notice so that the Master 
+Plan continues to remain a legally certain and publicly knowable 
+instrument of planning regulation.
+
+192
+[2026] 3 S.C.R.
+Supreme Court Reports
+B.	
+Control of development and “change of land use” 
+permissions
+7.6.	 Once a Master Plan has come into operation in the manner 
+contemplated by the PRTPD Act, the statutory command is 
+that land use and development within the planning area must 
+conform to the zoning and regulatory prescriptions of the Plan. 
+Section 79 to 81 in Chapter XI of the PRTPD Act provides for 
+the same and has been reproduced hereunder:
+79. After the coming into operation of any Master Plan 
+in any area, no person shall use or permit to be used 
+any land or carry out any development in that area 
+otherwise than in conformity with such Master Plan: 
+Provided that the Competent Authority may allow the 
+continuance of any use of any land, for a period not 
+exceeding ten year, upon such terms and conditions 
+as may be provided by regulations made in this behalf 
+for the purpose and to the extent, for and to which it 
+was being used on the date on which such a Master 
+Plan came into operation.
+80. After coming into operation of any Master Plan 
+in any area and subject to the other provisions of 
+this Act, no development in respect of, or change of 
+use of, any land shall be undertaken or carried out, 
+in that area –
+(a) without obtaining the permission in writing as 
+provided for hereafter; and 
+(b) without obtaining a certificate from the Competent 
+Authority certifying that the development charge or 
+betterment charge as leviable under this Act has been 
+paid or that no such charges are leviable:
+[Provided that except in the case of development, 
+affecting heritage site or its vicinity, no such 
+permission shall be necessary-]
+(i) for operational constructions and constructions in 
+the area comprised in the abadi-deh of any village 
+falling inside its Lal Lakir or Phirni;
+
+[2026] 3 S.C.R. 
+193
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+(ii) for carrying out such works for the maintenance, 
+improvement or other alteration of any building which 
+affect only its interior or which do not materially affect 
+the external appearance of the building ;
+(iii) [….] for the carrying out by the Central Government 
+or the State Government or any local authority of,-
+(a) any work required for the maintenance or 
+improvement of a high way, road or public street, 
+being work carried out on land within the boundaries 
+of such highway, road or public street;
+(b) any work for the purpose of inspecting, repairing 
+or renewing any drains, sewers, mains, pipes, cables 
+or other apparatus including the breaking open of any 
+street or other land for that purpose ;
+(iv) for the excavations (including wells and tubewells) 
+made in the ordinary course of agricultural operation 
+or for such constructions which are made for 
+agricultural purposes subservient to agriculture :
+Provided that such excavation or constructions are 
+situated in the areas in which agriculture is permitted 
+land use as per the Master Plan ;
+(v) for the construction of unmetalled roads intended 
+to give access to land solely meant for agricultural 
+purpose.
+81.(1) Any person intending to carry out any 
+development in respect of, or a change of use of any 
+land or intending to sub-divide his plot or to layout a 
+private street shall make an application in writing to 
+the Competent Authority for permission in such form 
+and containing such particulars and accompanied by 
+such documents and plans as may be prescribed.
+(2)(a) In the case of a Department of the State 
+Government or the Central Government or a local 
+authority intending to carry out any development 
+in respect of, or, change of use of, any land, the 
+concerned Department or the local authority, as the 
+
+194
+[2026] 3 S.C.R.
+Supreme Court Reports
+case may be, shall notify in writing to the Competent 
+Authority of its intention to do so giving full particulars 
+thereof and accompanied by such documents and 
+plans as may be prescribed, at least, two months prior 
+to the undertaking of such development or change, 
+as the case may be.
+(b) Where the Competent Authority has raised 
+any objection in respect of the conformity or the 
+proposed development either to any Master Plan 
+under preparation or to any rules in force at that 
+time, or due to any other material consideration, the 
+Department of the State Government or the Central 
+Government or the local authority, as the case may 
+be, shall either make necessary modifications in the 
+proposals for such development or change of use to 
+meet the objections raised by the Competent Authority 
+or submit *[to the State Government the proposal for 
+such development or change of use together with 
+the objections raised by the Competent Authority 
+for decision.]
+(c) The **[State Government] on receipt of such 
+proposal together with the objections of the Competent 
+Authority shall either approve the proposals with or 
+without modifications or direct the Department of 
+the State Government or the Central Government 
+or the local authority, as the case may be, to make 
+such modifications in the proposals as it considers 
+necessary in the circumstances.
+(3) Every application under sub-section (1) shall be 
+accompanied by such fee as may be prescribed:
+Provided that no fee shall be payable in the case of 
+an application made by a Department of the State 
+Government or the Central Government.
+(4) On an application having being duly made under 
+sub-section (1) and on payment of the development 
+charge or betterment charges if any, as may be 
+assessed under Chapter XIII, the Competent Authority 
+may,-
+
+[2026] 3 S.C.R. 
+195
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+(a) pass an order –
+(i) granting permission unconditionally ; or
+(ii) granting permission subject to such conditions as 
+it may think necessary to impose ; or
+(iii) refusing permission ;
+(b) without prejudice to the generality of clause (a) 
+impose conditions –
+(i) to the effect that the permission granted is 
+only for a specified period and after the expiry 
+of that period, the land shall be restored to its 
+previous condition or the use of the land so 
+permitted shall be discontinued; or
+(ii) for regulating the development or use of any 
+land under control of the applicant or for the 
+carrying out of works on any such land as may 
+appear to the Competent Authority expedient.
+(5) The Competent Authority in considering the 
+application for permission shall ensure that it is in 
+conformity with the provisions of the Master Plan 
+prepared or under preparation under this Act and 
+where the development or change or use of any land 
+is likely in the opinion of the Competent Authority to 
+interfere with the operation of the Master Plan or to 
+be prejudicial to planned development, or any plan 
+for development of the Authority, the Competent 
+Authority may refuse such permission.
+(6) Where permission is granted subject to conditions 
+or is refused, the grounds of imposing such conditions 
+or such refusal shall be recorded in the order and 
+such order shall be communicated to the applicant 
+in the prescribed manner.
+(7) *[If the Competent Authority does not communicate 
+its decision to grant or refuse permission to the 
+applicant within a period of sixty days from the 
+date of receipt of his application in case other 
+than the heritage site, and within a period of one 
+
+196
+[2026] 3 S.C.R.
+Supreme Court Reports
+hundred twenty days in the case of heritage site and 
+development affecting such site, or within a period of 
+sixty days from the date of receipt of reply from the 
+applicant in respect of any requisition made by the 
+Competent Authority, whichever is later, then such 
+permission shall be deemed to have been granted 
+to the applicant on the date immediately following 
+the date of expiry of the later date without prejudice 
+to the provisions of this Act, rules and regulations 
+made thereunder:
+Provided that any development carried out in 
+pursuance of such deemed permission, which is in 
+contravention of the provisions of the Act, rules and 
+regulations made thereunder, shall be deemed to 
+be an unauthorised development for the purposes 
+of sections 86, 87, 88, 89 and 90.]”
+7.7.	
+Section 79 is a prohibition in mandatory terms. It does not 
+leave the matter to administrative discretion on a case to 
+case basis. It interdicts the use of land and the carrying out 
+of development in a manner inconsistent with the operative 
+Master Plan. The legislative intent is to ensure certainty, 
+uniformity, and enforceability in planning control, so that the 
+zoning framework is not diluted by ad hoc departures that 
+would defeat the Plan’s public purpose.
+7.8.	
+Section 80 then provides the complementary statutory control. 
+Even where a proposed activity is otherwise permissible under 
+the Plan, the statute mandates that development or change 
+of use can be undertaken only upon written permission of the 
+competent authority. This written permission is not conceived 
+as a substitute for, or an override of, the Master Plan. It is a 
+regulatory permission which must operate within the discipline 
+of the Plan and the statute. In other words, Section 80 does not 
+create a untrammelled executive power to authorise land use 
+contrary to the Master Plan. It creates a permission regime which 
+presupposes conformity with the planning framework, and which 
+is intended to regulate the manner, conditions, and safeguards 
+subject to which permissible development may proceed.
+7.9.	
+Section 81 sets out the structured decision-making process for 
+grant or refusal of permission. The provision contemplates an 
+
+[2026] 3 S.C.R. 
+197
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+application by the person intending to carry out development, 
+a time bound decision by the competent authority, the power to 
+impose conditions while granting permission, and an obligation 
+to record reasons where permission is refused. The scheme is 
+designed to ensure that permissions are granted on relevant 
+considerations, that the decision is not arbitrary, and that the 
+affected party is informed of the basis of refusal. The deemed 
+permission clause is also part of this discipline. It operates 
+as a statutory consequence where the authority fails to act 
+within the prescribed period. It does not dispense with the 
+substantive requirements of conformity with the Master Plan 
+or compliance with other applicable laws.
+7.10.	 The appellate remedy is similarly part of the statutory 
+architecture. It provides a supervisory forum within the 
+executive framework, but it does not dilute the binding force 
+of the Master Plan or the mandatory nature of the statutory 
+controls in Sections 79 and 80.
+C.	
+Environmental clearance and siting safeguards
+7.11.	 Environmental clearance and siting safeguards stand on a 
+distinct but overlapping legal plane. Under the Environment 
+(Protection) Act, 1986 and the Environment (Protection) Rules, 
+1986, the EIA Notification dated 14.09.2006 (hereinafter referred 
+to as the EIA Notification, 2006) is a delegated legislation 
+which creates a regime of prior environmental clearance for 
+specified projects and activities. The requirement of prior 
+environmental clearance is triggered before commencement 
+of construction activity or preparation of land at the site. The 
+statutory design is preventive. It ensures that environmental 
+impacts, mitigation measures, and site-specific concerns are 
+assessed at a stage when the project can still be meaningfully 
+evaluated, conditioned, modified, or declined.
+7.12.	 The EIA Notification, 2006 also prescribes a stage wise process 
+which includes screening, scoping, public consultation, and 
+appraisal. These stages are not interchangeable. Each stage 
+serves a distinct function within the regulatory design, and 
+public consultation has a specific role in ensuring that persons 
+likely to be affected can place their concerns on record and that 
+the appraisal is informed by local conditions and stakeholder 
+
+198
+[2026] 3 S.C.R.
+Supreme Court Reports
+inputs. Where the project is treated as falling within Category 
+“B” under the relevant schedule entry, the appraisal is at the 
+State level through the institutional mechanism of the State 
+Level Environment Impact Assessment Authority4 and the State 
+Expert Appraisal Committee5. This classification determines 
+the forum and the process for appraisal. It does not dilute the 
+core requirement that the environmental clearance must be 
+prior and must be obtained before construction or preparation 
+of land.
+7.13.	 Siting and proximity norms operate as an additional layer 
+of safeguards, particularly where habitations and sensitive 
+receptors such as educational institutions are involved. The 
+PPCB notification dated 02.09.1998 prescribes minimum 
+siting distances for cement plants and grinding units, including 
+minimum buffers from residential clusters and educational 
+institutions, and it also requires development of a green 
+belt along the boundary. These norms reflect a regulatory 
+framework prescribing that certain minimum separations and 
+buffers are required to reduce risk of exposure and nuisance 
+from dust, emissions, noise, and traffic. They function as 
+minimum protective standards for the purpose of grant of 
+consent and related pollution control permissions. Compliance 
+with these standards is relevant to evaluate whether the 
+regulatory authorities have applied the correct yardsticks 
+and whether the safeguards imposed are adequate having 
+regard to the site conditions and the proximity of habitations 
+and the school.
+8.	
+Having set out the statutory scheme governing planning control and 
+the environmental and siting safeguards, we now turn to the three 
+issues that arise for determination in these appeals as framed in the 
+earlier part of this judgment.
+Issue I: Whether the CLU dated 13.12.2021 could have been 
+granted when the site fell in a rural agricultural zone under the 
+Master Plan for Sangrur. 
+4	
+In short “SEIAA”
+5	
+In short “SEAC”
+
+[2026] 3 S.C.R. 
+199
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+9.	
+At the outset, it is necessary to notice the legal character of the 
+Master Plan for Sangrur and the zoning prescription governing the 
+site in question. The material on record, including the reports and 
+communications relied upon by the parties, proceeds on the consistent 
+premise that the land purchased by Respondent No. 9 fell in a rural 
+agricultural zone under the notified Master Plan for Sangrur. It is also 
+not in dispute that, as per the zoning permissibility then prevailing, 
+a red category industry was not permissible at the said site.
+10.	 In this backdrop, the CLU dated 13.12.2021 has to be tested on its 
+own legal footing. This Court has consistently held that a statutory 
+development plan is not a mere policy statement. It has binding force 
+and regulates land use in the larger public interest. Any development 
+contrary to the operative plan is impermissible unless the plan 
+itself is altered in the manner known to law. The principle has been 
+reiterated in decisions of this Court in K. Ramadas Shenoy v. Town 
+Municipal Council, Udipi6 and Bangalore Medical Trust v. B.S. 
+Muddappa7, where this Court emphasised that zoning and planned 
+development norms cannot be diluted by ad hoc departures at the 
+cost of public interest. The relevant portion from Bangalore Medical 
+Trust (Supra) is reproduced hereunder:
+“48. Much was attempted to be made out of exercise 
+of discretion in converting a site reserved for amenity 
+as a civic amenity. Discretion is an effective tool in 
+administration. But wrong notions about it results in ill-
+conceived consequences. In law it provides an option 
+to the authority concerned to adopt one or the other 
+alternative. But a better, proper and legal exercise of 
+discretion is one where the authority examines the fact, is 
+aware of law and then decides objectively and rationally 
+what serves the interest better. When a statute either 
+provides guidance or rules or regulations are framed 
+for exercise of discretion then the action should be in 
+accordance with it. Even where statutes are silent and 
+only power is conferred to act in one or the other manner, 
+the Authority cannot act whimsically or arbitrarily. It 
+6	
+(1974) 2 SCC 506, para nos.26-30
+7	
+(1991) 4 SCC 54
+
+200
+[2026] 3 S.C.R.
+Supreme Court Reports
+should be guided by reasonableness and fairness. The 
+legislature never intends its authorities to abuse the law 
+or use it unfairly. When legislature enacted sub-section 
+(4) it unequivocally declared its intention of making 
+any alteration in the scheme by the Authority, that is, 
+BDA and not the State Government. It further permitted 
+interference with the scheme sanctioned by it only if it 
+appeared to be improvement. The facts, therefore, that 
+were to be found by the Authority were that the conversion 
+of public park into private nursing home would be an 
+improvement in the scheme. Neither the Authority nor 
+the State Government undertook any such exercise. 
+Power of conversion or alteration in scheme was taken 
+for granted. Amenity was defined in Section 2(b) of the 
+Act to include road, street, lighting, drainage, public works 
+and such other conveniences as the government may, by 
+notification, specify to be an amenity for the purposes of 
+this Act. The Division Bench found that before any other 
+facility could be considered amenity it was necessary for 
+State Government to issue a notification. And since no 
+notification was issued including private nursing home 
+as amenity it could not be deemed to be included in it. 
+That apart the definition indicates that the convenience 
+or facility should have had public characteristic. Even 
+if it is assumed that the definition of amenity being 
+inclusive it should be given a wider meaning so as to 
+include hospital added in clause 2(bb) as a civic amenity 
+with effect from 1984 a private nursing home unlike a 
+hospital run by government or local authority did not 
+satisfy that characteristic which was necessary in the 
+absence of which it could not be held to be amenity or 
+civic amenity. In any case a private nursing home could 
+not be considered to be an improvement in the scheme 
+and, therefore, the power under Section 19(4) could not 
+have been exercised.
+49. Manner in which power was exercised fell below 
+even the minimum requirement of taking action on 
+relevant considerations. A scheme could be altered by the 
+Authority as defined under Section 3 of the Act. It is a body 
+
+[2026] 3 S.C.R. 
+201
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+corporate under Section 3 consisting of the Chairman and 
+experts on various aspects, namely, a finance member, 
+an engineer, a town planner, an architect, the ex-officio 
+members such as Commissioner of Corporation of the 
+City of Bangalore, officer of the Secretariat and elected 
+members for instance, two persons of the State legislature, 
+one a woman and other a scheduled caste and scheduled 
+tribe member, representative of labour, representative of 
+water supply, sewerage board, electricity board, State Road 
+Transport Corporation, two elected councillors etc. and the 
+Commissioner. This authority functions through committees 
+and meetings as provided under Sections 8 and 9. There 
+is no section either in the Act nor any rule was placed 
+to demonstrate that the Chairman alone, as such, could 
+exercise the power of the Authority. There is no whisper 
+nor there is any record to establish that any meeting of the 
+Authority was held regarding alteration of the scheme. In 
+any case the power does not vest in the State Government 
+or the Chief Minister of the State. The exercise of power 
+is further hedged by use of the expression, if ‘it appears 
+to the Authority’. In legal terminology it visualises prior 
+consideration and objective decision. And all this must have 
+resulted in conclusion that the alteration would have been 
+improvement. Not even one was followed. The Chairman 
+could not have acted on his own. Yet without calling any 
+meeting of the Authority or any committee he sent the 
+letter for converting the site. How did it appear to him that 
+it was necessary, is mentioned in the letter dated April 
+21, because the Chief Minister desired so. The purpose 
+of the Authority taking such a decision is their knowledge 
+of local conditions and what was better for them. That is 
+why participatory exercise is contemplated. If any alteration 
+in scheme could be done by the Chairman and the Chief 
+Minister then sub-section (4) of Section 19 is rendered 
+otiose. There is no provision in the Act for alteration in 
+a scheme by converting one site to another, except, of 
+course if it appeared to be improvement. But even that 
+power vested in the Authority not the government. What 
+should have happened was that the Authority should have 
+
+202
+[2026] 3 S.C.R.
+Supreme Court Reports
+applied its mind and must have come to the conclusion 
+that conversion of the site reserved for public park into a 
+private nursing home amounted to an improvement; then 
+only it could have exercised the power. But what happened 
+in fact was that the application for allotment of the site 
+was accepted first and the procedural requirements were 
+attempted to be gone through later and that too by the 
+State Government which was not authorised to do so. Not 
+only that the Authority did not apply its mind and take any 
+decision if there was any necessity to alter the scheme but 
+even if it is assumed that the State Government could have 
+any role to play, the entire exercise instead of proceeding 
+from below, that is, from the BDA to State Government 
+proceeded in reverse direction, that is, from the State 
+Government to the BDA. Every order, namely, converting 
+the site from public park to private nursing home and even 
+allotment to BMT was passed by State Government and the 
+BDA acting like a true subservient body obeyed faithfully 
+by adopting and confirming the directions. It was complete 
+abdication of power by the BDA. The legislature entrusted 
+the responsibility to alter and approve the scheme to the 
+BDA but the BDA in complete breach of faith reposed in 
+it, preferred to take directions issued on command of the 
+Chief Executive of the State. This resulted not only in error 
+of law but much beyond it. In fact the only role which the 
+State Government could play in a scheme altered by the 
+BDA is specified in sub-sections (5) and (6) of Section 19 
+of the Act. The former requires previous sanction of the 
+government if the estimated cost of executing the altered 
+scheme exceeds by a greater sum than five per cent of 
+the cost of executing the scheme as sanctioned. And 
+later if the ‘scheme as altered involved the acquisition 
+otherwise than by agreement’. In other words the State 
+Government could be concerned or involved with an altered 
+scheme either because of financial considerations or when 
+additional land was to be acquired, an exercise which could 
+not be undertaken by the BDA. A development scheme, 
+therefore, sanctioned and published in the gazette could 
+not be altered by the government.”
+
+[2026] 3 S.C.R. 
+203
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+11.	 Once a Master Plan has come into operation under Section 70(5) 
+of the PRTPD Act read with Section 75 of the PRTPD Act, the 
+statutory scheme does not contemplate a permission regime where 
+land use contrary to the operative zoning can be authorised merely 
+by issuance of a CLU. The prohibition contained in Section 79 of 
+the PRTPD Act, read with the written permission requirement in 
+Section 80 of the PRTPD Act and the structured decision-making 
+framework in Section 81 of the PRTPD Act, makes it clear that a 
+CLU is not a source of power to override the Master Plan. A CLU 
+operates as a regulatory permission within the statutory discipline of 
+the Master Plan. It presupposes that the proposed use is permissible 
+under the operative planning framework, or that the framework has 
+already been altered or revised in accordance with the procedure 
+prescribed by the PRTPD Act. The binding character of the Master 
+Plan under Sections 70 and 75 of the PRTPD Act, read with the 
+control on development and land use under Sections 79 to 81 of the 
+PRTPD Act, requires that land use permissibility be determined with 
+reference to the operative zoning prescription. It cannot be displaced 
+by ad hoc permissions.
+12.	 It must be emphasized that when a statute prescribes a particular 
+manner for doing an act, it must be done in that manner and in 
+no other manner. In the present case, where the Master Plan is 
+the governing statutory instrument for land use, a departure which 
+effectively changes land use permissibility must satisfy the statutory 
+procedure for alteration, amendment, or revision contemplated by 
+the PRTPD Act. It cannot rest on internal approvals or administrative 
+convenience. This is also why the High Court’s recording that, as 
+on 13.12.2021, the CLU did not have statutory backing, assumes 
+decisive significance. If on the date of its issuance the CLU lacked 
+statutory support to permit the proposed use in the relevant zone, the 
+defect is not a mere irregularity. It goes to the root of jurisdiction. A 
+permission must be lawful when it is granted. It cannot be rendered 
+lawful by a later event unless the PRTPD Act itself so provides.
+13.	 The CLU dated 13.12.2021 also proceeds on the footing that the site 
+falls within the notified Master Plan and is treated as a non-conforming 
+land use zone. In such a situation, a conditional permission issued in 
+the course of the Section 80 of the PRTPD Act and Section 81 of the 
+PRTPD Act framework cannot be used to invert the statutory order 
+
+204
+[2026] 3 S.C.R.
+Supreme Court Reports
+by first granting a CLU in a zone where the use is not permissible 
+under Section 79 of the PRTPD Act and then seeking to sustain it 
+on the basis of subsequent approvals.
+14.	 We may also note, in this context, that the reliance placed upon 
+conditions contained in the CLU, and the observation that affected 
+persons may pursue remedies if such conditions are violated, 
+cannot answer the foundational objection. Conditions may regulate 
+the manner in which a permission that is otherwise lawful may be 
+implemented; they cannot supply jurisdiction where the proposed 
+land use is impermissible under the operative Master Plan. To accept 
+conditions as a substitute for conformity with the Plan would invert 
+the statutory order by permitting what is prohibited under Section 
+79 of the PRTPD Act first, and leaving compliance with the Master 
+Plan to future contingencies.
+15.	 It was also urged that the proposed unit would advance industrial 
+development and employment and that the CLU was processed 
+under a single-window mechanism. Such considerations cannot 
+dilute the binding force of the operative Master Plan or the statutory 
+prohibitions governing land use. Administrative facilitation, however 
+efficient, must operate within the four corners of the PRTPD Act, and 
+cannot legitimise a land use that is impermissible under the Plan. 
+16.	 The objection founded on alternate remedy or disputed questions of 
+fact does not carry the matter further. The challenge in the present 
+appeals goes to the root of statutory competence and legality, namely, 
+whether a change of land use contrary to the operative Master Plan 
+could be granted at all. Where jurisdictional legality is in issue, the 
+matter cannot be non-suited on the plea that factual aspects may 
+be disputed.
+17.	 For these reasons, we are of the view that the CLU dated 13.12.2021 
+could not have been granted for the proposed unit when, under the 
+operative Master Plan for Sangrur, the site fell in a rural agricultural 
+zone where the proposed activity was not permissible.
+Issue II: Whether the “approval” recorded in the 43rd meeting 
+dated 05.01.2022 could lawfully cure the admitted defect in the 
+CLU and whether such approval is capable in law of operating 
+as an alteration or amendment of the Master Plan under the 
+PRTPD Act
+
+[2026] 3 S.C.R. 
+205
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+18.	 We now turn to the reliance placed on the “approval” recorded in 
+the 43rd meeting of the Punjab Regional and Town Planning and 
+Development Board dated 05.01.2022. The record indicates that the 
+item placed before the Planning Board itself described the proposal 
+as requiring ex post facto approval, and the minutes record that such 
+ex post facto approval was granted. The crucial question, however, 
+is not the label applied by the administration, nor the form in which 
+the approval is described. The determinative question is whether the 
+decision recorded on 05.01.2022 is capable, in law, of operating as an 
+alteration or amendment of the Master Plan so as to retrospectively 
+validate and cure the admitted defect in the CLU dated 13.12.2021.
+19.	 In our considered view, it is not. Once a Master Plan has come into 
+operation under Section 70(5) of the PRTPD Act read with Section 
+75 of the PRTPD Act, it acquires statutory force and becomes the 
+governing instrument for land use and development within the 
+planning area. Any change which has the effect of altering land use 
+permissibility, whether described as an amendment, modification, 
+or revision, can be brought about only by following the procedure 
+expressly prescribed by the statute. The review and revision 
+mechanism under Section 76 of the PRTPD Act does not operate in 
+isolation. It expressly attracts, by legislative design, the procedural 
+discipline embodied in Sections 70 and 75, including publication, 
+invitation and consideration of objections and suggestions, and formal 
+bringing into operation of the revised position through publication in 
+the Official Gazette.
+20.	 A decision recorded in the minutes of a meeting, or an internal 
+approval accorded by an executive or statutory body, does not by 
+itself amount to an alteration or amendment that has been brought 
+into legal operation as part of the Master Plan framework. Section 
+76 empowers the initiation of a revisionary process. It does not 
+dispense with the mandatory steps that alone give legal efficacy to 
+a change in the Master Plan. To treat minutes of a meeting as the 
+functional equivalent of a statutory amendment would be to collapse 
+the distinction between a proposal to revise and a revision that has 
+acquired legal force, and would render the procedural safeguards 
+built into the PRTPD Act otiose.
+21.	 This conclusion becomes inescapable where, as in the present case, 
+the asserted “approval” has the effect of permitting an otherwise 
+impermissible industrial activity in a rural agricultural zone, with direct 
+
+206
+[2026] 3 S.C.R.
+Supreme Court Reports
+consequences for residents, habitations, and a functioning educational 
+institution. Zoning prescriptions under a Master Plan are not mere 
+internal guidelines. They represent a considered legislative balance 
+between competing land uses and are intended to protect public 
+interest. Any departure which dilutes that balance must satisfy the 
+full statutory process prescribed for altering the Plan itself. Executive 
+convenience or post facto endorsement cannot be a substitute for 
+statutory compliance.
+22.	 Equally, the statutory scheme does not contemplate the curing of 
+a jurisdictional defect by retrospective administrative approval. A 
+CLU which is unlawful on the date of its grant for want of statutory 
+authority does not become lawful merely because a later decision 
+purports to validate it, unless the statute expressly confers such a 
+power of retrospective validation. The PRTPD Act contains no such 
+provision. The legality of the CLU must therefore be tested with 
+reference to the law and the operative planning framework as they 
+stood on the date the CLU was granted.
+23.	 Therefore, we hold that where the PRTPD Act occupies the field and 
+prescribes the manner in which an operative planning instrument 
+is to be revised or altered, that manner cannot be substituted by 
+executive decision-making or by treating minutes of a meeting as 
+the equivalent of an amendment brought into operation under the 
+Act. The approach adopted by the High Court, which treats the 
+subsequent approval as curing the illegality of the CLU, cannot be 
+accepted when the statutory structure does not permit legality to 
+be supplied to an act which was unlawful when done, by a later 
+administrative approval which does not itself satisfy the mandatory 
+requirements governing alteration or revision of the Master Plan. 
+The High Court’s approach, which proceeds on the premise that 
+an act lacking statutory backing on the date of its issuance may 
+nonetheless be sustained by a subsequent ex post facto approval, 
+is inconsistent with this statutory structure.
+24.	 It was lastly urged that substantial financial investment has been 
+made pursuant to the CLU and that interference at this stage 
+would cause prejudice. We are unable to accept this submission. 
+Expenditure incurred or steps taken in furtherance of a permission 
+that is unlawful or without statutory authority cannot confer legitimacy 
+upon the underlying action. No amount of financial investment can 
+
+[2026] 3 S.C.R. 
+207
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+justify the continuation of an illegal project that operates in derogation 
+of the statutory planning framework and directly impacts the rights 
+of civilians living in the region.
+25.	 For these reasons, we hold that the “approval” recorded on 05.01.2022 
+could not lawfully cure the defect in the CLU dated 13.12.2021, and 
+it is not capable, in law, of operating as an alteration or amendment 
+of the Master Plan under the PRTPD Act.
+Issue III: Whether the siting norms and environmental safeguards 
+applicable to the proposed unit were complied with in the manner 
+required by law.
+26.	 The present issue arises at the intersection of two distinct, but 
+complementary, safeguards. The first is the requirement of prior 
+environmental clearance under the EIA Notification, 2006 before 
+commencement of construction activity or preparation of land at the 
+site. The second is the siting and proximity discipline applied at the 
+level of pollution control permissions, including the siting distances 
+prescribed by the PPCB notification dated 02.09.1998 for cement 
+plants and grinding units. These safeguards are intended to operate 
+in advance. They are designed to prevent avoidable risk to habitations 
+and sensitive receptors, including educational institutions, and to 
+ensure that regulatory satisfaction is reached on objective material 
+and not on assumption.
+27.	 The record indicates that Respondent No. 9 applied for Terms of 
+Reference with the SEIAA, Punjab, and that Terms of Reference 
+were granted on 28.09.2021 and amended on 25.11.2021. The record 
+also indicates that a public hearing was conducted on 19.04.2022 
+in connection with the process for environmental clearance, and 
+that environmental clearance has not been granted, with the 
+parties attributing the pendency to interim orders operating in the 
+writ proceedings and thereafter in these appeals. These steps, 
+however, do not dilute the basic position that the requirement of 
+prior environmental clearance under the EIA Notification, 2006 is not 
+a post facto formality. The statutory scheme proceeds on the basis 
+that assessment, public consultation, and appraisal must precede 
+the commencement of construction activity or preparation of land 
+at the site.
+
+208
+[2026] 3 S.C.R.
+Supreme Court Reports
+28.	 Equally, so far as siting is concerned, the PPCB notification dated 
+02.09.1998 prescribes minimum distances for cement plants and 
+grinding units, including 300 metres from an educational institution 
+and 300 metres from a residential area described as a cluster 
+of 15 pucca houses, apart from other siting parameters. On the 
+material placed before us, Respondent No. 6 has sought to justify 
+the grant of the No Objection Certificate dated 14.12.2021 by 
+stating that it was based on the SDM certification and a site visit 
+dated 17.11.2021. Respondent No. 9 relies upon material which 
+states that the school is beyond the prescribed distance when 
+measured from the periphery of the proposed site and that there 
+is no residential cluster of 15 pucca houses within the prescribed 
+radius. The Appellants, on the other hand, dispute this position 
+and rely upon material to contend that the school and residential 
+habitations are in closer proximity to the proposed site and that the 
+prescribed siting safeguards are attracted. The record also refers 
+to nearby habitations and other establishments in the vicinity. This 
+material, taken as a whole, indicates that the site is not isolated 
+and that the proposed unit is in the vicinity of habitations and an 
+educational institution, which are precisely the kinds of receptors 
+for which siting safeguards exist.
+29.	 A further difficulty arises from the manner in which compliance 
+with distance is sought to be established on the material relied 
+upon by the authorities. Respondent No. 6 acknowledges that the 
+measurement was carried out from the boundary shown by the 
+project proponent and then asserts that the distance would increase 
+if measured from the source of pollution. This approach does not 
+satisfy the minimum regulatory discipline. Siting norms are not 
+satisfied by an assumption that the distance may be more when 
+measured differently. They require demonstrable compliance on the 
+basis of identified emission sources and verified measurements. 
+This is more so when, at the relevant stage, the material placed for 
+consideration did not demonstrably crystallise the emission sources 
+and their configuration in a manner that would permit verified 
+assessment of siting compliance on objective parameters. When 
+the emission sources and their configuration are not crystallised 
+and verified, a conclusion on siting compliance based on boundary 
+measurements cannot be treated as a conclusive regulatory 
+
+[2026] 3 S.C.R. 
+209
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+satisfaction, particularly where the school and habitations are 
+close to the margin.
+30.	 Respondent No. 9 has also sought to contend that the proposed 
+unit is a clinker grinding unit, that it is assessed at the State level 
+as a Category “B” project, and that it proposes the use of fly ash 
+and control systems such as bag filters. These submissions do not 
+answer the core concern we have. Classification for the purposes 
+of appraisal under the EIA Notification, 2006 does not displace the 
+obligation to comply with siting safeguards. Proposed mitigation 
+measures and conditions in a consent to establish do not substitute 
+the minimum siting standards, nor do they permit the regulator to 
+postpone demonstrable compliance to a later stage. In environmental 
+matters, where a school is in close proximity and where there is 
+material indicating nearby habitations, the decision-maker must 
+proceed on the precautionary approach and must demonstrate, on 
+objective material, that the applicable safeguards have been complied 
+with. This approach is consistent with the principles reiterated by 
+various landmark decisions of this Court in Vellore Citizens’ Welfare 
+Forum v. Union of India8, M. C. Mehta v. Union of India9 and 
+Hospitality Assn. of Mudumalai v. In Defence of Environment 
+& Animals10, among others. 
+31.	 The submissions advanced on behalf of Respondent No. 6 (PPCB), 
+that the consent to establish/No Objection Certificate was granted on 
+the basis of the SDM’s report and a site visit, and that compliance 
+with the siting guidelines can be verified at a later stage while 
+considering consent to operate, do not meet the legal requirement 
+of demonstrable compliance at the threshold. Preventive safeguards, 
+by their very design, cannot be treated as matters to be tested 
+only after permissions have been granted or after the project has 
+advanced. Where the regulatory framework prescribes minimum 
+buffers from habitations and educational institutions, the satisfaction 
+recorded by the authority must be founded on objective and verifiable 
+measurements, and not on an assumption that compliance can be 
+ensured later.
+8	
+(1996) 5 SCC 647
+9	
+(1997) 3 SCC 715
+10	
+(2020) 10 SCC 589
+
+210
+[2026] 3 S.C.R.
+Supreme Court Reports
+32.	 Likewise, Respondent No. 9’s reliance on the grant/amendment of 
+Terms of Reference, the conduct of public hearing, and proposed 
+mitigation measures, does not dilute the requirement that statutory 
+safeguards must operate in advance. Proposed control systems 
+and future-stage compliances cannot substitute the obligation to 
+satisfy siting norms and the discipline underlying prior environmental 
+clearance at the relevant time. Nor can subsequent material or 
+later regulatory developments be invoked to retrospectively validate 
+the legality of permissions already found to be without statutory 
+foundation.
+33.	 For these reasons, we are not satisfied that the siting norms and 
+safeguards, including the PPCB notification dated 02.09.1998 and 
+the regulatory discipline underlying prior environmental clearance 
+under the EIA Notification, 2006, were complied with in the manner 
+required by law on the material presently relied upon. Issue III is 
+accordingly answered in favour of the Appellants.
+34.	 In view of the discussion above, the appeals are allowed.
+35.	 The common judgment and order dated 29.02.2024 passed by the 
+High Court of Punjab and Haryana at Chandigarh in CWP No. 20134 
+of 2022 and CWP No. 18676 of 2022 is set aside.
+36.	 The Change of Land Use dated 13.12.2021 granted in favour of 
+Respondent No. 9 is quashed. Consequently, the No Objection 
+Certificate/Consent to Establish dated 14.12.2021 issued from the 
+pollution angle in favour of Respondent No. 9, insofar as it proceeds 
+on the basis of the said CLU, is also set aside.
+37.	 Pending applications, if any, shall stand disposed of. No order as 
+to costs.
+Part II: For Writ Petition (C) 481 of 2025 and Writ Petition (C) 
+551 of 2025
+38.	 The appellants in the above civil appeals have also filed the present 
+writ petitions under Article 32 of the Constitution of India. The 
+appellants in Civil Appeal arising out of SLP (Civil) No. 8316 of 2024 
+has instituted WP(C) No. 481 of 2025 and the appellant in Civil Appeal 
+arising out of SLP (Civil) No. 8495 of 2024 have instituted WP(C) 
+No. 551 of 2025, inter alia, assailing the revised list of industrial 
+sector categorization issued by the CPCB in January, 2025 and the 
+
+[2026] 3 S.C.R. 
+211
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+consequential notifications issued by the Ministry of Environment, 
+Forest11 and Climate Change12. 
+39.	 During the pendency of the above appeals, the CPCB, in January, 
+2025, issued a revised list of industrial sector categorisation. Under 
+the revised list, the activity described as “stand-alone grinding 
+unit without CPP (Captive Power Plant)” was reclassified from the 
+“Red” category to the “Orange” category. Shortly thereafter, the 
+MoEF & CC issued Notifications GSR 84E dated 29.01.2025 and 
+GSR 85E dated 30.01.2025, namely the Control of Air Pollution 
+(Grant, Refusal Or Cancellation Of Consent) Guidelines, 2025 
+and the Control of Water Pollution (Grant, Refusal or Cancellation 
+of Consent) Guidelines, 2025. The Appellants have accordingly 
+instituted WP(C) No. 481 of 2025 and WP(C) No. 551 of 2025 
+seeking, inter alia, quashing of the revised categorisation and 
+the aforesaid notifications to the extent they relax the applicable 
+regulatory safeguards for such units.
+40.	 We have gone through the material placed on record in the writ 
+petitions, including the revised industrial sector categorisation 
+issued by the Central Pollution Control Board in January, 2025, 
+the Notifications GSR 84E dated 29.01.2025 and GSR 85E dated 
+30.01.2025 issued by the MoEF & CC, and the submissions advanced 
+by learned counsel for the parties.
+41.	 In our considered opinion, the question that arises for determination 
+in these two Writ Petitions is whether the revised industrial sector 
+categorisation issued by the CPCB in January, 2025, insofar as 
+it reclassifies the activity described as “stand-alone grinding unit 
+without CPP” from the “Red” category to the “Orange” category, 
+together with the consequential relaxation of siting and regulatory 
+safeguards brought about by Notifications GSR 84E dated 
+29.01.2025 and GSR 85E dated 30.01.2025, can be sustained in 
+law having regard to the constitutional mandate under Articles 14 
+and 21 of the Constitution of India and the governing principles of 
+environmental jurisprudence.
+11	
+MoEF
+12	
+Climate Change
+
+212
+[2026] 3 S.C.R.
+Supreme Court Reports
+Rationale advanced by the CPCB for the revised categorisation
+42.	 The determination of the above issue necessarily requires an 
+examination of the rationale offered by the Central Pollution Control 
+Board for the revised categorisation, the implications of such 
+reclassification on preventive environmental safeguards including 
+siting norms, and the balance that constitutional and environmental 
+law requires to be maintained between developmental considerations 
+and the protection of life, health, and the environment.
+43.	 The CPCB has relied upon a revised classification methodology 
+based on a modified Pollution Index framework, under which industrial 
+activities are assessed on the basis of their potential to cause air 
+pollution, water pollution, and waste generation, and are thereafter 
+assigned a cumulative pollution index. The stated justification for 
+revisiting the 2016 classification is the experience gained over time, 
+increased use of cleaner fuels, adoption of cleaner technologies, and 
+the need to differentiate between integrated industrial operations 
+and standalone units.
+44.	 A central premise of the CPCB’s reasoning is that a stand-alone 
+cement grinding unit without a captive power plant has a lower 
+pollution potential than an integrated cement plant involving clinker 
+manufacturing and kiln operations. On this basis, the CPCB has 
+treated such units as a distinct sub-category within the cement sector 
+and has placed them in the “Orange” category upon application of 
+the revised scoring methodology. The CPCB has also stated that the 
+revised methodology was placed in the public domain, representations 
+were invited, and the final framework was adopted after examination 
+by a duly constituted committee.
+45.	 The CPCB has further asserted that the revised categorisation 
+continues to be guided by the precautionary principle and is intended 
+to function as a regulatory tool for consent management, inspection 
+frequency, siting decisions, and environmental oversight, while also 
+incentivising adoption of cleaner fuels and technologies. The PPCB 
+has substantially adopted this position and has stated that it has 
+implemented the revised categorisation in terms of the directions 
+issued by the CPCB.
+46.	 This, in essence, is the rationale advanced by the regulatory 
+authorities in support of the revised categorisation. The validity of 
+
+[2026] 3 S.C.R. 
+213
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+this rationale, when tested against constitutional requirements and 
+the governing principles of environmental jurisprudence, now falls 
+for consideration.
+Assessment of the CPCB’s rationale and its legal sustainability
+47.	 Having considered the rationale advanced by the CPCB, we are 
+unable to accept that the reclassification of a “stand-alone grinding 
+unit without CPP” from the “Red” category to the “Orange” category, 
+together with the consequential relaxation of regulatory and siting 
+safeguards, can be sustained in law.
+48.	 The revised categorisation proceeds on a sector-level assessment 
+based on a Pollution Index methodology. While such a framework 
+may serve as a regulatory tool for consent management and 
+inspection frequency, it cannot be treated as determinative where the 
+consequence of reclassification is dilution of preventive safeguards, 
+particularly siting norms intended to protect habitations and sensitive 
+receptors such as educational institutions.
+49.	 The CPCB’s principal justification rests on a comparative distinction 
+between integrated cement plants and stand-alone grinding units, 
+on the premise that absence of clinker manufacturing and captive 
+power generation necessarily results in lower pollution potential. 
+This approach, however, does not address the core concern. The 
+relevant question is not whether a stand-alone grinding unit is less 
+polluting than an integrated plant in relative terms, but whether its 
+pollution potential is sufficiently low to justify a regulatory downgrade 
+that materially relaxes safeguards governing proximity to civilian 
+habitations.
+50.	 It must be noted that cement grinding units, even without CPP, 
+involve extensive handling and processing of powdered material, 
+which inherently gives rise to particulate emissions and fugitive dust. 
+These emissions have direct public health implications, particularly 
+where units are located near residential areas and schools. The 
+revised categorisation does not demonstrate, on objective and publicly 
+disclosed material, that such exposure risks have diminished to an 
+extent that warrants dilution of the precautionary standards earlier 
+applied.
+51.	 The reliance on adoption of cleaner fuels and technologies is 
+equally unpersuasive. The revised framework proceeds on generic, 
+
+214
+[2026] 3 S.C.R.
+Supreme Court Reports
+sector-level assumptions rather than on demonstrated, site-specific 
+performance. Preventive environmental regulation does not permit 
+safeguards to be relaxed on the assumption that mitigation will suffice 
+at a later stage. Where the risk to life and health is foreseeable, 
+safeguards must operate at the threshold.
+52.	 Notably, the CPCB itself recognises that the precautionary principle 
+governs categorisation and that deviation from a mechanical 
+application of methodology is warranted where activities pose a high 
+risk of environmental or ecological harm. This recognition undermines 
+the argument that a uniform application of the revised methodology 
+can justify dilution of siting norms in sensitive contexts. The relaxation 
+of minimum siting distances under Notifications GSR 84E dated 
+29.01.2025 and GSR 85E dated 30.01.2025 further aggravates the 
+concern. Permitting activities with known particulate emission profiles 
+to be located closer to habitations and educational institutions, without 
+a sector-specific justification demonstrating redundancy of earlier 
+safeguards, cannot be regarded as reasonable or proportionate.
+53.	 We are therefore of the view that the revised categorisation and the 
+consequential regulatory relaxations elevate a generic classification 
+methodology to a position where it overrides preventive environmental 
+safeguards, without adequate regard to exposure risks, local 
+conditions, or the constitutional obligation to protect life and health. 
+Such an approach is inconsistent with the precautionary principle, 
+the doctrine of sustainable development, and the content of Article 
+21 of the Constitution of India.
+Constitutional threshold for interference with regulatory 
+classification
+54.	 As a general rule, this Court exercises circumspection in interfering 
+with technical classifications and regulatory frameworks formulated 
+by expert bodies. Matters such as industrial categorisation and 
+pollution indices ordinarily fall within the domain of specialised 
+authorities, and judicial review is not invoked merely because a 
+different regulatory choice is possible. Intervention is confined to 
+cases where the decision-making process or its consequences 
+transgress constitutional limits.
+55.	 However, this principle of restraint cannot apply where a regulatory 
+classification has the direct and foreseeable effect of diluting 
+
+[2026] 3 S.C.R. 
+215
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+safeguards that protect fundamental rights. When a classification 
+decision results in a blatant erosion of preventive protections 
+governing exposure to environmental hazards, the issue ceases to 
+be a matter of technical regulation alone and assumes constitutional 
+significance.
+56.	 This Court has repeatedly recognised that while judicial restraint is 
+the norm in matters involving policy choices and expert regulation, 
+environmental adjudication occupies a distinct constitutional 
+space. Where executive or regulatory action has the effect of 
+exposing communities to foreseeable environmental harm or 
+diluting preventive safeguards that protect life and health, judicial 
+intervention is not an act of activism but a discharge of constitutional 
+duty. This position has been consistently affirmed in landmark 
+decisions such as Vellore Citizens’ Welfare Forum v. Union of 
+India (Supra), M.C. Mehta v. Union of India (Shriram - Oleum 
+Gas)13, Indian Council for Enviro-Legal Action v. Union of 
+India14, and A.P. Pollution Control Board v. Prof. M.V. Nayudu15, 
+where this Court held that when scientific uncertainty coexists 
+with a credible risk to human health or the environment, courts 
+must err on the side of protection. These decisions underscore 
+that environmental governance is not immune from constitutional 
+scrutiny, and that judicial intervention becomes imperative where 
+regulatory choices undermine the fundamental right to a clean 
+and healthy environment guaranteed under Article 21 of the 
+Constitution of India.
+57.	 In the present case, the revised categorisation and the consequential 
+relaxation of siting safeguards materially affect the level of protection 
+available to civilians, including residents and school-going children, 
+against exposure to industrial pollution. By lowering the regulatory 
+threshold applicable to an activity with known particulate emission 
+characteristics, the revised framework permits such units to be located 
+closer to habitations and educational institutions. The impact is not 
+speculative. It directly implicates public health and safety.
+13	
+(1987) 1 SCC 395
+14	
+(1996) 3 SCC 212
+15	
+(1999) 2 SCC 718
+
+216
+[2026] 3 S.C.R.
+Supreme Court Reports
+58.	 The right to life under Article 21 of the Constitution of India 
+encompasses the right to a clean and healthy environment. 
+Preventive environmental safeguards, including siting norms, are the 
+means by which this right is protected. Where such safeguards are 
+relaxed without a demonstrable and reasoned basis showing that 
+the underlying risk has been materially reduced, the resulting action 
+infringes the substantive content of Article 21. Further, Article 14 of 
+the Constitution of India also comes into the picture. A regulatory 
+downgrade that weakens environmental protection must bear a 
+rational nexus to the object of safeguarding life and health. In the 
+absence of a proportionate and scientifically substantiated justification, 
+such dilution is arbitrary. Arbitrariness that impacts life and health 
+cannot be sustained under constitutional scrutiny.
+59.	 The precautionary principle which was recognized as the law of the 
+land by this Court under Article 21 of the Constitution of India in 
+Vellore Citizens’ Welfare Forum v. Union of India (Supra), and 
+which underlines environmental governance in this country, mandates 
+that where there is a plausible risk of harm, regulatory frameworks 
+must err on the side of protection. In the present case, the revised 
+categorisation prioritises sectoral differentiation over preventive 
+protection, without adequately addressing exposure risks in sensitive 
+contexts. This Court does not interfere with classification merely 
+because it concerns industrial activity. The present intervention is 
+warranted because the impugned actions have the effect of lowering 
+the constitutional minimum of protection guaranteed to affected 
+communities. Where regulatory action compromises fundamental 
+rights under Articles 14 and 21 of the Constitution of India, judicial 
+review becomes a constitutional necessity rather than an intrusion 
+into policy.
+Concluding Remarks and Operative Directions
+60.	 Before we proceed to the operative directions, it is necessary to 
+underscore, in clear terms, the constitutional balance that must 
+govern questions of development and environmental protection. 
+Economic development and industrial growth are legitimate and 
+important objectives of the State. However, in a constitutional 
+framework founded on the rule of law, development is not an abstract 
+or absolute goal. It is conditioned by the non-derogable obligation 
+to protect life, health, and environmental integrity. Development that 
+
+[2026] 3 S.C.R. 
+217
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+undermines these foundational values ceases to be constitutionally 
+permissible development.
+61.	 We believe that the doctrine of sustainable development is not a 
+slogan of compromise but a principle of prioritisation. It requires 
+that when developmental activity poses a credible risk to human 
+health or environmental safety, regulatory frameworks must err on 
+the side of protection. The Constitution does not permit a trade-off 
+where civilian life and health are exposed to foreseeable harm on 
+the assumption that economic benefit or industrial facilitation justifies 
+such exposure. Articles 14 and 21 of the Constitution of India do 
+not tolerate a regulatory calculus that treats environmental safety 
+as negotiable.
+62.	 If regulatory dilution of the kind impugned in the present case were 
+to be accepted, it would mark a fundamental shift in environmental 
+governance. Sector-level reclassification, divorced from exposure 
+realities and local sensitivities, would become a ready instrument to 
+justify siting of polluting activities in close proximity to habitations, 
+schools, and other sensitive receptors. Such an approach would not 
+remain confined to the present case. It would operate as a precedent, 
+enabling progressive erosion of preventive safeguards across regions, 
+with cumulative and irreversible consequences. The law does not 
+permit environmental protection to be weakened incrementally until 
+harm becomes inevitable.
+63.	 Equally important is the recognition that environmental harm, once 
+caused, is often irreversible or incapable of full remediation. Public 
+health consequences, degradation of air quality, and long-term 
+ecological damage cannot be undone by subsequent regulatory 
+correction. It is for this reason that environmental regulation is 
+designed to be preventive rather than reactive. A regulatory framework 
+that allows risk to materialise first and seeks to address consequences 
+later is fundamentally incompatible with constitutional environmental 
+jurisprudence.
+64.	 At the same time, we reiterate that this Court does not ordinarily 
+interfere with technical classifications or policy determinations 
+made by expert bodies. Judicial restraint in matters of regulatory 
+policy remains a settled principle. However, restraint cannot extend 
+to abdication. Where regulatory action results in a lowering of 
+the constitutional minimum of protection guaranteed to citizens, 
+
+218
+[2026] 3 S.C.R.
+Supreme Court Reports
+particularly in matters affecting life and health, judicial intervention 
+becomes a constitutional obligation. The present case falls squarely 
+within that exceptional category.
+65.	 For the reasons recorded above, we are of the considered view that 
+the revised industrial sector categorisation issued by the CPCB in 
+January, 2025, insofar as it reclassifies the activity described as a 
+“stand-alone grinding unit without CPP” from the “Red” category 
+to the “Orange” category, cannot be sustained in law. The said 
+reclassification, read together with the consequential relaxation of 
+siting and regulatory safeguards brought about by Notifications GSR 
+84E dated 29.01.2025 and GSR 85E dated 30.01.2025, has the 
+effect of diluting preventive environmental protections in a manner 
+that infringes the constitutional guarantees under Articles 14 and 21 
+of the Constitution of India.
+66.	 Accordingly, Writ Petition (Civil) No. 481 of 2025 and Writ Petition 
+(Civil) No. 551 of 2025 are allowed to the following extent:
+I.	
+The revised industrial sector categorisation issued by the CPCB 
+in January, 2025 is quashed insofar as it reclassifies the activity 
+described as a “stand-alone grinding unit without CPP” from 
+the “Red” category to the “Orange” category.
+II.	
+Notifications GSR 84E dated 29.01.2025 and GSR 85E dated 
+30.01.2025 issued by the MoEF&CC are quashed insofar as 
+they relax the applicable siting and regulatory safeguards for 
+such units on the basis of the aforesaid reclassification.
+67.	 Consequently, any consent, approval or permission that has been 
+granted solely on the basis of the aforesaid reclassification of “stand-
+alone grinding unit without CPP” as an “Orange” category activity 
+or on the basis of the relaxed siting and regulatory safeguards 
+introduced by Notifications GSR 84E dated 29.01.2025 and GSR 
+85E dated 30.01.2025 shall not survive and shall stand withdrawn, 
+and the concerned authorities shall take all consequential steps in 
+accordance with law.
+68.	 We clarify that this judgment shall not preclude the CPCB or the 
+MoEF & CC from undertaking a fresh exercise of classification or 
+regulatory review in accordance with law, provided that any such 
+exercise is supported by a reasoned, transparent, and scientifically 
+substantiated assessment, and is consistent with the precautionary 
+
+[2026] 3 S.C.R. 
+219
+Harbinder Singh Sekhon & Ors. v. The State of Punjab & Ors.
+principle and the constitutional mandate to protect life, health, and 
+the environment.
+69.	 With the above directions, Writ Petition (Civil) No. 481 of 2025 and 
+Writ Petition (Civil) No. 551 of 2025 stand disposed of. 
+70.	 Pending applications, if any, shall also stand disposed of. 
+Result of the case: Appeals allowed.
+Writ Petitions disposed of.
+†Headnotes prepared by: Nidhi Jain

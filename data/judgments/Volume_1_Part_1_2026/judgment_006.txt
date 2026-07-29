@@ -1,0 +1,444 @@
+[2026] 1 S.C.R. 130 : 2026 INSC 14
+UV Asset Reconstruction Company Limited
+v.
+Electrosteel Castings Limited 
+(Civil Appeal No. 9701 of 2024)
+06 January 2026
+[Sanjay Kumar and Alok Aradhe,* JJ.]
+Issue for Consideration
+Issue pertains to the interpretation of Clause 2.2 of Deed of 
+Undertaking executed between SREI-original creditor, which 
+subsequently assigned all its rights and interests in favour of the 
+appellant; ESL-borrower; and ECL-erstwhile promoter of ESL 
+and obligor in the Deed of Undertaking; and whether Clause 2.2 
+constitutes a contract of guarantee within the meaning of s.126 of 
+the Contract Act, 1872 thereby rendering ECL as a guarantor to 
+SREI in respect of financial facilities availed by ESL from SREI. 
+Headnotes†
+Insolvency and Bankruptcy Code, 2016 – Contract Act, 1872 – 
+Contract of Guarantee – Infusion of funds – Clause 2.2 of 
+Deed of Undertaking – Interpretation of – Financial facilities 
+availed by ESL-borrower from SREI-original creditor – ECL 
+being the promoter of ESL required to furnish an undertaking 
+to arrange for the infusion of funds – ECL, one of the 
+promotors of ESL, executed Deed of Undertaking, warranty, 
+and indemnity (undertaking) whereby it undertook a limited 
+obligation to arrange for infusion of funds into ESL – SREI 
+subsequently assigned all its rights and interests in favour of 
+UV Company-appellant – Clause 2.2, if constitutes a contract 
+of guarantee within the meaning of s.126 thereby rendering 
+ECL as a guarantor to SREI in respect of financial facilities 
+availed by ESL from SREI: 
+Held: Clause 2.2 of Deed of Undertaking obligates ECL to arrange 
+for infusion of funds into ESL, so as to enable the borrower to 
+comply with the stipulated Financial Covenants – For an obligation 
+to be construed as a guarantee u/s.126, there must be a direct and 
+unambiguous obligation of the surety to discharge the obligation 
+* Author
+
+[2026] 1 S.C.R. 
+131
+UV Asset Reconstruction Company Limited v.  
+Electrosteel Castings Limited
+of the principal debtor to the creditor – Clause neither records an 
+undertaking to discharge the debt owed to the creditor nor does 
+it contemplate payment to the lender in the event of the default – 
+Clause contains a promise, not to the creditor to pay the debt upon 
+default, but to the borrower to facilitate compliance with Financial 
+Covenants – Undertaking to infuse funds into a borrower, so that 
+it may meet its obligations cannot, by itself be equated with the 
+promise to discharge the borrower’s liability to the creditor – Mere 
+Covenant to ensure financial discipline or infusion of funds does 
+not satisfy the statutory requirements of s.126 – Sanction letter 
+does not contemplate any personal or corporate guarantee – It 
+specifically identifies the securities for the facilities and does not 
+require ECL to stand as surety – Fact that no guarantee was 
+furnished by ECL also borne out from the documents – Thus, the 
+parties never intended to create contract of guarantee – Payment 
+of INR 38 crores by ECL to appellant not made on account of any 
+contractual obligation – Said payment was made in its capacity 
+as a promotor of ESL – Such payment by itself does not give 
+rise to any contract of guarantee, particularly when there is no 
+contractual obligation of guarantee in the Deed of Undertaking – 
+Pleadings must be read as a whole and cannot be read selectively 
+out of context or in isolation – Appellant had initiated an action to 
+enforce the mortgage security created by ECL in favour of SREI – 
+ECL in its pleadings stated that it has given a guarantee which 
+is limited to the mortgaged property with no personal recourse 
+to ECL – Concurrent findings of NCLT and NCLAT that Clause 
+2.2 of the Deed of Undertaking does not constitute a contract of 
+guarantee and that ECL cannot be treated as guarantor for the 
+financial facilities availed by ESL concurred with – No infirmity in 
+the impugned judgment warranting interference. [Paras 19-25]
+Contract Act, 1872 – s.126 – ‘Contract of Guarantee’ – Essential 
+ingredients of a guarantee – ‘See to it’ guarantee – Explained. 
+[Paras 17, 18, 22]
+Case Law Cited
+Mumbai International Airport Pvt. Ltd. v. Golden Chariot Airport and 
+Ors. [2010] 12 SCR 326 : (2010) 10 SCC 422; Nagindas Ramdas v. 
+Dalpatram Ichharam and Ors. [1974] 2 SCR 544 : (1974) 1 SCC 
+242; Kamla Devi v. Thakhratmal Land [1964] 2 SCR 152 : AIR 
+1964 SC 859 – referred to.
+
+132
+[2026] 1 S.C.R.
+Supreme Court Reports
+Yes Bank Limited v. Zee Entertainment Enterprises Limited and 
+Ors, 2020 SCC OnLine Bom 11763 ; United Breweries (Holding) 
+Ltd. v. Karnataka State Industrial Investment and Development 
+Corporation Ltd. and Others, 2011 SCC OnLine Kar 4012; Aditya 
+Birla Finance Ltd. v. Siti Networks, 2023 SCC OnLine Del 1290; 
+Raghunandan v. Kirtyanand, AIR 1932 PC 131 – referred to.
+Moschi v. Lep Air Services Ltd., 2 WLR 1175; Associated British 
+Courts v. Ferryways [2009] EWCA Civ. 189; Shanghai Shipyard 
+Co. Ltd. v. Reignwood International Investment (Group) Co. Ltd.: 
+[2021] EWCA Civ. 1147; Eshelby v. Federated European Bank 
+Ltd. (1932) 1 KB 254; Perrylease Ltd v. Imecar AG (1987) 2 All 
+ER 378; Conley (Re), ex p Trustee v. Barclays Bank Ltd. (1938) 
+2 All ER 127 – referred to.
+Books and Periodicals cited
+Halsbury’s Laws of England, Vol 49, 5th Edition – referred to.
+List of Acts
+Insolvency and Bankruptcy Code, 2016; Contract Act, 1872.
+List of Keywords
+Indian Accounting Standards; Clause 2.2 of Deed of Undertaking; 
+Contract of guarantee; Guarantor; Financial facilities; Infusion of 
+funds; Promoter; Essential ingredients of a guarantee; ‘See to it’ 
+guarantee.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 9701 
+of 2024
+From the Judgment and Order dated 24.01.2024 of the National 
+Company Law Appellate Tribunal at Delhi in CAAT (I) No. 975 of 
+2022
+Appearances for Parties
+Advs. for the Appellant(s):
+Mukul Rohatgi, Dhruv Mehta, Gopal Subramanium, Sr. Advs., 
+Vikas Mehta, Pulkit Deora, Hemant Kothari, Sameer Rohatgi, 
+Muthu Thangathurai, Kartikeya Sharma, Kartik Pandey, Ms. Nitika 
+
+[2026] 1 S.C.R. 
+133
+UV Asset Reconstruction Company Limited v.  
+Electrosteel Castings Limited
+Grover, Nishant Anshul, Dhruv Dhawan, Rohan Batra, Ms. Gauri 
+Subramanium, Raghav Kohli, Rishabh Bhargava, Ms. Sanjukta 
+Roy, Dhruv Sethi, Pranav Diesh.
+Advs. for the Respondent(s):
+Amit Sibal, Mukul Rohatgi, Dhruv Mehta, Sr. Advs., Dhruv Dhawan, 
+Rohan Batra, Rishabh Bhargava, Ms. Sanjukta Roy, Dhruv Sethi, 
+Vikas Mehta, Pulkit Deora, Hemant Kothari, Sameer Rohatgi, 
+Muthu Thangathurai, Kartikeya Sharma, Kartik Pandey, Ms. Nitika 
+Grover, Nishant Anshul.
+Judgment / Order of the Supreme Court
+Judgment
+Alok Aradhe, J.
+INTRODUCTION
+1.	
+This appeal under Section 62 of Insolvency and Bankruptcy Code, 
+2016 (hereinafter, referred to as the ‘Code’) calls in question the 
+legality and correctness of the judgment dated 24.01.2024 by the 
+National Company Law Appellate Tribunal (NCLAT), whereby, 
+the NCLAT affirmed the order dated 24.06.2022 passed by the 
+Adjudicating Authority (NCLT) rejecting the application filed by the 
+appellant under Section 7 of the Code.
+(ii)	 ISSUE
+2.	
+The central issue arising for consideration in the present appeal 
+pertains to the interpretation of Clause 2.2 of Deed of Undertaking 
+dated 27.07.2011 executed between SREI Infrastructure Finance 
+Limited (SREI), the original creditor, which subsequently assigned all 
+its rights and interests in favour of UV Asset Reconstruction Company 
+Limited, the appellant; Electrosteel Steels Limited (ESL), the borrower; 
+and Electrosteel Castings Limited (ECL), the erstwhile promoter of 
+ESL and obligor in the Deed of Undertaking. The Controversy lies in 
+determining whether said Clause constitutes a contract of guarantee 
+within the meaning of Section 126 of the Indian Contract Act, 1872 
+(Act) thereby rendering ECL as a guarantor to SREI in respect of 
+financial facilities availed by ESL from SREI. 
+
+134
+[2026] 1 S.C.R.
+Supreme Court Reports
+(iii)	 FACTUAL BACKGROUND
+3.	
+Briefly stated, the facts leading to filing of present appeal, are as 
+follows. ESL availed financial assistance of INR 500 crores from SREI 
+pursuant to sanction letter dated 26.07.2011. Under the sanction letter, 
+the only security for the facility comprised a demand promissory note 
+and post-dated cheques. The sanction letter did not stipulate any 
+requirement for a personal or corporate guarantee from the ECL. 
+However, ECL being the promoter of ESL was required to furnish 
+an undertaking to arrange for the infusion of funds. 
+4.	
+On the same day, SREI issued an addendum to the sanction letter, 
+providing for an additional security for the facility in the form of 
+subservient charge over movable and project assets of ESL. On 
+26.07.2011 itself, SREI and ESL executed a Rupee Loan Agreement. 
+Clause (d)(3) of schedule 4 to the loan agreement, required the ECL 
+to furnish an undertaking to arrange for infusion of funds to enable 
+ESL, to comply with financial covenants. 
+5.	
+In pursuance thereof, ECL, one of the promotors of ESL, executed 
+a Deed of Undertaking, warranty, and indemnity dated 27.07.2011 
+(undertaking) whereby it undertook a limited obligation to arrange 
+for infusion of funds into ESL. Clause 2.2 of the aforesaid guarantee 
+provides that ECL shall arrange for infusion of such amount of funds 
+into the ESL, as may be necessary to enable ESL to comply with 
+stipulated financial covenants. 
+6.	
+Subsequently on 21.11.2011, ESL, ECL and SREI entered into a 
+supplementary agreement amending inter alia the facility agreement 
+and the security package for the facility.
+(iv)	 CORPORATE INSOLVENCY RESOLUTION PROCESS OF 
+ESL 
+7.	
+On 27.06.2017, State Bank of India, one of the lenders of ESL, filed 
+an application on 27.06.2017 under Section 7 of the Code, before 
+NCLT Kolkata, which was admitted on 20.07.2017. Thereafter, by 
+an order dated 17.04.2018, passed under Section 31 (1) of the 
+Code, the NCLT Kolkata, approved the resolution plan submitted 
+by Vedanta for acquisition of ESL. Under the approved resolution 
+plan, ESL was acquired for a total consideration of INR 12,719.14 
+crores, comprising upfront cash payment of INR 5,320.00 crores 
+
+[2026] 1 S.C.R. 
+135
+UV Asset Reconstruction Company Limited v.  
+Electrosteel Castings Limited
+and conversion of balance amount into equity shares. The resolution 
+plan duly was implemented. 
+8.	
+Upon implementation of the resolution plan, SREI issued an 
+unconditional ‘no due certificate’ to ESL certifying that dues owned 
+by ESL to SREI stood fully discharged. However, SREI subsequently 
+claimed that it has been allotted reduced amount of shares upon 
+conversion of balance debt. On 30.06.2018, SREI executed a Deed of 
+Assignment (Assignment Deed) in favour of the appellant, purporting 
+to assign the alleged residual debt.
+(v)	 PROCEEDING BEFORE NCLT
+9.	
+The appellant thereafter filed an application under Section 7 of 
+the Code before the NCLT, Cuttack, asserting that; (i) a residual 
+financial debt, remained payable by ESL despite implementation of 
+the resolution plan, and (ii) ECL has furnished a corporate guarantee 
+for the debt of ESL.
+10.	 The NCLT, by order dated 24.06.2022, dismissed the petition filed by 
+the appellant under Section 7 of the Code on two principal grounds; 
+(i) ECL was not a guarantor in respect of financial facilities availed by 
+ESL and, therefore no financial debt was owed by ECL, and (ii) the 
+conversion of ESL’s debt into equity under resolution plan resulted 
+in extinguishment of any liability of ECL. 
+(vi)	 PROCEEDING BEFORE NCLAT
+11.	 Aggrieved thereby, the appellant preferred an appeal before the 
+NCLAT. The NCLAT in its judgment dated 24.01.2024 framed two 
+specific issues for adjudication namely, (i) whether ECL was a 
+guarantor to SREI for the financial facilities availed by ESL and 
+(ii) whether approval of the resolution plan of ESL resulted in 
+extinguishment, of entire debt, so as to bar any claim against the 
+ECL as a guarantor or third party surety. 
+12.	 The NCLAT answered the first issue in the negative, holding that 
+ECL cannot be construed as a guarantor under Clause 2.2 of Deed 
+of Undertaking in respect of the financial facility extended by SREI 
+to ESL. While answering the second issue, it held that approval 
+of resolution plan extinguished the debt, qua ESL i.e., corporate 
+debtor alone. It was further held that such extinguishment did not by 
+
+136
+[2026] 1 S.C.R.
+Supreme Court Reports
+itself, extend to third parties unless expressly provided in the plan. 
+Nonetheless, the appeal was dismissed on the primary finding that 
+ECL was not a guarantor. Hence, the present appeal.
+(vii)	 RIVAL SUBMISSIONS
+13.	 Learned senior counsel for the appellant contended that Clause 2.2 
+of the Deed of Undertaking, satisfies the requirements of a contract of 
+guarantee as defined under Section 126 of the Act. It is submitted that 
+Clause 2.2 envisages the ECL to discharge the obligation to infuse 
+funds upon default of ESL in compliance of financial covenants. It 
+is argued that Clause 2.2 involves two step process of discharging 
+liability as a guarantor namely, (i) the first step is to fund ESL for 
+such amounts, and (ii) second step is to eliminate the breach of 
+default on the part of the borrower. It is submitted that the guarantee 
+in question is “See to it” type guarantee. In support of aforesaid 
+submission, reliance has been placed on the decisions of House of 
+Lords1 and Court of Appeal2. 
+14.	 It is argued that ECL had admitted its status as a guarantor in the 
+pleadings before the Madras High Court3 and this Court4 and is 
+therefore, estopped5 from taking a contrary stand. Our attention has 
+also been invited to the letters dated 30.06.2017 and 20.07.2017 
+sent by ESL to SREI, evidencing payment of INR 38 Crores by ECL 
+to SREI which according to the appellant, reinforces the existence 
+of guarantee obligation. It is urged that NCLAT erred in relying upon 
+the sanction letter dated 26.07.2011 and information memorandum 
+dated 27.10.2017 to negate the existence of the guarantee and the 
+impugned order warrants interference in this appeal.
+15.	 On the other hand, learned senior counsel for the respondent 
+submitted that Clause 2.2 of the Deed of Undertaking, imposed only 
+an obligation to arrange for infusion of funds and did not amount 
+to a guarantee under Section 126 of the Act. In support of the 
+1	
+Moschi vs. Lep Air Services Ltd.: 2 WLR 1175 (per Lord Diplock).
+2	
+Associated British Courts vs. Ferryways [2009] EWCA Civ. 189 and Shanghai Shipyard Co. Ltd. vs. 
+Reignwood International Investment (Group) Co. Ltd.: [2021] EWCA Civ. 1147 .
+3	
+CSD No. 18692 of 2019 and Order dated 05.11.2019 passed by Division Bench of Madras High Court.
+4	
+Judgment dated 26.11.2021 in Civil Appeal No. 6669 of 2021.
+5	
+Mumbai International Airport Pvt. Ltd. vs. Golden Chariot Airport and Ors. (2010) 10 SCC 422 (Para 
+43-50) and Nagindas Ramdas vs. Dalpatram Ichharam and Ors. (1974) 1 SCC 242 (para 27).
+
+[2026] 1 S.C.R. 
+137
+UV Asset Reconstruction Company Limited v.  
+Electrosteel Castings Limited
+aforesaid submissions, reliance has been placed on the decisions 
+of Bombay, Karnataka and Delhi High Courts6. It is pointed out that 
+even the appellant in its pleading before NCLAT has admitted that 
+undertaking is not a contract of guarantee. It is also pointed out that 
+the sanction letter by SREI does not envisage facility being secured 
+by any personal or corporate guarantee. It is contended that ‘see 
+to it’ guarantee is not the type of guarantee contemplated under 
+Section 126 of the Act and has not been adopted in Indian Common 
+Law. It is submitted that ECL made a payment of INR 38 crores to 
+SREI on 20.07.2017 on its own volition, in its capacity as promotor 
+of ESL. It is further submitted that aforesaid payment was not made 
+on account of any contractual obligation. 
+16.	 It is also urged that, it is well settled, that pleadings must be read 
+as a whole and cannot be read selectively, out of context or in 
+isolation. It is pointed out that the pleading was filed by the ECL 
+in the proceeding initiated by the appellant to enforce mortgage 
+security created by ECL in favour of SREI. In the said pleading, it 
+was stated that ECL has given a guarantee which is limited only 
+to the mortgage property and the same is not personal. It is urged 
+that reliance on the decisions in Nagindas Ramdas and Mumbai 
+International Airport Pvt. Ltd. is misplaced. It is finally urged that 
+detailed and reasoned orders passed by the NCLT and NCLAT do 
+not call for any interference in this appeal.
+(viii)	ANALYSIS
+17.	 We have given our thoughtful consideration to the rival submissions 
+and have carefully perused the records. Section 126 of the Act 
+defines a ‘Contract of Guarantee’, as a contract to perform promise, 
+or discharge the liability, of a third person in case of his default. The 
+essential ingredients of a guarantee, therefore, are (a) existence of 
+principal debt, (b) default by the principal debtor and (c) a promise by 
+the surety to discharge the liability of the principal debtor upon such 
+default. Thus, a guarantee is a promise to answer for the payment 
+of some debt, or the performance of some duty, in case of failure of 
+6	
+Yes Bank Limited v. Zee Entertainment Enterprises Limited and Ors, 2020 SCC OnLine Bom 11763 
+(Paras 50,53,59,62,67), United Breweries (Holding) Ltd. v. Karnataka State Industrial Investment and 
+Development Corporation Ltd. and Others, 2011 SCC OnLine Kar 4012 (para 6,9) and Aditya Birla 
+Finance Ltd. vs. Siti Networks, 2023 SCC OnLine Del 1290 (Para 26,237,238).
+
+138
+[2026] 1 S.C.R.
+Supreme Court Reports
+another party, who is in the first instance, liable to such payment or 
+performance7. A guarantee is a security in the form of right of action 
+against a third party. In order to constitute a guarantee, there has to 
+be a specific undertaking or unambiguous affirmation to discharge 
+the liability of a third person in case of their default. 
+18.	 A guarantee is governed by principles of construction generally 
+governing other documents8. A guarantee being a mercantile contract, 
+the Court does not apply to it merely technical rules but construes it 
+so as to reflect what may fairly be inferred to have been the parties’ 
+real intention and understanding as expressed by them in writing 
+and to give effect to it rather than not9. 
+19.	 Now, we advert to Clause 2.2 of Deed of Undertaking dated 
+27.07.2011, which reads as under: -
+“2.2. Financial Covenants
+In the event the Borrower is not in a position to 
+comply with the Financial Covenants in the Financing 
+Documents, or has breached such Financial 
+Covenants, the Obligors will arrange for the 
+infusion of such amount of fund into the Borrower 
+such that the Borrower is in a position to comply with 
+the abovementioned Financial Covenants.”
+Thus, the aforesaid Clause obligates ECL to arrange for infusion 
+of funds into ESL, so as to enable the borrower to comply with the 
+stipulated Financial Covenants. 
+20.	 For an obligation to be construed as a guarantee under Section 126 
+of the Act, there must be a direct and unambiguous obligation of 
+the surety to discharge the obligation of the principal debtor to the 
+creditor. The clause neither records an undertaking to discharge the 
+debt owed to the creditor nor does it contemplate payment to the 
+lender in the event of the default. The clause contains a promise, 
+not to the creditor to pay the debt upon default, but to the borrower 
+to facilitate compliance with Financial Covenants. An undertaking to 
+7	
+Conley (Re), ex p Trustee v Barclays Bank Ltd. (1938) 2 All ER 127, at 130-131 (CA)
+8	
+Raghunandan v. Kirtyanand, AIR 1932 PC 131, Eshelby v Federated European Bank Ltd. (1932) 1 KB 
+254 and Kamla Devi v. Thakhratmal Land, AIR 1964 SC 859
+9	
+Halsbury’s Laws of England, Vol 49, 5th Edition and Perrylease Ltd v Imecar AG, (1987) 2 All ER 378
+
+[2026] 1 S.C.R. 
+139
+UV Asset Reconstruction Company Limited v.  
+Electrosteel Castings Limited
+infuse funds into a borrower, so that it may meet its obligations cannot, 
+by itself be equated with the promise to discharge the borrower’s 
+liability to the creditor. A mere Covenant to ensure financial discipline 
+or infusion of funds does not satisfy the statutory requirements of 
+Section 126 of the Act. 
+21.	 The sanction letter dated 26.07.2011 does not contemplate any 
+personal or corporate guarantee. On the contrary, it specifically 
+identifies the securities for the facilities and does not require ECL 
+to stand as surety. The fact that no guarantee was furnished by 
+ECL is also borne out from the following documents: (i) information 
+memorandum in the CIRP of ESL does not reflect any guarantee 
+from the Respondent in connection with SREI’s Facility under the 
+category of Guarantee or Security Interest; (ii) In Schedule 1 to the 
+Assignment Agreement, against the column titled “details of the 
+guarantor/co-borrower”, the parties to Assignment Agreement stated 
+‘Nil’ and (iii) Audited Financial Statement of ESL does not reflect 
+any guarantee obligation towards SREI. Thus, contemporaneous 
+documents reinforce the conclusion that parties never intended to 
+create a contract of guarantee.
+22.	 Section 126 of the Act mandates a guarantor to ‘perform a promise’ 
+or ‘discharge the liability’ of a third person which necessarily implies 
+a direct performance or discharge. A ‘See to it’ guarantee in English 
+Common Law refers to an obligation upon the guarantor to ensure that 
+principal debtor itself, performs its own obligation and the guarantor, 
+therefore, is in breach as soon as principal debtor fails to perform. 
+However, a ‘See to it’ guarantee does not include an obligation to 
+enable the principal debtor to perform its own obligation. Such an 
+arrangement would not be a guarantee under Section 126 of the Act.
+23.	 It is pertinent to note that payment of an amount of INR 38 crores 
+by ECL to the appellant was not made on account of any contractual 
+obligation. The said payment was made on 20.07.2017 in its capacity 
+as a promotor of ESL. Such payment by itself does not give rise to 
+any contract of guarantee, particularly when there is no contractual 
+obligation of guarantee in the Deed of Undertaking. 
+24.	 It is well settled in law, that, pleadings must be read as a whole 
+and cannot be read selectively out of context or in isolation. The 
+appellant had initiated an action to enforce the mortgage security 
+created by ECL in favour of SREI. In the aforesaid proceeding, ECL 
+
+140
+[2026] 1 S.C.R.
+Supreme Court Reports
+in its pleadings stated that it has given a guarantee which is limited 
+to the mortgaged property with no personal recourse to ECL. The 
+reliance of the appellant on the decisions of Nagindas Ramdas 
+and Mumbai International Airport Pvt. Ltd., is misconceived, as 
+the aforesaid decisions are an authority for the proposition that 
+if admissions are true and clear, they are the best proof of facts, 
+admitted in the context of Section 58 of the Indian Evidence Act, 
+1872. Therefore, the aforesaid decisions have no application to the 
+fact situation of the case.
+(ix)	 CONCLUSION 
+25.	 For the aforementioned reasons, we concur with the concurrent 
+findings of NCLT and NCLAT that Clause 2.2 of the Deed of 
+Undertaking does not constitute a contract of guarantee and that 
+ECL cannot be treated as guarantor for the financial facilities availed 
+by ESL. We, therefore, do not find any infirmity in the impugned 
+judgment warranting interference in this appeal. 
+26.	 In the result, the appeal is dismissed. There shall be no order as 
+to costs. 
+Result of the case: Appeal dismissed.
+†Headnotes prepared by: Nidhi Jain

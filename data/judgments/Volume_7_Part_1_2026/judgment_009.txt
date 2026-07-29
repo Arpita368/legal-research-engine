@@ -1,0 +1,1176 @@
+[2026] 7 S.C.R. 113 : 2026 INSC 644
+Special Police Establishment
+v.
+Kamta Prasad Mishra and Others
+(Criminal Appeal No. 3743 of 2024)
+15 June 2026
+[J.K. Maheshwari and Atul S. Chandurkar,* JJ.]
+Issue for Consideration
+Issue arose whether the Special Police Establishment-SPE 
+as constituted u/s.2(1) of the Madhya Pradesh Special Police 
+Establishment Act, 1947 for investigating offences specified by the 
+State Government u/s.3 of the Act of 1947 entitled to exemption 
+from the application of the Act of 2005 by virtue of s.24(4) thereof, 
+on the ground that it is an ‘intelligence and security’ organisation; 
+and whether the Notification dated 25.08.2011 provides for a matter 
+beyond the parent legislation or whether it is intra vires s.24(4) 
+of the Act of 2005.
+Headnotes†
+Right to Information Act, 2005 – ss.8(1)(h), 24(4) – Exemption 
+from disclosure of information – First respondent-Town 
+Inspector implicated by the Special Police Establishment in 
+a trap case – Registration of FIR – Sanction granted for his 
+prosecution by the State Government – First respondent sought 
+information under the 2005 Act, with regard to the decision 
+making process in the grant of sanction, however, the request 
+was rejected – State Information Commission rejected the 
+appeal filed by the first respondent since he was not entitled to 
+be supplied the said information in view of s.8(1)(h) – However, 
+the High Court found that the investigation in the criminal 
+proceedings was complete and thus, the first respondent could 
+not be denied such information by relying upon s.8(1)(h), and 
+directed the appellant-SPE to supply the information sought 
+by the first respondent as per his application – Interference:
+Held: Absence of a prayer seeking declaration of invalidity of a piece 
+of subordinate legislation by itself would not deter the Court from 
+testing its validity – Such issue can be examined but after granting 
+opportunity to the concerned authority to justify its validity – This 
+* Author
+
+114
+[2026] 7 S.C.R.
+Supreme Court Reports
+Court can examine the validity of the Notification dated 25.08.2011, 
+especially when the same had not been challenged by the first 
+respondent in his writ petition before the High Court – Offences 
+or classes of offences to be investigated by the SPE are limited 
+to those punishable under the Act of 1988 and u/ss.409, 420 and 
+Chapter XVIII of the Penal Code – Insofar as issues of ‘intelligence’ 
+and ‘security’ are concerned, neither the Lokayukt nor the 
+Up-Lokayukt under the Act of 1981 has been conferred jurisdiction to 
+make any enquiry – Though s.24(4) states that the Act would apply 
+to such ‘intelligence and security organisations’ established by the 
+State Government as notified, the SPE though established by the 
+State Government, not empowered to investigate any offences or 
+classes of offences related to ‘intelligence’ and ‘security’ – Statutory 
+scheme under which the SPE stands constituted coupled with 
+the jurisdiction conferred on the Lokayukt or Up-Lokayukt clearly 
+indicate that the SPE cannot be termed to be an ‘intelligence 
+and security’ organisation when it assists the Lokayukt or 
+Up-Lokayukt in matters specified by s.7 of the Act of 1981 – Thus, 
+the Notification dated 25.08.2011 issued by the GAD of the State 
+of Madhya Pradesh to the extent it seeks to exclude the SPE from 
+the purview of the Act of 2005 in view of s.24(4) thereof set aside 
+as being bad in law as it provides for matters not enumerated s.7 
+of the Act of 1947 – SPE having been conferred jurisdiction only 
+to investigate offences punishable under the Act of 1988, ss.409, 
+420 and Chapter XVIII of the Penal Code, it cannot be termed to 
+be an ‘intelligence and security’ organisation for the purposes of 
+s.24(4) of the Act of 2005 – Notification dated 28.05.2011 does 
+not conform to s.24(4), thus, excessive in nature – Thus, while 
+maintaining the judgment of the High Court, the Notification dated 
+25.08.2011 seeking to exclude the SPE from the applicability of 
+the provisions of the Act of 2005 struck down – Madhya Pradesh 
+Special Police Establishment Act, 1947 – Prevention of Corruption 
+Act, 1988. [Paras 20-22]
+Case Law Cited
+Bihar Rajya Dafadar Chaukidar Panchayat (Magadh Division) v. 
+State of Bihar and Others SLP(C) No. 18983 of 2023 decided 
+on 02.04.2025; University and Another v. All India Council for 
+Technical Education and Others, 2001 INSC 454 : [2001] Supp. 
+3 SCR 253; Union of India and Others v. Manjurani Routray and 
+Others, 2023 INSC 787; Indian Express Newspapers (Bombay) 
+
+[2026] 7 S.C.R. 
+115
+Special Police Establishment v. Kamta Prasad Mishra and Others
+Private Ltd. and Others Etc. v. Union of India and Others Etc. 
+1984 INSC 231 : [1985] 2 SCR 287; State of Tamil Nadu and 
+Another v. P. Krishnamurthy and Others 2006 INSC 177 : [2006] 
+3 SCR 396; Dr.Nutan Thakur v. State of U.P., Through Principal 
+Secretary, Department of Vigilance, Misc. Case No. 1748 of 2013 
+decided on 02.11.2017 – referred to.
+List of Acts
+Prevention of Corruption Act, 1988; Right to Information Act, 
+2005; Madhya Pradesh Lokayukt Evam Up-Lokayukt Adhiniyam, 
+1981; Constitution of India; Code of the Criminal Procedure, 1973; 
+Madhya Pradesh Special Police Establishment Act, 1947; Foreign 
+Exchange Regulations Act, 1947; Foreign Exchange Management 
+Act, 1999; Central Reserve Police Force Act, 1949; Border Security 
+Force Act, 1968; Central Industrial Security Force Act, 1968; Penal 
+Code, 1860; Lokpal and Lokayuktas Act, 2013; U. P. Lokayukt and 
+Up-Lokayukt Act, 1975.
+List of Keywords
+Special Police Establishment-SPE; Investigating offences; 
+Exemption from the application of RTI Act; Intelligence and security’ 
+organisation; Notification dated 25.08.2011; Exemption from 
+disclosure of information; Town Inspector; Trap case; Sanction; 
+Decision making process in the grant of sanction; State Information 
+Commission.
+Case Arising From
+CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 
+3743 of 2024
+From the Judgment and Order dated 20.12.2021 of the High Court 
+of M.P Principal Seat at Jabalpur in WP No. 1575 of 2021
+Appearances for Parties
+Adv. for the Appellant(s):
+Nishant Ramakantrao Katneshwarkar.
+Advs. for the Respondent(s):
+Prashant Singh, Advocate General, Sridhar Potaraju, Ms. Manisha 
+T. Karia, D.S. Parmar, A.A.Gs., Rajeev Singh, Naveen Kumar 
+Singh, Harmeet Singh Ruprah, Abhimanyu Singh Ga, Karan Singh.
+
+116
+[2026] 7 S.C.R.
+Supreme Court Reports
+Judgment / Order of the Supreme Court
+Judgment
+Atul S. Chandurkar, J.
+1.	
+The appellant is aggrieved by the direction to supply information 
+to the first respondent as regards details of the process of grant of 
+sanction for his prosecution under the Prevention of Corruption Act, 
+19881 as well as the response of the Lokayukt to the queries made 
+by him on various points. 
+According to the appellant, by virtue of Notification dated 25.08.2011 
+issued by the General Administration Department2 of the State 
+of Madhya Pradesh in exercise of power under Section 24(4) of 
+the Right to Information Act, 20053 and in view of Section 8(1)(h) 
+thereof, it could not have been directed to supply such information. 
+On the other hand, according to the first respondent, the information 
+sought is liable to be provided as there is no legal impediment in 
+doing so.
+Background facts
+2.	
+Bereft of unnecessary details, the first respondent while serving as 
+Town Inspector, Police Station Madhav Nagar, Katni came to be 
+implicated by the Special Police Establishment, Bhopal, Madhya 
+Pradesh under the Act of 1988 in a trap case. A First Information 
+Report was registered on 11.04.2017. The Home Department of 
+the State Government on 20.05.2020 granted sanction for his 
+prosecution. The first respondent desired information with regard 
+to the decision making process in the grant of sanction and thus 
+moved an application dated 01.07.2020 under Section 6(1) of the Act 
+of 2005. The request for supply of information having been turned 
+down, the proceedings reached the State Information Commission4 
+at the behest of the first respondent which, however, rejected the 
+appeal filed by him on 16.12.2020. According to the Commission, the 
+1	
+For short, ‘the Act of 1988’
+2	
+For short, ‘GAD’
+3	
+For short, ‘the Act of 2005’
+4	
+For short, ‘the Commission’
+
+[2026] 7 S.C.R. 
+117
+Special Police Establishment v. Kamta Prasad Mishra and Others
+first respondent was not entitled to be supplied the said information 
+in view of Section 8(1)(h) of the Act of 2005. Being aggrieved, the 
+first respondent approached the High Court of Madhya Pradesh5. 
+The Division Bench after hearing the first respondent found that 
+the investigation in the criminal proceedings was complete and 
+therefore the first respondent could not be denied such information 
+by relying upon Section 8(1)(h) of the Act of 2005. The appellant 
+was, accordingly, directed to supply the information sought by the 
+first respondent as per his application dated 01.07.2020. Being 
+aggrieved by this direction, the present appeal has been preferred. 
+Submissions of parties
+3.	
+Mr. Nishant Katneshwarkar, learned counsel appearing for the 
+appellant submitted that the High Court erred in directing the appellant 
+to supply the information sought by the first respondent. According to 
+him, in view of the provisions of Section 8(1)(h) of the Act of 2005, 
+the appellant was exempted from disclosing the information sought 
+by the first respondent inasmuch as that information was likely to 
+impede the process of investigation of the criminal proceedings that 
+had been initiated against him. He further submitted that pursuant to 
+Section 24(4) of the Act of 2005, the GAD of the State Government 
+had issued a Notification on 25.08.2011 by virtue of which the Act 
+of 2005 was not made applicable to the Madhya Pradesh Special 
+Police Establishment of Lokayukt Organisation6. The investigation 
+against the first respondent having been carried out by the SPE, 
+it was not permissible to supply the information sought by him as 
+the provisions of the Act of 2005 were inapplicable. The High Court 
+failed to notice the provisions of Section 8(1)(h) of the Act of 2005 
+and directed supply of such information. Reference was made to 
+the Notification dated 25.08.2011 before the High Court but it was 
+not taken into consideration. On a plain reading of the same, it was 
+clear that the provisions of the Act of 2005 were not applicable to 
+the SPE. It was, therefore, submitted that the impugned judgment 
+of the High Court was liable to be set aside and the order passed 
+by the Commission ought to be restored.
+5	
+For short, ‘the High Court’
+6	
+For short, ‘SPE’
+
+118
+[2026] 7 S.C.R.
+Supreme Court Reports
+4.	
+Mr. Naveeen Kumar Singh, learned counsel appearing for the first 
+respondent supported the impugned order. According to him, the 
+provisions of Section 8(1)(h) of the Act of 2005 were not at all attracted 
+to the facts of the present case inasmuch as the investigation of 
+the offence registered against the first respondent under the Act of 
+1988 was completed and a charge-sheet had been filed. The object 
+behind the provisions of Section 8(1)(h) of the Act of 2005 was that 
+information that was likely to impede the process of investigation 
+or apprehension or prosecution of offenders was not liable to be 
+furnished. The first respondent had merely sought information as 
+to the manner in which sanction was granted to his prosecution 
+and the communications exchanged in that regard. Supply of such 
+information was not likely to impede the process of investigation. 
+The High Court was, therefore, justified in directing supply of the 
+information sought by the first respondent on 01.07.2020. No case 
+was, thus, made out to interfere with the judgment of the High Court.
+Issue re: applicability of Notification dated 25.08.2011
+5.	
+On behalf of the appellant, the issue as regards applicability of the 
+Notification dated 25.08.2011 was argued. Relying heavily upon the 
+same, it was urged that in view of the said Notification, the impugned 
+order could not have been passed. During the course of hearing, the 
+question whether the SPE while assisting the Lokayukt in carrying 
+out functions assigned to it under Section 3 of the Madhya Pradesh 
+Lokayukt Evam Up-Lokayukt Adhiniyam, 19817 could be treated as 
+an ‘intelligence and security’ organisation arose for consideration. 
+Applicability of the said Notification to the SPE in the absence of it 
+being an ‘intelligence and security’ organisation for the purposes of 
+Section 24 (4) of the Act of 2005 was, prima facie, doubted. There 
+was no appearance on behalf of the State of Madhya Pradesh 
+on 14.05.2026. With a view to have the response of the State 
+Government, the following order insofar as it is material for the 
+present adjudication was therefore passed:
+“1. In the instant case order impugned dated 20.12.2021 
+passed by the High Court of Madhya Pradesh, Principal 
+Bench at Jabalpur in Writ Petition No. 1575 of 2021 is 
+7	
+For short, ‘the Act of 1981’
+
+[2026] 7 S.C.R. 
+119
+Special Police Establishment v. Kamta Prasad Mishra and Others
+under challenge whereby the High Court directed that the 
+order dated 17.08.2020 issued by the Assistant Public 
+Information Officer and order dated 16.12.2020 of the 
+Chief Information Commissioner are liable to be quashed. 
+It was further directed that the respondent shall supply 
+information as sought by the appellant as per his request 
+dated 01.07.2020 within 30 days and imposed a costs of 
+Rs. 5,000/-. 
+2. The said order has been assailed in this appeal on the 
+pretext that as per Notification of the State Government 
+dated 25.08.2011 exemption is granted to Madhya Pradesh 
+Special Police Establishment of Lokayukta Organisation, 
+however, without taking note of the said notification 
+directions have been issued. 
+3. During the course of hearing, the provisions of Section 
+24(1) of the Right to Information Act, 2005, (in short, “the RTI 
+Act), applies to the intelligence and security organisation of 
+the Central Government specified in the Second Schedule. 
+In the Second Schedule, certain organisations have been 
+specified which are of the Central Government. 
+4. Sub-section (4) of Section 24 of the RTI Act further 
+specifies that the provisions of the Act shall not apply to 
+such intelligence and security organisations established 
+by the State Government if notified in the Official Gazette. 
+Thus, for issuance of the notification of exemption under 
+Section 24(4), it is incumbent to understand how Lokayukta 
+established is an intelligence and security organisation; 
+but nothing has been brought on record. In absence, the 
+notification dated 25.08.2011 is contrary to the spirit of 
+Section 24(1) read with Section 24(4) of the RTI Act. The 
+counter affidavit filed by the State is silent on this point, 
+however, response of the State Government, if any, may 
+be filed, otherwise such notification do not have any 
+sanction of law.”
+xxxxxxxx
+“8. The Advocate General of the State may clarify about 
+paragraph 4 above and to appear for argument on the 
+
+120
+[2026] 7 S.C.R.
+Supreme Court Reports
+next date, if he wish to appear virtually, he is at liberty 
+to do so. In absence of clarification, appropriate orders 
+may be passed.”
+6.	
+On 20.05.2026, Ms. Manisha Karia, learned Senior Advocate as 
+well as Mr. Prashant Singh, learned Advocate General for the State 
+of Madhya Pradesh were heard. It was submitted by them that the 
+Notification dated 25.08.2011 had not been challenged by the first 
+respondent in the writ petition preferred by him before the High 
+Court. There were no pleadings whatsoever raised in that regard. 
+In absence of any such material pleadings, it was submitted that the 
+validity of the said Notification may not be examined for the first time 
+by this Court. Without prejudice to the aforesaid, it was submitted 
+that the State Legislature was competent to enact the Act of 1981. 
+Reference was made to the Seventh Schedule to the Constitution of 
+India and Entries 1 and 2 of List II to justify the exercise of power in 
+this regard. Referring to the object behind enacting the Act of 1981, 
+it was submitted that the Lokayukt was a statutory investigative 
+authority vested with plenary powers of enquiry and its jurisdiction 
+extended to allegations of corruption, misconduct and malfeasance 
+by a public servant. The SPE functioned as an investigative arm 
+under the superintendence of the Lokayukt. It was in this backdrop 
+that the power conferred by Section 24(4) of the Act of 2005 had 
+been exercised and the Notification dated 25.08.2011 had been 
+issued keeping in mind the principle of institutional parity. The object 
+behind Section 24 of the Act of 2005 would be defeated if the State 
+Government was compelled to furnish information which was sought 
+to be exempted by virtue of that provision. Reference was made to 
+Section 207 of the Code of the Criminal Procedure, 1973 to urge 
+that at the initial stage of investigation, material collected by the 
+investigating agency could not be sought by an accused.
+It was, therefore, submitted that the view taken by the Commission 
+was correct and the High Court was not justified in directing supply of 
+information sought by the first respondent. In view of the Notification 
+dated 25.08.2011, the impugned order was liable to be set aside.
+Consideration
+7.	
+We have heard the learned counsel for the parties at length. We 
+have also given due consideration to the relevant material on 
+
+[2026] 7 S.C.R. 
+121
+Special Police Establishment v. Kamta Prasad Mishra and Others
+record as well as material furnished by the learned counsel for the 
+parties. The High Court while allowing the writ petition preferred by 
+the first respondent held that the information sought by him could 
+not be denied by relying upon Section 8(1)(h) of the Act of 2005. 
+Before this Court, the Notification dated 25.08.2011 was relied 
+upon to urge that the High Court could not have directed supply 
+of such information. It is in that context that the applicability of the 
+Notification dated 25.08.2011 was debated. Besides its inapplicability, 
+the question whether the SPE was an ‘intelligence and security’ 
+organisation for the purposes of Section 24(4) of the Act of 2005 
+arose for consideration. It is true that the said Notification was not 
+specifically challenged in the writ petition before the High Court. It 
+is also a fact that the appellant had not specifically supported the 
+order passed by the Commission by relying upon the same. The 
+Notification was placed before this Court in the present proceedings 
+and the impugned order was sought to be assailed by relying upon 
+the Notification dated 25.08.2011. It was at this stage that the issue 
+as regards applicability of the Notification dated 25.08.2011 arose. It 
+would, therefore, be necessary to consider whether this Court should 
+examine the validity of the Notification dated 25.08.2011, especially 
+when the same had not been challenged by the first respondent in 
+his writ petition before the High Court.
+Exercise of suo motu jurisdiction
+8.	
+The exercise of suo motu jurisdiction by the Court in examining the 
+validity of a subordinate piece of legislation has been the subject 
+matter of consideration in various decisions. Recently, in Bihar Rajya 
+Dafadar Chaukidar Panchayat (Magadh Division) Vs. State of 
+Bihar and others8, it was observed in paragraph 33 as under:
+“33. …While not suggesting for a moment that the course 
+of action which the Division Bench adopted in this case 
+can routinely be adopted, we see no reason as to why 
+the power to suo motu declare a subordinate legislation 
+invalid, on the ground of its being manifestly contrary to a 
+Fundamental Right read with binding precedents in terms 
+of Article 141, should not be conceded to be within the vast 
+8	
+SLP(C) No.18983 of 2023 decided on 02.04.2025
+
+122
+[2026] 7 S.C.R.
+Supreme Court Reports
+reserve of powers of the Constitutional Courts. Though 
+exercise of powers, suo motu, in an appropriate case in 
+exercise of jurisdiction under Article 226 of the Constitution 
+cannot be doubted, it is indubitable that such power has 
+to be exercised sparingly and with due care, caution and 
+circumspection. We are minded and do hold that, a writ 
+court, when its finds its conscience to be pricked in a rare 
+and very exceptional case by the patent unconstitutionality 
+of a subordinate legislation connected with the issue it is 
+seized of, may, upon grant of full opportunity to the State 
+to defend the subordinate legislation and after hearing it, 
+grant a declaration as to unconstitutionality and/or invalidity 
+of such legislation. After all, as the sentinel on the qui vive, 
+it is not only the duty of the writ courts in the country to 
+enforce Fundamental Rights of individuals, who approach 
+them, but it is equally the duty of the writ courts to guard 
+against breach of Fundamental Rights of others by the three 
+organs of the State. This power is a plenary power resident 
+in all the Constitutional Courts. Should, in a given case, it 
+be found that there has been an egregious violation of a 
+Fundamental Right as a result of operation of a subordinate 
+legislation and the issue I concluded by a binding decision 
+of this Court, we consider it the duty of the writ courts to 
+deliver justice by declaring the subordinate legislation void 
+to safeguard rights of others who might not still have been 
+affected thereby. We reiterate, it can only be done rarely 
+and in cases which stand out from the ordinary.”
+9.	
+Absence of a prayer seeking declaration of invalidity of a piece of 
+subordinate legislation by itself would not deter the Court from testing 
+its validity. Such issue can be examined but after granting opportunity 
+to the concerned authority to justify its validity. We may in this regard 
+refer to the decision in Bharathidasan University and another Vs. 
+All India Council for Technical Education and others9. The issue 
+related to examining the validity of a regulation duly framed. It was 
+found that the regulation provided for a matter that was beyond its 
+authority. In that context, the following observations are material for 
+the present purpose:
+9	
+2001 INSC 454
+
+[2026] 7 S.C.R. 
+123
+Special Police Establishment v. Kamta Prasad Mishra and Others
+“The AICTE cannot, in our view, make any regulation 
+in exercise of its powers under Section 23 of the Act, 
+notwithstanding sub-section (1), which though no doubt 
+enables such regulations being made generally to carry out 
+the purposes of the Act, when such power is circumscribed 
+by the specific limitation engrafted therein to ensure them to 
+be “not inconsistent with the provisions of the Act and the 
+rules…..” So far as the question of granting approval, leave 
+alone prior or post, Section 10(1)(k) specifically confines 
+the limits of such power of AICTE only to be exercised 
+vis-a-vis technical institutions, as defined in the Act and 
+not generally. When the language is specific, unambiguous 
+and positive, the same cannot be over-looked to give 
+an expansive meaning under the pretext of a purposive 
+construction to perpetuate an ideological object and aim, 
+which also, having regard to the Statement of Objects 
+and Reasons for the AICTE Act, are not warranted or 
+justified. Therefore, the regulation insofar as it compels the 
+universities to seek for and obtain prior approval and not 
+to start any new department or course or programme in 
+technical education (Regulation 4) and empower itself to 
+withdraw such approval, in a given case of contravention 
+of the regulations (Regulation 12) are directly opposed to 
+and inconsistent with the provisions of Section 10(1)(k) of 
+the Act and consequently void and unenforceable.
+The fact that the regulations may have the force of law or 
+when made have to be laid down before the legislature 
+concerned do not confer any more sanctity or immunity 
+as though they are statutory provisions themselves. 
+Consequently, when the power to make regulations are 
+confined to certain limits and made to flow in a well defined 
+canal within stipulated banks, those actually made or 
+shown and found to be not made within its confines but 
+outside them, the courts are bound to ignore them when 
+the question of their enforcement arise and the mere fact 
+that there was no specific relief sought for to strike down 
+or declare them ultra vires, particularly when the party in 
+sufferance is a respondent to the lis or proceedings cannot 
+confer any further sanctity or authority and validity which 
+
+124
+[2026] 7 S.C.R.
+Supreme Court Reports
+it is shown and found to obviously and patently lack. It 
+would, therefore, be a myth to state that regulations made 
+under Section 23 of the Act have “Constitutional” and legal 
+status, even unmindful of the fact that anyone or more of 
+them are found to be not consistent with specific provisions 
+of the Act itself. Thus, the regulations in question, which 
+the AICTE could not have made so as to bind universities/
+UGC within the confines of the powers conferred upon it, 
+cannot be enforced against or bind an University in the 
+matter of any necessity to seek prior approval to commence 
+a new department or course and programme in technical 
+education in any university or any of its departments and 
+constituent institutions.”
+(emphasis supplied by us)
+10.	 We are conscious of the fact that in Union of India and others vs. 
+Manjurani Routray and others10, this Court has held that before 
+any provision of law is struck down or any Rule is declared as ultra 
+vires, specific pleadings raising a challenge and seeking of such relief 
+is necessary. Therein, an original application was filed by a private 
+respondent raising a challenge to the order of promotion issued to 
+her juniors. The Central Administrative Tribunal directed the employer 
+to indicate the reasons for non-promotion of the private respondent 
+by assigning reasons in that regard. This order was challenged 
+by the said respondent before the High Court. While deciding the 
+writ petition, the High Court examined the vires of Rule 4(b) of the 
+Ministry of Information Technology (in-situ Promotion under Flexible 
+Complementing Scheme) Rules, 1998 and held the same to be 
+invalid in law. The Union of India challenged the judgment urging 
+that in absence of any specific challenge being raised by the private 
+respondent to the vires of Rule 4(b), the High Court could not have 
+entertained such challenge. In that context, this Court held that in 
+absence of specific pleadings being raised for challenging the vires of 
+Rule 4 (b), there would be no opportunity to the other side to justify 
+the validity of such Rule. It was held that the High Court was not 
+justified in declaring Rule 4(b) of the Ministry of Information Technology 
+(in-situ Promotion under Flexible Complementing Scheme) Rules, 
+10	
+2023 INSC 787
+
+[2026] 7 S.C.R. 
+125
+Special Police Establishment v. Kamta Prasad Mishra and Others
+1998 as ultra vires. One of us (J. K. Maheshwari, J) was a party to 
+the aforesaid decision.
+In the present case, it is true that there is no specific challenge 
+raised by the first respondent to the Notification dated 25.08.2011. 
+However, while assailing the order passed by the High Court, the 
+Notification dated 25.08.2011 has been relied upon by the appellant 
+to urge that the information sought by the first respondent could not 
+be supplied to him as the SPE was an ‘intelligence and security’ 
+organisation that was excluded from the applicability of the Act of 
+2005. The issue of applicability as well as validity of the Notification 
+dated 25.08.2011 having arisen, due opportunity was granted to 
+the State Government to justify the same. Time was granted to 
+the learned Advocate General to place on record the stand of the 
+State Government and also to substantiate the contention that the 
+Notification dated 25.08.2011 was in consonance with Section 24(4) 
+of the Act of 2005. The opportunity so granted was utilised and 
+the State Government through Ms. Manisha Karia, learned Senior 
+Advocate as well as Mr. Prashant Singh, learned Advocate General 
+for the State of Madhya Pradesh were heard extensively. The State 
+was also permitted to place on record its written submissions in that 
+regard. The same have been accordingly filed. 
+It is, thus, evident that sufficient opportunity was granted to the State 
+Government to make its stand clear with regard to the Notification 
+dated 25.08.2011 and also to justify its validity in the context of 
+Section 24(4) of the Act of 2005. 
+11.	 In the present case, we are concerned with the aspect as to whether 
+the SPE as constituted under Section 2(1) of the Madhya Pradesh 
+Special Police Establishment Act, 194711 for investigating offences 
+specified by the State Government under Section 3 of the Act of 
+1947 is entitled to exemption from the application of the Act of 2005 
+by virtue of Section 24(4) thereof. What requires examination is 
+whether the SPE is an ‘intelligence and security’ organisation, given 
+the nature of offences it can investigate. To put it differently, whether 
+the SPE can seek exemption from the application of the Act of 2005 
+on the ground that it is an ‘intelligence and security’ organisation. A 
+pure question of interpretation of the relevant provisions of the Act 
+11	
+For short, ‘the Act of 1947’
+
+126
+[2026] 7 S.C.R.
+Supreme Court Reports
+of 1947 and the Act of 1981 in the context of Section 24 of the Act 
+of 2005 arises. The issue whether the Notification dated 25.08.2011 
+provides for a matter beyond the parent legislation or whether it is 
+intra vires Section 24(4) of the Act of 2005 has to be examined. In 
+absence of any factual adjudication being required to be undertaken 
+and a pure question of interpretation having arisen, we are inclined 
+to examine this legal question though it was not specifically raised 
+before the High Court. 
+Grounds for challenging subordinate legislation
+12.	 It is by now well settled that a piece of subordinate legislation does 
+not carry the same degree of immunity that is enjoyed by a statute 
+passed by a competent legislature. Besides the grounds on which 
+plenary legislation can be challenged, subordinate legislation can also 
+be challenged on the ground that it fails to conform to the statute 
+under which it is made or it exceeds the limits of authority conferred 
+by the enabling statute. In Indian Express Newspapers (Bombay) 
+Private Ltd. and others etc. Vs. Union of India and others etc.12, 
+a three Judge Bench of this Court observed as under:
+“A piece of subordinate legislation does not carry the same 
+degree of immunity which is enjoyed by a statute passed 
+by a competent legislature. Subordinate legislation may 
+be questioned on any of the grounds on which plenary 
+legislation is questioned. In addition it may also be 
+questioned on the ground that it does not conform to the 
+statute under which it is made. It may further be questioned 
+on the ground that it is contrary to some other statute.”
+This view has been consistently followed. In State of Tamil Nadu and 
+another Vs. P. Krishnamurthy and others13, it was held as under:
+“There is a presumption in favour of constitutionality or 
+validity of a subordinate legislation and the burden is upon 
+him who attacks it to show that it is invalid. It is also well 
+recognized that a subordinate legislation can be challenged 
+under any of the following grounds:
+12	
+1984 INSC 231
+13	
+2006 INSC 177
+
+[2026] 7 S.C.R. 
+127
+Special Police Establishment v. Kamta Prasad Mishra and Others
+(a)	 Lack of legislative competence to make the 
+subordinate legislation.
+(b)	 Violation of fundamental rights guaranteed under the 
+Constitution of India.
+(c)	
+Violation of any provision of the Constitution of India.
+(d)	 Failure to conform to the statute under which it is 
+made or exceeding the limits of authority conferred 
+by the enabling Act.
+(e)	 Repugnancy to the laws of the land, that is, any 
+enactment.
+(f)	
+Manifest arbitrariness/unreasonableness (to an extent 
+where the court might well say that the legislature 
+never intended to give authority to make such rules).”
+Statutory scheme
+13.	 For considering the aforesaid question, it would be necessary to refer 
+to some relevant provisions of the Act of 2005. Section 3 recognises 
+the right of all citizens to information. A request for obtaining 
+‘information’ as defined by Section 2(f) is required to be made under 
+Section 6 of the Act of 2005. While such request has to be considered 
+and disposed in accordance with Section 7, Section 8(1) exempts 
+disclosure of information in certain contingencies. Section 8(1)(h) 
+reads thus:
+“8. Exemption from disclosure of information.- 
+(1) Notwithstanding anything contained in this Act, there 
+shall be no obligation to give any citizen,-
+(h) information which would impede the process of 
+investigation or apprehension or prosecution of offenders;”
+Since the appellant has relied upon the provisions of Section 24 
+and especially Section 24(4) of the Act of 2005, the said provision 
+is reproduced hereunder:
+“24. Act not to apply in certain organizations-(1) Nothing 
+contained in this Act shall apply to the intelligence and 
+security organisations specified in the Second Schedule, 
+being organisations established by the Central Government 
+
+128
+[2026] 7 S.C.R.
+Supreme Court Reports
+or any information furnished by such organisations to that 
+Government: 
+Provided that the information pertaining to the allegations 
+of corruption and human rights violations shall not be 
+excluded under this sub-section: 
+Provided further that in the case of information sought for 
+is in respect of allegations of violation of human rights, 
+the information shall only be provided after the approval of 
+the Central Information Commission, and notwithstanding 
+anything contained in Section 7, such information shall be 
+provided within forty-five days from the date of the receipt 
+of request.
+(2) The Central Government may, by notification in the Official 
+Gazette, amend the Schedule by including therein any other 
+intelligence or security organisation established by that 
+Government or omitting therefrom any organisation already 
+specified therein and on the publication of such notification, 
+such organisation shall be deemed to be included in or, as 
+the case may be, omitted from the Schedule. 
+(3) Every notification issued under sub-section (2) shall 
+be laid before each House of Parliament. 
+(4) Nothing contained in this Act shall apply to such 
+intelligence and security organisations, being organisations 
+established by the State Government, as that Government 
+may, from time to time, by notification in the Official 
+Gazette, specify: 
+Provided that the information pertaining to the allegations 
+of corruption and human rights violations shall not be 
+excluded under this sub-section:
+Provided further that in the case of information sought for 
+is in respect of allegations of violation of human rights, 
+the information shall only be provided after the approval 
+of the State Information Commission and, notwithstanding 
+anything contained in Section 7, such information shall be 
+provided within forty-five days from the date of the receipt 
+of request. 
+
+[2026] 7 S.C.R. 
+129
+Special Police Establishment v. Kamta Prasad Mishra and Others
+(5) Every notification issued under sub-section (4) shall 
+be laid before the State Legislature.”
+It is to the noted that Section 24(1) and Section 24(4) use the 
+expression ‘intelligence and security organisations’. This would 
+indicate that an organisation governed by the said provision ought 
+to be empowered to go into aspects of ‘intelligence’ and ‘security’. 
+14.	 Section 24(1) of the Act of 2005 states that the provisions of the Act 
+would not apply to ‘intelligence and security’ organisations specified 
+in the Second Schedule to the Act of 2005. Perusal of the Second 
+Schedule indicates reference to about twenty-six organisations 
+concerned with ‘intelligence’ and ‘security’ that have been established 
+by the Central Government. Section 24(4) states that nothing 
+contained in the Act of 2005 would apply to such ‘intelligence and 
+security’ organisations established by the State Government as 
+notified in the Official Gazette. The exemption from application of the 
+provisions of the Act of 2005 is, therefore, restricted to ‘intelligence 
+and security’ organisations that have been established by the State 
+Government by publishing Notification in the Official Gazette. The 
+first proviso to Section 24(4) of the Act of 2005, however, does 
+not exclude information pertaining to allegations of corruption and 
+violation of human rights.
+15.	 The expression ‘intelligence and security’ organisations found 
+in Section 24 has not been defined in the Act of 2005. We may, 
+therefore, consider the nature of various organisations established 
+by the Central Government which are concerned with ‘intelligence 
+and security’ that are referred to in the Second Schedule. For 
+example, the Directorate of Enforcement (ED) was established on 
+01.05.1956 for handling Exchange Control laws violations under 
+the Foreign Exchange Regulations Act, 1947. One of its functions 
+is to collect, develop and disseminate intelligence relating to the 
+Foreign Exchange Management Act, 1999. The Central Reserve 
+Police Force has been mentioned in the Second Schedule. As per 
+the Central Reserve Police Force Act, 1949, it is an armed force 
+maintained by the Central Government and is concerned with 
+internal security. A member of the force has to execute all orders and 
+warrants lawfully issued to him, detect and bring offenders to justice 
+and also apprehend all persons whom he is legally authorised to 
+apprehend. Then, the Border Security Force constituted under the 
+
+130
+[2026] 7 S.C.R.
+Supreme Court Reports
+Border Security Force Act, 1968 is an armed force of the Union for 
+ensuring the security of the borders of India. Similarly, the Central 
+Industrial Security Force is an armed force of the Union constituted 
+under the Central Industrial Security Force Act, 1968 for better 
+protection and security of industrial undertakings owned by the Central 
+Government. The National Investigation Agency is also referred to 
+in the Second Schedule. It is an investigation agency at the national 
+level constituted to investigate and prosecute offences affecting the 
+sovereignty, security and integrity of India.
+It is, thus, clear that organisations referred to in the Second Schedule 
+to the Act of 2005 are specifically concerned with ‘intelligence’ 
+and ‘security’, having been constituted by the Central Government 
+with that object in mind. On the other hand, the SPE has been 
+clothed with limited jurisdiction to investigate offences punishable 
+under the Act of 1988, Sections 409, 420 and Chapter XVIII of 
+the Penal Code. The submission on behalf of the State of Madhya 
+Pradesh that the principle of institutional parity was considered 
+while issuing the Notification dated 25.08.2011 therefore cannot be 
+accepted.
+Notification dated 25.08.2011
+16.	 In exercise of the power conferred by Section 24(4) of the Act of 2005, 
+the GAD of the State of Madhya Pradesh has issued Notification 
+dated 25.08.2011 wherein it is stated that the provisions of the Act 
+of 2005 would not apply to cases under investigation by the SPE 
+and the State Bureau of Investigation of Economic Offences. The 
+Notification dated 25.08.2011 reads as under:
+“Whereas the State Government considers that the 
+disclosure of the information regarding names of 
+informers or complainants in the economic offences 
+under investigation in Madhya Pradesh Special Police 
+Establishment of Lokayukta Organization and State Bureau 
+of Investigation of Economic Offences under the Right 
+to Information Act, 2005 (No. 22 of 2005) may likely to 
+endanger the life or physical safety of such informers or 
+complainants;
+And whereas the State Government also considered that 
+the disclosure of the information in the economic offences 
+
+[2026] 7 S.C.R. 
+131
+Special Police Establishment v. Kamta Prasad Mishra and Others
+under the investigation in the said organization would 
+impede the process of investigation or apprehension or 
+prosecution of offenders;
+And whereas Section 8(1) of the Right to Information 
+Act, 2005 (No. 22 of 2005) provides for exemption from 
+disclosure of information on certain grounds, whereas 
+clause (g) provides that information, the disclosure of 
+which would endanger the life of physical safety of any 
+person or identify the source of information, and clause 
+(h) provides that information which would impede the 
+process of investigation or apprehension or prosecution 
+of offenders shall be denied to any citizen;
+Now, therefore, in exercise of the powers conferred by 
+sub-section (4) of Section 24 of the said Act, the State 
+Government, hereby specify that the provisions of the 
+said Act shall not apply with respect to the cases under 
+investigation by the following organizations:-
+1.	
+Madhya Pradesh Special Police Establishment of 
+Lokayukta Organization.
+2.	
+State Bureau of Investigation of Economic Offences.”
+SPE whether an ‘intelligence’ and ‘security’ Organization
+17.	 It would now be necessary to consider whether the SPE is an 
+‘intelligence’ and ‘security’ organisation. For this purpose, relevant 
+provisions of the Act of 1981 may be noticed. The Statement of 
+Objects and Reasons behind enacting the Act of 1981 reads as under:
+“Statement of Objects and Reasons
+Currently there is no mechanism in place to investigate 
+into allegations of corruption, etc., against high ranking 
+individuals such as the Chief Minister, other elected 
+officials and senior officers under the control of the State 
+Government and in order to maintain ethical standards 
+in public life, there has been a need since long time to 
+establish an independent mechanism for this purpose. 
+Therefore, this Bill has been formulated to establish such 
+a mechanism.
+
+132
+[2026] 7 S.C.R.
+Supreme Court Reports
+Hence, this Bill is presented.
+Bhopal:
+Date : 19 September 1980.
+Arjun Singh
+Member-in-Charge
+Recommended by His Excellency the Governor under 
+Article 207 of the Constitution of India.”
+The Statement of Objects and Reasons indicates the absence of 
+a mechanism to investigate into allegations of corruption against 
+high ranking individuals and the need to establish such independent 
+mechanism. The preamble of the Act of 1981 reads as under:
+“An Act to make provision for the appointment and functions 
+of certain authorities for the enquiry into the allegations 
+against [public servants] [Substituted by M.P.Act No.1 
+of 1987 (w.e.f. 9-1-1987).] and for matters connected 
+therewith.”
+Section 2(b) defines the expression ‘allegation’ which reads as under:
+“2. Definitions – In this Act, unless the context otherwise 
+requires,-
+(b) “allegation” in relation to a public servant means any 
+affirmation that such public servant,-
+(i) has abused his position as such to obtain 
+any gain or favour to himself or to any other 
+person or to cause undue harm to any person;
+(ii) was actuated in the discharge of his functions 
+as such public servant by improper or corrupt 
+motives;
+(iii) is guilty of corruption; or
+(iv) is in possession of pecuniary resources or 
+property disproportionate to his known source 
+of income and such pecuniary resources or 
+property is held by the public servant personally 
+or by any member of his family or by some other 
+person on his behalf.
+
+[2026] 7 S.C.R. 
+133
+Special Police Establishment v. Kamta Prasad Mishra and Others
+Explanation:– For the purpose of this sub-clause “family” 
+means husband, wife, sons and unmarried daughters 
+living jointly with him;”
+Section 7 of the Act of 1981 specifies the matters that may be enquired 
+into by the Lokayukt or Up-Lokayukt. Section 7 reads as under:
+“1 4[7. Matters which may be enquired into by Lokayukt 
+or Up-Lokayukt-Subject to the provision of this Act, on 
+receiving complaint or other information-
+(i) the Lokayukt may proceed to enquire into 
+an allegation made against a public servant 
+in relation to whom the Chief Minister is the 
+competent authority;
+(ii) the Up-Lokayukt may proceed to enquire into 
+an allegation made against any public servant 
+other than referred to in clause(i):
+Provided that the Lokayukt may enquire into an allegation 
+made against any public servant referred to in clause (ii).]
+15[Explanation. – For the purposes of this section the 
+expressions “may proceed to enquire”, and “may enquire,” 
+include investigation by police agency put at the disposal of 
+Lokayukt and Up-Lokayukt in pursuance of sub-section (3) 
+of section 13.]”
+18.	 The official website of Lokayukt Organisation, Madhya Pradesh at 
+mplokayukt.nic.in gives the following information:
+“About Lokayukt Organization
+The Lokayuykt Organization in Madhya Pradesh came 
+into existence in Feb.1982 after the Madhya Pradesh 
+Lokayuykt and Up-Lokayukt Act, 1981 (hereinafter called 
+the Act) was enacted by the State Legislature. Attempt 
+to establish an independent Organization on the lines 
+of “Ombudsman” started way back in mid 70’s after the 
+State Administrative Reforms Commission recommended 
+14	
+Subs. by M.P. Act No.7 of 1982 (w.e.f. 28-1-1982)
+15	
+Ins. By M.P. Act No.20 of 1984 (w.e.f. 16-5-1984)
+
+134
+[2026] 7 S.C.R.
+Supreme Court Reports
+that the State Vigilance Commission, which was then 
+functioning as an instrument to prevent/check corruption 
+should be replaced by an organization with statutory 
+base and powers. Examining the role and limitations of 
+the State Vigilance Commission, the ARC had observed 
+that in the absence of a constitutional or even statutory 
+recognition of its position, the Vigilance Commission 
+might act at best as a department of the Government to 
+check corruption. In view of the above observations of 
+the ARC and on the basis of various recommendations 
+received from the Government of India, a bill was moved 
+in the M.P. Legislative Assembly in the year 1975 which 
+was sent for President’s assent after its passage by the 
+Assembly. But due to certain rethinking at the level of 
+the Union Government the bill was returned to the State 
+Government for reconsideration and the same was passed 
+in April 1981 with certain modifications. The bill so passed 
+became the Act after it received the Presidential assent 
+in September 1981.
+The Lokayukt Organization constituted under the Act 
+replaced the Vigilance Commission. Having received the 
+statutory base the Lokayukt Organization is totally free 
+from the executive influence. Indeed, the organization 
+functions as an instrument of control over the executive by 
+the legislature as its annual reports are submitted to the 
+Governor to be laid and discussed in the State Legislative 
+Assembly.”
+Thus, even the Lokayukt Organisation states that it is an organisation 
+that functions to prevent/check corruption. We may also refer to 
+Section 63 of the Lokpal and Lokayuktas Act, 2013 which reads as 
+under:
+“63. Establishment of Lokayukta.—Every State shall 
+establish a body to be known as the Lokayukta for the 
+State, if not so established, constituted or appointed, by a 
+law made by the State Legislature, to deal with complaints 
+relating to corruption against certain public functionaries, 
+within a period of one year from the date of commencement 
+of this Act.”
+
+[2026] 7 S.C.R. 
+135
+Special Police Establishment v. Kamta Prasad Mishra and Others
+Though this is a later central legislation, it is indicative 
+of the fact that the Lokayukt of a State is a body to deal 
+only with complaints relating to corruption against certain 
+public functionaries. 
+19.	 The SPE has been established and constituted pursuant to the power 
+conferred by Section 2(1) of the Act of 1947. The purpose behind its 
+constitution is the investigation of offences notified under Section 3 
+of the Act of 1947. Notification dated 01.11.1959 by which the SPE 
+was constituted reads as under:
+“the lst November 1959-Kartika 10, 1881
+NOTIFICATION
+No. 111-89-I(VI) 59.-In exercise of the powers conferred by 
+sub-section (1) of section 2 of the Madhya Pradesh Special 
+Police Establishment Act, 1947 (XVII of 1947), the State 
+Government hereby constitutes a special police force to be 
+called the Madhya Pradesh Special Police Establishment 
+for the investigation of offences which may from time to 
+time be specified under section 3 of the said Act.”
+Section 3 of the Act of 1947 empowers the State Government to 
+specify the offences that can be investigated by the SPE. It reads 
+as under:
+“3. Offences to be investigated by special police 
+establishment:- The State Government may, by notification, 
+specify the offences or classes of offences which are to 
+be investigated by [Madhya Pradesh]16 Special Police 
+Establishment.”
+On 01.11.1959, another Notification was issued under Section 3 of 
+the Act of 1947 specifying the offences that could be investigated 
+by the SPE. The same reads as under:
+“No. 113.89-I(VI)-59.-In exercise of the powers conferred 
+by section 3 of the Madhya Pradesh Special Police 
+Establishment Act, 1947 (XVIÍ of 1947), the State 
+Government hereby specifies the following to be the 
+offences or classes of offences which are to be investigated 
+16	
+Subs. By A.O. 1950, for Central Provinces and Berar
+
+136
+[2026] 7 S.C.R.
+Supreme Court Reports
+by the Madhya Pradesh Special Police Establishment, 
+namely:-
+(a) offences punishable under sections 161, 165 and 165-A 
+of the Indian Penal Code, 1860 (XLV of 1860); 
+(b) offences punishable under the Prevention of Corruption 
+Act, 1947 (II of 1947); 
+(c) offences under sections 409 and 420 and Chapter 
+XVIII of the Indian Penal Code, when they are committed, 
+attempted or abetted by public servants or the employees 
+of a local authority or a statutory corporation, when 
+such offences adversely affect the interests of the 
+State Government or the local authority or the statutory 
+corporation, as the case may be; and 
+(d) attempts, abetment and conspiracies in respect 
+of offences mentioned in items (a) and (b) above, by 
+whomsoever committed.”
+The subsequent Notification dated 28.11.1989 issued under Section 3 
+of the Act of 1947 reads as under:
+“Bhopal, the 28th November 1989
+No.F.15-2(I)-89-XLIC-10.- In Exercise of the powers 
+conferred by Section 3 of the Madhya Pradesh Special 
+Police Establishment Act, 1947 (XVII of 1947), the State 
+Government hereby specifies the following to be the 
+offences of classes or offences which are to be investigated 
+by the Madhya Pradesh Special Police Establishment, 
+namely :-
+a)	
+Offences punishable under the Prevention of 
+Corruption Act, 1988 (No.49 of 1988);
+b)	
+Offences under Sections 409 and 420 and Chapter 
+XVIII of the Indian Penal Code, 1860 (XLV of 1860) 
+when are committed, attempted or abetted by public 
+servants or the employees of a local authority or a 
+statutory corporation, when such offences adversely 
+affect the interests of the State Government or the 
+local authority or the status corporation, as the case 
+may be; and
+
+[2026] 7 S.C.R. 
+137
+Special Police Establishment v. Kamta Prasad Mishra and Others
+c)	
+Conspiracies in respect of offences mentioned in 
+items (a) above.
+2.	
+(1) The General Administration Department Notification 
+No.113-89-1 (VI)-59, dated the 1st November, 1959 
+is hereby repealed.
+(3)	 Notwithstanding such repeal, any investigation or legal 
+proceeding pending on the date of commencement of 
+the prevention of Corruption Act, 1988 (No.49 of 1988) 
+shall be continued as if the repealing Notification had 
+not been issued.
+By order and in the name of the Governor of Madhya 
+Pradesh.”
+Thereafter, on 14.09.2000 the earlier Notification dated 28.11.1989 
+was superseded and a fresh Notification was published in the Official 
+Gazette. The Notification dated 14.09.2000 reads as under:
+“Notification No.F.15(1)(1)-2000-I-10 dated the 14th 
+September, 2000.-In exercise of the powers conferred 
+by Section 3 of the Madhya Pradesh Special Police 
+Establishment Act, 1947 (No.17 of 1947) and in 
+supersession of this Department Notification No.15(2)
+(1) 89-1-49-10 dated the 28th November, 1989, the State 
+Government, hereby specify the following offences to 
+be the offences of class of offences which are to be 
+investigated by the Madhya Pradesh Special Police 
+Establishment, namely :-
+(a) Offences punishable under the Prevention of Corruption 
+Act, 1988 (No.49 of 1988) :
+(b) Offences under Section 409 and 420 and Chapter XVIII 
+of the Indian Penal Code, 1860 (No.XLV of 1860) when they 
+are committed, attempted or abetted by Public Servants or 
+employees of a local authority or a statutory corporation, 
+when such offences adversely affect the interests of the 
+State Government or the local authority or the statutory 
+corporation, as the case may be;
+(c) Conspiracies in respect of offences mentioned in item 
+(a) and (b) above; and
+
+138
+[2026] 7 S.C.R.
+Supreme Court Reports
+(d) Conspiracies in respect of offences mentioned in 
+item (a) and (b) shall be charged with simultaneously in 
+one trial under the provisions of Criminal Procedure Code, 
+1973 (No.2 of 1974).
+[Published in M.P. Rajpatra (Asadharan) dated 14-9-2000 
+Pages 1099-1100]”
+Yet again on 03.05.2001, the GAD issued a fresh Notification after 
+superseding the earlier Notification dated 14.09.2000. The Notification 
+dated 03.05.2001 reads as under:
+“No.15-(1)-(1)-2000-I-10.- In exercise of powers 
+conferred by Section 3 of the Madhya Pradesh Special 
+Police Establishment Act, 1947 (No.17 of 1947) and in 
+supersession of this Department Notification No.15-(1)-
+(1)-2000-I-10, dated 14th September, 2000, The State 
+Government hereby specify the following offences to be the 
+offences or class of offences which are to be investigated 
+by the Madhya Pradesh Special Police Establishment 
+namely :
+(a) Offences punishable under the Prevention of Corruption 
+Act, 1988 (No.49 of 1988);
+(b) Offences under Section 409 and 420 and Chapter 
+XVIII of the Indian Penal Code, 1860 (No.XLV of 1860) 
+when they are committed, attempted or abetted by Public 
+Servants or employees of a local authority or a statutory 
+corporation, when such offences adversely affect the 
+interest of the Government or the local authority or the 
+statutory corporation, as the case may be;
+(c) Conspiracies in respect of offences mentioned in item 
+(a) and (b), above, and;
+(d) Conspiracies in respect of offences mentioned in 
+item (a), (b) and (c) shall be charged with simultaneously 
+in one trial under the provisions of Criminal Procedure 
+Code, 1973 (No.2 of 1974).”
+20.	 From the Notification dated 03.05.2001, it becomes clear that offences 
+under the Act of 1988 as well as offences under Sections 409, 420 
+
+[2026] 7 S.C.R. 
+139
+Special Police Establishment v. Kamta Prasad Mishra and Others
+and Chapter XVIII of the Indian Penal Code, 186017 committed or 
+attempted or abetted by public servants or employees of a local 
+authority or a statutory corporation adversely affecting the interest 
+of the Government or a local authority or a statutory corporation, as 
+the case may be, have to be investigated by the SPE. Conspiracies 
+in respect of aforesaid offences are also to be investigated by the 
+SPE. Thus, offences or classes of offences to be investigated by the 
+SPE are limited to those punishable under the Act of 1988 and under 
+Sections 409, 420 and Chapter XVIII of the Penal Code. The Act of 
+1988 seeks to prevent corruption involving public servants. Section 
+409 of the Penal Code provides for punishment for criminal breach 
+of trust by a public servant or by a banker, merchant or agent while 
+Section 420 provides for punishment for cheating and dishonestly 
+inducing delivery of property. Chapter XVIII of the Penal Code relates 
+to offences concerning documents and property marks. Considering 
+the nature of offences covered by the aforesaid provisions, the 
+jurisdiction of the SPE is clearly limited. This is for the reason that 
+under the Act of 1981, the Lokayukt has been conferred a limited 
+jurisdiction to enquire into an ‘allegation’ as defined by Section 2(b) 
+when made against a public servant. It is, thus, clear that insofar 
+as issues of ‘intelligence’ and ‘security’ are concerned, neither the 
+Lokayukt nor the Up-Lokayukt under the Act of 1981 has been 
+conferred jurisdiction to make any enquiry. The various Notifications 
+issued by the State Government under Section 3 of the Act of 1947 
+from time to time are limited to offences punishable under the Act 
+of 1988, Sections 409, 420 and Chapter XVIII of the Penal Code. 
+Though Section 24(4) of the Act of 2005 states that the Act would 
+apply to such ‘intelligence and security organisations’ established by 
+the State Government as notified, the SPE though established by the 
+State Government, it is not empowered to investigate any offences or 
+classes of offences related to ‘intelligence’ and ‘security’. The sphere 
+of operation of the SPE constituted under the Act of 1947 would be 
+governed and guided only by matters that may be enquired into by 
+the Lokayukt or Up-Lokayukt under Section 7 of the Act of 1981. 
+The jurisdiction, in that sense, is limited to an allegation in relation 
+to a public servant in the context of the Act of 1988. The statutory 
+17	
+For short, ‘the Penal Code’
+
+140
+[2026] 7 S.C.R.
+Supreme Court Reports
+scheme under which the SPE stands constituted coupled with the 
+jurisdiction conferred on the Lokayukt or Up-Lokayukt clearly indicate 
+that the SPE cannot be termed to be an ‘intelligence and security’ 
+organisation when it assists the Lokayukt or Up-Lokayukt in matters 
+specified by Section 7 of the Act of 1981.
+21.	 We may note that the Allahabad High Court in Dr.Nutan Thakur 
+vs State of U.P., through Principal Secretary, Department of 
+Vigilance18 considered the validity of Notification dated 03.08.2012 
+issued by the Principal Secretary Vigilance, Government of U.P. 
+through which the Lokayukt agency was brought out of the purview of 
+the Act of 2005 in view of Section 24(4) of that Act. After considering 
+the matter in detail, it was found that the office of the Lokayukt had 
+been constituted in view of the U. P. Lokayukt and Up-Lokayukt Act, 
+197519. It was mainly concerned with the issue of corruption of public 
+servants as defined under the Act of 1975. In the context of Section 
+24(4) of the Act of 2005, it was held that the office of Lokayukt was 
+not concerned with the issues of ‘intelligence and security’. It was, 
+thus, held that the Notification dated 03.08.2012 issued by the State 
+Government by which the office of Lokayukt and Up-Lokayukt was 
+sought to be brought out of the purview of the Act of 2005 was 
+illegal and it travelled beyond the provisions of Section 24(4) of the 
+Act of 2005.
+Conclusion
+22.	 Thus, having considered the entire matter, we are of the considered 
+opinion that the Notification dated 25.08.2011 issued by the GAD of 
+the State of Madhya Pradesh to the extent it seeks to exclude the 
+SPE from the purview of the Act of 2005 in view of Section 24(4) 
+thereof is liable to be set aside as being bad in law as it provides 
+for matters not enumerated under Section 7 of the Act of 1947. The 
+SPE having been conferred jurisdiction only to investigate offences 
+punishable under the Act of 1988, Sections 409, 420 and Chapter 
+XVIII of the Penal Code, it cannot be termed to be an ‘intelligence 
+and security’ organisation for the purposes of Section 24(4) of the 
+Act of 2005. The Notification dated 28.05.2011 does not conform to 
+Section 24(4) of the Act of 2005 and is, thus, excessive in nature.
+18	
+Misc. Case No.1748 of 2013 decided on 02.11.2017
+﻿19 
+For short, ‘the Act of 1975’
+
+[2026] 7 S.C.R. 
+141
+Special Police Establishment v. Kamta Prasad Mishra and Others
+Thus, while maintaining the judgment of the High Court dated 
+20.12.2021 in W.P. No.1575 of 2021, the Notification dated 25.08.2011 
+issued by the GAD seeking to exclude the SPE from the applicability 
+of the provisions of the Act of 2005 is struck down. It is clarified that 
+we have not examined the applicability of the said Notification vis-
+a-vis the State Bureau of Investigation of Economic Offences and 
+therefore, the said Notification shall continue to operate to that extent. 
+Subject to aforesaid, the Criminal Appeal is dismissed. Pending 
+interlocutory applications are also disposed of. 
+Result of the case: Appeal dismissed.
+†Headnotes prepared by: Nidhi Jain 

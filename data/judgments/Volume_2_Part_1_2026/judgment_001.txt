@@ -1,0 +1,1230 @@
+[2026] 2 S.C.R. 1 : 2026 INSC 1
+Adani Power Ltd. & Anr
+v.
+Union of India & Ors.
+(Civil Appeal No. 22 of 2026)
+05 January 2026
+[Aravind Kumar* and N.V. Anjaria, JJ.]
+Issue for Consideration
+By the impugned judgment dated 28 June 2019, the High Court 
+declined to grant the reliefs sought by the appellant, Adani 
+Power Limited, which had inter alia prayed for a declaration that 
+no customs duty was leviable on electrical energy generated in 
+its power plant located in a Special Economic Zone (SEZ) and 
+supplied to the Domestic Tariff Area (DTA), and for consequential 
+refund of amounts deposited towards such duty. The High Court 
+took the view that its earlier judgment delivered in 2015 in favour 
+of the appellant was confined to a particular notification and period, 
+and could not be extended to the later period or to subsequent 
+notifications issued by the Union.
+Headnotes†
+Customs Act, 1962 – ss.12, 25 – Special Economic Zones Act, 
+2005 – s.30 – SEZ Rules, 2006 – r.47(3) – Finance Act, 2010 – 
+Firstly, what, in law, did the Gujarat High Court decide in its 
+judgment dated 15 July 2015, and what is the true scope of 
+that decision – Secondly, whether, in the period subsequent 
+to 15 September 2010 and prior to 16 February 2016, there 
+was any material changes in the statutory position or factual 
+footing that would justify a different result from that arrived 
+at in 2015 judgment – Thirdly, whether the High Court, in its 
+impugned judgment of 28 June 2019, was justified in holding 
+that no relief could be granted to the appellant in the absence 
+of a specific and fresh challenge to Notification Nos. 91/2010-
+Cus. and 26/2012-Cus. – Fourthly, whether, in view of the 2015 
+declaration of law and its affirmation, the High Court in 2019 
+was at liberty, being a coordinate Bench, to deny relief by 
+narrowing the effect of the earlier pronouncement:
+* Author
+
+2
+[2026] 2 S.C.R.
+Supreme Court Reports
+Held: The Gujarat High Court’s judgment dated 15 July 2015, as 
+a matter of law, declared that customs duty could not be levied on 
+electrical energy cleared from the appellant’s SEZ unit to the DTA, 
+having regard to the absence of a lawful charging event u/s.12 of 
+the Customs Act, the limited scope of s.25 of that Act, the parity 
+requirement of s.30 of the SEZ Act and the constitutional constraints 
+of Arts.14 and 265 is squarely applicable to the judgment and order 
+dated 28.06.2019 – That declaration was not confined in principle to 
+Notification No.25/2010-Cus. or to the period ending 15 September 
+2010 – It went to the authority to levy customs duty on SEZ-to-DTA 
+electricity clearances in the statutory setting then obtaining – The 
+subsequent notifications namely, Notification No.91/2010-Cus. 
+prescribing ten paise per unit and Notification No.26/2012-Cus. 
+prescribing three paise per unit, did not create a new levy on a new 
+footing – They merely continued the same levy in altered form – The 
+change in arithmetical rate by prospective character does not cure 
+the lack of authority in principle – There was no material change 
+in law or fact between 15 September 2010 and 15 February 2016 
+that would justify a departure from the 2015 ruling – Section 30 
+of the SEZ Act remained unaltered – Imported electrical energy 
+bore no customs duty under the Customs Tariff Act, 1975 – The 
+same parity logic applied to S.C.A. No.2233 of 2016 disposed of 
+on 28.06.2019 – The Division Bench of the High Court in 2019, 
+being a co-ordinate Bench, was bound either to follow the 2015 
+decision or, if it doubted its correctness or applicability, ought to 
+have referred the question to a larger Bench – It could not have 
+circumvented that discipline by artificially narrowing down the earlier 
+ruling – Its refusal to extend the 2015 declaration to the later period 
+was therefore contrary to law – Once it is held that the levy itself 
+was without authority of law, the State cannot retain the amount 
+collected under such levy – Restitution is a necessary incident of 
+the finding of illegality – Accordingly, the impugned judgment of 
+the High Court dated 28 June 2019 cannot be sustained. [Para 86]
+Customs Act, 1962 – ss.12, 25 – Special Economic Zones 
+Act, 2005 – s.30 – SEZ Rules, 2006 – r.47(3) – Finance Act, 
+2010 – Whether the levy of customs duty on electrical 
+energy cleared by the appellant from its SEZ unit to the DTA 
+during the relevant period, as sought to be enforced through 
+Notification No. 25/2010-Cus., Notification No. 91/2010-Cus., 
+Notification No. 26/2012-Cus., and similar instruments, was 
+without authority of law:
+
+[2026] 2 S.C.R. 
+3
+Adani Power Ltd. & Anr v. Union of India & Ors.
+Held: The levy of customs duty on electrical energy cleared by the 
+appellant from its SEZ unit to the DTA during the relevant period, 
+as sought to be enforced through Notification No.25/2010-Cus., 
+Notification No.91/2010-Cus., Notification No.26/2012-Cus., and 
+similar instruments, was without authority of law. [Para 87]
+Judicial Discipline – Decision by Co-ordinate Bench of the 
+High Court: 
+Held: When a coordinate Bench of a High Court has already 
+determined a question of law, a subsequent Bench of equal strength 
+is bound to follow that view; if it doubts its correctness, the only 
+permissible course is to refer the matter to a larger Bench. [Para 80]
+Administrative Law – Where a court of competent jurisdiction 
+has struck down the foundation of a levy as ultra vires:
+Held: In administrative law, where a court of competent jurisdiction 
+has struck down the foundation of a levy as ultra vires, that 
+declaration renders all successive and derivative attempts to 
+enforce the same levy equally unenforceable, unless the statutory 
+or factual basis has materially changed – The State cannot defend 
+the continuation of the same vice by saying, this is a different 
+notification number – The Court is bound to look past the label 
+and examine the substance. [Para 69]
+Customs Act, 1962 – ss.12, 25 – Special Economic Zones Act, 
+2005 – s.30 – SEZ Rules, 2006 – r.47(3) – Finance Act, 2010 – 
+Where a levy has been declared to be without authority of law:
+Held: Where a levy has been declared to be without authority of law, 
+a subsequent petition seeking enforcement of that declaration and 
+consequential relief cannot be treated as a fresh challenge merely 
+because the levy is sought to be continued under later or similar 
+notifications – In the absence of any new statutory basis, such 
+notifications do not create a new cause of action – A constitutional 
+court is entitled to grant effective relief without insisting upon 
+separate challenges to each such notification. [Para 74]
+Case Law Cited
+State of Uttar Pradesh v. Ajay Kumar Sharma [2015] 12 SCR 627 : 
+(2016) 15 SCC 289 – referred to.
+
+4
+[2026] 2 S.C.R.
+Supreme Court Reports
+List of Acts
+Constitution of India; Special Economic Zones Act, 2005; Special 
+Economic Zones Rules, 2006; Customs Act, 1962; Finance Act, 2010.
+List of Keywords
+Special Economic Zone (SEZ); Customs duty; Electrical energy; 
+Absence of charging event; Section 25 of Customs Act, 1962; 
+Delegated legislation; Exemption notification; Retrospective levy; 
+Judicial discipline; Binding precedent; Domestic tariff area (DTA); 
+Judicial precedent; Colourable exercise of delegated authority; 
+Restitution; Discipline of precedent; Institutional necessity; Stability; 
+Predictability; Doctrine of judicial discipline; Sequel proceeding; 
+Fiscal jurisprudence; Subordinate legislation; Public interest; Stare 
+decisis et non quieta movere; Interest reipublicae ut sit finis litium.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 22 of 2026
+From the Judgment and Order dated 28.06.2019 of the High Court 
+of Gujarat at Ahmedabad in SCA No. 2233 of 2016
+Appearances for Parties
+Advs. for the Appellant(s):
+P. Chidambaram, Sr. Adv., Mahesh Agarwal, Anshuman Srivastava, 
+Rohan Talwar, Naman Agarwal, E. C. Agrawala.
+Advs. for the Respondent(s):
+Raghvendra P. Shankar, A.S.G., Gurmeet Singh Makker, Sharath 
+Nambaiar, Diwakar Sharma, Ms. Satvika Thakur, Ms. B.sunita 
+Rao, Ishaan Sharma.
+Judgment / Order of the Supreme Court
+Judgment
+Aravind Kumar, J.
+1.	
+Leave granted.
+2.	
+This appeal is directed against the judgment and order dated 28 
+June 2019 passed by the High Court of Gujarat in Special Civil 
+
+[2026] 2 S.C.R. 
+5
+Adani Power Ltd. & Anr v. Union of India & Ors.
+Application No. 2233 of 2016. By the impugned judgment, the High 
+Court declined to grant the reliefs sought by the appellant, Adani 
+Power Limited, which had inter alia prayed for a declaration that 
+no customs duty was leviable on electrical energy generated in its 
+power plant located in a Special Economic Zone (SEZ) and supplied 
+to the Domestic Tariff Area (DTA), and for consequential refund of 
+amounts deposited towards such duty. The High Court took the view 
+that its earlier judgment delivered in 2015 in favour of the appellant 
+was confined to a particular notification and period, and could not 
+be extended to the later period or to subsequent notifications issued 
+by the Union. Aggrieved, the appellant has approached this Court.
+3.	
+The controversy is not merely fiscal. It raises, in our view, questions 
+that bear upon three foundational aspects of our legal order: first, 
+the limits of delegated legislation in matters of taxation; secondly, 
+the discipline of judicial precedent and the obligation of co-ordinate 
+Benches to adhere to settled law; and thirdly, the obligation of the 
+State to give effect to judicial declarations instead of reasserting, in 
+altered form, a levy already declared to be without authority of law.
+4.	
+We have heard Mr. Chidambaram, learned senior counsel appearing 
+on behalf of the appellant and the learned Raghav Shankar Additional 
+Solicitor General appearing on behalf of the Respondents and before 
+proceeding to consider their arguments it would be of relevance to 
+note the factual background and it reads:
+I.	
+FACTUAL BACKGROUND
+5.	
+The appellant operates a coal-based thermal power plant of about 
+5,200 MW capacity within the Mundra Special Economic Zone (SEZ) 
+in the State of Gujarat. The appellant is a co-developer in that notified 
+SEZ. The electricity generated at this plant is partly consumed within 
+the SEZ and substantially supplied to buyers in the DTA, including 
+State utilities.
+6.	
+Under the architecture of the Special Economic Zones Act, 2005 
+(“the SEZ Act”), an SEZ is afforded a special fiscal treatment to 
+encourage manufacturing and infrastructure creation. Section 30 of 
+the SEZ Act provides that any goods removed from an SEZ into the 
+DTA shall be chargeable to duties of customs “as if such goods had 
+been imported into India”. The intent is to maintain parity between 
+goods physically imported into India from abroad and goods cleared 
+from an SEZ into the domestic economy.
+
+6
+[2026] 2 S.C.R.
+Supreme Court Reports
+7.	
+Prior to 2009, electrical energy per se did not attract customs duty 
+on import. The relevant tariff entry treated imported electricity at a 
+nil rate. In consequence, though Section 30 of the SEZ Act deems 
+removals from the SEZ into the DTA to be subject to customs duty 
+“as if imported”, electrical energy moving from an SEZ to the DTA 
+bore, in practical terms, no customs duty. The fiscal neutrality in 
+relation to electricity was maintained in a different way.
+8.	
+Rule 47(3) of the SEZ Rules, 2006 recognises that power generated 
+in an SEZ may also be supplied to the DTA. To prevent misuse of 
+duty-free inputs, Rule 47(3) provides that where electricity produced 
+using duty-free inputs in the SEZ is cleared to the DTA, the SEZ unit 
+would have to make good the customs duty benefit on that proportion 
+of inputs relatable to the electricity so supplied out of the zone. In 
+effect, the law captured the customs component in the inputs (for 
+example, imported coal) to the extent the resulting electricity left the 
+SEZ. The law did not, however, impose an independent customs 
+duty on the electricity itself.
+9.	
+Matters changed in 2010. In the Union Budget of that year, the 
+Central Government introduced a fiscal measure designed to impose 
+customs duty on electrical energy cleared from an SEZ to the DTA. 
+Clause 60 of the Finance Bill, 2010 (later enacted in the Finance 
+Act, 2010) introduced changes to the general customs exemption 
+notification regime such that electrical energy removed from an SEZ 
+to the DTA would become liable to duty. What is of significance is 
+that this was stated to operate retrospectively from 26 June 2009.
+10.	 In anticipation of this change, on 27 February 2010, the Central 
+Government issued Notification No. 25/2010-Cus. What this 
+notification purported to do was, in form, to “grant an exemption”; in 
+substance, it introduced a liability. It stipulated that electrical energy 
+cleared from an SEZ to the DTA would suffer customs duty at 16% 
+ad valorem, with retrospective effect from 26 June 2009. On the very 
+footing of this notification, the authorities raised demands upon the 
+appellant for payment of duty at 16%, not merely prospectively but 
+going back to June 2009.
+11.	 The appellant challenged this levy by filing a writ petition before the 
+High Court of Gujarat in 2010. The challenge was to the legality and 
+constitutional validity of the impost on electrical energy so cleared. 
+During the pendency of the writ petition, the High Court granted 
+
+[2026] 2 S.C.R. 
+7
+Adani Power Ltd. & Anr v. Union of India & Ors.
+interim relief on 6 May 2010. The appellant was permitted to continue 
+to clear electricity from the SEZ into the DTA without payment of 
+the disputed duty, subject to furnishing a bank guarantee to secure 
+the amount in dispute. The appellant furnished the bank guarantee 
+accordingly. Thus, though immediate cash outflow was avoided, the 
+alleged liability stood secured.
+12.	 While the writ petition remained pending, the Union altered the duty 
+structure. With effect from 16 September 2010, by Notification No. 
+91/2010-Cus., the earlier 16% ad valorem duty was replaced by a 
+specific-rate duty of ₹0.10 (ten paise) per unit of electrical energy 
+cleared from the SEZ to the DTA. Later, with effect from 18 April 
+2012, by Notification No. 26/2012-Cus., this was further reduced to 
+₹0.03 (three paise) per unit. These subsequent notifications functioned 
+prospectively. They did not, however, undo the retrospective 
+component of Notification No. 25/2010-Cus. for the period 26 June 
+2009 to 15 September 2010.
+13.	 The effect of this shift was twofold. First, for the period 26 June 
+2009 to 15 September 2010, the authorities asserted a retrospective 
+customs duty at 16% ad valorem under Notification No. 25/2010-
+Cus. Secondly, for the period thereafter, the appellant was required 
+to pay, and did pay, a per-unit customs duty on electrical energy 
+cleared from the SEZ to the DTA, initially at ten paise per unit and 
+later at three paise per unit, pursuant to Notification Nos. 91/2010-
+Cus. and 26/2012-Cus.
+14.	 The appellant persisted with its challenge, maintaining that no customs 
+duty at all could be lawfully imposed on the clearance of electrical 
+energy from an SEZ into the DTA, having regard to the statutory 
+scheme and constitutional limitations. The writ petition came to be 
+finally heard by a Division Bench of the Gujarat High Court, which, 
+by a judgment dated 15 July 2015, allowed the Writ petition.
+15.	 The High Court’s 2015 judgment is central or pivotal to the case on 
+hand. The High Court held, first, that the statutory charge for customs 
+duty lies in Section 12 of the Customs Act, 1962, read with Entry 83 
+of List I of the Seventh Schedule. Section 12 contemplates a levy 
+on goods “imported into India”. The High Court found that electrical 
+energy generated within India in an SEZ and wheeled to buyers in 
+the DTA is not, in substance, a case of “import into India”. An SEZ, 
+while fiscally distinct in treatment, is not a foreign territory. The 
+
+8
+[2026] 2 S.C.R.
+Supreme Court Reports
+legal fiction in Section 30 of the SEZ Act (“as if imported”) allows 
+ascertainment of the rate of duty applicable to comparable imports; 
+it does not convert intra-national supply of electricity into an act of 
+import. There was, therefore, no identifiable charging event to attract 
+customs duty under Section 12 in respect of such electricity.
+16.	 The High Court held, secondly, that Notification No. 25/2010-Cus., 
+though couched as an “exemption” notification, in truth operated as an 
+instrument to impose duty. Section 25 of the Customs Act empowers 
+the Central Government to exempt, in whole or in part, goods from 
+duty that is otherwise leviable. That provision is beneficent in nature. It 
+is a power to relax, not a power to create or levy tax. The High Court 
+concluded that the Union could not, under the colour of exercising 
+an exemption power, introduce a new levy at 16% ad valorem and 
+then apply it retrospectively. The notification was, therefore, beyond 
+the source of power: a colourable exercise of delegated authority.
+17.	 The High Court held, thirdly, that the retrospective fastening of a 16% 
+levy from 26 June 2009 violated the discipline of Article 265 of the 
+Constitution which declares that no tax shall be levied or collected 
+except by authority of law. The Court found that the executive could 
+not, by subordinate legislation, retrospectively cast a tax liability for 
+a past period absent of a clear charging sanction from Parliament. 
+Once the basic levy was itself ultra vires, its retrospective application 
+necessarily fails.
+18.	 The High Court held, fourthly, that the structure of the levy created an 
+arbitrary and unfair double burden. The SEZ Rules already ensured 
+that, to the extent electricity left the zone for the DTA, the benefit of 
+duty-free inputs was clawed back. If, in addition, customs duty were 
+again recovered on the electricity so supplied, the same economic 
+stream i.e., generation and sale of power would be subjected twice to 
+customs incidence: once through neutralisation of duty on inputs, and 
+again on clearance of the output. That, the Court held, was arbitrary.
+19.	 For these reasons, the High Court in 2015 struck down the levy of 
+customs duty on electrical energy cleared by the appellant from its 
+SEZ unit into the DTA for the period 26 June 2009 to 15 September 
+2010. The offending notification and the enabling clause in the 
+Finance Act were quashed to that extent as being ultra vires both the 
+Customs Act and the Constitution. The appellant’s bank guarantee 
+was directed to be released. The High Court thus, in substance, 
+
+[2026] 2 S.C.R. 
+9
+Adani Power Ltd. & Anr v. Union of India & Ors.
+declared that, on the statutory scheme as it then stood, customs 
+duty could not be demanded on the appellant’s SEZ-to-DTA power 
+clearances.
+20.	 The Union of India carried the matter to this Court. On 20 November 
+2015, this Court declined to interfere with the judgment of the High 
+Court. A subsequent review petition filed by the Union of India was 
+dismissed in April 2016. The declaration of law made by the High 
+Court, therefore, attained finality at least as between the parties, and 
+in practical terms within the territorial jurisdiction of that High Court.
+21.	 Thereafter, with effect from 16 February 2016, the Union issued 
+Notification No. 9/2016-Cus. Under this measure, clearances of 
+electrical energy from certain large SEZ-based generating stations 
+(including the appellant’s, which has capacity in excess of 1000 MW 
+and was approved prior to 27 February 2009) into the DTA were 
+placed at a nil rate of customs duty. Thus, prospectively from 16 
+February 2016, the levy itself was withdrawn insofar as the appellant 
+was concerned.
+22.	 What remained live, however, was the period between 16 September 
+2010 and 15 February 2016. For that period, the appellant had 
+paid per-unit customs duty at ten paise and three paise pursuant to 
+Notification Nos. 91/2010-Cus. and 26/2012-Cus. respectively. After 
+the 2015 judgment, the appellant sought refund of those amounts, 
+contending that once the High Court had declared that no customs 
+duty could be imposed on SEZ–to–DTA electricity clearances, any 
+amount collected under the same head, though at a different rate 
+and prospectively, were liable to be refunded.
+23.	 The appellant thereafter instituted Special Civil Application No. 2233 
+of 2016 before the High Court of Gujarat. In the said writ petition, 
+the appellant prayed for (i) a declaration that no customs duty was 
+leviable on clearances of electricity from its SEZ unit to the DTA for 
+the subsequent period as well; (ii) directions restraining the authorities 
+from seeking to recover such duty; and (iii) consequential refund of 
+the amounts already deposited under protest towards such levy for 
+the period after 15 September 2010 and prior to 16 February 2016.
+24.	 The writ petition of 2016 came to be adjudicated by a Division Bench 
+of the High Court and by judgment dated 28 June 2019, which is 
+the subject of this appeal, the High Court dismissed the writ petition.
+
+10
+[2026] 2 S.C.R.
+Supreme Court Reports
+25.	 The reasoning of the High Court in 2019 was as follows: 
+The Court held that the 2015 judgment dealt with Notification No. 
+25/2010-Cus., which had imposed the 16% retrospective levy up 
+to 15 September 2010, and that the relief granted was explicitly 
+limited to said period only. The High Court observed that subsequent 
+notifications, namely, Notification No. 91/2010-Cus. prescribing ten 
+paise per unit, and Notification No. 26/2012-Cus. prescribing three 
+paise per unit were not expressly struck down in the 2015 proceedings. 
+The Court stated that unless the validity of those later notifications 
+was specifically challenged, no refund could be ordered in respect 
+of amounts paid thereunder. On that basis, the High Court refused 
+to direct refund, and it declined to extend the protective declaration 
+of 2015 into the later period.
+26.	 It is this approach which is under challenge before us.
+II.	
+SUBMISSIONS OF THE PARTIES 
+27.	 Shri. Chidambaram, Learned senior counsel appearing for the 
+appellant submitted that the High Court, under the impugned 
+judgment, failed to give effect to its own prior declaration of law. It 
+was urged that the judgment of 15 July 2015 did not merely grant 
+a one-time relief confined to a single notification; rather, it declared, 
+as a matter of principle, that on the statutory framework as it then 
+existed, customs duty could not be levied on the clearance of 
+electrical energy from an SEZ to the DTA. That declaration, affirmed 
+by this Court, was binding on the subsequent co-ordinate Bench of 
+the High Court. It was submitted that there was no change in the 
+law or in the underlying facts between 15 September 2010 and 15 
+February 2016. Consequently, the same legal consequence ought 
+to have followed for that entire period.
+28.	 Learned senior counsel further submitted that Section 30 of the 
+SEZ Act requires parity of treatment. Goods removed from an SEZ 
+into the DTA are to bear the same customs duty “as if imported into 
+India”. Imported electrical energy has consistently stood at a nil rate 
+of customs duty. Therefore, electrical energy cleared from an SEZ 
+to the DTA must equally attract nil customs duty. Imposing duty on 
+SEZ-generated electricity while imported electricity carries no duty 
+produces an artificial and constitutionally suspect classification. It was 
+urged that such a differential treatment directly defeats the object of 
+the SEZ Act and violates Article 14 of the Constitution.
+
+[2026] 2 S.C.R. 
+11
+Adani Power Ltd. & Anr v. Union of India & Ors.
+29.	 It was next contended for the appellant that the Union could not, by 
+issuing successive notifications at progressively lower rates (16% 
+ad valorem; thereafter ten paise per unit; thereafter three paise 
+per unit), achieve indirectly that which the High Court had already 
+pronounced to be ultra vires. The appellant referred to the doctrine 
+that a levy which is fundamentally unauthorised does not become 
+lawful merely because the rate is altered, or because it is framed 
+as prospective rather than retrospective. If the source is bad, every 
+derivative iteration is equally bad.
+30.	 Learned senior counsel also drew attention to the manner in which 
+the levy was originally structured. Notification No. 25/2010-Cus. 
+purported, on its face, to be an “exemption” notification. In reality, 
+it operated as a charging instrument, introducing for the first time a 
+16% duty on electricity routed from the SEZ to the DTA, and doing 
+so with retrospective effect. It was submitted that the power conferred 
+by Section 25 of the Customs Act is a power to exempt goods from 
+duty otherwise leviable; it is not a power to create a fresh levy in 
+the first place. The use of an exemption notification to impose duty 
+was, therefore, a colourable exercise of delegated legislation and 
+fell foul of administrative law principles. According to the appellant, 
+the High Court in 2015 correctly interdicted that exercise, and the 
+same vice afflicts the subsequent notifications.
+31.	 Learned senior counsel for the appellant submitted that the High 
+Court in 2019 erred in accepting the plea of the respondents that 
+no relief could be granted unless the subsequent notifications (Nos. 
+91/2010-Cus. and 26/2012-Cus.) were specifically impugned. It 
+was urged that the appellant’s 2016 writ petition was not a fresh 
+challenge launched in isolation; it was a sequel proceeding seeking 
+enforcement of the 2015 declaration of law and refund of amounts 
+deposited under protest pursuant to a levy that had already been 
+held to be without authority of law. Once the foundational illegality 
+of the levy was judicially determined, the State could not insist that 
+each successive notification, though resting on the same ultra vires 
+premise, must be struck down afresh before relief could follow. 
+Such a view, it was submitted, would elevate procedural form over 
+substantive illegality and would compel endless cycles of litigation 
+on the same point.
+32.	 It was lastly urged on behalf of the appellant that the doctrine of 
+finality in adjudication, and the principle that litigation must at some 
+
+12
+[2026] 2 S.C.R.
+Supreme Court Reports
+stage come to an end, require that constitutional courts give effect 
+to their own pronouncements in substance and not permit executive 
+re-litigation of what has already been decided. The appellant, having 
+succeeded in 2015 and having seen that decision withstand challenge 
+before this Court, ought not to have been denied consequential relief 
+merely because the levy later reappeared at a different numerical rate.
+33.	 Per contra, Shri. Raghav Shankar , the learned Additional Solicitor 
+General, appearing for the Union of India and the customs authorities, 
+supported the impugned judgment. The thrust of the Union’s 
+submission was that the 2015 judgment of the High Court was 
+concerned with Notification No. 25/2010-Cus., which imposed a levy 
+of 16% ad valorem duty with retrospective effect up to 15 September 
+2010. It is further submitted that the relief granted in that case was 
+expressly circumscribed to that period.
+34.	 The learned Additional Solicitor General contended that the 
+subsequent notifications, namely Notification No. 91/2010-Cus. (ten 
+paise per unit) and Notification No. 26/2012-Cus. (three paise per 
+unit), operated prospectively for later periods and at nominal specific 
+rates. According to the Union, those notifications represented a 
+different fiscal measure with a distinct objective: namely, to recoup, 
+in part, the customs duty benefit on duty-free inputs where power 
+so generated was supplied into the DTA. It was urged that these 
+later notifications were not placed under specific challenge in the 
+first writ petition decided in 2015.
+35.	 The Union further submitted that even in the appellant’s 2016 writ 
+petition, the later notifications were not, in form, separately impugned. 
+On that basis, it was contended that the High Court in 2019 was 
+correct in refusing to quash those notifications or to direct refund 
+of the amounts paid pursuant thereto, as no court can strike down 
+a statutory instrument or direct restitution on its basis unless that 
+instrument is first subjected to judicial review.
+36.	 It was also submitted on behalf of Union of India that the appellant had, 
+for years, paid the reduced per-unit duty without protest in respect of 
+the post-September 2010 period, and that a belated attempt to seek 
+refund, after success in respect of an earlier, different notification, 
+ought to be viewed with circumspection.
+37.	 It was lastly submitted that, with effect from 16 February 2016, the 
+policy had already been calibrated by Notification No. 9/2016-Cus., 
+
+[2026] 2 S.C.R. 
+13
+Adani Power Ltd. & Anr v. Union of India & Ors.
+which exempted power from large SEZ units such as the appellant’s. 
+Thus, according to the Union, the grievance substantially stood 
+redressed prospectively. What remained, in its submission, was 
+a monetary claim for an intervening period, which the High Court 
+correctly declined to entertain in the absence of a specific and direct 
+challenge to the notifications governing that period on these grounds 
+he sought for rejection of the appeal.
+III.	
+ISSUES FOR DETERMINATION
+38.	 From the rival submissions and the record before us, the following 
+questions arise for consideration:
+I.	
+Firstly, what, in law, did the Gujarat High Court decide in its 
+judgment dated 15 July 2015, and what is the true scope of 
+that decision?
+II.	
+Secondly, whether, in the period subsequent to 15 September 
+2010 and prior to 16 February 2016, there was any material 
+changes in the statutory position or factual footing that would 
+justify a different result from that arrived at in 2015 judgment?
+III.	
+Thirdly, whether the High Court, in its impugned judgment of 
+28 June 2019, was justified in holding that no relief could be 
+granted to the appellant in the absence of a specific and fresh 
+challenge to Notification Nos. 91/2010-Cus. and 26/2012-Cus?
+IV.	
+Fourthly, whether, in view of the 2015 declaration of law and 
+its affirmation, the High Court in 2019 was at liberty, being a 
+co-ordinate Bench, to deny relief by narrowing the effect of the 
+earlier pronouncement?
+V.	
+Fifthly, what order/direction?
+IV.	
+ANALYSIS
+39.	 Before proceeding with the analysis of the issues framed above, it 
+would be necessary to reproduce certain relevant statutory provisions 
+which would be necessary for the adjudication of these issues. 
+Accordingly we have reproduced all the relevant statutory provisions. 
+40.	 Section 12 of the Customs Act, 1962 for reference:
+12. Dutiable goods.—(1) Except as otherwise provided 
+in this Act, or any other law for the time being in force, 
+
+14
+[2026] 2 S.C.R.
+Supreme Court Reports
+duties of customs shall be levied at such rates as may 
+be specified under the Customs Tariff Act, 1975 (51 of 
+1975), or any other law for the time being in force, on 
+goods imported into, or exported from, India. (2) The 
+provisions of sub-section (1) shall apply in respect of all 
+goods belonging to Government as they apply in respect 
+of goods not belonging to Government.
+41.	 Section 30 of The Special Economic Zones Act, 2005 for reference:
+30. Domestic clearance by Units.—Subject to the conditions 
+specified in the rules made by the Central Government 
+in this behalf,— (a) any goods removed from a Special 
+Economic Zone to the Domestic Tariff Area shall be 
+chargeable to duties of customs including anti-dumping, 
+countervailing and safeguard duties under the Customs 
+Tariff Act, 1975 (51 of 1975), where applicable, as leviable 
+on such goods when imported; and (b) the rate of duty 
+and tariff valuation, if any, applicable to goods removed 
+from a Special Economic Zone shall be at the rate and 
+tariff valuation in force as on the date of such removal, 
+and where such date is not ascertainable, on the date of 
+payment of duty.
+42.	 Rule 47 of The Special Economic Zones Rules, 2006 for reference:
+47. Sales in Domestic Tariff Area—
+(1) A Unit may sell goods and services including rejects 
+or wastes or scraps or remnants or broken diamonds or 
+by products arising during the manufacturing process or 
+in connection therewith, in the Domestic Tariff Area on 
+payment of Customs duties under section 30, subject to 
+the following conditions, namely-
+(a) Domestic Tariff Area sale under sub-rule (1), of 
+goods manufactured by a Unit shall be on submission 
+of import licence, as applicable to the import of similar 
+goods into India, under the provisions of the Foreign 
+Trade Policy: 
+Provided that goods imported or procured from the 
+Domestic Tariff Area and sold as such without being 
+
+[2026] 2 S.C.R. 
+15
+Adani Power Ltd. & Anr v. Union of India & Ors.
+subjected to any manufacturing process shall be 
+subject to the provisions of the Foreign Trade Policy 
+as applicable to import of similar goods into India. 
+(b) Domestic Tariff Area sale under sub-rule (1) of 
+rejects or scrap or waste or remnants arising during 
+the manufacturing process or in connection there-with 
+by the Unit shall not be subject to the provisions of 
+the Import Trade Control (Harmonized System) of 
+Classification of Export and Import Items: 
+Provided that the Central Government may notify 
+restrictions, as it deems fit on all or any class of such 
+goods mentioned under this clause. 
+(2) Scrap or dust or sweeping of gold or silver or platinum 
+may be sent to Government of India Mint or Private Mint 
+from a Unit and returned in standard bars in accordance 
+with the procedure specified by Customs authorities or may 
+be sold in the Domestic Tariff Area on payment of duty on 
+the gold or silver or platinum content in the said scrap: 
+Provided that the value of samples of gold or silver 
+or platinum sweepings or scrap or dust taken at the 
+time of clearance and sent to the Government Mint 
+or Private Mint for assaying and assessment shall 
+be finalized on the basis of reports received from the 
+Government Mint or Private Mint, as the case may be. 
+(3) Surplus power generated in a Special Economic Zone’s 
+Developer’s Power Plant in the SEZ or Unit’s captive 
+power plant or diesel generating set may be transferred to 
+Domestic Tariff Area on payment of duty on consumables 
+and raw materials used for generation of power subject 
+to the following conditions, namely: 
+(a) proposal for sale of surplus power received by 
+the Development Commissioner shall be examined in 
+consultation with the State Electricity Board, wherever 
+considered necessary: Provided that consultation with 
+State Electricity Board shall not be required for sale 
+of power within the same Special Economic Zone; 
+
+16
+[2026] 2 S.C.R.
+Supreme Court Reports
+(b) norms for production of a unit of power shall be 
+approved by the Approval Committee; 
+(c) sale of surplus power to other Unit or Developer 
+in the same or other Special Economic Zone or 
+to Export Oriented Unit or to Electronic Hardware 
+Technology Park Unit or to Software Technology Park 
+Unit or Bio-technology Park Unit, shall be without 
+payment of duty;
+(d) for sale of surplus power in Domestic Tariff 
+Area, the Unit shall obtain permission from the 
+Specified Officer and the State Government authority 
+concerned;
+(e) duty on sale of surplus power to the Domestic 
+Tariff Area shall be as provided for in this rule. 
+(4) Valuation and assessment of the goods cleared into 
+Domestic Tariff Area shall be made in accordance with 
+Customs Act and rules made there under. 160
+(5) Refund, Demand, Adjudication, Review and Appeal 
+with regard to matters relating to authorised operations 
+under Special Economic Zones Act, 2005, transactions, 
+and goods and services related thereto shall be made by 
+the Jurisdictional Customs and Central Excise Authorities 
+in accordance with the relevant provisions contained in 
+the Customs Act, 1962, the Central Excise Act, 1944, and 
+the Finance Act, 1994 and the rules made there under or 
+the notifications issued there under.
+43.	 Section 25 of The Customs Act, 1962 for reference:
+25. Power to grant exemption from duty.—(1) If the Central 
+Government is satisfied that it is necessary in the public 
+interest so to do, it may, by notification in the Official 
+Gazette, exempt generally either absolutely or subject to 
+such conditions (to be fulfilled before or after clearance) as 
+may be specified in the notification goods of any specified 
+description from the whole or any part of duty of customs 
+leviable thereon. 
+
+[2026] 2 S.C.R. 
+17
+Adani Power Ltd. & Anr v. Union of India & Ors.
+(2) If the Central Government is satisfied that it is necessary 
+in the public interest so to do, it may, may, by special order 
+in each case, exempt from the payment of duty, under 
+circumstances of an exceptional nature to be stated in 
+such order, any goods on which duty is leviable.
+(2A) The Central Government may, if it considers it 
+necessary or expedient so to do for the purpose purpose of 
+clarifying the scope or applicability of any notification issued 
+under sub-section (1) or order issued under sub-section 
+(2), insert an explanation in such notification or order, as 
+the case may be, by notification in the Official Gazette, at 
+any time within one year of issue of the notification under 
+sub-section (1) or order under sub-section (2), and every 
+such explanation shall have effect as if it had always 
+been the part of the first such notification or order, as the 
+case may be.
+(3) An exemption under sub-section (1) or sub-section 
+(2) in respect of any goods from any part of the duty of 
+customs leviable thereon (the duty of customs leviable 
+thereon being hereinafter referred to as the statutory 
+duty) may be granted by providing for the levy of a duty 
+on such goods at a rate expressed in a form or method 
+different from the form or method in which the statutory 
+duty is leviable and any exemption granted in relation 
+to any goods in the manner provided in this sub-section 
+shall have effect subject to the condition that the duty 
+of customs chargeable on such goods shall in no case 
+exceed the statutory duty.
+Explanation.—”Form or method‖, in relation to a rate of 
+duty of customs, means the basis, namely, valuation, 
+weight, number, length, area, volume or other measure 
+with reference to which the duty is leviable.
+(4) Every notification issued under sub-section (1) or sub-
+section (2A) shall, unless otherwise provided, come into 
+force on the date of its issue by the Central Government 
+for publication in the Official Gazette.
+* * * * * 
+
+18
+[2026] 2 S.C.R.
+Supreme Court Reports
+(6) Notwithstanding anything contained in this Act, no duty 
+shall be collected if the amount of duty leviable is equal 
+to, or less than, one hundred rupees.
+(7) The mineral oils (including petroleum and natural gas) 
+extracted or produced in the continental continental shelf 
+of India or exclusive economic zone of India as referred 
+to in section 6 and section 7, respectively, of the Territorial 
+Waters, Continental Shelf, Exclusive Economic Zone and 
+Other Maritime Zones Act, 1976 (80 of 1976), and imported 
+prior to the 7th day of February, 2002 shall be deemed to 
+be and shall always be deemed to have been exempted 
+from the whole of the duties of customs leviable on such 
+mineral oils and accordingly, notwithstanding anything 
+contained in any judgment, decree or order of any court, 
+tribunal or other authority, no suit or other proceedings 
+in respect of such mineral oils shall be maintained or 
+continued in any court, tribunal or other authority. 
+(8) Notwithstanding the exemption provided under sub-
+section (7), no refund of duties of customs paid in respect 
+of the mineral oils specified therein shall be made.
+RE: QUESTION I – SCOPE AND EFFECT OF THE 2015 JUDGMENT
+44.	 We turn first to the 2015 judgment. The High Court there did four things 
+of significance. It examined (i) the constitutional and statutory basis 
+of the levy; (ii) the character of the notification said to impose it; (iii) 
+the retrospective enforcement of that levy; and (iv) the arbitrariness 
+inherent in the structure of the levy.
+45.	 On the constitutional and statutory basis, the High Court held that 
+the levy was ultra vires because there was, in substance, no “import 
+into India” that could trigger the charge under Section 12 of the 
+Customs Act. This went to the very root of the matter. The Court 
+was not deciding a mere technical irregularity. It held that the alleged 
+taxable event did not exist in law. The absence of a taxable event 
+is a jurisdictional defect.
+46.	 On the character of the notification, the High Court found that the 
+Union had attempted, by Notification No. 25/2010-Cus., to employ 
+the language of an “exemption” notification to in fact impose and 
+
+[2026] 2 S.C.R. 
+19
+Adani Power Ltd. & Anr v. Union of India & Ors.
+quantify a new levy of 16% on SEZ–to–DTA power clearances. The 
+High Court held that Section 25 of the Customs Act is a power to 
+relax duty, not a power to invent it. This was a finding on the limits 
+of delegated legislation.
+47.	 On retrospectivity, the High Court found that fastening a 16% ad 
+valorem duty with effect from 26 June 2009 through delegated action 
+offended Article 265 of the Constitution, which requires authority of 
+law for every tax levy and collection.
+48.	 On arbitrariness, the High Court found that the structure of the levy 
+burdened the appellant twice over i.e., once by drawback of duty 
+on inputs under Rule 47(3) of the SEZ Rules, and then again by 
+demanding customs duty on the final electricity output itself.
+49.	 These findings were not casual or incidental. They were the foundation 
+upon which the High Court granted relief. The Court did not say 
+merely that Notification No. 25/2010-Cus. Suffered from a drafting 
+defect. It said, in substance: (i) there is no lawful charging event in 
+respect of this commodity when cleared from an SEZ to the DTA; 
+(ii) the Union cannot use an exemption notification to create a duty 
+that Parliament has not imposed; (iii) retrospective demand without 
+statutory sanction violates Article 265; and (iv) the structure produces 
+arbitrary double burden.
+50.	 We are of the clear view that these four propositions together 
+constitute the ratio decidendi of the 2015 judgment. It follows that the 
+2015 judgment was not confined, in principle, to a single notification 
+or to a particular cut-off date. The declaration of law extended to the 
+very authority to levy customs duty on electrical energy cleared from 
+an SEZ to the DTA in the statutory setting then prevailing. Absence a 
+change in that setting, that declaration governed all periods standing 
+on the same footing.
+51.	 Accordingly we hold that the judgment of the Gujarat High Court dated 
+15 July 2015 was not a limited adjudication confined to the validity of 
+one notification or to a closed span of time. It was a declaration of 
+law founded on constitutional and statutory interpretation, determining 
+that on the then-existing legal framework no customs duty could be 
+levied on electrical energy transmitted from an SEZ to the DTA. The 
+reasoning of said decision went to the very root of the taxing power 
+i.e., it identified the absence of a charging event, the misuse of the 
+
+20
+[2026] 2 S.C.R.
+Supreme Court Reports
+exemption power, and the inherent arbitrariness of the scheme. Once 
+such a declaration of law was rendered and affirmed by this Court, 
+it acquired binding normative force and governed all transactions 
+resting on the same legal footing. The essence of that pronouncement 
+was not temporal but structural; it struck at the authority to levy, 
+not merely at the rate or the period. The 2015 judgment therefore 
+stands as a general exposition of law, and its ratio decidendi covers 
+the subsequent period unless a demonstrable change in the legal 
+foundation is shown.
+RE: QUESTION 2 – WHETHER ANY CHANGE IN STATUTORY OR 
+FACTUAL FOOTING JUSTIFIED A DIFFERENT RESULT
+52.	 We next turn to an aspect which, in our view, requires emphasis: the 
+use of an “exemption” notification to impose, in substance, a levy.
+53.	 Section 25 of the Customs Act authorises the Central Government, 
+if it is satisfied that it is necessary in the public interest so to do, to 
+exempt generally either absolutely or subject to conditions goods of 
+any specified description from the whole or any part of customs duty 
+leviable thereon. The premise of Section 25 is that there is a duty 
+“leviable thereon” in the first place. The function of an exemption 
+notification is, therefore, to relax or remit a duty already otherwise 
+attracted by law.
+54.	 What Notification No. 25/2010-Cus. did, however, was precisely 
+the reverse. It purported to declare, for the first time, that electrical 
+energy cleared from an SEZ to the DTA would be subjected to 
+customs duty at the rate of 16% ad valorem. The instrument was 
+dressed in the garb of an exemption, but its true operation was to 
+create a duty where none existed, and to quantify that duty, and to 
+apply it retrospectively.
+55.	 In administrative law terms, this is a classic instance of a colourable 
+exercise of delegated power. A delegate cannot do indirectly what it 
+has no authority to do directly. The power to exempt is not a power 
+to tax. The two stand on opposite constitutional planes. The essential 
+legislative function of imposing a tax or duty rests with Parliament 
+and must be located in a charging provision. The executive cannot, 
+by subordinate instrument, enlarge the field of taxation under the 
+pretext of tailoring an exemption.
+
+[2026] 2 S.C.R. 
+21
+Adani Power Ltd. & Anr v. Union of India & Ors.
+56.	 We consider it necessary to state this principle clearly. Delegated 
+legislation is subject to judicial review not only for substantive 
+unreasonableness, but also for purpose. Where the dominant purpose 
+for which a delegated power is conferred is departed from, and the 
+power is pressed into service to achieve an end for which it was 
+never granted, the exercise is ultra vires. The immunity of a fiscal 
+notification from scrutiny is no greater than that of any other form 
+of subordinate legislation.
+57.	 The High Court in 2015 correctly detected that inversion: a provision 
+designed to grant relief (exemption) had been inverted to impose a 
+burden (levy). Such inversion is not a mere irregularity; it is an illegality 
+at source. The said finding of the High Court is in consonance with 
+settled principles of law declared by this Court. Hence, we affirm 
+said finding.
+58.	 That conclusion has a direct bearing on the respondent’s present 
+defence. If the very manner in which the levy was introduced was 
+beyond the scope of delegated authority, then subsequent notifications 
+which continue to demand duty on the same taxable fiction namely, 
+that SEZ-to-DTA electricity is to be treated as exigible to customs duty 
+cannot be insulated merely because they altered the rate from 16% 
+to ten paise to three paise, or because they framed the imposition 
+of customs duty prospectively. In other words, where the root is 
+ultra vires, the branch cannot claim legitimacy by altering its foliage. 
+59.	 We must also underline a basic proposition of fiscal jurisprudence: 
+a tax or duty can only be levied where there is (i) a clear charging 
+provision enacted by competent legislature; (ii) an identifiable taxable 
+event; and (iii) a statutory rate-making mechanism. The machinery 
+provisions may regulate assessment and collection. Exemption 
+notifications may relax or remit the levy. But neither machinery 
+provisions nor exemption notifications can substitute for the absence 
+of a charge.
+60.	 Section 12 of the Customs Act is the charging provision. It contemplates 
+a duty on goods imported into India. Section 30 of the SEZ Act says 
+that goods cleared from an SEZ to the DTA “shall be chargeable to 
+duties of customs as leviable on such goods when imported”. This is 
+a parity clause. It says: treat SEZ-to-DTA clearances as if they bore 
+the same duty as comparable imports. It does not say: regard every 
+
+22
+[2026] 2 S.C.R.
+Supreme Court Reports
+SEZ-to-DTA clearance as an “import into India” for all purposes of 
+Section 12, irrespective of physical reality, and irrespective of whether 
+such imports actually bear any duty.
+61.	 The High Court in 2015 correctly held that electrical energy generated 
+within India and wheeled into the DTA is not, in truth, a case of 
+import into India. The deeming fiction of Section 30 of the SEZ Act 
+is intended to align duty treatment, not to expand the scope of the 
+charging section beyond what Parliament has enacted. A deeming 
+fiction cannot be pressed beyond the purpose for which it was enacted.
+62.	 Put differently: Section 30 of the SEZ Act does not create a new 
+customs levy. It only says that if (and to the extent that) such goods 
+would have attracted customs duty had they physically crossed the 
+border, then the same incidence will apply when those goods move 
+from the SEZ to the DTA. If, on actual import, electrical energy attracts 
+no customs duty, then, by force of Section 30, the same result i.e., 
+no customs duty must follow for SEZ clearances of electrical energy. 
+Nothing in Section 30 either authorises or contemplates the imposition 
+of a fresh or differential levy singling out SEZ-generated power.
+63.	 This parity logic sits at the centre of the scheme. Imported electricity 
+bore no customs duty. SEZ electricity a like commodity was 
+nonetheless subjected to duty. That differential treatment violates 
+both the statutory parity mandated by Section 30 of the SEZ Act 
+and the equality guarantee under Article 14. The High Court in 2015 
+captured this, and we reaffirm it.
+64.	 The Union urged before us that the per-unit duties of ten paise 
+and three paise were meant to recoup, in part, the benefit of duty-
+free inputs such as imported coal. That argument does not survive 
+scrutiny. Rule 47(3) of the SEZ Rules already obliges the SEZ power 
+generator, when electricity leaves the SEZ, to neutralise the customs 
+duty foregone on inputs to that extent. The scheme already accounts 
+for input duty benefit. Having so neutralised, to then impose an 
+additional customs duty on the electricity output itself is to double 
+count. That offends fairness and constitutional discipline.
+65.	 On a plain application of the principles governing the power to tax, 
+we are satisfied that the levy on electricity generated in the Special 
+Economic Zone and supplied to the Domestic Tariff Area, as sought to 
+be enforced against the appellant, has no sanction in law. The charge 
+
+[2026] 2 S.C.R. 
+23
+Adani Power Ltd. & Anr v. Union of India & Ors.
+does not find support in the statutory scheme. We also find that, 
+even after the decision rendered in 2015, there has been no change 
+either in the law or in the relevant facts which could justify taking a 
+view different from the one already taken. The legal position having 
+remained the same, the conclusion reached earlier must continue to 
+hold the field. Section 30 of the SEZ Act continued unchanged; the 
+Customs Tariff continued to prescribe a nil rate on imported electrical 
+energy; and the constitutional parameters of Articles 14 and 265 
+remained constant. The subsequent notifications merely varied the 
+form and rate of duty; they did not cure the fundamental absence of 
+authority to tax. The attempt of the executive to reintroduce the very 
+same levy through the route of an “exemption” notification cannot 
+be sustained. What could not be done directly has been sought to 
+be achieved indirectly, which is impermissible in law and contrary to 
+the limits of delegated power. Section 25 of the Customs Act confers 
+a power to exempt, not to impose. To use it as an instrument of 
+levy transgresses the limits of delegated legislation and amounts 
+to usurpation of the legislative function. The Court’s duty of judicial 
+review extends to restraining such misuse of delegated authority. 
+Hence, in substance and in law, the position after 2015 remained 
+identical to what it was before; the same illegality persisted, and the 
+same conclusion necessarily follows.
+RE: QUESTION III – RE: GRANT OF RELIEF IN THE ABSENCE OF 
+A SEPARATE CHALLENGE TO THE EXEMPTION NOTIFICATIONS
+66.	 We now turn to what was pressed by the respondents both before the 
+High Court in 2019 and before us: namely, that the later notifications 
+(Notification No. 91/2010-Cus. prescribing ten paise per unit and 
+Notification No. 26/2012-Cus. prescribing three paise per unit) were 
+not specifically impugned by the appellant, and therefore, absent a 
+direct attack on their validity, no relief could be granted in respect 
+of amounts paid thereunder.
+67.	 We are unable to accept said contention. It proceeds on a 
+misconception of what was before the High Court in 2016 and what 
+was finally decided in 2015.
+68.	 The appellant’s 2016 writ petition was not an abstract attempt to 
+launch a fresh constitutional challenge to each successive notification 
+in isolation. It was a sequel proceeding. 
+
+24
+[2026] 2 S.C.R.
+Supreme Court Reports
+69.	 In administrative law, where a court of competent jurisdiction has 
+struck down the foundation of a levy as ultra vires, that declaration 
+renders all successive and derivative attempts to enforce the same 
+levy equally unenforceable, unless the statutory or factual basis has 
+materially changed. The State cannot defend the continuation of 
+the same vice by saying, this is a different notification number. The 
+Court is bound to look past the label and examine the substance.
+70.	 To insist that the appellant ought to have challenged Notification No. 
+91/2010-Cus. and Notification No. 26/2012-Cus. afresh, when those 
+notifications do no more than perpetuate the same unauthorised 
+levy in altered denomination, is to elevate form over substance. 
+Constitutional adjudication does not proceed on technical formalism 
+when illegality has already been declared in principle.
+71.	 This Court, while exercising jurisdiction under Article 136, and the 
+High Court, while exercising jurisdiction under Article 226, are vested 
+with ample power to mould appropriate relief. Once a levy has been 
+held to be beyond the authority of law, a constitutional court is not 
+expected to remain a silent spectator while the very same levy is 
+sought to be continued through successive or similar notifications. 
+The jurisdiction of a constitutional court is remedial in nature and 
+extends to ensuring that what has been declared unlawful is not 
+brought back in another form. The contention that “no relief can 
+be granted unless each successor notification is separately struck 
+down” is inconsistent with that remedial character, and would reward 
+repetition of illegality. We reject it.
+72.	 We also find that there is no material factual distinction between 
+the levy struck down in 2015 and the levy sought to be enforced 
+thereafter against the appellant for the period between 16 September 
+2010 and 15 February 2016. The commodity is the same (electrical 
+energy). The movement is the same (SEZ to DTA). The asserted 
+source of power is the same (customs levy under colour of Section 
+25 of the Customs Act read with Section 30 of the SEZ Act). The 
+only difference lies in the numerical rate and the period for which it 
+applies. Those differences do not cure the fundamental absence of 
+a lawful charging event and the misuse of an exemption mechanism 
+to impose duty. The levy is the same in character, and it is that 
+character which was condemned.
+
+[2026] 2 S.C.R. 
+25
+Adani Power Ltd. & Anr v. Union of India & Ors.
+73.	 In our view, the High Court, in its judgment of 2019, fell into error 
+in accepting the submission of the Union that the later notifications 
+continued to operate merely because they were not specifically set 
+aside in the decision of 2015. Once the levy itself had been held 
+to be without authority of law, its continuance through subsequent 
+notifications could not be sustained. The invalidity goes to the root 
+and does not depend upon the form or sequence of the notifications. 
+We reject the respondents’ contention that the appellant could not be 
+granted relief because the later notifications were not independently 
+impugned. 
+74.	 We accordingly hold that where a levy has been declared to be without 
+authority of law, a subsequent petition seeking enforcement of that 
+declaration and consequential relief cannot be treated as a fresh 
+challenge merely because the levy is sought to be continued under 
+later or similar notifications. In the absence of any new statutory 
+basis, such notifications do not create a new cause of action. 
+A constitutional court is entitled to grant effective relief without 
+insisting upon separate challenges to each such notification. 
+The High Court, in the impugned judgment of 2019, erred in 
+taking a contrary view.
+RE: QUESTION IV – EFFECT OF A BINDING DECLARATION ON 
+A LATER CO-ORDINATE BENCH
+75.	 There remains one further aspect of principle. The High Court’s 
+judgment of 15 July 2015 striking down the levy of customs duty on 
+SEZ-to-DTA electrical energy was delivered by a Division Bench of 
+that Court. The Union of India challenged that judgment before this 
+Court. This Court declined interference. The High Court’s judgment 
+thereby attained finality, both as between the parties and as a binding 
+declaration of law within that jurisdiction.
+76.	 The writ petition filed in 2016 by the appellant came to be heard 
+in 2019 by another Division Bench of the same High Court. That 
+Bench, while noting the existence of the 2015 judgment, proceeded 
+on the basis that the earlier decision was confined to Notification No. 
+25/2010-Cus. and to the period ending 15 September 2010. Having 
+so read it down, the Bench in 2019 declined to extend relief to what 
+it viewed as a “different” set of notifications.
+
+26
+[2026] 2 S.C.R.
+Supreme Court Reports
+77.	 The discipline expected of coordinate Benches does not permit such 
+an approach. This Court, in State of Uttar Pradesh v. Ajay Kumar 
+Sharma (2016) 15 SCC 289, has reiterated that once a coordinate 
+Bench of a High Court has settled a question of law, a subsequent 
+Bench of equal strength is bound to follow that view when confronted 
+with the same issue. If the later Bench believes that the earlier view 
+is so manifestly erroneous or inapplicable that it ought not to be 
+followed, the later Bench must refer the matter to a larger Bench 
+for reconsideration. What it cannot do is to sidestep or whittle down 
+the earlier pronouncement by confining it artificially or by treating it 
+as a fact-specific indulgence.
+78.	 The discipline of precedent is not a matter of personal predilection; 
+it is an institutional necessity. Stare decisis et non quieta movere 
+which means to stand by what is decided and not to disturb what 
+is settled, is a working rule which secures stability, predictability 
+and respect for judicial outcomes. The law cannot change with the 
+change of the Bench.
+79.	 In the present case, if the Division Bench in 2019 was of the opinion 
+that the 2015 decision could not, or ought not, apply to the later 
+notifications or to the later period, the proper course was to request 
+that the question be placed before a larger Bench of the High Court. 
+The Bench in 2019 did not do so. Instead, it narrowed the effect 
+of the 2015 judgment and declined relief for the subsequent years. 
+That course was impermissible. The 2019 Bench was bound by the 
+declaration of law in 2015, unless duly referred to a larger Bench.
+80.	 We accordingly hold that the Division Bench of 2019 acted contrary to 
+the settled doctrine of judicial discipline. When a coordinate Bench of 
+a High Court has already determined a question of law, a subsequent 
+Bench of equal strength is bound to follow that view; if it doubts its 
+correctness, the only permissible course is to refer the matter to a 
+larger Bench. This rule, has been reaffirmed by this Court in State of 
+U.P. v. Ajay Kumar Sharma (2016) 15 SCC 289, is not procedural 
+etiquette but a structural safeguard against judicial inconsistency. 
+The discipline of stare decisis ensures coherence and predictability 
+in law, which are indispensable to the legitimacy of adjudication. The 
+2019 Bench, by confining the earlier decision to a narrow time frame 
+without referring the matter to a larger Bench, effectively unsettled a 
+settled proposition and undermined the authority of precedent. Such 
+
+[2026] 2 S.C.R. 
+27
+Adani Power Ltd. & Anr v. Union of India & Ors.
+a course was impermissible. The coordinate Bench was duty-bound 
+to apply the ratio of the 2015 judgment to the appellant’s case, and 
+its failure to do so vitiates the impugned decision.
+81.	 We now turn to an aspect which goes beyond the immediate 
+dispute between the parties. The case also concerns the obligation 
+of the administration to give full effect to judicial decisions once 
+they have attained finality. The authority of the rule of law rests not 
+only in the pronouncement of judgments but equally in their proper 
+implementation. It is therefore necessary to briefly recall the principles 
+that govern the conduct of the executive after a court has finally 
+settled the legal position.
+82.	 When a High Court of competent jurisdiction declares a levy to be 
+ultra vires and unconstitutional, and this Court declines to interfere, 
+that declaration cannot be treated as a one-time indulgence for 
+a closed period. It is incumbent upon the authorities thereafter to 
+conform their conduct to the law so declared. They cannot, consistent 
+with constitutional discipline, continue to enforce the same levy for a 
+later period on the strength of slightly altered subordinate instruments 
+and then resist restitution on grounds of technical pleading.
+83.	 It is well settled that in the public interest there must be an end to 
+litigation. The appellant succeeded in 2015. The Union failed in its 
+challenge before this Court. The appellant then approached the High 
+Court in 2016 essentially seeking implementation of the declaration 
+already made. To deny relief on the footing that it is a new notification 
+or that period was not expressly mentioned is to frustrate finality and 
+to compel the citizen to engage in repetitive litigation to secure, in 
+practice, what has already been recognised in principle.
+84.	 Accordingly we hold that once the 2015 judgment had declared the 
+levy to be ultra vires and this Court had declined interference, it 
+was incumbent upon the administrative authorities to conform their 
+conduct to that declaration. Judicial pronouncements are not advisory 
+opinions; they are binding commands of law. When the executive 
+continues to enforce, under new guise, a levy that has been judicially 
+struck down, it acts in defiance of constitutional discipline and 
+erodes public confidence in the rule of law. Finality of adjudication 
+is an essential component of good governance. The repetition of an 
+invalidated levy through successive notifications compels needless 
+litigation, burdens the courts, and subjects citizens to prolonged 
+
+28
+[2026] 2 S.C.R.
+Supreme Court Reports
+uncertainty. The authorities in this case were obliged to treat the 
+matter as concluded and ought to have extended the benefit of the 
+2015 decision uniformly to all subsequent periods until the law was 
+altered by legislative action. Their failure to do so justified judicial 
+intervention. The doctrine interest reipublicae ut sit finis litium which 
+essentially means, that it is in the public interest that there be an 
+end to litigation would squarely apply; the State must exemplify 
+obedience to judgments, not resistance to them.
+85.	 This litigation has spanned more than a decade. The substantive 
+question at its core was only this: whether, in the absence of a 
+clear charging section, customs duty could be imposed on electrical 
+energy cleared from an SEZ into the DTA? And, according to our 
+observations above it stood answered in 2015 and that answer 
+withstood scrutiny by this Court also. What ought to have followed 
+thereafter was faithful implementation, not renewed resistance.
+86.	 Accordingly, we summarise our conclusions as follows:
+(i)	
+The Gujarat High Court’s judgment dated 15 July 2015, as a 
+matter of law, declared that customs duty could not be levied 
+on electrical energy cleared from the appellant’s SEZ unit to 
+the DTA, having regard to the absence of a lawful charging 
+event under Section 12 of the Customs Act, the limited scope 
+of Section 25 of that Act, the parity requirement of Section 30 
+of the SEZ Act and the constitutional constraints of Articles 
+14 and 265 is squarely applicable to the judgment and order 
+dated 28.06.2019.
+(ii)	
+That declaration was not confined in principle to Notification 
+No. 25/2010-Cus. or to the period ending 15 September 2010. 
+It went to the authority to levy customs duty on SEZ-to-DTA 
+electricity clearances in the statutory setting then obtaining.
+(iii)	 The subsequent notifications namely, Notification No. 91/2010-
+Cus. prescribing ten paise per unit and Notification No. 26/2012-
+Cus. prescribing three paise per unit, did not create a new levy 
+on a new footing. They merely continued the same levy in altered 
+form. The change in arithmetical rate by prospective character 
+does not cure the lack of authority in principle.
+(iv)	 The argument that no relief could be granted in the absence of a 
+fresh and specific challenge to each later notification is untenable. 
+
+[2026] 2 S.C.R. 
+29
+Adani Power Ltd. & Anr v. Union of India & Ors.
+The appellant’s 2016 writ petition was a sequel, seeking 
+enforcement of the prior declaration and refund of amounts 
+deposited under protest. Constitutional courts are empowered 
+to secure compliance with their own pronouncements and are 
+not bound to insist on repetitive challenges to substantially 
+identical measures.
+(v)	
+There was no material change in law or fact between 15 
+September 2010 and 15 February 2016 that would justify a 
+departure from the 2015 ruling. Section 30 of the SEZ Act 
+remained unaltered. Imported electrical energy bore no customs 
+duty under the Customs Tariff Act, 1975. The same parity logic 
+applied to S.C.A. No. 2233 of 2016 disposed of on 28.06.2019
+(vi)	 The Division Bench of the High Court in 2019, being a co-ordinate 
+Bench, was bound either to follow the 2015 decision or, if it 
+doubted its correctness or applicability, ought to have referred 
+the question to a larger Bench. It could not have circumvented 
+that discipline by artificially narrowing down the earlier ruling. 
+Its refusal to extend the 2015 declaration to the later period 
+was therefore contrary to law.
+(vii)	 Once it is held that the levy itself was without authority of law, 
+the State cannot retain the amount collected under such levy. 
+Restitution is a necessary incident of the finding of illegality.
+CONCLUSION:
+87.	 We declare that the levy of customs duty on electrical energy cleared 
+by the appellant from its SEZ unit to the DTA during the relevant 
+period, as sought to be enforced through Notification No. 25/2010-
+Cus., Notification No. 91/2010-Cus., Notification No. 26/2012-Cus., 
+and similar instruments, was without authority of law.
+88.	 We accordingly hold that the impugned judgment of the High Court 
+dated 28 June 2019 cannot be sustained. In view of the foregoing 
+discussion, the appeal is allowed. The judgment and order dated 28 
+June 2019 of the High Court of Gujarat in Special Civil Application 
+No. 2233 of 2016 is set aside.
+RE: QUESTION V – WHAT DIRECTIONS ?
+89.	 The respondents, namely the Union of India through the concerned 
+Ministry and the jurisdictional customs authorities, shall, after due 
+
+30
+[2026] 2 S.C.R.
+Supreme Court Reports
+verification, refund to the appellant such amount that has been 
+deposited in cash or through encashment of security or otherwise 
+under protest by the appellant, towards customs duty on the clearance 
+of electrical energy from SEZ unit into the DTA for the period in 
+question, namely, 16 September 2010 to 15 February 2016. It is 
+made clear that the said refund shall not carry any interest. 
+90.	 The verification and refund exercise shall be undertaken and be 
+completed by the jurisdictional Commissioner of Customs within a 
+period of eight (8) weeks from the date of this judgment. The appellant 
+shall cooperate by furnishing the particulars of such deposits made if 
+sought for by the authorities for the aforesaid period. The authorities 
+shall not raise any hyper-technical objections so as to defeat the 
+substance of this direction.
+91.	 It is further directed that no further demand shall be enforced against 
+the appellant in respect of customs duty on electrical energy cleared 
+from its SEZ unit to the DTA for the period covered in this appeal, 
+as the levy having  been held unsustainable. For the avoidance of 
+doubt, we clarify that we express no opinion as to any future legislative 
+regime that Parliament may enact. Our findings are confined to the 
+aforesaid period and statutory framework arising in the present appeal.
+92.	 In view of the directions issued above, we do not consider it necessary 
+to make any order as to costs and it is made easy. All pending 
+applications, stands disposed of. 
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Ankit Gyan

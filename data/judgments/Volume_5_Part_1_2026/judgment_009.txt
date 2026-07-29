@@ -1,0 +1,245 @@
+[2026] 5 S.C.R. 154 : 2026 INSC 358
+State of West Bengal & Ors.  
+v. 
+M/s B.B.M. Enterprises
+(Civil Appeal No. 4320 of 2026)
+09 April 2026
+[Sanjay Kumar and K. Vinod Chandran, JJ.]
+Issue for Consideration
+Whether a notice seeking commencement of arbitration, issued 
+on 02.06.2022, could set in motion the process of resolution of a 
+dispute regarding a work completed as early as on 30.07.2000.
+Headnotes†
+Arbitration and Conciliation Act, 1996 – ss.42, 43 – Limitation 
+Act, 1963 – Article 18 – Work completed in the year 2000 – 
+Notice seeking commencement of arbitration issued after 21 
+years in 2022 – By way of the impugned judgment, Arbitrator 
+appointed by High Court – Sustainability:
+Held: Unsustainable – Arbitration though is an alternate dispute 
+resolution system, which has to be encouraged, it cannot deviate 
+from the fundamental principle that law favours the diligent and 
+not the indolent – For recovery of amounts, as in this case, the 
+limitation is three years as provided in Article 18 of the Limitation 
+Act, 1963 – The commencement of arbitration proceedings as per 
+sub-section (2) of s.43 being the date referred in s.21, which is 
+the date on which a request for initiation of arbitration is received 
+by the respondent, the claim itself was hopelessly time barred, 
+the notice having been issued after 21 years – Despite the work 
+having concluded on 30.07.2000, the petitioner did not attempt to 
+raise a bill or initiate the arbitration proceedings till 2022, when 
+a notice requiring commencement of arbitration proceedings was 
+first issued – Appellant slept over its claim for 21 years before the 
+notice seeking arbitration was issued in 2022; an ex-facie dead 
+claim – High Court erred insofar as finding failure on the part of 
+the Engineer-in-Charge to determine the final amount payable, 
+having extended the limitation – If there was such a failure on the 
+part of the Engineer-in-Charge, it was for the contractor to have 
+initiated arbitration then and there – Neither was notice issued 
+
+[2026] 5 S.C.R. 
+155
+State of West Bengal & Ors. v. M/s B.B.M. Enterprises
+for arbitration nor was a final bill raised or a request made to 
+determine the total amount payable – Order initiating arbitration 
+set aside. [Paras 5, 6]
+Case Law Cited
+Vishram Varu and Company v. Union of India (2023) 12 SCC 588; 
+Arif Azim Company Limited v. Aptech Limited [2024] 3 SCR 73 : 
+(2024) 5 SCC 313; Aslam Ismail Khan Deshmukh v. ASAP Fluids 
+Private Limited and Another [2024] 12 SCR 108 : (2025) 1 SCC 
+502; Vidya Drolia and Ors. v. Durga Trading Corporation [2020] 11 
+SCR 1001 : (2021) 2 SCC 1; Bharat Sanchar Nigan Limited and 
+Anr. v. Nortel Networks India Private Limited [2021] 2 SCR 644 : 
+(2021) 5 SCC 738; Interplay between Arbitration Agreements under 
+Arbitration and Conciliation Act, 1996 and Stamp Act, 1899, In Re. 
+[2023] 15 SCR 1081 : (2024) 6 SCC 1 – referred to.
+List of Acts
+Arbitration and Conciliation Act, 1996; Limitation Act, 1963.
+List of Keywords
+Claim ex-facie time barred; Claim hopelessly time barred; Section 42 
+of the Arbitration and Conciliation Act, 1996; Limitation for recovery 
+of amounts; Article 18 of the Limitation Act, 1963; Law favours the 
+diligent; Ex-facie dead claim; Notice seeking commencement of 
+arbitration issued after 21 years.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 4320 of 2026
+From the Judgment and Order dated 27.06.2024 of the High Court 
+at Calcutta in AP No. 535 of 2022.
+Appearances for Parties
+Advs. for the Appellant(s):
+Kunal Chatterji, Ms. Maitrayee Banerjee, Rohit Bansal, Varij Nayan 
+Mishra.
+Advs. for the Respondent(s):
+Sudhanshu Choudhari, Sakya Sen, Sr. Advs., Sarad Kumar 
+Singhania, Yash Singhania, Ms. Nilanjana Adhya.
+
+156
+[2026] 5 S.C.R.
+Supreme Court Reports
+Judgment / Order of the Supreme Court
+Order
+1.	
+The neat question arising in the above case is as to whether a notice 
+seeking commencement of arbitration, issued on 02.06.2022, could 
+set in motion the process of resolution of a dispute regarding a 
+work completed as early as on 30.07.2000. The High Court dealing 
+with the application under Section 11 found from the agreement 
+that there is an ambiguity in Clause 7 which requires the final bill 
+to be submitted by the contractor within one month from the date 
+fixed for completion of work dehors which the Engineer-in-Charge is 
+competent to issue a certificate of measurement and the total amount 
+payable for the work, which shall be final and binding on all parties. 
+Since no such certificate was issued by the Engineer concerned 
+and the communication of 04.01.2001 produced as Annexure P9, 
+speaks only of a part payment, the dispute would not be beyond the 
+scope of Section 11 of the Arbitration and Conciliation Act, 19961. 
+The objection as to limitation was found to be effaced insofar as the 
+final measurement with the total amounts payable having not been 
+determined by the Engineer-in-Charge.
+2.	
+Sri Kunal Chatterji, learned counsel appearing for the State, the 
+appellant, would rely on Vishram Varu and Company v. Union of 
+India2. While Sri Sudhanshu Choudhari, learned Senior Counsel 
+appearing for the respondent relied on Arif Azim Company Limited 
+v. Aptech Limited3 and Aslam Ismail Khan Deshmukh v. ASAP 
+Fluids Private Limited and Another4.
+3.	
+Vishram Varu and Company2 was a case in which the work 
+undertaken was completed in the year 1985-86 when the claim for 
+money accrued. Correspondences were initiated from the year 2012 
+under the RTI Act and eventually a legal notice seeking arbitration 
+was issued on 22.10.2018. It was held that since the claim arose 
+in the year 1985-86, the mere issuance of a notice in 2018 cannot 
+1	
+For brevity, ‘1996 Act’
+2	
+(2023) 12 SCC 588
+3	
+(2024) 5 SCC 313
+4	
+(2025) 1 SCC 502
+
+[2026] 5 S.C.R. 
+157
+State of West Bengal & Ors. v. M/s B.B.M. Enterprises
+enable the party to contend that the cause of action arose in the 
+year 2018, after expiry of 32 years.
+4.	
+Arif Azim Company Limited3 considered both the question of 
+limitation with respect to the claim for recovery of money and the 
+limitation provided for filing an application under Section 11(6). It 
+was categorically found after referring to a host of precedents of 
+this Court that the Limitation Act, 1963 is applicable to arbitration 
+proceedings in general and Article 137 of that Act applies to a petition 
+under Section 11(6) of the 1996 Act in particular. Insofar as the 
+substantive claim in that case was concerned, it was found that the 
+right to bring a claim arose on 28.03.2018, the claim being one of 
+recovery of money. The period of limitation of three years ended on 
+27.03.2021; within the period in which limitation was suspended by 
+this Court by reason only of the Covid-19 pandemic. The limitation 
+having commenced from 01.03.2022 again as per the orders of this 
+Court, the balance period available from the date of suspension, 
+extended the expiry of limitation to 13.03.2023. The notice seeking 
+arbitration under Section 21 was issued on 24.11.2022, bringing the 
+initiation of the proceeding within the limitation of three years. Insofar 
+as the limitation for making an application under Section 11(6), this 
+Court found applicable Article 137, which also provides for a period 
+of three years, the commencement of which was on expiry of 30 
+days from the date of receipt of the notice for initiation of arbitration. 
+Notice issued on 24.11.2022 was delivered on 29.11.2022, thus, the 
+limitation having commenced from 28.12.2022. The application under 
+Section 11(6) was filed on 19.04.2023 within the period of three 
+years from the expiry of 30 days from the receipt of notice. Thus, 
+both the claim and the application under Section 11(6) were found 
+to be within the limitation period, which in the present case is not 
+satisfied insofar as the claim is concerned. We extract paragraph 68 
+from the aforesaid decision :
+“68. Although, limitation is an admissibility issue, yet it is 
+the duty of the Courts to prima facie examine and reject 
+non-arbitrable or dead claims, so as to protect the other 
+party from being drawn into a time-consuming and costly 
+arbitration process.”
+5.	
+Aslam Ismail Khan Deshmukh4, was a case in which the question 
+arose as to whether the claim was barred by limitation, while the 
+
+158
+[2026] 5 S.C.R.
+Supreme Court Reports
+application for appointment of an Arbitrator under Section 11(6) 
+though moved before a wrong forum, the High Court, was within 
+the limitation period of 3 years as found in Arif Azim3. Arif Azim3 
+was found to have been concerned with two issues. First whether 
+Limitation Act, 1963 is applicable to an application for appointment 
+of arbitrator under Section 11(6) and whether the Court may decline 
+reference under Section 11 if the claims are ex-facie and hopelessly 
+time barred. This Court noticing Vidya Drolia and Ors v. Durga 
+Trading Corporation5, and Bharat Sanchar Nigan Limited and 
+Anr. v. Nortel Networks India Private Limited6 held that period 
+of limitation for filing a petition seeking appointment of an Arbitrator 
+cannot be confused or conflated with the period of limitation applicable 
+to substantive claims made in the underlying contract. In BSNL6, the 
+notice invoking arbitration having been issued five and a half years 
+after the cause of action arose i.e. rejection of claims of Nortel by 
+BSNL, the claim itself was held to be ex-facie time barred. However, 
+noticing the decision in Interplay between Arbitration Agreements 
+under Arbitration and Conciliation Act, 1996 and Stamp Act, 
+1899, In Re.7, it was held that in a scenario where the Referral Court 
+is able to deal with the frivolity of the litigation on the basis of bare 
+minimum pleadings it would be incorrect to assume or doubt that the 
+Arbitral Tribunal would not be able to arrive at the same inference. 
+It was held that the Referral Court cannot indulge in any intricate 
+evidentiary inquiry into the question whether the claims raised by the 
+petitioner are time barred which determination has to be left to the 
+decision of the Arbitrator. In the case of Arif Azim3, the question of 
+limitation was to be considered on the basis of the facts disclosed, 
+whether the period commenced from; the date of the letter forming 
+the basis of the claim, the date of resignation of the petitioner or 
+the date of subsequent legal notice sent by the respondent to the 
+petitioner, which was left to be considered by the Arbitrator. However, 
+in the present case there is no intricate evidentiary inquiry to be 
+done. After Annexure P9 of 04.01.2001, whether it be the interim 
+determination of dues or not, the appellant slept over its claim for 21 
+years before the notice seeking arbitration was issued on 02.06.2022; 
+an ex-facie dead claim. 
+5	
+(2021) 2 SCC 1
+6	
+(2021) 5 SCC 738
+7	
+(2024) 6 SCC 1
+
+[2026] 5 S.C.R. 
+159
+State of West Bengal & Ors. v. M/s B.B.M. Enterprises
+6.	
+Arbitration though is an alternate dispute resolution system, which has 
+to be encouraged, it cannot deviate from the fundamental principle 
+that law favours the diligent and not the indolent. Section 42 of the 
+Arbitration and Conciliation Act, 1996 applies the Limitation Act, 1963 
+to arbitrations as it is applied to proceedings in Court. Hence, for 
+recovery of amounts, as in this case, the limitation is three years as 
+provided in Article 18 of the Limitation Act, 1963. The commencement 
+of arbitration proceedings as per sub-section (2) of Section 43 being 
+the date referred in Section 21, which is the date on which a request 
+for initiation of arbitration is received by the respondent, the claim 
+itself was hopelessly time barred, the notice having been issued 
+after 21 years. 
+7.	
+In the present case, despite the work having concluded on 30.07.2000, 
+the petitioner did not attempt to raise a bill or initiate the arbitration 
+proceedings till 2022, when a notice requiring commencement of 
+arbitration proceedings was first issued. The High Court erred insofar 
+as finding failure on the part of the Engineer-in-Charge to determine 
+the final amount payable, having extended the limitation. If there was 
+such a failure on the part of the Engineer-in-Charge, it was for the 
+contractor to have initiated arbitration then and there. Neither was 
+notice issued for arbitration nor was a final bill raised or a request 
+made to determine the total amount payable. 
+8.	
+We find absolutely no reason to sustain the order initiating arbitration. 
+We set aside the same and allow the appeal.
+9.	
+Pending application(s), if any, shall stand disposed of. 
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Divya Pandey

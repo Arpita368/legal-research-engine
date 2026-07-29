@@ -1,0 +1,772 @@
+[2026] 4 S.C.R. 331 : 2026 INSC 312
+M/s A.K.G. Construction and Developers Pvt. Ltd
+v.
+State of Jharkhand & Ors.
+(Civil Appeal No. 4152 of 2026)
+02 April 2026
+[Pamidighantam Sri Narasimha and Alok Aradhe, JJ.]
+Issue for Consideration
+Whether the black listing order, in the instant case, suffers from 
+patent infirmities; whether the blacklisting, being stigmatic and 
+exclusionary in nature, can be imposed mechanistically.
+Headnotes†
+Contract – Termination – Blacklisting – The appellant, 
+a registered contractor with the Water and Sanitation 
+Department was contracted for construction of an Elevated 
+Service Reservoir (ESR) by issuance of a Letter of 
+Acceptance (LOA) on 06.03.2023 – During the subsistence 
+of the contract, on 01.06.2024, the top dome of the reservoir 
+collapsed – Department issued a show cause notice dated 
+04.06.2024 seeking explanation as to why action should not 
+be taken for the negligence and bad quality of work – Upon 
+receiving concurrent reports indicating negligence on part 
+of appellant, respondent no. 3, Chief Engineer, Drinking 
+Water and Sanitation Department, passed the termination 
+cum blacklisting order dated 23.08.2024 – Aggrieved, the 
+appellant filed an appeal, which was dismissed by the 
+Appellate Authority – Appellant filed writ petition, which was 
+also dismissed – Correctness:
+Held: In view of the clear findings of negligence as articulated in the 
+order of termination, this Court will not interfere with the decision 
+of termination – In so far as the order relating to blacklisting is 
+concerned, the blacklisting order suffers from patent infirmities: it 
+evinces no application of mind, disregards the mandatory precept of 
+audi alteram partem, and fails to precede with a show-cause notice 
+requiring the contractor to demonstrate why such drastic action 
+should not be taken – Blacklisting, being stigmatic and exclusionary 
+
+332
+[2026] 4 S.C.R.
+Supreme Court Reports
+in nature, cannot be imposed mechanistically but must comport with 
+principles of natural justice and reasonableness – The final order 
+of blacklisting, dated 23.08.2024, does not list the reasons as to 
+why an order of blacklisting has become necessary – A blacklisting 
+order assumes that the contractor is an incorrigible entity, at least 
+for some time to come, in this case such an assumption was 
+intended to operate for five years – For giving effect to such a 
+premise, there has to be sufficient evidence, clear application of 
+mind and stronger adherence to principles of natural justice – The 
+blacklisting order dated 23.08.2004 falls short of this requirement 
+and is liable to be set aside – Thus, the decision of blacklisting of 
+the appellant is illegal, arbitrary and unreasonable – The declaration 
+of blacklisting is set aside. [Paras 15, 16, 3, 23, 25]
+Contract – Termination – Blacklisting:
+Held: The contractual conditions governing termination on the one 
+hand and those that relate to blacklisting on the other are distinct 
+and will be exercised independently – A decision of blacklisting 
+is not automatic and certainly not a logical consequence of a 
+decision of termination – Even after the Department decides 
+to terminate the contract, there is still a choice of exercising 
+the power of blacklisting  – These decisions operate in two 
+dimensions-past and subsisting for termination and future for 
+blacklisting – In other words, an order of blacklisting transcends 
+the existing contract and debars the contractor from contracts that 
+could probably be executed in the next five years – In view of 
+the serious consequences, it is necessary for the Department to 
+issue a specific notice proposing blacklisting of a contractor and 
+call for an explanation as to why an order of blacklisting should 
+not be passed. [Para 18]
+Case Law Cited
+Erusian Equipment & Chemicals Ltd. v. State of West Bengal, 
+[1975] 2 SCR 674 : (1975) 1 SCC 70; UMC Technologies Pvt 
+Ltd v. Food Corporation of India [2020] 13 SCR 1175 : (2021) 2 
+SCC 551; M/s Techno Prints v. Chhattisgarh Textbook Corporation 
+& Anr., 2025 INSC 236 : [2025] 3 SCR 208 – relied on.
+Raghunath Thakur v. State of Bihar, [1988] 3 Supp. SCR 867 : 
+(1989) 1 SCC 229; Gorkha Security Services v. Govt. (NCT of Delhi) 
+
+[2026] 4 S.C.R. 
+333
+M/s A.K.G. Construction and Developers Pvt. Ltd v.  
+State of Jharkhand & Ors.
+[2014] 13 SCR 617 : (2014) 9 SCC 105; Kulja Industries Ltd. v. 
+Chief General Manager, Western Telecom Project BSNL [2013] 
+14 SCR 430 : (2014) 14 SCC 731; The Blue Dreamz Advertising 
+Pvt Ltd. & Anr. v. Kolkata Municipal Corporation & Ors., 2024 
+INSC 589 : [2024] 8 SCR 189 – referred to.
+List of Acts
+Contractor Registration Rules, 2012.
+List of Keywords
+Contract; Termination; Blacklisting; Audi alteram partem; Negligence; 
+Principles of natural justice; Show-cause notice; Non-application 
+of mind; Reasonableness.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 4152 of 2026
+From the Judgment and Order dated 07.02.2025 of the High Court 
+of Jharkhand at Ranchi in WPC No. 6886 of 2024.
+With
+Civil Appeal No. 4153 of 2026.
+Appearances for Parties
+Advs. for the Appellant(s):
+M.S. Ganesh, Sr.Adv., R. Ayyam Perumal, Ms. Archana Sharma, 
+Rao Raj Bahadur Singh, A. Sai Kumar.
+Advs. for the Respondent(s):
+Kumar Anurag Singh, Jayant Mohan, Ms. Meenakshi Chatterjee, 
+Zain A. Khan, Ms. Adya Shree Dutta, Ms. Dorjee Ongmu Lachungpa, 
+Priyanshu Teotia, Dev Aaryan, Mohd. Abran Khan.
+Judgment / Order of the Supreme Court
+Judgment
+1.	
+Leave granted. 
+2.	
+While exercising judicial review over administrative actions of the State 
+and its instrumentalities in relation to contracts provisioning clauses 
+
+334
+[2026] 4 S.C.R.
+Supreme Court Reports
+and rules relating to termination and/or blacklisting, Courts must apply 
+distinct standards of legality, rationality and proportionality. Such an 
+approach is compelling as conditions for imposing such measures, 
+as also the consequences of such actions, have differing gravity.
+3.	
+Upon careful consideration of the impugned State action, which 
+terminates the contract and blacklists the appellant without meaningful 
+distinction, we hold that the termination order is substantiated and 
+justified. However, the blacklisting order suffers from patent infirmities: 
+it evinces no application of mind, disregards the mandatory precept of 
+audi alteram partem, and fails to precede with a show-cause notice 
+requiring the contractor to demonstrate why such drastic action 
+should not be taken. Blacklisting, being stigmatic and exclusionary 
+in nature, cannot be imposed mechanistically but must comport with 
+principles of natural justice and reasonableness.
+4.	
+For the reasons detailed hereafter, we uphold the order of termination 
+and the impugned judgement and review order affirming the same, 
+but set aside the decision to blacklist the appellant.
+5.	
+Having upheld the order of termination, we were of the opinion 
+that the assumed logical consequence of blacklisting is neither 
+supported by application of mind nor followed by a clear notice 
+proposing blacklisting. For the reasons to follow, we set aside the 
+order of blacklisting. However, in the facts and circumstances of the 
+case, due to passage of time, we have suitably moulded the relief 
+and directed that the order of blacklisting shall not continue for five 
+years as directed by the Department but will cease to operate from 
+the date of our judgment. 
+Facts
+6.	
+The appellant, a registered contractor with the Water and Sanitation 
+Department was contracted for construction of an Elevated Service 
+Reservoir (ESR) by issuance of a Letter of Acceptance (LOA) on 
+06.03.2023. During the subsistence of the contract, on 01.06.2024, 
+the top dome of the reservoir collapsed. Though it was justified as 
+being a result of an unexpected cyclone, the appellant offered to 
+reconstruct it at own expense. However, the Department issued a 
+show cause notice dated 04.06.2024, seeking explanation as to why 
+action should not be taken for the negligence and bad quality of work. 
+The contents of the show cause notice are as follows - 
+
+[2026] 4 S.C.R. 
+335
+M/s A.K.G. Construction and Developers Pvt. Ltd v.  
+State of Jharkhand & Ors.
+“(PURPOTED SHOW CAUSE)
+GOVERNMENT OF JHARKHAND
+DRINKING WATER & SANITATION DEPARTMENT
+Letter No. 4/A.V.-01-1019/2024-1311
+From,
+Navneet Kumar
+Under Secretary to the Government.
+To,
+M/s. A.K.G. Construction & Developers
+Pvt. Ltd. Ranchi.
+Ranchi, Date- 4/6/24
+Subject: Regarding submitting clarification.
+Context: Letter No. 727 of Executive Engineer, Drinking 
+Water and Sanitation Division, Jhumritilaiya, dated 
+01.06.2024.
+Sir,
+As per the directions, the department received information 
+about collapse of the under-construction water tower in 
+Neemadhi village under Koderma-Demchonch Jaynagar 
+Mega Rural Water Supply Scheme through the relevant 
+letter on the above subject.
+The collapse of the under-construction water tower proves 
+that quality was not taken care of in the construction of 
+the water tower.
+Due to your not doing quality work as per the agreement 
+in the construction of the water tower, the water tower 
+collapsed due to which the image of the department got 
+tarnished.
+Therefore, it is directed by attaching a copy of the letter 
+describing tire incident that why action should not be taken 
+against you as per rules for negligence shown by you and 
+not doing quality construction and, ensure to submit your 
+explanation within 03 (three) days. In case of not receiving 
+the explanation on time, it will be considered that you have 
+
+336
+[2026] 4 S.C.R.
+Supreme Court Reports
+nothing to say regarding the allegation and the department 
+will be free to take unilateral action.
+Translation- As Aforesaid
+Yours sincerely,
+Sd./-Illegible
+04/06/2024
+(Navneet Kumar)
+Under Secretary to the Government.”
+7.	
+Following the show cause notice, multi-level enquiries were 
+conducted. Initially, a three-member committee gave its report on 
+06.06.2024. Thereafter, the Superintending Engineer also examined 
+the matter in detail. These enquiries drew inputs from Birsa Institute 
+of Technology, Sindri and also IITs of Delhi, Madras and Bombay. 
+Upon receiving concurrent reports indicating negligence on part of 
+the appellant, respondent no. 3, Chief Engineer, Drinking Water and 
+Sanitation Department, passed the termination cum blacklisting order 
+dated 23.08.2024. The order containing the reasons for termination 
+and blacklisting is reproduced below for ready reference;
+“GOVERNMENT OF JHARKHAND
+DRINKING WATER & SANITATION DEPARTMENT
+Order No.-4/A.V.-01-102l/2024-20(CDO), Ranchi, 
+Date- 23/08/2024
+ORDER
+It was informed by letter no. 727 dated 01.06.2024 of 
+Executive Engineer, Drinking Water and Sanitation Division, 
+Jhumritilaiya that the water tower under construction in 
+Neemadhi village under the work of Koderma-Domchonch 
+Jaynagar Large Rural Water Supply Scheme, which is 
+allotteed to the contractor M/s A.K.G. Construction & 
+Developers Pvt. Ltd., Ranchi, collapsed on 01.06.2024. 
+In the light of the above, the contractor was asked 
+for clarification by departmental letter no. 1311 dated 
+04.06.2024, in the light of which the contractor submitted 
+clarification through letter no. AKG/24-25/26 dated 
+06.06.2024 in which the contractor has reported that no 
+laxity has been shown in the construction of the under-
+construction water tower and the under-construction water 
+
+[2026] 4 S.C.R. 
+337
+M/s A.K.G. Construction and Developers Pvt. Ltd v.  
+State of Jharkhand & Ors.
+tower fell due to natural disaster/cyclonic storm. In the light 
+of the above, by letter no. 663 (CDO) dated 21.06.2024 
+of this office, the Superintending Engineer, Drinking Water 
+and Sanitation Zone, Hazaribagh was directed to review 
+the clarification received from the contractor point by point 
+and provide a report with his clear opinion. The opinion 
+was provided by letter no. 545 dated 21.06.2024 of the 
+Superintending Engineer, Drinking Water and Sanitation 
+Zone, Hazaribagh in which it is reported that the work 
+described has not been done as per the approved Design 
+& Drawing and the quality of the overall work has not been 
+taken care of. 
+In the matter described by the department, an inquiry was 
+conducted by a three-member inquiry committee. The 
+inquiry committee submitted the inquiry report through 
+departmental G.S.P. No.-283 dated 06.06.2024 in which 
+it is reported that negligence was shown in getting the 
+construction work of the water tower completed as per the 
+approved Design & Drawing and quality was not taken care 
+of, due to which the incident of collapse/demolition of the 
+water tower occurred. Thus, the contractor is responsible/
+guilty for negligence and negligence in getting the quality 
+work done. 
+The contractor informed the concerned Executive Engineer 
+through his letter-AKG/24-25/23 dated-01.06.2024 that he 
+is ready to construct ESR again at his own expense in 
+place of the demolished ESR under construction. It was 
+never appropriate for him to construct ESR again without 
+departmental order. This act of his reflects an attempt to 
+hide his wrongdoings. 
+The department condemns this modus operandi of the 
+contractor.
+It is clear from the above that the contractor got low 
+quality construction work done in the work of the scheme, 
+which tarnished the image of the department and created 
+obstacles in achieving the objectives of the department. 
+This is a clear violation of rule number-10.1.8 and 10.1.15 
+of the Contractor Registration Rules 2012. Therefore, 
+
+338
+[2026] 4 S.C.R.
+Supreme Court Reports
+after review by the department, the explanation of the 
+contractor is rejected.
+Therefore, after due consideration by the department in 
+the light of Rule No. 10.1.8 and 10.01.15 of Contractor 
+Registration Rules 2012, the contractor M/s A.K.G. 
+Construction & Developers Pvt. Ltd., Panna Enclave, Flat 
+No-202, Kadru, Ranchi-834002, e-mail: ketan.kumar007@
+gmail.com is blacklisted for 5 (five) years with immediate 
+effect and in this context, the following order is given in the 
+light of Rule No. 10.3 and 10.4 of Contractor Registration 
+Rules 2012:-
+2. It is decided to stop all the works being done by the 
+contractor from the date of issuance of the order and 
+to confiscate the security deposit of all the works. Also, 
+the concerned regional Chief Engineer/Superintending 
+Engineer/Executive Engineer will ensure to take appropriate 
+action as per the requirement to complete the remaining 
+work being done by the contractor. 
+3. The registration of the contractor in all categories in the 
+department is cancelled with immediate effect.
+4. The proposal has received the approval of the Hon’ble 
+Departmental Minister.
+(Prabhat Kumar Singh) 
+Chief Engineer, C.D.O 
+Date: 23/08/2024”
+8.	
+Aggrieved, the appellant filed an appeal, which came to be dismissed 
+vide order dated 05.12.2024 of the Appellate Authority cum Principal 
+Secretary, Drinking Water and Sanitation Department. The appellant 
+filed a writ petition challenging orders dated 23.08.2024 and 
+05.12.2024. By impugned judgement and order dated 07.02.2025, 
+the High Court dismissed the writ petition, while also imposing a cost 
+of Rs. 2 lakhs on the appellant. It was held that the corroborated 
+findings of the enquiries conducted, as also the appellant’s own 
+admission in the form of offering to reconstruct the entire ESR at 
+its own cost, leads to a logical inference of negligence in carrying 
+out the construction as per the approved design and drawings. It 
+was also held that the orders impugned were neither illegal nor 
+
+[2026] 4 S.C.R. 
+339
+M/s A.K.G. Construction and Developers Pvt. Ltd v.  
+State of Jharkhand & Ors.
+arbitrary as proper opportunity was given to the appellant at every 
+stage. 
+9.	
+The appellant sought a review of the decision arrived by the High 
+Court on self-same grounds, which naturally came to be dismissed 
+by the High Court vide impugned order dated 04.08.2025. Thus, the 
+present appeals have been filed against the main judgement as well 
+as the review order.
+Submissions
+10.	 Mr. M.S. Ganesh, learned senior counsel appearing on behalf of the 
+appellant, would submit that the termination as well as the blacklisting 
+are illegal and arbitrary. He would submit that constitution of the three-
+member committee, followed by its report and subsequent reports, 
+were without giving any opportunity to the appellant. He would also 
+submit that the arbitrariness is writ large as the decision to blacklist 
+had the effect of terminating all subsisting contracts. 
+11.	 Mr. Kumar Anurag Singh, learned counsel for the respondent 
+Department would submit that Clause 59 of the General Conditions 
+of Contract (GCC), dealing with termination of contract does not 
+provide for a prior notice. He would also rely on Rule 10 of the 
+Contractor Registration Rules, 2012, dealing with blacklisting, which 
+mandates issuance of a show cause notice before blacklisting a 
+contractor upon misconduct. He would submit that the show cause 
+notice 04.06.2024 was specifically for purpose of blacklisting the 
+appellant, which according to him, is further cemented by express 
+use of the phrase “why action should not be taken against it as 
+per the rules”. In view of the concurrent operation of GCC and 
+the 2012 Rules, he submits that the common order of termination 
+cum blacklisting is compliant of all conditions and therefore legal 
+and valid. 
+Analysis
+12.	 The controversy revolves around a true and correct interpretation 
+of Clause 59 of GCC, relating to termination, and Rule 10 of 2012 
+Rules, relating to blacklisting. The Clause and the Rule is reproduced 
+herein for ready reference.
+13.	 Clause 59 of GCC is as follows - 
+
+340
+[2026] 4 S.C.R.
+Supreme Court Reports
+“59.Termination
+59.1. The Employer or the Contractor may terminate the 
+Contract if the other party causes a fundamental breach 
+of the Contract.
+59.2. Fundamental breaches of Contract include, but shall 
+not be limited to the following:
+(a) The Contractor stops work for 28 days when no 
+stoppage of work is shown on the current Programme and 
+the stoppage has not been authorized by the Engineer;
+(b) The Engineer instructs the Contractor to delay the 
+progress of the Works and the instruction is not withdrawn 
+within 28 days;
+(c) The Employer or the Contractor is made bankrupt or 
+goes into liquidation other than for a reconstruction or 
+amalgamation.
+(d) The Engineer gives Notice that failure to correct a 
+particular Defect is a fundamental breach of Contract and 
+the Contractor fails to correct it within a reasonable period 
+of time determined by the Engineer.
+(e) The Contractor does not maintain a security which is 
+required;
+(f) The Contractor has delayed the completion of works 
+by the number of days for which the maximum amount of 
+liquidated damages can be paid as defined in the Contract 
+data; and 
+(g) If the Contractor, in the judgment of the Employer has 
+engaged in corrupt or fraudulent practices in competing 
+for or in executing the Contract.
+For the purpose of this paragraph: “corrupt practice” means 
+the offering, giving, receiving or soliciting of anything of 
+value to influence the action of a public official in the 
+procurement process or in contract execution. “Fraudulent 
+practice” means a misrepresentation of facts in order to 
+influence a procurement process or the execution of a 
+contract to the detriment of the Borrower, and includes 
+
+[2026] 4 S.C.R. 
+341
+M/s A.K.G. Construction and Developers Pvt. Ltd v.  
+State of Jharkhand & Ors.
+collusive practice among Bidders (prior to or after bid 
+submission) designed to establish bid prices at artificial 
+non-competitive levels and to deprive the Borrower of the 
+benefits of free and open competition.”
+59.3. When either party to the Contract gives notice of a 
+breach of contract to the Engineer for a cause other than 
+those listed under Sub Clause 59.2. above, the Engineer 
+shall decide whether the breach is fundamental or not.
+59.4. Notwithstanding the above, the Employer may 
+terminate the Contract for convenience.
+59.5. If the Contract is terminated the Contractor shall 
+stop work immediately, make the Site safe and secure and 
+leave the Site as soon as reasonably possible”
+14.	 Rule 10 of Contractor Registration Rules, 2012 is as follows - 
+“10. BLACKLISTING
+10.1 A contractor in person or any partner of a registered 
+firm or any director of a private public limited company or 
+his technical staff or any of his authorized representatives, 
+registered in any of the above categories, may be 
+blacklisted for any of the following misconducts:
+10.1.1 Creating law and order problem in Government 
+office while receiving tender documents, submitting tender 
+documents or doing any work related thereto.
+10.1.2 Intimidating or assaulting concerned officer or 
+employee.
+10.1.3 If the contractor is found selling or misusing 
+Government goods such as cement, steel and pipes etc..
+10.1.4 If convicted in any criminal activity.
+10.1.5 If wrong documents are submitted for registration 
+under these rules.
+10.1.6 In case of being banned or blacklisted by any 
+department/undertaking of the Government of India or 
+any State Government.
+10.1.7 In case of violation of Rule 6.2 of these rules.
+
+342
+[2026] 4 S.C.R.
+Supreme Court Reports
+10.1.8 Failure to execute the work as per the agreement 
+and prescribed specifications.
+10.1.9 In case of the contractor handing over his work to 
+another contractor or any person without departmental 
+order (subletting).
+10.1.10 No improvement is reflected in the conduct of the 
+suspended contractor.
+10.1.11 Corrupting or attempting to corrupt the tender 
+process.
+10.1.12 indulging in malpractices likes bribery, corruption 
+or fraud.
+10.1.13 any such act which obstructs the achievement of 
+the objectives of the works department.
+10.1.14 applying political pressure directly or indirectly.
+10.1.15 doing work of poor quality.
+10.1.16 directly or indirectly threatening or intimidating 
+departmental officers/employees.
+10.1.17 not achieving physical targets in proportion to the 
+time elapsed.
+10.2 The blacklisted contractor will be debarred from 
+working in any Government Department / Undertaking in 
+future and his registration will be cancelled with immediate 
+effect.
+10.3 If a registered contractor is blacklisted in any one 
+category in the light of Rule 10.1, then the registration of 
+the said contractor in all other categories, if any, will also 
+be deemed to be cancelled with immediate effect.
+10.4 All the works being carried out by the blacklisted 
+contractor in the Department of Drinking Water and 
+Sanitation, Jharkhand will be stopped from the date of 
+the order issued in the light of Rule 10.1, and the security 
+deposit of all the works will be forfeited and appropriate 
+action will be taken as per requirement to complete the 
+remaining works.
+
+[2026] 4 S.C.R. 
+343
+M/s A.K.G. Construction and Developers Pvt. Ltd v.  
+State of Jharkhand & Ors.
+10.5. Before blacklisting a contractor of a particular 
+category, it will be necessary to issue a show cause notice.
+10.6 The order of blacklisting can be passed by the 
+registration officer of the concerned category or the officer 
+under who’s supervision/under whose supervision the 
+registration officer is working.
+10.7 Against the penalty imposed, the contractor may 
+file an appeal before the departmental secretary within 
+thirty days.
+10.8	After approval by the government, the blacklisting 
+order will be issued by the concerned registration officer.”
+15.	 Before we proceed to consider the Rules relating to blacklisting and 
+its adverse consequences, we may state that it was made clear to 
+Mr. M.S. Ganesh, learned senior counsel for the appellant, that in 
+view of the clear findings of negligence as articulated in the order 
+of termination, we will not interfere with the decision of termination. 
+As regards the submission of Mr. M.S. Ganesh that the appellant 
+did not have sufficient opportunity to defend himself, notwithstanding 
+the submission of Mr. Kumar Anurag Singh that termination does 
+not require prior notice, we are of the opinion that the appellant had 
+sufficient opportunity at the common hearing for termination and 
+blacklisting. Further, the appellant argued the entire case before the 
+Appellate Authority. Appellant also raised and contested the case 
+on merits before the Division Bench. Having examined the contest 
+and its due consideration all through, we are of the opinion that the 
+decision as regards termination is unimpeachable, on merits as well 
+as on the grounds of due process. 
+16.	 In so far as the order relating to blacklisting is concerned, we are 
+of the opinion that this issue requires close scrutiny and that will be 
+undertaken by reference to Rule 10 of the 2012 Rules. 
+17.	 A cursory reading of Rule 10 makes it evident that an order of 
+blacklisting has serious consequences, effecting not only the existing 
+contracts but also bars future business transactions for some years. 
+Under Rule 10.3, if a registered contractor is blacklisted for any one 
+category as per Rule 10.1, then the registration of the said contractor 
+in all other categories, if any, will be deemed to be cancelled with 
+immediate effect. Upon such cancellation, under Rule 10.4, all the 
+
+344
+[2026] 4 S.C.R.
+Supreme Court Reports
+works carried out by the blacklisted contractor in the department will 
+be stopped from the date of issuance of order under Rule 10.1. It also 
+provides that the security deposit for all the works will be forfeited. 
+18.	 The contractual conditions governing termination on the one hand 
+and those that relate to blacklisting on the other are distinct and will 
+be exercised independently. A decision of blacklisting is not automatic 
+and certainly not a logical consequence of a decision of termination. 
+Even after the Department decides to terminate the contract, there is 
+still a choice of exercising the power of blacklisting. These decisions 
+operate in two dimensions - past and subsisting for termination 
+and future for blacklisting. In other words, an order of blacklisting 
+transcends the existing contract and debars the contractor from 
+contracts that could probably be executed in the next five years. In 
+view of the serious consequences, it is necessary for the Department 
+to issue a specific notice proposing blacklisting of a contractor and 
+call for an explanation as to why an order of blacklisting should not 
+be passed. This is exactly the purpose and object behind Rule 10.5. 
+19.	 The requirement under Clause 10.5 is a clear case of legislative (in 
+this case subordinate legislation) incorporation of principles of natural 
+justice. This Court has time and again emphasised the need to adhere 
+to principles of natural justice while passing blacklisting orders, 
+given the grave consequences that follow. In Erusian Equipment & 
+Chemicals Ltd. v. State of West Bengal1, it was observed that – 
+“15.  The blacklisting order does not pertain to any 
+particular contract. The blacklisting order involves civil 
+consequences. It casts a slur. It creates a barrier between 
+the persons blacklisted and the Government in the matter 
+of transactions. The blacklists are “instruments of 
+coercion”.
+20.  Blacklisting has the effect of preventing a person 
+from the privilege and advantage of entering into lawful 
+relationship with the Government for purposes of gains. 
+The fact that a disability is created by the order of 
+blacklisting indicates that the relevant authority is 
+1	
+(1975) 1 SCC 70. The principle in Eurasian Equipment has been reiterated by this Court in many 
+subsequent judgements such as Raghunath Thakur v. State of Bihar (1989) 1 SCC 229, Gorkha Security 
+Services v. Govt. (NCT of Delhi), (2014) 9 SCC 105, etc. 
+
+[2026] 4 S.C.R. 
+345
+M/s A.K.G. Construction and Developers Pvt. Ltd v.  
+State of Jharkhand & Ors.
+to have an objective satisfaction. Fundamentals of fair 
+play require that the person concerned should be given 
+an opportunity to represent his case before he is put on 
+the blacklist.”
+20.	 In order to emphasise the requirement of a show cause notice 
+preceding an order of blacklisting, this Court in UMC Technologies 
+Pvt Ltd v. Food Corporation of India2 held that – 
+“13.  At the outset, it must be noted that it is the first 
+principle of civilised jurisprudence that a person against 
+whom any action is sought to be taken or whose right or 
+interests are being affected should be given a reasonable 
+opportunity to defend himself. The basic principle of 
+natural justice is that before adjudication starts, 
+the authority concerned should give to the affected 
+party a notice of the case against him so that he can 
+defend himself. Such notice should be adequate and 
+the grounds necessitating action and the penalty/
+action proposed should be mentioned specifically and 
+unambiguously. An order travelling beyond the bounds 
+of notice is impermissible and without jurisdiction to that 
+extent. This Court in Nasir Ahmad v. Custodian General, 
+Evacuee Property3 has held that it is essential for the notice 
+to specify the particular grounds on the basis of which an 
+action is proposed to be taken so as to enable the noticee 
+to answer the case against him. If these conditions are not 
+satisfied, the person cannot be said to have been granted 
+any reasonable opportunity of being heard.
+14.  Specifically, in the context of blacklisting of a 
+person or an entity by the State or a State Corporation, 
+the requirement of a valid, particularised and 
+unambiguous show-cause notice is particularly crucial 
+due to the severe consequences of blacklisting and 
+the stigmatisation that accrues to the person/entity 
+being blacklisted. Here, it may be gainful to describe 
+the concept of blacklisting and the graveness of the 
+2	
+(2021) 2 SCC 551.
+3	
+Nasir Ahmad v. Custodian General, Evacuee Property, (1980) 3 SCC 1.
+
+346
+[2026] 4 S.C.R.
+Supreme Court Reports
+consequences occasioned by it. Blacklisting has the 
+effect of denying a person or an entity the privileged 
+opportunity of entering into government contracts. 
+This privilege arises because it is the State who is the 
+counterparty in government contracts and as such, every 
+eligible person is to be afforded an equal opportunity 
+to participate in such contracts, without arbitrariness 
+and discrimination. Not only does blacklisting take 
+away this privilege, it also tarnishes the blacklisted 
+person’s reputation and brings the person’s character 
+into question. Blacklisting also has long-lasting civil 
+consequences for the future business prospects of 
+the blacklisted person.
+21. Thus, from the above discussion, a clear legal position 
+emerges that for a show-cause notice to constitute the 
+valid basis of a blacklisting order, such notice must 
+spell out clearly, or its contents be such that it can 
+be clearly inferred therefrom, that there is intention 
+on the part of the issuer of the notice to blacklist the 
+noticee. Such a clear notice is essential for ensuring 
+that the person against whom the penalty of blacklisting 
+is intended to be imposed, has an adequate, informed 
+and meaningful opportunity to show cause against his 
+possible blacklisting.”
+21.	 The judgment in M/S Techno Prints v. Chhattisgarh Textbook 
+Corporation & Anr.4 underscored the need for a detailed consideration 
+of the consequences of blacklisting right at the outset, that is, 
+from the stage of issuing of show cause notice. The Court held as 
+follows –
+“29. However, what is important for us to say is that 
+when there are guiding principles explained by 
+this Court as to when & in what circumstances a 
+blacklisting order can be passed then, in our opinion 
+such principles should also be borne in mind by the 
+Authority at the time of issuing a show cause notice. 
+We say so because in the facts of a given case like the 
+4	
+2025 INSC 236.
+
+[2026] 4 S.C.R. 
+347
+M/s A.K.G. Construction and Developers Pvt. Ltd v.  
+State of Jharkhand & Ors.
+one on hand, on the face of which it could be said that 
+there was no good reason for the Authority to issue a show 
+cause notice calling upon the contractor why he should 
+not be blacklisted. Why ask the contractor to face the 
+proceedings when applying the aforesaid principles, the 
+issue of show cause notice would be an empty formality. 
+We are saying all this keeping in mind the peculiar facts 
+of this case.
+30. Therefore, the Authority is expected to be very careful 
+before issuing a show cause notice. It is expected to 
+understand the facts well and try to ascertain what sort of 
+violation is said to have been committed by the contractor. 
+As noted above, there is always an inherent power in 
+the Authority to blacklist a contractor. But possessing 
+such inherent power and exercising such power are 
+two different situations and connotations. There may 
+be a power but there should be reasonable ground to 
+exercise such power. 
+31. To put it by way of an illustration, the Police has the 
+power to arrest but it is not necessary that in all cases 
+arrest must be effected. The Police should know whether 
+at all arrest is necessary. 
+32. We may put it in a slightly different way. Take for 
+instance, the show cause notice in the present case 
+is the final order of blacklisting. The final order in any 
+case cannot travel beyond the show cause notice. 
+Therefore, we take the show cause notice as the final 
+order. Whether it makes out a case for blacklisting? 
+This should be the test to determine whether it is a 
+genuine case to blacklist a contractor or visit him 
+with any other penalty like forfeiture of EMD, recovery 
+of damages etc. We say so because once an order 
+of blacklisting is passed the same would put an 
+end to the business of the person concerned. It is 
+a drastic step. Once the final order blacklisting the 
+Contractor is passed then the Contractor is left with 
+no other option but to go to the High Court invoking 
+writ jurisdiction under Article 226 of the Constitution 
+
+348
+[2026] 4 S.C.R.
+Supreme Court Reports
+and challenge the same. If he succeeds before the 
+Single Judge then it is well and good otherwise he 
+may have to prefer a writ appeal or LPA as the case 
+may be. This again would lead to unnecessary litigation 
+in the High Courts. The endeavour should be to curtail 
+the litigation and not to overburden the High Courts with 
+litigations of the present type more particularly when 
+the law by and large is very well settled and there is no 
+further scope of any debate.”
+22.	 Returning to the facts of the present case, at the outset, it is 
+apparent that the show cause notice dated 04.06.2024 does not 
+purport to be a show cause notice for blacklisting at all. It perhaps 
+expects the contractor to assume that it is for termination as 
+well as for blacklisting. Even if we accept the submissions of Mr. 
+Kumar Anurag Singh that, as there is no provision for prior notice 
+before termination, this show cause notice must be taken to be 
+for blacklisting, we are of the opinion that it still falls short of the 
+requirement of a proper show cause notice for blacklisting. This is 
+for the reason that as the decision to blacklist is independent of the 
+decision to terminate, the Department must demonstrate application 
+of mind before it takes the next step of blacklisting the contractor, 
+over an order of termination. Upon taking such a decision, it must 
+also issue a show cause notice calling upon the contractor to explain 
+why a consequential order of blacklisting should also not be passed. 
+The letter must be indicative of the proposed decision to blacklist 
+and the requirement of the contractor to respond to it. The show 
+cause notice dated 04.06.2024 falls short of these requirements. 
+Similarly, the final order of blacklisting, dated 23.08.2024, also 
+does not list the reasons as to why an order of blacklisting has 
+become necessary. 
+23.	 The contractual relationship between the parties is governed by two 
+legal regimes. While GCC governs termination, the 2012 Rules govern 
+blacklisting. Proceedings for termination should not be conflated with 
+proceedings for blacklisting. In the latter action, what is at stake is 
+the future of the contractor. A blacklisting order assumes that the 
+contractor is an incorrigible entity, at least for some time to come, in 
+this case such an assumption was intended to operate for five years. 
+For giving effect to such a premise, there has to be sufficient evidence, 
+clear application of mind and stronger adherence to principles of 
+
+[2026] 4 S.C.R. 
+349
+M/s A.K.G. Construction and Developers Pvt. Ltd v.  
+State of Jharkhand & Ors.
+natural justice5. The blacklisting order dated 23.08.2004 falls short 
+of this requirement and is liable to be set aside. 
+24.	 As a consequence of our decision to set aside the blacklisting order, 
+we would have required the Department to issue a fresh show 
+cause notice indicative of the reasons as to why a blacklisting order 
+is felt necessary and to thereby call upon the contractor to show 
+cause. However, in view of the fact that the order of termination cum 
+blacklisting was passed on 23.08.2024, and since then almost more 
+than one and a half year has already passed, without there being 
+a stay of the said order in the meantime, we are of the opinion that 
+the relief to be granted can suitably be moulded by directing that 
+the order of blacklisting will cease to operate with immediate effect. 
+This order will benefit the appellant more than the Department, 
+because directing issuance of a fresh show cause notice will only 
+lead to further litigation.
+25.	 Having considered the matter in detail and taking into account the 
+unimpeachable material about the negligence of the appellant leading 
+to collapse of the top dome of the ESR, we are of the opinion that the 
+order of termination of all contracts is legal and valid. Civil Appeals 
+to this extent are dismissed. However, the decision of blacklisting of 
+the appellant is illegal, arbitrary and unreasonable. The declaration of 
+blacklisting is set aside, and shall cease to operate with immediate 
+effect.
+Result of the case: Appeals disposed of.
+†Headnotes prepared by: Ankit Gyan
+5	
+Kulja Industries Ltd. v. Chief General Manager, Western Telecom Project BSNL, (2014) 14 SCC 731; The 
+Blue Dreamz Advertising Pvt Ltd. & Anr. v. Kolkata Municipal Corporation & Ors, 2024 INSC 589, M/s 
+Techno Prints (supra). 

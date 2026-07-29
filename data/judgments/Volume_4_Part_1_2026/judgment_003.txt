@@ -1,0 +1,1119 @@
+[2026] 4 S.C.R. 112 : 2026 INSC 233
+Ravi Khokhar & Ors. 
+v. 
+Union of India & Ors.
+(Civil Appeal No. 3351 of 2026)
+12 March 2026
+[Sanjay Karol* and Vipul M. Pancholi, JJ.]
+Issue for Consideration
+Whether the Air Force Group Insurance Society (AFGIS) could be 
+treated as “State” or “other authority” within the meaning of Art.12 
+of the Constitution of India.
+Headnotes†
+Constitution of India – Art.12 – The appellants are employees 
+of the Air Force Group Insurance Society – The pay scales 
+of the workers were sought to be revised in accordance with 
+the Sixth Pay Commission of the Government of India – Writ 
+petitions – High Court held that that the Air Force Group 
+Insurance Society could not be treated as “State” or “other 
+authority” within the meaning of Art.12 of the Constitution of 
+India, therefore the writ petitions filed were not maintainable – 
+Correctness:
+Held: In view of this Court, a perusal of the documents make out 
+a case for AFGIS to be considered ‘State’ within the meaning of 
+Art.12 – The Hon’ble President of India granted sanction for AFGIS 
+to be established and also specifically approved the deputation 
+Rules – When the aspect of administrative control is examined, 
+it is seen that all the members of the Board of Trustees, so also 
+the Managing Committee are serving members of the IAF and are 
+deputed to AFGIS for a fixed period – In essence, therefore, the 
+administration of the Body is entirely in the hands of Government 
+servants even though the body itself is a purportedly private, a 
+self-contained society – This Court is of the considered view that 
+AFGIS does indeed perform a public duty – The protection and 
+welfare of armed forces personnel is a core government function – 
+Providing insurance coverage is a public function as it addresses 
+a collective obligation the State has towards a defined public class 
+whose service is indispensable – Insurance to service members 
+* Author
+
+[2026] 4 S.C.R. 
+113
+Ravi Khokhar & Ors. v. Union of India & Ors.
+is a critical instrument for safeguarding their physical, mental 
+well-being, dignity and economic security – It is also seen that at 
+one-point AFGIS itself claimed to be Government while claiming an 
+exemption from service taxes, since it is under the control of Ministry 
+of Defence – Thus, AFGIS would be ‘State’ under Art.12 – The 
+writ petition before the High Court accordingly, maintainable – The 
+said writ petition on the grievance of the appellants is restored. 
+[Paras 15, 17-19]
+Case Law Cited
+Ajay Hasia and Others v. Khalid Mujib Sehravardi and Others 
+[1981] 2 SCR 79 : (1981) 1 SCC 722; Pradeep Kumar Biswas and 
+Others v. Indian Institute of Chemical Biology and Others [2002] 
+3 SCR 100 : (2002) 5 SCC 111 – followed.
+Zee Telefilms Ltd. v. Union of India [2005] 1 SCR 913 : (2005) 4 
+SCC 649; Ramana Dayaram Shetty v. International Airport Authority 
+of India [1979] 3 SCR 1014 : (1979) 3 SCC 489 – relied on.
+Chander Mohan Khanna v. National Council of Educational 
+Research and Training [1991] Supp. 1 SCR 165 : (1991) 4 SCC 
+578; Rajkaran Singh v. Union of India [2024] 8 SCR 516 : 2024 
+SCC OnLine SC 2138 – referred to.
+Sagarika Singh v. Union of India and Other, 2011 SCC OnLine 
+Del 3612; Ex. Sub. Rajender Singh v. Union of India and Others, 
+2013 SCC OnLine Del 1598 – referred to.
+List of Acts
+Constitution of India; Societies Registration Act, 1860.
+List of Keywords
+Article 12 of Constitution; Instrumentality of State; Writ Maintainability; 
+Deep and Pervasive Control; Air Force Group Insurance Society 
+(AFGIS); Consolidated Fund of India; State; Practical governance; 
+Financial control.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 3351 of 2026
+From the Judgment and Order dated 01.02.2023 of the High Court 
+of Delhi at New Delhi in WP (C) No. 5024 of 2017
+
+114
+[2026] 4 S.C.R.
+Supreme Court Reports
+Appearances for Parties
+Advs. for the Appellant(s):
+Shoeb Alam, Sr. Adv., Sourav Roy, Udai Khanna, Anshu Deshpande, 
+Pranav Bafna, Hemant Gupta.
+Advs. for the Respondent(s):
+Vikramjeet Banerjee, A.S.G., Mukesh Kumar Maroria, B Sunita Rao, 
+P V Yogeswaran, Ms. Sakshi Kakkar, Praneet Pranav, Navanjay 
+Mahapatra, Abhishek Khanna, Ankur Chibber, Anshuman Mehrotra, 
+Nikunj Arora, Prahil Sharma, Vardhman Kaushik.
+Judgment / Order of the Supreme Court
+Judgment
+Sanjay Karol, J.
+Leave Granted.
+THE CONTROVERSY IN A NUTSHELL
+2.	
+The Appellants are employees of the Air Force Group Insurance 
+Society1 established under the Societies Registration Act, 18602 
+in the year 1976, with sanction of the Hon’ble President of India, 
+having been received in the same year on 6th October. The dispute 
+germane to this lis is that while the Board of Trustees, had, vide 
+special meeting dated 27th December 2016 decided that the pay 
+scales of the workers would be revised in accordance with the Sixth 
+Pay Commission of the Government of India, subsequently, by way 
+of meeting dated 13th February 2017 resolved that pay structures 
+would be revised in a way that any linkage/connection to and pay 
+parity with the Central Government, by virtue of the Pay Commissions 
+be done away with, and according thereto, asked all employees by 
+way of notice dated 22nd May 2017 to sign their acceptance to the 
+revised terms. 
+1	
+AFGIS 
+2	
+SRA
+
+[2026] 4 S.C.R. 
+115
+Ravi Khokhar & Ors. v. Union of India & Ors.
+THE IMPUGNED JUDGMENT
+3.	
+The appellants, aggrieved thereby, filed Writ Petitions before the 
+High Court of Delhi3 which were dismissed by a common judgment 
+dated 1st February 2023. The findings of the Learned Division Bench 
+can be summarised as follows:
+3.1	 The Court’s central finding was that none of the respondent 
+organisations, namely the Air Force Group Insurance Society, the 
+Air HQs Non-Public Fund Organisation, or the CRPF Employees’ 
+Educational Society, could be treated as “State” or “other 
+authority” within the meaning of Article 12 of the Constitution of 
+India. This determination was foundational, because the Court 
+held that unless the respondents satisfied the requirements 
+of Article 12, the writ petitions under Article 226 were not 
+maintainable and the Court cannot not adjudicate on claims 
+relating to pay parity, service conditions, promotions, retirement 
+age, or implementation of Pay Commission recommendations.
+In examining the status of the Air Force Group Insurance 
+Society, the Court found that it is a Society registered under 
+the Societies Registration Act, 1860, established in 1976 as 
+a self-contained and self-run welfare and insurance scheme 
+meant exclusively for Air Force personnel and their families. 
+While senior Air Force officers form part of the Board of 
+Trustees and certain officers are posted with the Society 
+on deputation, the Court held that this association does not 
+translate into deep or pervasive governmental control. The 
+day-to-day administration of the Society is carried out under 
+its own internal governance framework, and its finances are 
+sourced entirely from member contributions and the insurance 
+fund rather than from any budgetary allocation or grant from the 
+Central Government. The Court placed particular reliance on 
+the appointment letters of AFGIS employees, which expressly 
+state that their service conditions are governed by the Rules 
+of the Society as amended from time to time. The Court noted 
+that there is no statutory or contractual guarantee of parity with 
+Central Government employees and that allowances and pay 
+structures are subject to approval by the Board of Trustees. 
+3	
+WP(C) No. 5024 of 2017; WP(C) No. 16428 of 2022, CM APPL 51620 of 2022; WP(C) No. 6759 of 2022; 
+WP(C) No. 13858 of 2018; WP(C) No. 863 of 2019; WP(C) No. 15835 of 2022 & CM APPL. 49280 of 2022. 
+
+116
+[2026] 4 S.C.R.
+Supreme Court Reports
+The Court, therefore, concluded that even if historical parity 
+with Central Government pay scales had existed in practice, 
+it did not create any enforceable legal right nor did it convert 
+AFGIS into an instrumentality of the State.
+3.2	 While addressing the legal tests applicable to Article 12, the 
+Court reaffirmed the principles laid down by the Constitution 
+Bench of the Court in Ajay Hasia and Others v. Khalid Mujib 
+Sehravardi and Others4, which emphasised that the decisive 
+question is not how an entity is created but whether it functions 
+as an instrumentality or agency of the Government. The Court 
+further relied on Pradeep Kumar Biswas and Others v. 
+Indian Institute of Chemical Biology and Others,5, where 
+the Supreme Court clarified that the tests laid down in Ajay 
+Hasia (supra) are not rigid and that the cumulative facts must 
+demonstrate financial, functional, and administrative domination 
+by the Government, with control that is deep and pervasive. 
+The Court also drew support from Chander Mohan Khanna v. 
+National Council of Educational Research and Training6, 
+which cautioned against an over-expansive interpretation of 
+Article 12 merely on the basis of governmental association or 
+assistance.
+The Court specifically rejected the petitioners’ reliance on 
+Sagarika Singh v. Union of India and Others7, noting that the 
+reasoning in that decision had subsequently been disapproved 
+by a larger Bench of the Delhi High Court in Ex. Sub. Rajender 
+Singh v. Union of India and Others8,. The Court observed that 
+the larger Bench had clarified that welfare or insurance schemes 
+connected with the armed forces cannot automatically be treated 
+as “State” in the absence of pervasive governmental control, 
+and that the earlier view taken in Sagarika Singh (supra) no 
+longer represents good law.
+3.3	 Applying these settled principles to the facts of the present cases, 
+the Court concluded that all the respondent organisations are 
+4	
+(1981) 1 SCC 722
+5	
+(2002) 5 SCC 111
+6	
+(1991) 4 SCC 578
+7	
+2011 SCC OnLine Del 3612
+8	
+2013 SCC OnLine Del 1598
+
+[2026] 4 S.C.R. 
+117
+Ravi Khokhar & Ors. v. Union of India & Ors.
+autonomous, self-funded societies established for the limited 
+benefit of their members and not for the public at large. The 
+Court found no evidence of financial dependence on the Central 
+Government, nor any administrative or functional domination 
+of the kind required to attract Article 12. Consequently, the 
+writ petitions were held to be not maintainable. The interim 
+protection granted in one of the petitions was vacated, and all 
+petitions were dismissed with liberty granted to the petitioners 
+to pursue their remedies before appropriate alternative forums 
+such as civil courts or labour adjudicatory bodies.
+3.4	 It has to be noted that the status of certain other bodies as 
+“State” within the meaning of Article 12 was also a question 
+before the High Court, namely Air HQs Non-Public Fund 
+Organisation and CRPF Employees’ Educational Society, but 
+since the determination in respect thereof is not under challenge 
+before us, we need not enter into the particulars thereof. 
+THE CASE OF THE PARTIES 
+A.	
+The Appellants 
+4.	
+We have heard Mr. Shoeb Alam, learned senior counsel for the 
+appellants. It is submitted that AFGIS has represented itself to be 
+‘Government’ in official correspondence. As an example, a letter dated 
+15th March 2016 was shown. The cumulative test is financial functional 
+and administrative dominance of the Government and accordingly it is 
+submitted that the day-to-day affairs are managed by serving senior 
+officers of the Indian Air Force9. The very establishment was with the 
+sanction of the Hon’ble President of India, and membership of this 
+Organisation is compulsory for all Officers and Airmen. Further, the 
+land on which the office is situate has been granted by the Ministry 
+of Defence, Government of India, and it also enjoys exemptions 
+from various taxes levied. Still further, it is also highlighted that the 
+functions performed by AFGIS are of public importance and welfare 
+oriented. Heavy reliance is placed on a recent judgment of this 
+Court in Rajkaran Singh v. Union of India10, wherein this Court 
+9	
+‘IAF’
+10	
+2024 SCC OnLine SC 2138
+
+118
+[2026] 4 S.C.R.
+Supreme Court Reports
+examined the issue concerning employees of a compulsory savings 
+fund being entitled to benefits of the Central Pay Commission, 
+which was answered in the affirmative given alignment of service 
+conditions, pervasive government control and public function. As 
+such, the appellants, being similarly placed would also be entitled to 
+the benefits of the 7th Pay Commission in line with the past position 
+where they have been granted the said benefits.
+B.	
+Respondent-AFGIS
+5.	
+Mr. Ankur Chibber, learned Counsel appeared for AFGIS and 
+submitted that the body is not ‘State’ within the meaning of Article 
+12 for it is a self-financed, non-public fund society. The premiums 
+paid by the members are deducted centrally by the Air Force Central 
+Accounts Office and then remitted to the Organisation. This is the only 
+source of funds, and it has no inflow or outflow from the Consolidated 
+Fund of India. During the time when the officers of IAF come to the 
+Organisation on deputation their salary and allowances are borne by 
+the AFGIS itself. It also employees 47 civilian staff members who are 
+not government servant. The members of the Board of trustees are 
+ex-officio and do not receive any remuneration in respect of these 
+duties. The accounts are maintained by a privately hired Chartered 
+Accountant and AFGIS does not submit any report to the Comptroller 
+and Auditor General of India. It is as such submitted that the High 
+Court’s holding in the impugned judgment that a petition under Article 
+226 will not be maintainable, is the correct position in law. 
+C.	
+Respondent-UNION OF INDIA
+6.	
+Mr. Vikramjeet Banerjee, learned ASG appeared for the Union of 
+India and supported the stand of AFGIS.
+CONSIDERATION ON MERITS
+7.	
+Since the advent of the Constitution, the question of whether a 
+particular body can or cannot be recognised as ‘State’ within the 
+meaning of Article 1211 has arisen time and again. Initially, this Court 
+11	
+Article 12 of the Constitution of India reads thus:
+“12. In this Part, unless the context otherwise requires, “the State’’ includes the Government and 
+Parliament of India and the Government and the Legislature of each of the States and all local or other 
+authorities within the territory of India or under the control of the Government of India.”
+
+[2026] 4 S.C.R. 
+119
+Ravi Khokhar & Ors. v. Union of India & Ors.
+adopted a narrow and formalistic approach focusing on whether 
+the body concerned which was created under a statute was part 
+of the traditional Government structure. Over the time however, 
+as functions of the Government expanded multi-fold there was 
+a shift in this approach. State instrumentalities, corporations and 
+autonomous bodies were recognised as covered under this Article, 
+with the shift to a functional and purposive analysis. The test to be 
+satisfied pertained to the nature of functions, character of activity, 
+degree of governmental control. This ensured that the breadth or 
+scope of examination when this question arises is not limited to 
+ownership/origin but is instead informed by accountability, the rule 
+of law in furtherance of practical governance. It shall be useful to 
+refer to certain cases to exemplify the requirements that need to be 
+established for an organization be held to be “State”.
+7.1	 P.N Bhagwati J. (as His Lordship then was) writing for the Court 
+in Ramana Dayaram Shetty v. International Airport Authority 
+of India12, observed:
+“14. A corporation may be created in one of two 
+ways. It may be either established by statute or 
+incorporated under a law such as the Companies Act, 
+1956 or the Societies Registration Act, 1860. Where 
+a corporation is wholly controlled by Government not 
+only in its policy-making but also in carrying out the 
+functions entrusted to it by the law establishing it or 
+by the charter of its incorporation, there can be no 
+doubt that it would be an instrumentality or agency 
+of Government. But ordinarily where a corporation is 
+established by statute, it is autonomous in its working, 
+subject only to a provision, oftentimes made, that it 
+shall be bound by any directions that may be issued 
+from time to time by Government in respect of policy 
+matters. So also a corporation incorporated under law 
+is managed by a board of directors or committees 
+of management in accordance with the provisions 
+of the statute under which it is incorporated. When 
+does such a corporation become an instrumentality 
+12	
+(1979) 3 SCC 489, ‘R.D Shetty’
+
+120
+[2026] 4 S.C.R.
+Supreme Court Reports
+or agency of Government? Is the holding of the 
+entire share capital of the corporation by Government 
+enough or is it necessary that in addition, there should 
+be a certain amount of direct control exercised by 
+Government and, if so, what should be the nature 
+of such control? Should the functions which the 
+corporation is charged to carry out possess any 
+particular characteristic or feature, or is the nature 
+of the functions immaterial? Now, one thing is clear 
+that if the entire share capital of the corporation is 
+held by Government, it would go a long way towards 
+indicating that the corporation is an instrumentality 
+or agency of Government. But, as is quite often 
+the case, a corporation established by statute may 
+have no shares or shareholders, in which case it 
+would be a relevant factor to consider whether the 
+administration is in the hands of a board of directors 
+appointed by Government, though this consideration 
+also may not be determinative, because even where 
+the directors are appointed by Government, they may 
+be completely free from governmental control in the 
+discharge of their functions. What then are the tests 
+to determine whether a corporation established by 
+statute or incorporated under law is an instrumentality 
+or agency of Government? It is not possible to 
+formulate an all-inclusive or exhaustive test which 
+would adequately answer this question. There is 
+no cut and dried formula which would provide the 
+correct division of corporations into those which are 
+instrumentalities or agencies of Government and 
+those which are not.”
+7.2	 A Constitution Bench in Ajay Hasia (supra) following the tests 
+laid down in R.D Shetty (supra)held as under:
+“9. The tests for determining as to when a corporation 
+can be said to be an instrumentality or agency of 
+Government may now be culled out from the judgment 
+in the International Airport Authority case [(1979) 3 
+SCC 489] . These tests are not conclusive or clinching, 
+
+[2026] 4 S.C.R. 
+121
+Ravi Khokhar & Ors. v. Union of India & Ors.
+but they are merely indicative indicia which have to be 
+used with care and caution, because while stressing 
+the necessity of a wide meaning to be placed on the 
+expression “other authorities”, it must be realised that 
+it should not be stretched so far as to bring in every 
+autonomous body which has some nexus with the 
+Government within the sweep of the expression. A 
+wide enlargement of the meaning must be tempered 
+by a wise limitation. We may summarise the relevant 
+tests gathered from the decision in the International 
+Airport Authority case [(1979) 3 SCC 489] as follows:
+“(1) One thing is clear that if the entire share capital 
+of the corporation is held by Government, it would go 
+a long way towards indicating that the corporation is 
+an instrumentality or agency of Government. (SCC 
+p. 507, para 14)
+(2) Where the financial assistance of the State is so 
+much as to meet almost entire expenditure of the 
+corporation, it would afford some indication of the 
+corporation being impregnated with Governmental 
+character. (SCC p. 508, para 15)
+(3) It may also be a relevant factor ... whether the 
+corporation enjoys monopoly status which is State 
+conferred or State protected. (SCC p. 508, para 15)
+(4) Existence of deep and pervasive State control 
+may afford an indication that the corporation is a 
+State agency or instrumentality. (SCC p. 508, para 15)
+(5) If the functions of the corporation are of public 
+importance and closely related to Governmental 
+functions, it would be a relevant factor in classifying 
+the corporation as an instrumentality or agency of 
+Government. (SCC p. 509, para 16)
+(6) ‘Specifically, if a department of Government is 
+transferred to a corporation, it would be a strong 
+factor supportive of this inference’ of the corporation 
+being an instrumentality or agency of Government.” 
+(SCC p. 510, para 18)
+
+122
+[2026] 4 S.C.R.
+Supreme Court Reports
+If on a consideration of these relevant factors it is 
+found that the corporation is an instrumentality or 
+agency of Government, it would, as pointed out in 
+the International Airport Authority case [(1979) 3 SCC 
+489] , be an “authority” and, therefore, ‘State’ within 
+the meaning of the expression in Article 12.”
+7.3	 A bench of seven Judges in Pradeep Kumar Biswas v. Indian 
+Institute of Chemical Biology13 speaking through Ruma Pal J., 
+referred to the previous decisions of the Court and held as under:
+“38. … “these are merely indicative indicia and are 
+by no means conclusive or clinching in any case”. In 
+that case, the question arose whether the National 
+Council of Educational Research (NCERT) was a 
+“State” as defined under Article 12 of the Constitution. 
+NCERT is a society registered under the Societies 
+Registration Act. After considering the provisions of 
+its memorandum of association as well as the rules 
+of NCERT, this Court came to the conclusion that 
+since NCERT was largely an autonomous body and 
+the activities of NCERT were not wholly related to 
+governmental functions and that the government 
+control was confined only to the proper utilisation 
+of the grant and since its funding was not entirely 
+from government resources, the case did not satisfy 
+the requirements of the State under Article 12 of the 
+Constitution. …
+39. Fresh off the judicial anvil is the decision in Mysore 
+Paper Mills Ltd. v. Mysore Paper Mills Officers’ Assn. 
+[(2002) 2 SCC 167 : 2002 SCC (L&S) 223 : JT (2002) 
+1 SC 61] which fairly represents what we have seen as 
+a continuity of thought commencing from the decision 
+in Rajasthan Electricity Board [AIR 1967 SC 1857 : 
+(1967) 3 SCR 377] in 1967 up to the present time. 
+It held that a company substantially financed and 
+financially controlled by the Government, managed 
+by a Board of Directors nominated and removable 
+13	
+(2002) 5 SCC 111
+
+[2026] 4 S.C.R. 
+123
+Ravi Khokhar & Ors. v. Union of India & Ors.
+at the instance of the Government and carrying 
+on important functions of public interest under the 
+control of the Government is “an authority” within 
+the meaning of Article 12.
+40. The picture that ultimately emerges is that the 
+tests formulated in Ajay Hasia [Ajay Hasia v. Khalid 
+Mujib Sehravardi, (1981) 1 SCC 722 : 1981 SCC 
+(L&S) 258] are not a rigid set of principles so that 
+if a body falls within any one of them it must, ex 
+hypothesi, be considered to be a State within the 
+meaning of Article 12. The question in each case 
+would be — whether in the light of the cumulative facts 
+as established, the body is financially, functionally and 
+administratively dominated by or under the control of 
+the Government. Such control must be particular to 
+the body in question and must be pervasive. If this is 
+found then the body is a State within Article 12. On 
+the other hand, when the control is merely regulatory 
+whether under statute or otherwise, it would not serve 
+to make the body a State.
+(emphasis supplied)
+Recently in Rajkaran Singh (supra), on which 
+great reliance has been placed by the appellant, 
+this Court while dealing with the question whether 
+the compulsory savings deposit fund of the Special 
+Frontier Force, was ‘State’ or not whether the 
+benefit of the 6th Central Pay Commission would be 
+extended to the employees thereof or not. In para 
+26 of the abovesaid judgment the concluding paras 
+of Pradeep Kumar Biswas (supra) were reproduced 
+and thereafter applied to the instant facts. The 
+concluding paras of the latter judgment indicate the 
+following – to be an authority within the meaning 
+of Article 12 the entity should either be a creation 
+of statute or be created under a statute functioning 
+with liabilities and obligations to the public; Tests 1, 
+2 and 4 in Ajay Hasia (supra) are determinative of 
+ownership and tests 3, 5 and 6 are functional test. 
+
+124
+[2026] 4 S.C.R.
+Supreme Court Reports
+It is thereafter observed that “Neither all the tests 
+are required to be answered in the positive nor a 
+positive answer to one or two tests would suffice. It 
+will depend on a combination of one or more of the 
+relevant factors depending on the essentiality and 
+overwhelming nature of such factors in identifying 
+the real source of governing power…”
+7.4	 The discussion made by N. Santosh Hegde J, writing for the 
+majority in Zee Telefilms Ltd. v. Union of India14, is important 
+for the present purposes. It was held:
+“31. Be that as it may, it cannot be denied that the 
+Board does discharge some duties like the selection 
+of an Indian cricket team, controlling the activities 
+of the players and others involved in the game of 
+cricket. These activities can be said to be akin to 
+public duties or State functions and if there is any 
+violation of any constitutional or statutory obligation 
+or rights of other citizens, the aggrieved party may 
+not have a relief by way of a petition under Article 
+32. But that does not mean that the violator of such 
+right would go scot-free merely because it or he is 
+not a State. Under the Indian jurisprudence there 
+is always a just remedy for the violation of a right 
+of a citizen. Though the remedy under Article 32 is 
+not available, an aggrieved party can always seek a 
+remedy under the ordinary course of law or by way 
+of a writ petition under Article 226 of the Constitution, 
+which is much wider than Article 32.
+…
+33. Thus, it is clear that when a private body exercises 
+its public functions even if it is not a State, the 
+aggrieved person has a remedy not only under the 
+ordinary law but also under the Constitution, by way 
+of a writ petition under Article 226. Therefore, merely 
+because a non-governmental body exercises some 
+14	
+(2005) 4 SCC 649
+
+[2026] 4 S.C.R. 
+125
+Ravi Khokhar & Ors. v. Union of India & Ors.
+public duty, that by itself would not suffice to make 
+such body a State for the purpose of Article 12. In 
+the instant case the activities of the Board do not 
+come under the guidelines laid down by this Court 
+in Pradeep Kumar Biswas case [(2002) 5 SCC 111 : 
+2002 SCC (L&S) 633] hence there is force in the 
+contention of Mr Venugopal that this petition under 
+Article 32 of the Constitution is not maintainable.”
+(emphasis supplied)
+8.	
+We now proceed to evaluate the rival contentions in the light of the 
+judgments referred to supra. It is not in dispute that (a) membership 
+of AFGIS is compulsory for all officers and Airmen; (b) the contribution 
+of premiums are automatically deducted from the salaries; (c) the 
+Board of Trustees comprises entirely of senior serving IAF officials; 
+(d) service at AFGIS is considered to be proper deputation for officers 
+and the sanction for this Body as also its deputation rules was granted 
+by the Hon’ble President of India; (e) AFGIS periodically reports its 
+financial transactions to a senior officer in the IAF; (f) in letter dated 
+15th March 2016 AFGIS itself accepts its position as ‘Government’; 
+(g) the President has accorded sanctions on separate occasions 
+viz., introduction of substantive post in the Society, specific fixation 
+of pay bands; and (h) the Society is exempt from various taxes 
+given its compulsory nature as also automatic deduction from pay, 
+AFGIS has a monopoly over insurance for IAF members. Let us 
+unpack these points.
+9.	
+For points (a), (b), (f) and (g) the relevant portion of the letter dated 
+15th March, 2016 referred to supra are reproduced below: 
+“2.
+xxx
+xxx
+xxx
+(e) Para 5: As regards the issue of submission of ITR along 
+with form 26 as for the period from 2010-11 to 2014-15, 
+it is informed that this Society is established under the 
+authority of Ministry of Defence, Govt of India to be run 
+departmentally as a self-contained Society vide GOI, MoD 
+letter No Air HQ/25657/17/D/Accts/1197 DOLA (Air-11)/76 
+dated 06 Oct 1976 and that this Society is registered under 
+the Society Registration Act (XXI of 1860) and also that 
+
+126
+[2026] 4 S.C.R.
+Supreme Court Reports
+this Society has been established by the Armed Forces of 
+the Union of India (Air Force) for the welfare of the past 
+and present members (air warrior / air veterans) and their 
+dependents. The principal objective of the Society is to 
+collect the mandatory and compulsory deduction from the 
+air warriors so as to provide the financial relief in case of 
+contingencies of death/disability of the air warrior occurring 
+while in service/post retirement. Further, the Society also 
+provides welfare services to air warriors / air veterans and 
+their dependents by payment of survival (saving element of 
+the mandatory and compulsory deduction) on retirement/
+death. The income of the Society is exempted from Income 
+Tax u/s 10(23)(C)(iv) of Income Tax Act 1961 as notified 
+vide MoF letter No F.275/29/85-IT(B) dated 05 Jun 1985.
+xxx
+xxx
+xxx
+3. xxx
+xxx
+xxx
+(c) Basis of the Working of the AFGIS: Consequent 
+to the aforesaid sanction/approvals, the contributions 
+by air warriors to AFGIS have been made mandatory 
+and compulsory in terms of Air Force Instructions (AFI) 
+16/87 issued by the Govt of India (Ministry of Defence). 
+The monthly mandatory contributions are compulsorily 
+deducted from the salary of all air warriors (officers, 
+airmen and NCs(E)) from the day they join IAF. Hence, 
+membership to the group insurance has become an integral 
+part of the Service Conditions. It is pertinent to mention 
+here that the AFGIS, like Army Group Insurance and Naval 
+Group Insurance, caters only to ‘Men in Uniform’ and is 
+not open to civilians or the general public. AFGIS does 
+not issue any insurance policies to the air-warriors for its 
+insurance schemes.
+xxx
+xxx
+xxx
+(g) Relationship between AFGIS and its Air Warrior 
+Members.
+One of the primary factors for deciding the applicability of 
+Service Tax is the relationship between a service provider 
+
+[2026] 4 S.C.R. 
+127
+Ravi Khokhar & Ors. v. Union of India & Ors.
+and service receiver wherein there is a “flow of service”. 
+AFGIS is a self-contained Society run departmentally under 
+the authority of Govt of India (Ministry of Defence). The 
+insurance schemes run by AFGIS are exclusively for the 
+air warrior members hence the group is a “Closed Group”. 
+Membership and contribution to the schemes is compulsory 
+and mandatory. Following examples regarding decisions 
+given by the Courts could further clarify this matter.
+(i) In the case of Saturday Club Ltd v/s Assistant 
+Commissioner, Service Tax, 2006 (3) STR 305; 
+the Hon’ble High Court of Calcutta observed that, 
+“Principally there should be an existence of two sides/
+entities for having transaction as against consideration. 
+In a members club there is no question of two sides. 
+‘Members’ and ‘club’ both are same entity. One may 
+be called as ‘Principal’ while the other may be called 
+as ‘Agent’ and therefore, such transaction in between 
+themselves cannot be recorded as income, sale or 
+service as per applicability of the revenue tax of the 
+country.”
+(ii) In the matter of New Delhi CESTAT in the case 
+of Federation of Indian Chambers of Commerce & 
+Industry (FICCI) v/s Commissioner of Service Tax, 
+Delhi (2015) 38 S.T.R. 529 (New Delhi - CESTAT) 
+wherein the Tribunal held that the service by FICCI 
+to its members is not liable for payment of service 
+tax owing to ‘Principle of Mutuality’.
+(h) AFGIS is controlled by the Govt. of India through the 
+Ministry of Defence and Air HQ and hence is “Government” 
+in terms of Finance Act, 1994. AFGIS acts as a wing of 
+the Government and hence the collection received from 
+its members is outside the purview of the service tax 
+primarily on the basis of “Principle of Mutuality” and by 
+virtue of Section 66 D of the Finance Act, 1994 wherein 
+the service of ‘Government’ is outside the purview of the 
+Service Tax.
+xxx
+xxx
+xxx”
+
+128
+[2026] 4 S.C.R.
+Supreme Court Reports
+Air Force instruction dated 1st October 1987 mandating membership 
+of AFGIS is as under:-
+COPY 
+AIR FORCE INSTRUCTION 
+NO – 16
+New Delhi, Thursday, October 1, 1987/Asavina 9, 1909
+COMPULSORY MEMBERSHIP-GROUP INSURANCE 
+SCHEME
+1.	
+The membership under Air Force Group Insurance 
+Society for the Insurance Scheme in existence at the 
+time of joining Indian Air Force will be compulsory 
+for the following:-
+(a) Officers
+(b) Airmen
+(c) NCs(E)
+(d) Flight Cadets
+2.	
+All personnel who are members of Enhanced Group 
+Insurance Scheme 1982 of Air Force Group Insurance 
+Society shall automatically become members of any 
+other Insurance Scheme floated in future by the Air 
+Force Group Insurance Society. The will be liable 
+to pay insurance premium for the new scheme as 
+fixed by the Air Force Group Insurance Society from 
+time to time.
+3.	
+All personnel who are not members of Enhanced 
+Group Insurance Scheme 1982 but are members of 
+Group Insurance Scheme 1975 or 1978 can become 
+members of any new insurance scheme floated by 
+Air Force Group Insurance Society after becoming 
+members of Enhanced Group Insurance Scheme 
+1982, for which they will be required to pay the 
+insurance premium applicable for 1982 scheme from 
+01 Apr 82 till the date the new schemes come into 
+force. Premium paid under 1975 and 1978 Schemes 
+will be retained and paid at the time of retirement will 
+applicable rates of interest.
+
+[2026] 4 S.C.R. 
+129
+Ravi Khokhar & Ors. v. Union of India & Ors.
+4.	
+These provisions take effect from the date of issue 
+of this AFI.
+Case No. Air HQ/24018/16/PP&R-1/D (Air-III) 
+Min of Def/(Fin) UO No. 1410/Pay/AF of 1987
+Sd/- 
+(R.K. Dhir) 
+Dy Secretary
+10.	 For point (c), reference may be made to the Manual of Administration 
+and Management, Air Force Group Insurance Society (Published 
+under the Authority of Board of Trustees AFGIS) 2009
+CHAPTER 2
+ADMINISTRATION
+Board of Trustees
+1.	
+The Society will be administered by a Board of 
+Trustees and a Managing Committee as per the 
+details given in succeeding paras.
+2.	
+The Board of Trustees constitute the following:-
+AOA — Chairman 
+DG(IBS) — Member 
+DCAS — Member 
+AOM — Member 
+AOP — Member 
+ACAS (Accts) — Member 
+PD AFGIS — Member Secretary
+18. Secretary. The Secretary shall be an officer of the 
+rank of Gp Capt of the Accounts Branch and will be on 
+deputation to the Society as per the terms and conditions 
+approved by the Government. His appointment will be 
+approved by the Chairman, Board of Trustees. He will 
+conduct day to day administration and be responsible to 
+Principal Director, AFGIS on all matters of the Society. He 
+shall perform the following functions:-
+(a) Carry out administrative duties as may be entrusted 
+to him by Principal Director, AFGIS.
+
+130
+[2026] 4 S.C.R.
+Supreme Court Reports
+(b) Give notice of the meeting to the members of Board 
+of Trustees/Managing Committee and prepare briefs on 
+all agenda points to be sent to the members.
+(c) Attend all meetings of the Board of Trustees and 
+Managing Committee unless prevented by illness or 
+excused from attending by the Chairman and record the 
+Minutes of all meetings of the Board of Trustees. 
+(d) Communicate decisions of the Board of Trustees/
+Managing Committee to concerned executives for 
+implementation.
+(e) Be responsible for the efficient functioning of Claims, 
+Advances, PRIC and Contribution Sections and correct 
+maintenance of connected records.
+(f) Conduct correspondence o behalf of the Board of 
+Trustees and Managing Committee
+(g) Finalise and settle all death, disability and survival 
+benefit claims duly approved by the appropriate authority.
+(h) prepare the annual report of the Society for approval 
+by the Board of Trustees.
+(j) Perform the duties of Principal Director and JD (Fin) in 
+the absence of the permanent incumbent.
+(k) Approve expenditure as per the financial powers 
+delegated within the overall budget limit approved by the 
+Board of Trustees.
+(l) Put up proposals for investment of funds of the Society.”
+xxx
+xxx
+xxx
+11.	 For points (d), the following letter is extracted:-
+11(5)2000/DOI/DOI/D(Air-III) 
+Government of India 
+Ministry of Defence 
+New Delhi dated the 27th Mar 2002
+To
+The Chief of Air Staff 
+(with 15 Spare copies)
+
+[2026] 4 S.C.R. 
+131
+Ravi Khokhar & Ors. v. Union of India & Ors.
+Subject: GENERAL TERMS & CONDITIONS FOR 
+DEPUTATION OF OFFICERS TO AIR FORCE GROUP 
+INSURANCE SOCIETY
+Sir,
+I am directed to convey the sanction of the President 
+to the general Terms & Conditions for deputation of IAF 
+officers to Air Force Group Insurance Society as laid down 
+in Annexure ‘A’ of this letter.
+3. This issues with the concurrence of Ministry of Defence 
+(Finance) vide their u.o. No.543/P&W/AF dated 22 Mar 
+2002.
+Yours faithfully,
+(G. Srinivasan) 
+Desk Officer
+12.	 For point (e) relevant portion of Manual of Administration and 
+Management, AFGIS:- 
+35. Monitoring System On 25th of every month, PD AFGIS 
+is to apprise ACAS (Accts) on the case flow of AFGIS, 
+bringing out the details of all investment during the previous 
+30 days. He is also to make a structured presentation to 
+AOA of investment status, the quotations received during 
+the previous quarter along comparative statements, their 
+forecast appreciation of the investment environment the 
+next quarter and the case flow assessment of the next 
+quarter. At the end of every quarter the performance 
+analysis of the investment is to be put up to both for their 
+perusal.
+13.	 For point (g) reference is made to the following letters dated 25th 
+February 1985 and 28th September 1981:-
+“No.Air HQ/5.18172/22/3/PC-26/Plans/361/DOIIA/
+D(Air-III) 
+Government of India, 
+Ministry of Defence, 
+New Delhi, the 25th February, 1985
+
+132
+[2026] 4 S.C.R.
+Supreme Court Reports
+To
+The Chief of the Air Staff (with 35 spare copies)
+SUBSTANTIVE CADRE OF GROUP CAPT AND
+ABOVE - DIRECTOR OF GROUP INSURANCE 
+SOCIETY
+Sir,
+I am directed to refer to this Ministry’s letter No. Air 
+HQ/S.18172/22/3/Plans/3750/D(Air-III)/62 dated 15th May, 
+1974 as amended from time to time and to convey the 
+sanction of the President to the inclusion of one post of 
+Air Cmde (Accts) in the substantive cadre of Air Cmde 
+(Accts) so long the post of director of Group Insurance 
+Society is held by an Air Force Office and its deletion from 
+the existing substantive cadre/of Group Cap-t (Accts).
+2.⁠ ⁠This issues with the concurrence of Ministry of Defence/ 
+(Finance/Division)vide their u.o. No. 351/Org/S/AF of 1985.
+Yours faithfully,
+(H.D. SHARMA)  
+DESK OFFICER
+xxx
+xxx
+xxx
+Appendix ‘E’ 
+(Refers to para 9 of  
+Chapter 3)
+No. Air HQ/24011/71 PP & R-1/2282/DOIIB/D (Air III)
+Government of India/Bharat Sarkar
+Ministry of Defence /Raksha Mantralaya 
+New Delhi, the 28 September, 1981 
+6th Asvina, 1903 Sako Era
+To
+The Chief of the Air Staff,
+Subject: Enhancement of Flying Pay-Air Force Personnel
+
+[2026] 4 S.C.R. 
+133
+Ravi Khokhar & Ors. v. Union of India & Ors.
+Sir,
+1.⁠ ⁠I am directed to refer to para 9(b) of AFI 4/S/74 as 
+amended and Serial No.12 of Appendix ‘B’ to AFI 2/S/74, 
+as amended and to state that the president is pleased 
+to decide that with effect from 01 Sep 1981, the rates of 
+flying pay will be enhanced as under:-
+(i) Wing Commander and below
+Rs.750.00 pm
+(ii) Group Caption and Air Cmde
+Rs.666.00 pm
+(iii) Air Vice Marshal and above
+Rs.600.00 pm
+(iv) Airmen including JWOs, WOs and MWOS
+Rs.374.50 pm
+2.⁠ ⁠The increased flying pay will be admissible subject to 
+additional insurance cover as given below, taken through 
+Air Force Group Insurance Society (AFGIS):-
+(a) Officers of the flying branch are required to obtain 
+additional life insurance cover against all risks, 
+including flying for a minimum of Rs.2 Lakhs effective 
+from 01 Oct 81, on payment of monthly contribution 
+as given below:-
+(i) Wing Commander and below
+Rs.325.00 pm
+(ii) Group Captain and Air Cmde
+Rs.283.00 pm
+(iii) Air Vice Marshal and above
+Rs.250.00 pm
+(b) Officers of the Ground duty Branches, entitled 
+to flying pay will be required to obtain additional life 
+
+134
+[2026] 4 S.C.R.
+Supreme Court Reports
+insurance cover against all risks, including flying, for 
+a minimum of Rs.2 Lakhs effective from 01 Oct 81, 
+on payment of monthly contribution as applicable to 
+equivalent ranks of the flying branch only during the 
+period of entitlement of flying pay.
+(c) Airmen aircrew, entitled to flying pay, will be 
+required to obtain additional life insurance cover 
+against all risks, including flying for a minimum of 
+Rs. One Lakhs effective from 01 Oct 81, on payment 
+of monthly contribution of Rs.162.00 only during the 
+period of entitlement to flying pay.
+(d) The Air Force Group Insurance Society will pay 
+Survival Benefit to persons covered under the above 
+insurance scheme on retirement/release, the amount 
+of which will be determined by the said Society from 
+time to time.
+3. (a) The amount payable to the Group Insurance Scheme 
+is to be recovered from IRLAs of officers and airmen from 
+the pay of Sep 81 onwards and paid by the Air Force Central 
+accounts Office to Air Force Group Insurance Society in 
+respect of personnel for whom IRLAs are maintained, on 
+the day pay for the month is disbursed.
+(b)	 (i) Deputationists and other officers and airmen for 
+whom no IRLAS are maintained at Air Force Central 
+Accounts Office and who are entitled to enhance flying 
+pay, are to obtain insurance cover for the amounts, 
+as applicable by remitting the contributions to Air 
+Force Group Insurance Society for the flying pay to 
+be admitted.
+(ii) In the case of the existing deputationist and other 
+officers and airmen for whom no IRLAs are maintained 
+by Air Force Central Accounts Office and who are 
+entitled for enhanced flying pay contributions are to 
+be remitted by them direct to the AFGIS latest by 01 
+Jun 82. However, the contributions will have to be 
+made wef 01 Oct 81.
+
+[2026] 4 S.C.R. 
+135
+Ravi Khokhar & Ors. v. Union of India & Ors.
+(iii) In the case of the officers mentioned above whom 
+no IRLAs are maintained by AFCAO, the controlling 
+officers will admit flying pay only on receiving a 
+certificate/receipt from the Air Froce Group Insurance 
+Society to the effect that the individual has contributed 
+for the month(s) for which flying pay is admitted.
+(c) In view of the provisions made in sub paras (a) & 
+(b) (iii) above, no certificate of payment of insurance 
+premium will be required to be given by OC Unit and no 
+POR is necessary, in respect of this additional insurance 
+cover. However, the flying pay certificate prescribed in the 
+Appendix ‘G’ to AFI 2/S/74 and Appendix ‘C’ to AFI 2/S/74 
+will continue to be furnished.
+4.⁠ ⁠Other conditions governing flying pay including insurance 
+cover required under the earlier orders remain unchanged.
+5.⁠ ⁠AFI 4/S 74 and AFI 2/S/74 will be amended in due course.
+6.⁠ ⁠This issues with the concurrence of Min of Fin (Def) 
+vide their No.2622/Pay/ AA of 1981.
+Yours faithfully, 
+Sd/-  
+(N.N. Mathur)  
+Desk Officers
+xxx
+xxx
+xxx”
+14.	 For point (h) the Notification dated 31st October 1983 exempting the 
+Society from estate duty is extracted below:-
+“Appendix ‘D’  
+(Refers to para 8  
+of Chapter 1)
+TO BE PUBLISHED IN PART II SECTION 3-SUB 
+SECTION (1) OF THE GAZETTE OF INDIA
+Government of India 
+Central Board of Direct Taxes 
+New Delhi, the 31” October, 1983
+
+136
+[2026] 4 S.C.R.
+Supreme Court Reports
+NOTIFICATION 
+ESTATE DUTY
+GSR 841, Whereas the Central Government is of opinion 
+that circumstances are such that some relief in addition 
+to the relief provided in sub section (i) of Section 33 of 
+the Estate Duty act, 1953 (34 of 1953) should be given 
+in respect of the following class of property belonging to 
+the deceased which passes on his death and in respect 
+of which estate duty is liable to be levied and collected 
+under the said Act, namely, the money payable under Army 
+Group Insurance Scheme or the Naval Group Insurance 
+Scheme or the Air Force Group Insurance Schemes as 
+the case may be, in existence on the date of publication 
+of this Notification in the Official Gazette. Now, therefore, 
+in exercise of the power conferred by sub section (2) of 
+the section 33 of the Estate Duty Act, 1953 (34 of 1953), 
+the Central Government hereby directs that no estate 
+duty shall be payable in respect of the aforesaid class 
+of property.
+Sd/
+(Arvind Pinto)
+Under Secretary to the Government of India
+(F.No.296/7/83-ED)
+Notification dated 5th June 1985 exempting AFGIS from 
+income tax, is as under:-
+“Appendix ‘B’ 
+(Refers to para 7(c) of Chapter 1)
+Copy
+TO BE PUBLISHED IN PART II SECTION 3 (II) OF 
+THE GAZETTE OF INDIA
+GOVERNMENT OF INDIA 
+MINISTRY OF FINANCE  
+DEPARTMENT OF REVENUE 
+NEW DELHI, TIME 5th JUNE, 1985
+
+[2026] 4 S.C.R. 
+137
+Ravi Khokhar & Ors. v. Union of India & Ors.
+NOTIFICATION
+INCOME TAX
+S.O. In pursuance of sub clause (f) of clause (iii) of sub 
+section (3) of section 194A of the Income Tax Act, 1961 
+(43 of 1961), the Central Government hereby notifies the 
+Society known as Air Force Group Insurance Society, New 
+Delhi, for the purpose of the said sub- clause.
+(F. No. 275/29/85-IT (B)
+Sd/- 
+(B.Nagarajan) 
+Deputy Secretary to 
+the Govt of India
+xxx
+xxx
+xxx”
+15.	 In our view, a perusal of the documents extracted supra make out 
+a case for AFGIS to be considered ‘State’ within the meaning of 
+Article 12. For the aspect of deep and pervasive control, we observe 
+that the Hon’ble President of India granted sanction for AFGIS 
+to be established and also specifically approved the deputation 
+Rules; the Principal Director (AFGIS), every month is to apprise the 
+Assistant Chief of Air Staff regarding the cash flow of AFGIS which 
+ensures monitoring by a core member of the IAF on the activities 
+of AFGIS; the membership and deductions arising therefrom are 
+a compulsory aspect of serving in the IAF, meaning thereby that 
+there is no choice of the individual officer in that matter and instead 
+is a mandate from the employer. When the aspect of administrative 
+control is examined, it is seen that all the members of the Board of 
+Trustees, so also the Managing Committee are serving members 
+of the IAF and are deputed to AFGIS for a fixed period. In essence, 
+therefore, the administration of the Body is entirely in the hands of 
+Government servants even though the body itself is a purportedly 
+private, a self-contained society. The appellant, in submitting that 
+financial control also rests with the Government says that since the 
+mandatory reduction of the premium is directly/automatically from 
+the salary of the members of IAF and these salaries are charged to 
+the Consolidated Fund of India- this shows financial control. 
+
+138
+[2026] 4 S.C.R.
+Supreme Court Reports
+16.	 We are unable to accept this contention. It may be that in so far as 
+financial aspects of AFGIS are concerned, the Government may not 
+have a direct role however for a body to be held to be a ‘State’ it 
+is the cumulative effect and impact of deep and pervasive control, 
+financial and administrative control along with other factors such as 
+carrying out of public duty. 
+17.	 We are of the considered view that AFGIS does indeed perform a 
+public duty. The protection and welfare of armed forces personnel is 
+a core government function. The role of the armed forces is directly 
+linked to the sovereignty and security of the nation and in protecting 
+the same members of the forces are required to adhere to, abide 
+by, and maintain a strict set of rules, unquestionable conduct, and at 
+times in the most severe and adverse circumstances. Thus, providing 
+insurance coverage is a public function as it addresses a collective 
+obligation the State has towards a defined public class whose 
+service is indispensable. The body, in effect, becomes a conduit for 
+the discharge of that obligation. The role of the State in protecting 
+them does not end upon their superannuation from service for the 
+life of a person from the forces is forever shaped by their time in 
+service. Insurance to service members is a critical instrument for 
+safeguarding their physical, mental well-being, dignity and economic 
+security. It operates as an assurance of protection and support in 
+case contingencies such as disability or illness befall them or even 
+untimely death which is a real possibility in these services. The fact 
+that healthcare, rehabilitation, support to dependants is available 
+readily, is undoubtedly an aspect that gives great peace of mind to 
+the member of service enabling them to carry out their duties without 
+worry, at least in this regard. 
+18.	 In addition to the discussion above, it is also seen that at one-
+point AFGIS itself claimed to be Government while claiming an 
+exemption from service taxes, since it is under the control of Ministry 
+of Defence. In effect, by opposing the challenge of the appellants, 
+AFGIS has resiled from its own statement. We fail to understand 
+an organisation can be ‘Government’ for one purpose and not be, 
+for another purpose. 
+19.	 Consequent to the above discussion, AFGIS would be ‘State’ under 
+Article 12. The writ petition before the High Court accordingly, 
+maintainable. The said writ petition on the grievance of the appellants 
+
+[2026] 4 S.C.R. 
+139
+Ravi Khokhar & Ors. v. Union of India & Ors.
+is restored. The High Court is requested to decide the same 
+expeditiously keeping in view the fact that the same has been filed 
+in the year 2017. Appeal is allowed.
+Pending application(s) if any shall stand disposed of.
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Ankit Gyan

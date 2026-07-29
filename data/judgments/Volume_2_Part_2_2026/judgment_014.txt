@@ -1,0 +1,715 @@
+[2026] 2 S.C.R. 558 : 2026 INSC 121
+P. Suresh
+v.
+D.Kalaivani & Ors.
+(Civil Appeal No. 739 of 2026)
+03 February 2026
+[Aravind Kumar and N.V. Anjaria,* JJ.]
+Issue for Consideration
+Could the High Court entertain an application invoking and exercising 
+its powers of superintendence u/Art.227 of the Constitution, even 
+where a specific remedial provision available in the Code of Civil 
+Procedure Code, 1908 (CPC) relating to the subject matter – issue 
+is the focal point arising to be addressed in the present appeal.
+Headnotes†
+Constitution of India – Art.227 – Code of Civil Procedure, 
+1908 – Or.VII R.11, Or.VI R.16 – Supervisory jurisdiction of High 
+Court – What is challenged in this appeal at the instance of the 
+appellant-original plaintiff, is the judgment and order passed 
+by the High Court dated 03.06.2025 in CRP No.3197 of 2024 
+and CMP No.17106 of 2024, which were the proceedings of the 
+Civil Revision Petition filed by the defendant u/Art.227 of the 
+Constitution, whereby, the High Court allowed the Revision 
+Petition and struck off the plaint in Original Suit No.93 of 2020 
+before the Court of District Munsif – Correctness:
+Held: In the garb of exercising supervisory jurisdiction u/Art.227 
+of the Constitution, the High Court is not expected to engulf the 
+specific statutory remedy or provision in law and, thus, become a 
+supervisor over the court below or the tribunal, as the case may 
+be – It would be a legally wise exercise of discretion for the High 
+Court to adopt and adhere to such self-imposed discipline and 
+to insist that the aggrieved party should take recourse to such 
+alternative remedy or statutory provision available in law – Embargo 
+in this regard would have to be construed as near total when 
+provision is available in CPC – It is held, therefore, that once the 
+specific provision u/Or.VII, R.11 of the CPC, is available, the High 
+Court cannot exercise powers u/Art.227 to reject or strike off the 
+* Author
+
+[2026] 2 S.C.R. 
+559
+P. Suresh v. D.Kalaivani & Ors.
+plaint – For such relief, the specific provision u/Or.VII, R.11, CPC, 
+will have to be resorted to, on the grounds mentioned in the said 
+provision – In adopting such approach, the High Court would be 
+giving due regard to the legislative intent – When the legislature 
+has enacted specific remedial provision to be taken recourse to 
+by the person aggrieved to challenge the orders and decisions of 
+the court to seek redress in law accordingly that remedy alone will 
+have to be sought for – This court is of the view that High Court 
+committed a manifest error in exercising its powers u/Art.227 of 
+the Constitution to strike down the plaint – It ought to have asked 
+the defendant to take recourse to, in accordance with law, when 
+specific provisions available in the Code of Civil Procedure, 1908 
+in the nature of Or.VII, R.11 – The impugned judgment and order 
+of the High Court, therefore, is set aside – Consequently, the suit 
+is restored to its original file. [Paras 7.3, 7.4, 8-11]
+Constitution of India – Art.227 – Superintendence over all 
+courts – Explained:
+Held: Art.227 of the Constitution invests the power of superintendence 
+over all courts by the High Court – Sub-Article (1) thereof provides 
+that every High Court shall have superintendence over all courts 
+and tribunals throughout the territories in relation to which it 
+exercises jurisdiction – As per sub-Article (2), without prejudice to 
+the generality of the provisions in sub-Article (1), the High Court 
+may (a) call for returns from such courts; (b) make and issue 
+general rules and prescribe forms for regulating the practice and 
+proceedings of such courts and (c) prescribe forms in which the 
+books and accounts etc. to be kept by the officers of courts – As 
+per sub-Article (3), the High Court may also settle tables of fees – 
+Sub-Article (4) provides that nothing in the Article shall deem to 
+confer on a High Court powers of superintendence over any court 
+or tribunal constituted by or under any law relating to the Armed 
+Forces – The reserve of exceptional power of judicial intervention 
+is not to be exercised just for granting of relief in individual cases 
+but should be directed for the promotion of public confidence in 
+the administration of justice – It is emphasized that though the 
+power u/Art.227 may be unfettered, its exercise is subject to high 
+degree of judicial discipline. [Paras 5, 5.1.1]
+Code of Civil Procedure, 1908 – Or.VI, R.16 – Or.VII, R.11 – 
+Discussed. [Paras 6.1-6.2.1]
+
+560
+[2026] 2 S.C.R.
+Supreme Court Reports
+Case Law Cited
+State v. Navjot Sandhu [2005] Supp. 2 SCR 79 : (2003) 6 SCC 
+641; K. Valarmathi and Ors. v. Kumaresan [2025] 4 SCR 2461 : 
+2025 SCC OnLine SC 985; Virudhunagar Hindu Nadargal Dharma 
+Paribalana Sabai and Others v. Tuticorin Educational Society and 
+Others [2019] 13 SCR 634 : (2019) 9 SCC 538; Radhey Shyam v. 
+Chhabi Nath [2015] 3 SCR 197 : (2015) 5 SCC 423 – relied on.
+Shalini Shyam Shetty v. Rajendra Shankar Patil [2010] 8 SCR 836 : 
+(2010) 8 SCC 329; A. Venkateshubbiah Naidu v. S. Chellappan 
+[2000] Supp. 3 SCR 303 : (2000) 7 SCC 695; Rajendra Diwan v. 
+Pradeep Kumar Ranibala and Anr. [2019] 17 SCR 1089 : (2019) 
+20 SCC 143; Surya Dev Rai v. Ram Chander Rai [2003] Supp. 
+2 SCR 290 : (2003) 6 SCC 675 – referred to.
+List of Acts
+Constitution of India; Code of Civil Procedure, 1908.
+List of Keywords
+Article 227 of Constitution of India; Alternative remedy; Order VII, 
+Rule 11 of Code of Civil Procedure, 1908; Order VI, Rule 16 of Code 
+of Civil Procedure, 1908; Triable issues; Supervisory jurisdiction; 
+Specific remedial provision; Extraordinary power; Statutory remedy; 
+Discretion; Injunction; Rejection of plaint; Striking out pleadings; 
+Manifest error; Court of appeal; Miscarriage of justice; Judicial 
+intervention; Judicial discipline.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 739 of 2026
+From the Judgment and Order dated 03.06.2025 of the High Court 
+of Judicature at Madras in CRP No. 3197 of 2024
+Appearances for Parties
+Advs. for the Appellant(s):
+Abdulla Naseeh V.T., Ms. Abreeda Banu, Ms. Rachel Sara James.
+Adv. for the Respondent(s):
+V Prabhakar, Sr. Adv., S. Rajappa, Ms. Jyoti Parashar, 
+R Gowrishankar, Ms. G Dhivyasri, Naanchil J Deekshith.
+
+[2026] 2 S.C.R. 
+561
+P. Suresh v. D.Kalaivani & Ors.
+Judgment / Order of the Supreme Court
+Judgment
+N.V. Anjaria, J.
+Leave granted.
+2.	
+Could the High Court entertain an application invoking and exercising 
+its powers of superintendence under Article 227 of the Constitution, 
+even where a specific remedial provision available in the Code of Civil 
+Procedure Code, 1908 (hereinafter referred to as ‘CPC’) relating to 
+the subject matter – issue is the focal point arising to be addressed 
+in the present appeal.
+2.1	 What is challenged in this appeal at the instance of the appellant - 
+original plaintiff, is the judgment and order passed by the High 
+Court of Madras dated 03.06.2025 in CRP No. 3197 of 2024 
+and CMP No. 17106 of 2024, which were the proceedings of 
+the Civil Revision Petition filed by the defendant under Article 
+227 of the Constitution, whereby, the High Court allowed the 
+Revision Petition and struck off the plaint in Original Suit No. 
+93 of 2020 before the Court of District Munsif, Tambaram.
+3.	
+Outlining the facts would be relevant to notice the case pleaded in the 
+plaint. The suit instituted by the appellant-plaintiff before the District 
+Munsif Court, Tambaram was for the relief of permanent injunction 
+against the defendants and their agents from interfering with the 
+possession and enjoyment of the suit property by the plaintiff. The 
+suit property comprised of Survey No. 125/1A, Survey No. 125/1C, 
+and Survey No. 230/1B, which was described in their specified 
+boundaries of Patta No. 320.
+3.1	 The case of the plaintiff was that the land originally belonged to 
+one Sambandam Chettiar, who sold the same to the mother of 
+the appellant named Meena under a registered sale deed dated 
+20.10.1975, Document No. 3994 of 1975. The said Meena - 
+wife of Paramasivam, was in exclusive possession of the suit 
+property and she died intestate on 07.12.1985. It was further 
+averred that the plaintiff as her sole legal heir inherited the 
+property and has been in exclusive possession and enjoyment 
+of the same and further that the plaintiff got revenue records 
+mutated in his favour in Patta No. 11941. 
+
+562
+[2026] 2 S.C.R.
+Supreme Court Reports
+3.1.1	 It was further averred in the plaint that the suit property, 
+an open land, was to be bound by the fence. It was 
+stated that at that time, defendant No. 2 trespassed and 
+prevented the plaintiff from erecting the fence. It was 
+averred that the defendants claimed to be the relatives 
+of Sambandam Chettiar. The plaintiff stated that since 
+the defendants threatened to encroach upon the suit 
+property, the cause of action arose for instituting the 
+Original Suit No. 93 of 2020.
+3.2	 In the written statement filed by the defendants, the transaction 
+of sale in favour of the plaintiff’s mother Meena was disputed 
+by contending that the sale document was fabricated. It was 
+sought to be contended that the certified copy of the sale deed 
+filed along with the plaint used to be the property of another 
+document and further that the sale deed was not signed by the 
+said Sambandam Chettiar. It was the case of the defendants 
+that the document did not pertain to the suit sale but it was a 
+mortgage deed executed by a third party. 
+3.2.1	 It was then contended that the said Sambandam Chettiar 
+and his mother owned the suit property which they had 
+purchased in the years 1922 and 1928 under registered 
+sale deeds, and that agricultural operations were carried 
+out in the lands using the services of coolies. The 
+defendants contended that in the year 1940, when their 
+mother died, all the properties were inherited and that 
+they were in possession and enjoyment of the same. 
+It was stated that in the year 2020, the defendants 
+tendered kist for the land covered under Patta No. 320, 
+but the Village Administrative Officer refused to receive 
+the same, stating that the ownership of the land/Patta 
+had changed.
+3.3	 By raising the above and other contentions, the defendants put 
+forward their case inter alia that the question of trespassing 
+into the suit property by them did not arise as the title of the 
+property belonged to them and that the case of the plaintiff for 
+injunction was based on fabricated documents and that the 
+suit was fraudulent. 
+
+[2026] 2 S.C.R. 
+563
+P. Suresh v. D.Kalaivani & Ors.
+3.4	 In the Civil Revision Petition filed before the High Court under 
+Article 227 of the Constitution by the defendants, it was 
+contended that although the plaintiff was claiming exclusive 
+title over the property, he did not seek the declaration of his 
+title. The principles of exercising powers under Order VII Rule 
+11, CPC and the provisions of Order VI Rule 16 of CPC were 
+pressed into service on behalf of the defendant-petitioners, 
+praying before the High Court to strike off the plaint in exercise 
+of powers under Article 227 of the Constitution.
+3.5	 The High Court noted the case and averments, the defence of 
+the defendants, and proceeded to record finding that the certified 
+copy of the sale deed produced by the plaintiff pertained to some 
+third party and did not relate to the plaintiff. The High Court further 
+recorded a finding that the document was a forged document 
+and that the suit filed by the plaintiff was a false suit. According 
+to the High Court, since the suit was once dismissed for default 
+on 05.07.2022 and the plaintiff did not take any steps for about 
+a year, it showed that the plaintiff did not show interest for long, 
+and that it implied that the defence of the defendants was a 
+valid defence. The High Court viewed that the ground of fraud 
+was substantially established by the defendants. According to 
+the High Court, the continuation of the suit was not necessary. 
+On such grounds, the High Court exercised its Constitutional 
+jurisdiction under Article 227 of the Constitution, allowed the 
+civil revision petition, and struck off the plaint.
+4.	
+Heard learned advocate Mr. Abdulla Naseeh for the petitioner and 
+learned senior advocate Mr. V. Prabhakar with learned advocate on 
+record Mr. S. Rajappa for the respondents, at length.
+4.1	 By referring to various judgments of this Court, it was submitted 
+on behalf of the appellant that the High Court was not justified 
+in the facts of the case in exercising the powers under Article 
+227 of the Constitution and pursuant to exercise of such powers, 
+to set aside the plaint. It was submitted that the powers under 
+Article 227 of the Constitution are supervisory, to be exercised 
+sparingly. More particularly, when specific provision in the form 
+of Order VII Rule 11, CPC exists in the statute book under which 
+the defendant could have filed its application, a manifest error 
+was committed by the High Court, it was submitted.
+
+564
+[2026] 2 S.C.R.
+Supreme Court Reports
+4.2	 Learned counsel for the respondent, on the other hand, 
+submitted that the supervisory powers of the High Court under 
+Article 227 are wide enough and when the High Court found 
+that the suit-plaint was liable to be struck off, no exception 
+could be taken for invoking the powers. Learned counsel for 
+the respondent also referred to the provision of Order VI Rule 
+16, CPC, which permits the Court to strike off the pleadings.
+5.	
+Article 227 of the Constitution invests the power of superintendence 
+over all courts by the High Court. Sub-Article(1) thereof provides that 
+every High Court shall have superintendence over all courts and 
+tribunals throughout the territories in relation to which it exercises 
+jurisdiction. As per sub-Article(2), without prejudice to the generality 
+of the provisions in sub-Article (1), the High Court may (a) call for 
+returns from such courts; (b) make and issue general rules and 
+prescribe forms for regulating the practice and proceedings of such 
+courts and (c) prescribe forms in which the books and accounts etc. 
+to be kept by the officers of courts. As per sub-Article (3), the High 
+Court may also settle tables of fees. Sub-Article (4) provides that 
+nothing in the Article shall deem to confer on a High Court powers 
+of superintendence over any court or tribunal constituted by or under 
+any law relating to the Armed Forces. 
+5.1	 The scope, ambit, amplitude and nature of the powers of a High 
+Court under Article 227 of the Constitution are discussed and 
+delineated by this Court in catena of decisions. Article 227 is 
+perceived to be a custodian of justice, which is in the nature 
+of extraordinary supervisory powers, discretionary in nature. In 
+Shalini Shyam Shetty vs. Rajendra Shankar Patil1, this Court 
+cautioned that an improper and frequent exercise of this power 
+will be counterproductive and would divest this extraordinary 
+power of its strength and vitality. It was observed that this 
+discretionary power has to be exercised very sparingly.
+5.1.1	 The reserve of exceptional power of judicial intervention 
+is not to be exercised just for granting of relief in 
+individual cases but should be directed for the promotion 
+of public confidence in the administration of justice. It is 
+emphasized that though the power under Article 227 may 
+1	
+(2010) 8 SCC 329
+
+[2026] 2 S.C.R. 
+565
+P. Suresh v. D.Kalaivani & Ors.
+be unfettered, its exercise is subject to high degree of 
+judicial discipline. The Court observed in Shalini Shyam 
+Shetty (supra), ‘The power of interference under Article 
+227 is to be kept to the minimum to ensure that the wheel 
+of justice does not come to halt and the foundation of 
+justice remains pure and unpolluted in order to maintain 
+public confidence in the functioning of the tribunals and 
+courts subordinate to the High Court.’
+5.2	 Similarly, in State vs. Navjot Sandhu2, the powers of the High 
+Court under Article 227 came to be explained by this Court 
+observing that the powers available to the High Court under 
+Article 227 of the Constitution are not meant for and not to be 
+exercised just for the purpose of correcting errors. It was held: 
+‘It is settled law that this power of judicial 
+superintendence, under Article 227, must be 
+exercised sparingly and only to keep subordinate 
+courts and tribunals within the bounds of their authority 
+and not to correct mere errors. Further, where the 
+statute bans the exercise of revisional powers it would 
+require very exceptional circumstances to warrant 
+interference under Article 227 of the Constitution of 
+India since the power of superintendence was not 
+meant to circumvent statutory law. It is settled law 
+that the jurisdiction under Article 227 could not be 
+exercised “as the cloak of an appeal in disguise.’
+(Para 28)
+5.3	 In A. Venkateshubbiah Naidu vs. S. Chellappan3, this Court 
+held that ‘though no hurdle can be put against the exercise of the 
+constitutional powers of the High Court, it is a well-recognised 
+principle which gained judicial recognition that the High Court 
+should direct the party to avail himself of such remedies before 
+he resorts to a constitutional remedy.’
+2	
+(2003) 6 SCC 641
+3	
+(2000) 7 SCC 695
+
+566
+[2026] 2 S.C.R.
+Supreme Court Reports
+5.4	 In Rajendra Diwan vs. Pradeep Kumar Ranibala and Anr.4, 
+this Court reiterated that the supervisory power under Article 
+227 of the Constitution available to the High Court is not for a 
+routine exercise, it is meant to keep the courts and tribunals 
+within the bounds of their jurisdiction or where grave miscarriage 
+of justice has occurred or there is a flagrant violation of law. 
+What was stated was that the jurisdiction under Article 227 
+cannot be exercised ‘in the cloak of an appeal in disguise’, it 
+cannot be converted into an alternative appellate forum.
+5.5	 In K.Valarmathi and Ors. vs. Kumaresan5, this Court reiterated 
+the same principles for exercising the powers under Article 227 
+of the Constitution by the High Courts as under, 
+‘Essence of the power under Article 227 being 
+supervisory, it cannot be invoked to usurp the 
+original jurisdiction of the court which it seeks to 
+supervise. Nor can it be invoked to supplant a 
+statutory legal remedy under the Civil Procedure 
+Code, 1908.’
+(Para 9)
+5.5.1	 It was further observed, which observation may also be 
+pertinently reproduced,
+‘Civil Procedure Code is a self-contained Code 
+and Order VII Rule 11 therein enumerates the 
+circumstances in which the trial court may 
+reject a plaint. Such rejection amounts to a 
+deemed decree which is appealable before 
+the High Court under Section 96 of the Code. 
+This statutory scheme cannot be upended by 
+invoking supervisory jurisdiction of the High 
+Court under Article 227 to entertain a prayer 
+for rejection of plaint.’
+(Para 10)
+4	
+(2019) 20 SCC 143
+5	
+2025 SCC OnLine SC 985
+
+[2026] 2 S.C.R. 
+567
+P. Suresh v. D.Kalaivani & Ors.
+5.6	 In Virudhunagar Hindu Nadargal Dharma Paribalana Sabai 
+and Others vs. Tuticorin Educational Society and Others6, 
+the appellants therein had filed a suit for declaration and 
+permanent injunction. In the said suit proceedings, the trial 
+court passed order granting an injunction. Respondent No. 5 
+in the suit called in question the order of granting injunction 
+by filing a regular appeal under Order XLIII Rule 1(r) of the 
+Civil Procedure Code, 1908. But the Defendant Nos. 1 and 
+6 challenged the said order of injunction not by filing regular 
+appeal but by invoking the powers of the High Court under 
+Article 227 of the Constitution. The High Court allowed the 
+said civil revision petition and set aside the order of injunction 
+granted by the trial court.
+5.6.1	 The exercise of supervisory powers under Article 227 
+of the Constitution by the High Court to challenge the 
+injunction order was strongly disapproved by this court, 
+observing that the High Court ought to have seen that 
+when remedy of appeal under Section 104 read with 
+Order XLIII Rule 1(r), CPC, was directly available, 
+Defendant Nos.1 and 6-Respondent Nos. 1 and 2 before 
+this Court ought to have taken recourse to the same.
+5.6.2	 In Virudhunagar (supra), by categorizing the cases 
+where the remedy is available under the provisions of 
+the Civil Procedure Code and the cases where such 
+remedial provisions exist under special statutes, this 
+Court emphasised that in cases falling under the first 
+category, where there is availability of remedy in terms of 
+the provisions of the Civil Procedure Code, the existence 
+of such remedy has to be treated as almost a complete 
+bar against applying powers under Article 227 of the 
+Constitution in that regard. 
+5.6.3	 The Court observed thus,
+‘…courts should always bear in mind a distinction 
+between (i) cases where such alternative 
+remedy is available before civil courts in terms 
+6	
+(2019) 9 SCC 538
+
+568
+[2026] 2 S.C.R.
+Supreme Court Reports
+of the provisions of Civil Procedure Code, and 
+(ii) cases where such alternative remedy is 
+available under special enactments and/or 
+statutory rules and the fora provided therein 
+happen to be quasi-judicial authorities and 
+tribunals. In respect of cases falling under the 
+first category, which may involve suits and other 
+proceedings before civil courts, the availability of 
+an appellate remedy in terms of the provisions of 
+CPC, may have to be construed as a near total 
+bar. Otherwise, there is a danger that someone 
+may challenge in a revision under Article 227, 
+even a decree passed in a suit, on the same 
+grounds on which Respondents 1 and 2 invoked 
+the jurisdiction of the High Court.’
+(Para 12)
+5.7	 The statement of law observed by a Three-Judge Bench of this 
+Court in Radhey Shyam vs. Chhabi Nath7, while overruling 
+the earlier decision in Surya Dev Rai vs. Ram Chander Rai8, 
+was recollected, that ‘orders of civil courts stand on a different 
+footing from the orders of authorities or tribunals or courts other 
+than judicial/ Civil Court’, stating further as under,
+‘Therefore wherever the proceedings are under 
+the Civil Procedure Code and the forum is the civil 
+court, the availability of a remedy under the CPC, 
+will deter the High Court, not merely as a measure 
+of self-imposed restriction, but as a matter of 
+discipline and prudence, from exercising its power 
+of superintendence under the Constitution. Hence, 
+the High Court ought not to have entertained the 
+revision under Article 227 especially in a case where 
+a specific remedy of appeal is provided under the 
+Civil Procedure Code itself.’
+(Para 13)
+7	
+(2015) 5 SCC 423
+8	
+(2003) 6 SCC 675
+
+[2026] 2 S.C.R. 
+569
+P. Suresh v. D.Kalaivani & Ors.
+6.	
+In the case on hand, the High Court has exercised its supervisory 
+powers under Article 227 of the Constitution and proceeded to set 
+aside the plaint. The invocation of such powers are sought to be 
+justified by the defendants – respondents by stating that the amplitude 
+of such power is vast and pervasive, which was duly exercised by 
+the High Court to strike off the erroneous plaint. A shelter is also 
+taken from the provision of Order VI Rule 16, CPC to submit that it 
+is a provision under which frivolous or vexatious proceedings could 
+be struck off, reading it with powers of superintendence under Article 
+227 of the Constitution. 
+6.1	 For easy reference, the provision of Order VI Rule 16 CPC is 
+extracted hereinbelow, 
+‘16. Striking out pleadings.
+The Court may at any stage of the proceedings 
+order to be struck out or amended any matter 
+in any pleading- (a) which may be unnecessary, 
+scandalous, frivolous or vexatious, or (b) which 
+may tend to prejudice, embarrass or delay the fair 
+trail of the suit, or (c) which is otherwise an abuse 
+of the process of the Court.’
+6.1.1	 The bare perusal of the aforementioned provision 
+mandates procedural defects whereby the courts can 
+exercise their discretionary power to strike out any matter 
+in any pleading. Such discretion could be exercised 
+cautiously and only when the parameter stipulated 
+under the said provision are apparent, such as, when 
+the matter in the pleading is unnecessary, scandalous, 
+frivolous or vexatious or it is of such a nature it tends 
+to prejudice, embarrass or delay the fair trial of the suit 
+or it is otherwise an abuse of the process of the court. 
+6.2	 Now, there is a specific provision under the CPC in the nature 
+of Order VII Rule 11, which deals with the rejection of the plaint, 
+which mentions specific grounds on which the court may reject 
+the plaint. The said provision is reproduced herein,
+‘11. Rejection of plaint.
+The plaint shall be rejected in the following cases:
+(a)	 where it does not disclose a cause of action;
+
+570
+[2026] 2 S.C.R.
+Supreme Court Reports
+(b)	 where the relief claimed is undervalued, and 
+the plaintiff, on being required by the Court to 
+correct the valuation within a time to be fixed 
+by the Court, fails to do so;
+(c)	 where the relief claimed is properly valued, but 
+the plaint is returned upon paper insufficiently 
+stamped, and the plaintiff, on being required 
+by the Court to supply the requisite stamp-
+paper within a time to be fixed by the Court, 
+fails to do so;
+(d)	 where the suit appears from the statement in 
+the plaint to be barred by any law;’
+(e)	 where it is not filed in duplicate;
+(f)	
+where the plaintiff fails to comply with the 
+provisions of rule 9.
+…..’
+6.2.1	 The provision says that the plaint shall be rejected 
+in the following cases, firstly, if it does not disclose a 
+cause of action. Now, the cause of action is a bundle of 
+facts. Whether cause of action exists for the purpose of 
+validly instituting the suit or not would necessarily require 
+a factual inquiry. The second ground is that the relief 
+claimed when undervalued and the plaintiff, on being 
+required by the Court to correct the valuation and pay 
+the deficit court fee within the time which may be fixed 
+by the Court, fails to do so. The third ground mentioned 
+for rejection of the plaint is similar with regard to the 
+plaint which is insufficiently stamped and the plaintiff 
+has failed to supply the requisite stamp paper within 
+the time fixed by the court. 
+6.2.2	 The fourth ground is about the suit appearing from the 
+statement in the plaint to be barred by any law. Though 
+this may be a legal consideration, the attendant facts 
+would become relevant and the issue may not always 
+be finally adjudged without application of facts. The fifth 
+ground is that the plaint is not filed in duplicate. This 
+
+[2026] 2 S.C.R. 
+571
+P. Suresh v. D.Kalaivani & Ors.
+is curable defect and a procedural aspect. The sixth 
+ground is where the plaintiff fails to comply with the 
+provisions of Rule 9, which is also not to be immune 
+from consideration of facts of the case.
+6.2.3	 As far as the ground of correction of valuation for 
+supplying of the stamp paper is concerned, the proviso 
+mentions that time may be extended by the Court, for 
+the reasons to be recorded, if the court is satisfied that 
+the plaintiff was prevented by any cause of exceptional 
+nature. There is no gainsaying that there will have to be 
+factual inquiry in the process of determination for rejection 
+of plaint and for the satisfaction to be arrived at by the 
+Court with regard to the extension of time, which the 
+court may grant. Therefore, it would be entirely proper to 
+conclude that when the grounds for rejection of the plaint, 
+provided in statutory provision, require the consideration 
+of the facts of the case, such issue should not be gone into 
+by exercising supervisory jurisdiction under Article 227 
+of the Constitution, which even otherwise is supposed 
+to be exercised by the Court sparingly and not just for 
+the purpose of correcting purported errors. In any view, 
+the overriding criteria in law is that the supervisory 
+jurisdiction cannot be applied to substitute the remedy 
+available specifically in the CPC itself.
+6.3	 While the principal issue addressed in the present appeal is 
+about the principle whether the High Court could have exercised 
+its supervisory jurisdiction under Article 227 of the Constitution to 
+strike off the plaint, even though a specific provision for rejection 
+of the plaint under Order VII Rule 11, CPC was available to 
+the defendants to be taken recourse to, it is also to be noted 
+additionally that the dispute in the suit was essentially a title 
+dispute between the parties. Secondly, the defence of the 
+defendants was that the suit was fraudulent and based on false 
+documents. The High Court accepted the said contentions and 
+struck down the plaint vide its powers under Article 227 of the 
+Constitution. 
+6.3.1	 In Shalini Shyam Shetty1, this Court in Paragraph 64 of 
+the judgment has flagged the growing tendency among 
+
+572
+[2026] 2 S.C.R.
+Supreme Court Reports
+the High Courts to entertain writ petitions in cases of 
+property disputes, partition suits, matters relating to the 
+execution of decrees, landlord-tenant disputes, money 
+decrees and in respect of such other various cases 
+and has disapproved the same and held that the High 
+Courts could not in a routine manner entertain petitions 
+under Article 227.
+6.3.2	 It has to be acknowledged that almost all civil suits would 
+involve disputed question of facts. The averment in plaint 
+quite often than not, raise controversy which, in ultimate 
+analysis, is to be addressed and adjudicated by leading 
+evidence. As these are the disputes of civil nature to 
+be dealt with by the civil court, and the invocation of 
+Constitutional powers thereover in a routine manner may 
+not be necessary nor is advisable. This proposition, in its 
+analogousness, would justify holding that powers under 
+Article 227 of the Constitution would not be available 
+to be exercised where there is an alternative remedy. 
+6.4	 For the very above reasoning, the reliance placed on the 
+provision of Order VI Rule 16, CPC to support the impugned 
+order and to justify the exercise of powers under Article 227 of 
+the Constitution for striking out the plaint, is misconceived in 
+law. Order VI Rule 16, CPC deals with the question of striking 
+out pleadings, to provide that the Court may, at any stage of the 
+proceedings, order to be struck out or amended in any matter 
+in any pleading which is unnecessary, scandalous, frivolous, or 
+vexatious or which may tend to prejudice or embarrass the fair 
+trial of the suit or which is otherwise an abuse of the process 
+of Court. 
+6.4.1	 Evidently, this provision deals with the striking out of 
+a part or a section of the pleading which suffers from 
+any of the kinds mentioned in the provision, such 
+as unnecessary, scandalous, frivolous, vexatious, 
+prejudicial, embarrassing or delaying the fair trial or abuse 
+of the process of law. It would be stretching beyond the 
+logic of law to interpret and imply that Order VI Rule 16 
+can be utilized and employed for striking down the entire 
+plaint. Striking down the plaint or rejection of plaint on 
+
+[2026] 2 S.C.R. 
+573
+P. Suresh v. D.Kalaivani & Ors.
+the legal grounds available in Order VII Rule 11, CPC 
+is entirely different than striking out the infirm or abusive 
+pleadings. Under the guise of invoking Order VI Rule 16, 
+CPC, therefore, justification for using the powers under 
+Article 227 of the Constitution cannot be extended.
+7.	
+When the powers under Article 227 of the Constitution are of 
+supervisory nature and when the aforestated settled dictum of law 
+is that the High Court does not act as a court of appeal or a court 
+of error, it would logically follow that the powers under Article 227 
+would not be exercised when the non-exercise of such powers does 
+not result into miscarriage of justice or deprivation of remedy in law 
+to a party. 
+7.1	 It is to be conceived as one of the prohibited area for exercising 
+Article 227 powers where, in respect of the grievance for which 
+party has remedy in law, these powers are surely to be invoked. 
+The principle is therefore to be emphasized that the exercise 
+of supervisory jurisdiction under Article 227 of the Constitution 
+has to be treated as an exceptional resort when an alternative 
+efficacious civil remedy by way of appeal or revision or any other, 
+like Order VII Rule 11, CPC in the present case, is available to 
+the party for the redressal of the grievance.
+7.2	 The proposition that the availability of alternative remedy 
+shall be legitimately construed to displace the exercise of 
+Constitutional jurisdiction by the High Court, is true not only 
+for the purpose of exercising powers under Article 226 of the 
+Constitution but also for the purpose of invoking Article 227 
+of the Constitution. 
+7.3	 In the garb of exercising supervisory jurisdiction under Article 
+227 of the Constitution, the High Court is not expected to 
+engulf the specific statutory remedy or provision in law and, 
+thus, become a supervisor over the court below or the tribunal, 
+as the case may be. It would be a legally wise exercise of 
+discretion for the High Court to adopt and adhere to such self-
+imposed discipline and to insist that the aggrieved party should 
+take recourse to such alternative remedy or statutory provision 
+available in law, especially, for the case falling in category 
+indicated in Virudhunagar6 (supra) where remedy available 
+
+574
+[2026] 2 S.C.R.
+Supreme Court Reports
+in the CPC for the cases falling under category/other law also, 
+where such specific statutory remedy is available, the dictum 
+laid down herein is true to grant extent.
+7.4	 As stated above, embargo in this regard would have to be 
+construed as near total when provision is available in CPC. It 
+is held, therefore, that once the specific provision under Order 
+VII Rule 11 of the CPC, is available, the High Court cannot 
+exercise powers under Article 227 to reject or strike off the plaint. 
+For such relief, the specific provision under Order VII Rule 11, 
+CPC, will have to be resorted to, on the grounds mentioned in 
+the said provision.
+8.	
+In adopting such approach, the High Court would be giving due regard 
+to the legislative intent. When the legislature has enacted specific 
+remedial provision to be taken recourse to by the person aggrieved 
+to challenge the orders and decisions of the court to seek redress 
+in law accordingly that remedy alone will have to be sought for. 
+9.	
+From the aforesaid discussion, it would logically follow that the High 
+Court would not only discourage but desist from exercising jurisdiction 
+under Article 227 of the Constitution in respect of a challenge for 
+which a separate, distinct, and specific remedy or statutory provision 
+is available under the statute concerned. Availability of an alternative 
+civil remedy and/or under the CPC shall be treated as complete and 
+near total bar on the High Court to venture to invoke and exercise its 
+power available under Article 227 of the Constitution, except where 
+exercise of supervisory jurisdiction becomes absolutely necessary. 
+10.	 For all the aforesaid reasons and discussions, this court is of the view 
+that High Court committed a manifest error in exercising its powers 
+under Article 227 of the Constitution to strike down the plaint. It ought 
+to have asked the defendant to take recourse to, in accordance with 
+law, when specific provisions available in the Code of Civil Procedure, 
+1908 in the nature of Order VII Rule 11. The impugned judgment 
+and order of the High Court, therefore, deserves to be set aside. 
+10.1	 As a result, the judgment and order dated 03.06.2025 passed 
+by the High Court of Madras in CRP No. 3197 of 2024 and 
+CMP No. 17106 of 2024 striking off the plaint of Original Suit 
+No. 93 of 2020 before the Court of District Munsif, Tambaram, 
+is hereby set aside.
+
+[2026] 2 S.C.R. 
+575
+P. Suresh v. D.Kalaivani & Ors.
+11.	 The appeal is allowed. Consequently, the suit is restored to its 
+original file and parties are directed to appear before the trial court 
+for further proceedings on 16.02.2026 without awaiting further notice. 
+Liberty is reserved for the defendants to file application under Order 
+VII Rule 11, CPC, to be considered strictly in accordance with law. 
+There shall be no costs. 
+In view of the disposal of the main appeal, all interlocutory applications, 
+as may be pending, stand disposed of. 
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Ankit Gyan

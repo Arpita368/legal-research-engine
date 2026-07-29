@@ -1,0 +1,742 @@
+[2026] 4 S.C.R. 313 : 2026 INSC 309
+J. Sri Nisha
+v.
+The Special Director, Adjudicating Authority, 
+Directorate of Enforcement and Anr.
+(Civil Appeal No. 4167 of 2026)
+01 April 2026
+[Vikram Nath and Sandeep Mehta,* JJ.]
+Issue for Consideration
+The writ petitions instituted by the appellants assailing the show 
+cause notice (SCN) issued by the Adjudicating Authority under 
+Foreign Exchange Management Act, 1999, came to be dismissed. 
+Whether the impugned order passed by the High Court is liable 
+to be set aside.
+Headnotes†
+Foreign Exchange Management Act, 1999 – ss.4, 37A – 
+Foreign Exchange Management (Transfer or Issue of any 
+Foreign Security) Regulations, 2004 – Appellants alleged to 
+have contravened the provisions of s.4 of FEMA, r/w. FEMA 
+Regulations, on the premise that they had acquired and held 
+shares of a foreign entity without the requisite approval and 
+in violation of the statutory framework – Properties seized by 
+the Authorised Officer – Competent Authority held that there 
+was no contravention of s.4, provisions of s.37A were held 
+inapplicable and prayer for confirmation of seizure of assets 
+was rejected – Parallelly, Adjudicating Authority issued show 
+cause notice (SCN) alleging violation of the provisions of FEMA 
+along with allied regulations – A corrigendum was issued to 
+the SCN – Writ petitions were filed by the appellants – The 
+High Court dismissed the writ petitions – Correctness:
+Held: A prima facie satisfaction was recorded by the Competent 
+Authority that there was no evidence of the appellants being involved 
+in foreign security transactions having any value – Consequently, 
+there did not exist the “reasons to believe” referred to in s.37A(1) – 
+This Court has consistently held that although ordinarily a writ 
+petition against an SCN may not be entertained, however, the said 
+proposition is not an inviolable rule – Interference at the stage of 
+* Author
+
+314
+[2026] 4 S.C.R.
+Supreme Court Reports
+SCN is permissible in exceptional circumstances, such as where 
+the notice suffers from patent lack of jurisdiction, reflects non-
+application of mind, is issued with a pre-determined or premeditated 
+approach, amounts to an abuse of the process of law, or results in 
+a violation of the principles of natural justice – Thus, the rejection 
+of challenge laid by the appellants to the SCN on the ground of 
+non-maintainability was not justified in the peculiar facts of the 
+case at hand – The High Court repeatedly referred to the effect 
+of the seizure order passed by the Authorised Officer u/s.37A of 
+FEMA and the scope of consideration thereof by the Adjudicating 
+Authority while passing the final order u/s.16 – The observations 
+made by the Division Bench impliedly efface the findings recorded 
+by the Competent Authority while refusing to confirm the seizure, 
+thereby foreclosing the outcome of the appeal pending before the 
+appellate authority – In effect, the Adjudicating Authority has undone 
+the order of the Competent Authority even while the appeal against 
+the said order is pending – Such a course of action tantamounts 
+to abdicating the powers of the Appellate Authority, even when the 
+order of the Competent Authority was still under challenge in appeal 
+at the instance of the department – The impugned order passed by 
+the High Court and the order passed by the Adjudicating Authority 
+imposing penalty and ordering confiscation of the property held by 
+appellants are declared to be arbitrary and contrary to law – The 
+same are hereby set aside – The proceedings are revived from 
+the stage of the SCN. [Paras 32, 33, 35, 38, 39]
+Case Law Cited
+Union of India v. VICCO Laboratories [2007] 12 SCR 534 : (2007) 
+13 SCC 270 : 2007 SCC OnLine SC 1420 – referred to.
+List of Acts
+Foreign Exchange Management Act, 1999; Foreign Exchange 
+Management (Transfer or Issue of any Foreign Security) 
+Regulations, 2004; Constitution of India.
+List of Keywords
+Show cause notice (SCN); Corrigendum; Seizure of assets; 
+Acquisition of shares in foreign entity; Reason to believe; 
+Adjudicating Authority; Confiscation of the property; Section 37 
+of Foreign Exchange Management Act, 1999; Abuse of process; 
+Foreign securities.
+
+[2026] 4 S.C.R. 
+315
+J. Sri Nisha v. The Special Director, Adjudicating Authority,  
+Directorate of Enforcement and Anr.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 4167 of 2026
+From the Judgment and Order dated 23.07.2024 of the High Court 
+of Judicature at Madras in WA No. 3521 of 2023.
+With
+Civil Appeal No(s). 4168, 4169, and 4170 of 2026
+Appearances for Parties
+Advs. for the Appellant(s):
+Siddharth Luthra, Harin P Raval, Hari P Raval, Sr. Advs., 
+E. Sudarsanan, K. Suresh, Rajendra Singvi, V. Ramesh, K. Stalin 
+Raja, C. Balaji, R. M. Narendran, Sam Jayaraj Houston, S. Manoj 
+Kumar.
+Advs. for the Respondent(s):
+Anil Kaushik, A.S.G., Zoheb Hussain, Arkaj Kumar, Bhuvan Kapoor, 
+Animesh Upadhyay, Arvind Kumar Sharma, Ms. Anushka Gupta, 
+Ms. Aakriti Mishra.
+Judgment / Order of the Supreme Court
+Judgment
+Mehta, J.
+1.	
+Heard.
+2.	
+Leave granted.
+3.	
+This batch of appeals arises out of the common judgment and final 
+order dated 23rd July, 2024 passed by the Division Bench of the 
+High Court of Judicature at Madras1 in W.A. Nos.3520 to 3524 of 
+2023 and C.M.P. Nos.28745, 28749, 28748, 28750, 28756 of 2023 
+and 2240 of 2024.
+4.	
+The appellants herein had approached the learned Single Judge of 
+the High Court, assailing the order/show cause notice2 dated 22nd 
+1	
+Hereinafter, referred to as the “High Court”.
+2	
+For short, ‘SCN’.
+
+316
+[2026] 4 S.C.R.
+Supreme Court Reports
+December, 2021 issued by the Adjudicating Authority under the 
+provisions of the Foreign Exchange Management Act, 19993, and 
+the consequential corrigendum dated 13th March, 2023.
+5.	
+The writ petitions instituted by the appellants assailing the said SCN 
+and corrigendum came to be dismissed by the learned Single Judge 
+vide common final order dated 30th November, 2023. The intra-Court 
+appeals preferred against the said order also stand rejected by the 
+impugned judgment dated 23rd July, 2024. It is in these circumstances 
+that the appellants are before us by way of these appeals with 
+special leave.
+6.	
+Since all the appeals involve identical questions of fact and law, 
+they were heard analogously and are being decided by this common 
+judgment.
+Background: -
+7.	
+The appellants herein are the Company named M/s. Accord Distilleries 
+& Breweries Pvt. Ltd. and its Directors. The allegations against the 
+appellants in the questioned SCN emanate from a transaction of 
+acquisition of 70 lakh shares of an entity named M/s. Silver Park 
+International Pte. Ltd., a Singapore based Company, registered as 
+per the laws of Singapore and subsequent transfer/distribution of 
+these shares.
+8.	
+The transactions referred to above triggered the proceedings for 
+violation of provisions of FEMA against the appellants herein. The 
+foundational facts of these proceedings are that the appellant in Civil 
+Appeal @ SLP (C) No.34269 of 2025, J. Sundeep Anand, an Indian 
+citizen, being the Director of M/s. Accord Distilleries & Breweries Pvt. 
+Ltd. had subscribed to and acquired shares/foreign securities (without 
+consideration) in M/s. Silver Park International Pte. Ltd. allegedly 
+without the requisite approval of the Reserve Bank of India4 and in 
+violation of the provisions of the Foreign Exchange Management 
+(Transfer or Issue of any Foreign Security) Regulations, 20045. The 
+said shares were subsequently transferred to the other appellants, 
+who are the wife and children of J. Sundeep Anand, also without 
+3	
+For short, ‘FEMA’.
+4	
+For short, ‘RBI’.
+5	
+For short, ‘FEMA Rules’.
+
+[2026] 4 S.C.R. 
+317
+J. Sri Nisha v. The Special Director, Adjudicating Authority,  
+Directorate of Enforcement and Anr.
+the requisite regulatory approval. Consequently, the appellants were 
+alleged to have contravened the provisions of Section 4 of FEMA, 
+read with the aforesaid Regulations, on the premise that they had 
+acquired and held shares of a foreign entity without the requisite 
+approval and in violation of the statutory framework. As a result, 
+the Authorised Officer seized the properties of the appellants vide 
+order dated 11th September, 2020 under Section 37A(1) of FEMA.
+9.	
+Pursuant to the initiation of proceedings, the Authorised Officer-
+respondent No.26 herein, resorting to the procedure provided under 
+Section 37A(2) of FEMA moved the Competent Authority, i.e., the 
+Commissioner of Customs (Appeals-I), for seizure of the assets of 
+the appellants herein.
+10.	 The Competent Authority, exercising powers under Section 37A(3) of 
+FEMA after due consideration of the material placed before it, came 
+to a conclusion that there was no proof that any of the appellants 
+had ever paid for the shares floated by M/s. Silver Park, since the 
+said company never made a call for the same. Consequently, no 
+contravention of Section 4 was made out, and the provisions of 
+Section 37A were held to be inapplicable. Accordingly, the prayer 
+for confirmation of seizure of assets was rejected vide a detailed 
+order dated 3rd February, 2021. The said order is presently under 
+challenge at the instance of the Directorate of Enforcement before 
+the Appellate Tribunal under SAFEMA at New Delhi in FPA-FE No. 
+33/CHN/2021.
+11.	 Parallelly, with the proceedings for seizure and on identical set of 
+allegations, the Authorised Officer, moved the Adjudicating Authority-
+respondent No. 17 herein (the Special Director of Enforcement 
+Directorate) under Section 16(3) of FEMA, pursuant whereto an SCN 
+dated 22nd December, 2021 was issued to the appellants alleging 
+violation of the provisions of FEMA along with allied regulations. The 
+appellants appeared before the Adjudicating Authority in response to 
+the SCN and advanced preliminary as well as additional submissions 
+during the course of the proceedings. After the personal hearing was 
+concluded and the matter was reserved for orders by the Adjudicating 
+Authority, a corrigendum dated 13th March, 2023 came to be issued 
+6	
+Hereinafter, referred to as the “Authorised Officer”.
+7	
+Hereinafter, referred to as the “Adjudicating Authority”.
+
+318
+[2026] 4 S.C.R.
+Supreme Court Reports
+to the SCN. Both the SCN as well as the corrigendum were subjected 
+to challenge in the writ petitions filed by the appellants before the 
+learned Single Judge of the High Court.
+12.	 The foundational challenge to the SCN and the corrigendum was 
+that once the Competent Authority had recorded categoric findings 
+of lack of basis for seizure in the order made under Section 37A(3) 
+of FEMA, rejecting the prayer for confirmation of seizure of assets, 
+there was no tangible material in the hands of the authorities to 
+conclude that the appellants had violated Section 4 of FEMA. The 
+very essence of the SCN stood struck off with the order passed by 
+the Competent Authority under Section 37A(3) of FEMA, and hence, 
+the SCN was non est in the eyes of law. The writ petitions were 
+rejected by the learned Single Judge by order dated 30th November, 
+2023, and the intra-court appeals preferred against the said order 
+were also dismissed by the Madras High Court by judgment dated 
+23rd July, 2024, which are the subject matter of challenge in these 
+appeals by special leave.
+Submissions on behalf of the appellants: -
+13.	 Mr. Siddharth Luthra and Mr. Harin P. Raval, learned senior counsel 
+representing the appellants, vehemently and fervently contended 
+that once the Competent Authority had concluded in the proceedings 
+under Section 37A of FEMA that there was no ground to confirm the 
+seizure of the assets of the appellants herein, the very foundation of 
+the SCN stood effaced. In those circumstances, the SCN was fit to 
+be quashed in exercise of the writ jurisdiction under Article 226 of 
+the Constitution of India because the foundational facts for sustaining 
+the said SCN proceedings were lacking.
+14.	 It was further submitted that the order of the Competent Authority 
+dated 3rd February, 2021 refusing to confirm the seizure of the assets 
+has been passed in favour of the appellants and that the appeal 
+against the said order at the instance of the respondent (Directorate 
+of Enforcement) is still pending adjudication before the Appellate 
+Tribunal under SAFEMA at New Delhi in FPA-FE No. 33/CHN/2021. 
+Under these circumstances, the outcome of the said appeal ought 
+to have been awaited before issuance of the SCN.
+15.	 Learned senior counsel further pointed out that the plea of the 
+respondents that the appellants have concealed the factum of the 
+
+[2026] 4 S.C.R. 
+319
+J. Sri Nisha v. The Special Director, Adjudicating Authority,  
+Directorate of Enforcement and Anr.
+SCN having been finally adjudicated is wholly misconceived, inasmuch 
+as, in the pleadings of the civil appeals, the appellants have clearly 
+mentioned that the SCN culminated into a final order against which 
+statutory appeal(s) have also been preferred.
+16.	 Learned senior counsel submitted that the findings recorded by the 
+Division Bench of the High Court in para Nos.32, 33, and 34 of the 
+impugned order, virtually setting at nought the order passed by the 
+Competent Authority under Section 37A of FEMA, have prejudiced 
+the case of the appellants because the Adjudicating Authority has 
+heavily relied upon these very observations while passing the final 
+adjudication order.
+17.	 Learned senior counsel further submitted that it is a fit case in which 
+this Court should feel persuaded to quash the SCN along with the 
+corrigendum and the adjudication order dated 26th August, 2024 as 
+there existed no foundation for the same.
+18.	 Their alternative submission was that the order of adjudication dated 
+26th August, 2024 deserves to be set aside and the respondents 
+should be directed to await the outcome of the appeal pending 
+under Section 19 of FEMA before the SCN can be adjudicated 
+on merits. They further prayed that the observations and adverse 
+findings recorded by the Division Bench on the order passed by the 
+Competent Authority under Section 37(A)(3) of FEMA should not 
+prejudice the case of the appellants at any stage of the proceedings.
+Submissions on behalf of the respondents: -
+19.	 Per contra, Mr. Anil Kaushik, learned Additional Solicitor General 
+representing the respondents, strenuously, arduously, and vociferously 
+opposed the submissions advanced by the appellants’ counsel. He 
+urged that the nature of proceedings under Section 37A of FEMA is 
+intermediary/interim in nature and has no bearing on the adjudication 
+of the SCN.
+20.	 He further submitted that irrespective of the outcome of the appeal 
+against the order under Section 37A of FEMA, the Adjudicating 
+Authority has independent jurisdiction to decide the show cause 
+proceedings on its own merits, and the appellants cannot seek 
+any advantage from the fact that the Competent Authority has not 
+confirmed the seizure.
+
+320
+[2026] 4 S.C.R.
+Supreme Court Reports
+21.	 He referred to sub-section (4) of Section 37A to buttress the contention 
+that the adjudication proceedings are independent of the seizure 
+proceedings to urge that the High Court was absolutely justified 
+in observing that the findings recorded in the order passed by the 
+competent authority in proceedings under Section 37A would have 
+no bearing on the outcome of the adjudication proceedings.
+22.	 He emphasized that the appellants have concealed the fact of the 
+final order having been passed pursuant to the SCN and hence, 
+they do not deserve any indulgence in these matters.
+Discussion and Analysis
+23.	 We have considered the submissions advanced by learned counsel 
+for the parties and have gone through the impugned orders. We 
+have also carefully perused the statutory framework governing the 
+dispute at hand. 
+24.	 Before we delve into the merits of the case, it is necessary to deal 
+with the preliminary objection raised on behalf of the respondents 
+that the appellants had suppressed the fact that a final adjudication 
+order had been passed pursuant to the SCN and, for that reason, they 
+do not deserve any indulgence in the present proceedings. Upon a 
+consideration of the record, we find no merit in the said contention. 
+There is nothing to indicate any deliberate concealment or lack of 
+candour on the part of the appellants so as to disentitle them from 
+seeking relief. On the contrary, the pleadings in the civil appeals 
+clearly manifest that the SCN had culminated in a final adjudication 
+order, against which statutory appeal(s) have also been preferred. 
+The allegation of suppression is thus wholly misconceived and does 
+not furnish a ground to non-suit the appellants.
+25.	 Now, we shall advert to the merits of the case. For the ease of 
+reference, Section 37A of FEMA on which the fulcrum of the 
+controversy lies, is reproduced hereinbelow: -
+“37-A. Special provisions relating to assets held 
+outside India in contravention of Section 4.—
+(1) Upon receipt of any information or otherwise, 
+if the Authorised Officer prescribed by the Central 
+Government has reason to believe that any foreign 
+exchange, foreign security, or any immovable property, 
+
+[2026] 4 S.C.R. 
+321
+J. Sri Nisha v. The Special Director, Adjudicating Authority,  
+Directorate of Enforcement and Anr.
+situated outside India, is suspected to have been held 
+in contravention of section 4, he may after recording the 
+reasons in writing, by an order, seize value equivalent, 
+situated within India, of such foreign exchange, foreign 
+security or immovable property: Provided that no such 
+seizure shall be made in case where the aggregate 
+value of such foreign exchange, foreign security or 
+any immovable property, situated outside India, is less 
+than the value as may be prescribed. 
+(2) The order of seizure along with relevant material 
+shall be placed before the Competent Authority, 
+appointed by the Central Government, who shall be 
+an officer not below the rank of Joint Secretary to the 
+Government of India by the Authorised Officer within 
+a period of thirty days from the date of such seizure.
+(3) The Competent Authority shall dispose of the 
+petition within a period of one hundred eighty days 
+from the date of seizure by either confirming or by 
+setting aside such order, after giving an opportunity of 
+being heard to the representatives of the Directorate of 
+Enforcement and the aggrieved person. Explanation.—
+While computing the period of one hundred eighty 
+days, the period of stay granted by court shall be 
+excluded and a further period of at least thirty days 
+shall be granted from the date of communication of 
+vacation of such stay order. 
+(4) The order of the Competent Authority confirming 
+seizure of equivalent asset shall continue till the 
+disposal of adjudication proceedings and thereafter, 
+the Adjudicating Authority shall pass appropriate 
+directions in the adjudication order with regard to 
+further action as regards the seizure made under 
+sub-section (1): 
+Provided that if, at any stage of the proceedings under 
+this Act, the aggrieved person discloses the fact of 
+such foreign exchange, foreign security or immovable 
+property and brings back the same into India, then the 
+Competent Authority or the Adjudicating Authority, as 
+
+322
+[2026] 4 S.C.R.
+Supreme Court Reports
+the case may be, on receipt of an application in this 
+regard from the aggrieved person, and after affording 
+an opportunity of being heard to the aggrieved person 
+and representatives of the Directorate of Enforcement, 
+shall pass an appropriate order as it deems fit, 
+including setting aside of the seizure made under 
+sub-section (1). 
+(5) Any person aggrieved by any order passed by the 
+Competent Authority may prefer an appeal to the Appellate 
+Tribunal.
+(6) Nothing contained in Section 15 shall apply to this 
+section.”
+[Emphasis supplied]
+26.	 A perusal of the aforesaid provision would clearly indicate that 
+the same has been enacted in order to ensure that the assets of 
+a person suspected to be involved in foreign exchange or foreign 
+security violations may be seized to the extent equivalent to such 
+foreign exchange or foreign security, which may be under scrutiny 
+of the Adjudicating Authority.
+27.	 Hence, the provision is in nature of a preventive measure for ensuring 
+that the assets equivalent to the foreign exchange or foreign security 
+may be kept secured for future proceedings pursuant to adjudication.
+28.	 Sub-section (4) gives an impression that the order passed by 
+Competent Authority confirming the seizure would remain alive 
+only till the disposal of the adjudication proceedings, and that the 
+Adjudicating Authority would be authorized to proceed with further 
+action, i.e., SCN, etc. without being fazed by the confirmation of the 
+seizure proceedings. 
+29.	 The effect of sub-section (4) is evidently to leave the seized assets 
+at the disposal of the Adjudicating Authority for realisation of the 
+adjudicated amount, if any and to prevent frustration of the adjudication 
+order. However, sub-section (4) is restricted to an order of the 
+Competent Authority “confirming seizure of equivalent assets and the 
+continuance thereof till the disposal of the adjudication proceedings”. 
+The said provision literally does not deal with a situation where the 
+seizure has not been confirmed.
+
+[2026] 4 S.C.R. 
+323
+J. Sri Nisha v. The Special Director, Adjudicating Authority,  
+Directorate of Enforcement and Anr.
+30.	 The controversy in the present cases is more appropriately examined 
+within the framework of sub-sections (1) to (3) of Section 37A. A 
+plain reading of Section 37A(1) indicates that the power of seizure 
+is predicated upon the existence of a “reason to believe” that 
+foreign exchange, foreign security or immovable property situated 
+outside India is suspected to have been held in contravention of 
+Section 4. Such satisfaction by the Authorised Officer at the stage 
+of preliminary seizure under Sub-section (1) is only tentative and is 
+expressly subject to scrutiny under Sub-sections (2) and (3), wherein 
+the Competent Authority is required to independently examine 
+whether the reasons recorded justify continuation of the seizure. 
+The exercise undertaken by the Competent Authority is thus not an 
+empty formality, but a substantive evaluation of whether the material 
+on record is sufficient to sustain even a prima facie inference of 
+contravention in relation to foreign exchange. In the present case, 
+upon such evaluation, the Competent Authority declined to confirm 
+the seizure by a well-reasoned order, thereby indicating that the 
+material did not meet even this preliminary threshold. The refusal to 
+confirm the seizure, therefore, reflects a considered finding that the 
+foundational requirement of a “reason to believe” was not satisfied 
+on the material available.
+31.	 For the sake of convenience, the reasons recorded in the order dated 
+3rd February, 2021, whereby the Competent Authority refused to 
+confirm the seizure made under Section 37A(1) are extracted below: -
+“In this case none of the respondents i.e., R1 to R4 were 
+holding any foreign security having a value at any point 
+of time. The subscribed shares remained only in paper 
+for the time being. None of the documentary evidences 
+in this matter have been countered by the enforcement 
+directorate. The Enforcement Directorate has not proved by 
+way of evidence that the money indicated in the “subscribed 
+shares” have been paid either “legally or illegally”. As 
+held by the Hon’ble SC, in the above cited case law, 
+the suspicion must be reasonable i.e. have a degree of 
+objectivity and basis/foundation for the suspicion must 
+be based on ‘certain reasons’. In my considered opinion, 
+unless it is shown by the investigating department that. 
+“something” was “held” in contravention of Section 4 of 
+FEMA, Section 37A(1) will not come into play. In this case 
+
+324
+[2026] 4 S.C.R.
+Supreme Court Reports
+no share of any value was held in Singapore. Therefore 
+suspicion has no foundation. As the department. has failed 
+to prove, Section 37A (1) of FEMA, 1999 cannot be invoked 
+to seize the properties owned by Mr. S. Jagathrakshakan 
+(R1), Ms. Anusuya Jagathrakshakan (R2), Ms. Sri 
+Nisha (R3) & Mr. Sundeep Aanand (R4). Therefore, the 
+prayer made by the authorised officer vide petition dated 
+05.10.2020 under Section 37A(2) to confirm the seizure 
+of properties as mentioned in the Annexures A, B, C & D 
+of the Order of Seizure dt.11.09.2020 is rejected and the 
+impugned Order of Seizure is set aside.”
+32.	 Thus, a prima facie satisfaction was recorded by the Competent 
+Authority that there was no evidence of the appellants being involved 
+in foreign security transactions having any value. Consequently, it 
+has to be taken that there did not exist the “reasons to believe” 
+referred to in Sub-section (1) of Section 37A. These findings definitely 
+support the cause of the appellants herein. It is not in dispute that 
+the appeal preferred by the Department against the order dated 3rd 
+February, 2021, is still pending consideration. The Division Bench 
+of the High Court, while deciding the writ appeal, observed that the 
+writ petition against the SCN is not entertainable. We feel that the 
+said observation may not be correct in every situation. This Court 
+has consistently held that although ordinarily a writ petition against 
+an SCN may not be entertained, however, the said proposition is not 
+an inviolable rule. Interference at the stage of SCN is permissible 
+in exceptional circumstances, such as where the notice suffers 
+from patent lack of jurisdiction, reflects non-application of mind, is 
+issued with a pre-determined or premeditated approach, amounts 
+to an abuse of the process of law, or results in a violation of the 
+principles of natural justice. In such situations, the High Court would 
+be justified in exercising its jurisdiction under Article 226 of the 
+Constitution to prevent manifest injustice. In this context, we may 
+gainfully refer to the following observations from Union of India v. 
+VICCO Laboratories8: -
+“31. Normally, the writ court should not interfere at the 
+stage of issuance of show-cause notice by the authorities. 
+8	
+(2007) 13 SCC 270 : 2007 SCC OnLine SC 1420
+
+[2026] 4 S.C.R. 
+325
+J. Sri Nisha v. The Special Director, Adjudicating Authority,  
+Directorate of Enforcement and Anr.
+In such a case, the parties get ample opportunity to put 
+forth their contentions before the authorities concerned and 
+to satisfy the authorities concerned about the absence of 
+case for proceeding against the person against whom the 
+show-cause notices have been issued. Abstinence from 
+interference at the stage of issuance of show-cause notice 
+in order to relegate the parties to the proceedings before 
+the authorities concerned is the normal rule. However, the 
+said rule is not without exceptions. Where a show-cause 
+notice is issued either without jurisdiction or in an 
+abuse of process of law, certainly in that case, the writ 
+court would not hesitate to interfere even at the stage 
+of issuance of show-cause notice. The interference at 
+the show-cause notice stage should be rare and not in a 
+routine manner. Mere assertion by the writ petitioner that 
+notice was without jurisdiction and/or abuse of process of 
+law would not suffice. It should be prima facie established 
+to be so. Where factual adjudication would be necessary, 
+interference is ruled out.”
+[Emphasis supplied]
+33.	 Thus, the rejection of challenge laid by the appellants to the SCN 
+on the ground of non-maintainability was not justified in the peculiar 
+facts of the case at hand. 
+34.	 We shall now advert to the observations made by the Division 
+Bench that the interim seizure under Section 37A may not have 
+any implication in respect of the final order to be passed by the 
+Adjudicating Authority, and that it would be apposite for such authority 
+to deal with the effect and import of the seizure order passed by the 
+Authorised Officer under Section 37A of FEMA while passing the 
+final order under Section 16 of FEMA. Further, in para 34, the High 
+Court again referred to the seizure made under sub-section (1) and 
+directed the Adjudicating Authority to take note of the said provision. 
+For ease of reference, paras 32, 33, and 34 of the impugned order 
+are reproduced hereinbelow: -
+“32. Therefore, the very purpose and object of inserting 
+Section 37A is to seize value equivalent situated within India 
+of such foreign exchange, foreign security or immovable 
+
+326
+[2026] 4 S.C.R.
+Supreme Court Reports
+property during pendency of the adjudication proceedings 
+and such seizer proceedings initiated under Section 37A, 
+undoubtedly cannot stand as a bar to proceed with the 
+adjudication proceedings under Section 16 of the FEMA by 
+the Adjudicating Authority. As noted under the definition, the 
+functions of the Adjudication Authority, Authorised Officer 
+and Competent Authority are distinguishable and each 
+Authority is conferred with powers under the Act to carry 
+out certain actions. Therefore, the contention on behalf 
+of the appellants that the Authorised Officer is below the 
+Competent Authority has no relevance as far as Section 
+37A of FEMA is concerned
+33. In fine, we could arrive at an irresistible conclusion that 
+a writ against a show cause notice is not entertainable. 
+The adjudication proceedings have completed and the 
+final order is about to be passed by the Adiudicating 
+Authority. Regarding an interim seizure under Section 37A 
+is concerned, it may not have any implication in respect of 
+the final order to be passed by the Adjudicating Authority 
+and it would be appropriate on his part to deal with the 
+effect of seizure order passed by the Authorised Officer 
+under Section 37A of FEMA, while passing final order 
+under Section 16 of FEMA.
+34. The above position has been amply made clear in 
+Sub Section (4) to Section 37A of the Act, wherein, it is 
+contemplated that the Adjudicating Authority shall pass 
+appropriate directions in the adjudication order with regard 
+to further actions as regards to seizer made under Sub 
+Section (1) to Section 37A and in this case, the Adjudicating 
+Authority is directed to take note of said provision and 
+take an appropriate decision with reference to the order 
+passed by the Authorised Officer under Section 37A(1) 
+of the FEMA.”
+35.	 On a bare perusal of the aforesaid observations, we find that the 
+High Court repeatedly referred to the effect of the seizure order 
+passed by the Authorised Officer under Section 37A of FEMA and 
+the scope of consideration thereof by the Adjudicating Authority 
+while passing the final order under Section 16. We may note that the 
+
+[2026] 4 S.C.R. 
+327
+J. Sri Nisha v. The Special Director, Adjudicating Authority,  
+Directorate of Enforcement and Anr.
+observations (supra) made by the Division Bench impliedly efface 
+the findings recorded by the Competent Authority while refusing to 
+confirm the seizure, thereby foreclosing the outcome of the appeal 
+pending before the appellate authority.
+36.	 The High Court referred to sub-section (4) of Section 37A as if it 
+were concluding that the seizure had been confirmed, whereas the 
+factual situation reads otherwise. In case the finding of the Competent 
+Authority refusing to confirm the seizure for substantive reasons 
+stands affirmed in appeal, manifestly, the same would have a bearing 
+on the outcome of the adjudication proceedings. 
+37.	 The Adjudicating Authority, while passing the final order under Section 
+16 of FEMA, extensively referred to and relied upon the aforesaid 
+observations of the Division Bench. The relevant conclusions from 
+the adjudication order dated 26th August, 2024 are reproduced 
+hereinbelow for ease of reference: -
+“…..
+(iii) The above analysis was strengthened by the Hon’ble 
+High Court of Madras in judicial pronouncement dated 
+30.11.2023 in the matter of Writ Petitions in WP Nos. 
+21105/2023, 21359/2023, 21100/2023, 21096/2023 and 
+21102/2023, filed by the Noticees against the Adjudicating 
+Authority, and as such, the Hon’ble High Court was pleased 
+to dismiss the Writ Petitions
+(iv) The Noticees preferred Writ Appeal against the order 
+of Hon’ble High Court of Madras in the above WPs. The 
+Division Bench of Hon’ble High Court of Madras vide its 
+order dated 23.07.2024 in the Writ Appeals in WA No.s 
+3520 to 3524 of 2023 has observed that:
+“31. We concur with the learned Additional Solicitor 
+General of India, in view of the fact that the special 
+provision under Section 37A is all about an interim 
+seizer value equivalent situated within in India of 
+such foreign exchange, foreign security or immovable 
+property. In the event of seizer during the pendency 
+of the adjudication proceedings, the procedures to 
+be followed by the authority are enumerated under 
+Sub Section (6) of Section 37A of FEMA.
+
+328
+[2026] 4 S.C.R.
+Supreme Court Reports
+32. Therefore, the very purpose and object of 
+inserting Section 37A is to seize value equivalent 
+situated within India of such foreign exchange, foreign 
+security or immovable property during pendency 
+of the adjudication proceedings and such seizer 
+proceedings initiated under Section 37A, undoubtedly 
+cannot stand as a bar to proceed with the adjudication 
+proceedings under Section 16 of the FEMA by the 
+Adjudicating Authority. As noted under the definition, 
+the functions of the Adjudication Authority, Authorized 
+Officer and Competent Authority are distinguishable 
+and each Authority is conferred with powers under 
+the Act to carry out certain actions. Therefore, the 
+contention on behalf of the appellants that the 
+Authorised Officer is below the Competent Authority 
+has not relevance as far as Section 37A of FEMA 
+is concerned.”
+As such, the Division upheld the Single Bench Order of 
+Hon’ble High Court of Madras on 23.07.2024 and dismissed 
+the Writ Appeals.
+(v)  …..
+(vi) The Competent Authority has passed an 
+Order setting aside the Seizure Order dated 
+11.09.2020, vide his order Petition No. 01/2021 
+dated 03.02.2021. Having perused the said order 
+of the Competent Authority, I find that Section 4 
+of FEMA has been mis-interpreted holding that 
+the terms acquire, hold, own, possess or transfer 
+of foreign security were only in respect of paid-
+up shares. I find that the Competent Authority 
+has not considered the observations from the 
+Financial Statement of the overseas entity, 
+showing the shares as fully paid-up. In terms of 
+Section 4 of FEMA, the act of holding of foreign 
+security is sufficient, and it does not mandate 
+that the foreign securities are necessarily paid 
+up. FEMA defines the term “Direct Investment 
+Outside India” that the investment means by way 
+
+[2026] 4 S.C.R. 
+329
+J. Sri Nisha v. The Special Director, Adjudicating Authority,  
+Directorate of Enforcement and Anr.
+of contribution to the capital or subscription to 
+the Memorandum of Association of a Foreign 
+entity or by way of purchasing existing shares of 
+a foreign entity...... However, in the case on hand, 
+during the impugned period the Noticees were 
+holding shares of M/s. Silver Park International 
+Pte. Ltd. Singapore, and also that the said shares 
+were fully paid-up.
+(vii) It is observed from the Reserve Bank of India - 
+Frequently Asked Questions, that RBI while clarifying 
+“whether an Indian Party/resident Indian acquire 
+shares of a Foreign entity without upfront payment 
+or on deferred payment basis” clarified that “No. The 
+provisions of Notification No. FEMA 120/RB-2004 
+dated July 7th 2004 as amended from time to time, 
+do not permit acquisition of foreign shares without 
+payment or deferred payment basis.” In view of the 
+above, it is obvious that the Noticees have acquired 
+Foreign Shares of M/s. Silver Park International Pte. 
+Ltd. without obtaining prior RBI approval to make 
+Direct investment outside India. From the above, it 
+is obvious that the Noticees have acquired and held 
+foreign shares in violation of Section 4 of FEMA.
+(viii) However, I find that the Competent Authority, 
+without considering the above statutory stand 
+points, has passed Order setting aside the Seizure 
+Order of the Authorized Officer. Therefore, I do 
+not concur with the order of the Competent 
+Authority. As such, I find that the impugned seized 
+properties are in accordance with the provisions 
+of Section 37A of FEMA.”
+[Emphasis supplied]
+38.	 In effect, the Adjudicating Authority has undone the order of the 
+Competent Authority even while the appeal against the said order 
+is pending. Such a course of action, in the opinion of this Court, 
+tantamounts to abdicating the powers of the Appellate Authority, even 
+when the order of the Competent Authority was still under challenge 
+in appeal at the instance of the department.
+
+330
+[2026] 4 S.C.R.
+Supreme Court Reports
+39.	 In wake of the above discussion, we are of the opinion that the 
+impugned order dated 23rd July, 2024 passed by the Division Bench 
+of the High Court and so also the order of the learned Single Judge 
+of the High Court dated 30th November, 2023, rejecting the writ 
+petition preferred by the appellants and as a consequence, the final 
+order dated 26th August, 2024 passed by the Adjudicating Authority 
+imposing penalty and ordering confiscation of the property held by 
+appellants are declared to be arbitrary and contrary to law. The 
+same are hereby set aside. The proceedings are revived from the 
+stage of the SCN.
+40.	 As an upshot, we provide that the Appellate Authority shall first 
+decide the appeal preferred by the Department against the order 
+of the Competent Authority under Section 37A(5) of FEMA after 
+hearing the parties and by passing a reasoned order within a period 
+of two months from today. Pursuant to the disposal of the appeal 
+pending before the Appellate Authority, the proceedings arising out 
+of the SCN may be commenced and shall be taken to their logical 
+conclusion without being prejudiced by any of the observations made 
+hereinabove or in the orders passed by the High Court.
+41.	 The appeals are disposed of in these terms. 
+42.	 Pending application(s), if any, shall stand disposed of.
+Result of the case: Appeals disposed of.
+†Headnotes prepared by: Ankit Gyan

@@ -1,0 +1,669 @@
+[2026] 2 S.C.R. 31 : 2026 INSC 16
+Kadirkhan Ahmedkhan Pathan 
+v.
+The Maharashtra State Warehousing Corporation & Ors.
+(Civil Appeal No. 53 of 2026)
+06 January 2026
+[J.K. Maheshwari* and Vijay Bishnoi, JJ.]
+Issue for Consideration
+Whether in absence of any provision in the Maharashtra State 
+Warehousing Corporation (Staff) Service Regulations, 1992 for 
+institution of departmental proceedings against a superannuated 
+employee, the Corporation could have proceeded against the 
+appellant applying Rule 27(I)(2)(b)(i) of the Maharashtra Civil 
+Services (Pension) Rules, 1982. In case enquiry is instituted after 
+retirement of appellant, whether the Corporation had the jurisdiction 
+to continue such enquiry and impose punishment, withholding the 
+retiral benefits and direct recovery.
+Headnotes†
+Maharashtra Civil Services (Pension) Rules, 1982 – r.27(I)(2)
+(b)(i) – Maharashtra State Warehousing Corporation (Staff) 
+Service Regulations, 1992 – r.110 – The case of the appellant 
+before High Court was that he had superannuated from the 
+service as ‘Storage Superintendent’ on 31.08.2008, whereafter, 
+he was served with a show-cause notice seeking explanation 
+for unresolved railway transportation losses – He was held 
+responsible for financial loss to the Corporation to the tune 
+of Rs. 18,09,809/- – Writ petition before the High Court – The 
+High Court vide impugned judgment refused to entertain the 
+writ petition and disposed it off with directions to take recourse 
+of appeal specified in the 1992 Regulations – Correctness:
+Held: It is the specific case of the appellant that the Corporation 
+lacks jurisdiction to institute the departmental proceedings against 
+him in absence of any provision in 1992 Regulations – Per contra, 
+the Corporation has tried to make out a case on the anvil of r.110 – 
+It is pertinent to note that, in the present case, in furtherance to 
+r.110 of 1992 Regulations, no board decision/order/notification 
+* Author
+
+32
+[2026] 2 S.C.R.
+Supreme Court Reports
+adopting 1982 Pension Rules in toto for the employees of the 
+Corporation has been brought on record – In the context of the 
+provision of r.27, it cannot be made applicable ipso facto until the 
+Board of Directors has taken a conscious decision specifying the 
+circumstances and making similar benevolent provision as made 
+in 1982 Pension Rules; or having sanction of the Government as 
+required u/r.27(2) (b)(i) for instituting or continuing the proceedings 
+in the contingency as specified applying the Regulations – The 
+usage of the word ‘shall’ in r.27(2)(b)(i) implies that the requirement 
+of sanction from the Government prior to institution of departmental 
+enquiry is mandatory in nature for each case – Such mandate 
+cannot be diluted or by-passed by the Corporation under the pretext 
+of general sanction or general practice – Thus, the irresistible 
+conclusion can be drawn that the Corporation had no jurisdiction 
+to institute the departmental proceedings against the appellant for 
+the alleged misconduct and to direct recovery against him applying 
+1982 Pension Rules – The impugned departmental proceedings 
+against the appellant is hereby quashed and the Corporation 
+is directed to release all the retiral benefits to the appellant. 
+[Paras 21, 27, 30, 31]
+Case Law Cited
+Bhagirathi Jena v. Board of Directors, O.S.F.C. and Others [1999] 
+2 SCR 354 : (1999) 3 SCC 666 – relied on.
+Girijan Cooperative Corporation Limited Andhra Pradesh v. 
+K. Satyanarayana Rao (2010) 15 SCC 322; Anant R. Kulkarni v. 
+Y.P. Education Society and Others [2013] 6 SCR 1124 : (2013) 6 
+SCC 515 – referred to.
+List of Acts
+Maharashtra Civil Services (Pension) Rules, 1982; Maharashtra 
+State Warehousing Corporation (Staff) Service Regulations, 1992. 
+List of Keywords
+Service Law; Superannuation; Retiral benefits; Service Rules; 
+Service Regulations; Losses; Railway transportation losses; 
+Financial loss; Jurisdiction ; Departmental enquiry; Rule 
+27(I)(2)(b)(i) of Maharashtra Civil Services (Pension) Rules, 1982; 
+Rule 110 Maharashtra State Warehousing Corporation (Staff) 
+Service Regulations, 1992.
+
+[2026] 2 S.C.R. 
+33
+Kadirkhan Ahmedkhan Pathan v.  
+The Maharashtra State Warehousing Corporation & Ors.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 53 of 2026
+From the Judgment and Order dated 25.01.2021 of the High Court 
+of Judicature at Bombay at Aurangabad in WP No. 10858 of 2018
+Appearances for Parties
+Advs. for the Appellant(s):
+Anjani Kumar Jha, Varun V. Solshe, Vivek C. Solshe.
+Advs. for the Respondent(s):
+Yash Prashant Sonavane, Ravindra Keshavrao Adsure.
+Judgment / Order of the Supreme Court
+Judgment
+J.K. Maheshwari J.
+1.	
+Leave granted.
+2.	
+Assailing the final judgment dated 25.01.2021 passed by the Division 
+Bench of High Court of Judicature at Bombay Bench at Aurangabad 
+(hereinafter referred to as “High Court”) in Writ Petition No. 10858 
+of 2018, disposing-of the writ petition with directions to the appellant 
+(retired employee) to prefer appeal against the order of disciplinary 
+authority directing recovery, the instant appeal has been preferred.
+3.	
+The issue in the present lis revolves around the institution of the 
+departmental enquiry by the respondent – Maharashtra State 
+Warehousing Corporation (for brevity, ‘Corporation’) against the 
+appellant after his superannuation in absence of any provision in 
+the governing service rules and regulations, i.e., ‘Maharashtra Civil 
+Services (Pension) Rules, 1982 (in short ‘1982 Pension Rules’)’ 
+and ‘Maharashtra State Warehousing Corporation (Staff) Service 
+Regulations, 1992 (in short ‘1992 Regulations’)’.
+4.	
+The case of the appellant before High Court was that he had 
+superannuated from the service as ‘Storage Superintendent’ on 
+31.08.2008, whereafter, he was served with a show-cause notice 
+seeking explanation for unresolved railway transportation losses. 
+A charge-sheet was served to him, which was followed by the 
+
+34
+[2026] 2 S.C.R.
+Supreme Court Reports
+punishment order, whereby he was held responsible for financial 
+loss to the Corporation to the tune of Rs. 18,09,809/-, directing 
+recovery against him. Aggrieved, the appellant preferred writ petition 
+inter-alia praying for quashing of show-cause notice as well as the 
+action taken in furtherance thereto. The High Court vide impugned 
+judgment refused to entertain the writ petition and disposed it off 
+with directions to take recourse of appeal specified in the 1992 
+Regulations. Hence, the present appeal. 
+FACTS
+5.	
+Shorn of unnecessary details, the facts put in brief are that 
+the appellant had joined the Corporation on 04.01.1969 and 
+superannuated on 31.08.2008 as Storage Superintendent. After 
+approximately 11 months, based on the allegations of storage loss 
+and Railway Transit Loss (RTL) to tune of Rs. 22,22,561/- and Rs. 
+15,20,666/- between March, 2006 to June, 2008 during his tenure as 
+‘Centre Head’, a show-cause notice dated 18.08.2009 was served to 
+the appellant, inter-alia alleging that on review, increase in storage 
+loss was found from 1% to 5.75% and 6.87% and transportation loss 
+was also much higher than reasonable and expected amounts. The 
+appellant was asked to submit explanation within 10 days, failing 
+which, departmental enquiry would be initiated. Having found the 
+reply of the appellant unsatisfactory, the Corporation alleged that 
+appellant had violated Regulation 741(5) and 742(13) of the 1992 
+Regulations and served him charge-sheet dated 18.02.2010. 
+6.	
+Appellant vide letter 06.03.2010 submitted reply and denied the 
+charges, however, he was asked to appear before the Enquiry 
+Officer on 24.03.2011. The appellant appeared and prayed to 
+supply the material documents, on which the next was scheduled 
+on 12.05.2011. The appellant did not appear on the said date on the 
+pretext of non-supply of the documents. The department continued the 
+enquiry and served the second show-cause notice dated 09.11.2012, 
+asking explanation as to why disciplinary action should not be taken 
+against him on the findings of the charges which were found partially 
+proved. Disputing the same, the appellant again submitted a reply, 
+1	
+Acts of misconduct – (5) Causing wilful damage to work in process or to any property of the Corporation. 
+2	
+(13) – Indiscipline or breach or flouting of any instructions or orders issued by the Corporation, from time 
+to time regarding working, conduct etc. 
+
+[2026] 2 S.C.R. 
+35
+Kadirkhan Ahmedkhan Pathan v.  
+The Maharashtra State Warehousing Corporation & Ors.
+however in vain. The Corporation vide order dated 10.12.2012 held 
+him responsible for the losses to the tune of Rs. 18,09,809/- and 
+consequently, withheld his retiral benefits of Rs. 4,43,013/-, inclusive 
+of gratuity, provident fund and leave encashment. 
+7.	
+The appellant through RTI (right to information) found that the RTL was 
+reduced to Rs. 2,46,461/-, however, on further contest, the appellant 
+sought release of his retiral benefits. The Corporation served him with 
+the third show-cause notice dated 20.10.2016 seeking explanation 
+as to why he should not be held responsible for the loss caused 
+to the Corporation to the tune of Rs. 3,70,820/- and why such be 
+not recovered from him. Finally, the Corporation vide punishment 
+order dated 04.03.2017 found the appellant guilty and responsible 
+for the financial losses to the tune of Rs. 18,09,809/- and directed 
+recovery. Out of said amount, the Corporation withheld the retiral 
+benefits of the appellant of Rs. 4,43,013/-, and the remaining dues 
+of Rs. 13,66,796/- were directed to be recovered. 
+8.	
+Aggrieved, the appellant preferred Writ Petition No. 10858 of 2018 
+seeking following reliefs:-
+“a. This Hon’ble Court be pleased to issue writ of mandamus 
+or any other writ order or direction in the nature of writ of 
+mandamus and be pleased to quash and set aside the 
+enquiry and the action, if any, taken pursuant to the show 
+cause notice dated 18.08.2009;
+b. This Hon’ble Court be pleased to quash and set aside 
+the communication dated 4th March, 2017 and further be 
+pleased to direct the respondents to forthwith pay to the 
+petitioner all the retiral benefits such as provident fund, 
+gratuity, leave encashment, arrears of 6th Pay Commission 
+etc. with interest till realization of the amount;
+c. This Hon’ble Court be pleased to quash and set aside 
+the impugned show cause notice dated 20.10.2016 issued 
+by the General Manager (QC) of respondent no. 1;
+d. Pending hearing and final disposal of this writ petition, 
+the respondents be forthwith directed to pay this petitioner 
+all the retiral benefits such as provident fund, gratuity, leave 
+encashment etc. with interest till realization of the amount;
+xx
+xx
+xx
+
+36
+[2026] 2 S.C.R.
+Supreme Court Reports
+9.	
+In the backdrop of the facts, the appellant posed the issue of 
+jurisdiction to institute the departmental proceedings against him 
+after his superannuation by the Corporation in absence of having any 
+provisions in the 1992 Regulations. It was said, he was neither placed 
+under suspension, nor any enquiry was pending against at the time of 
+superannuation. On the contrary, it was the case of the Corporation 
+that in terms of Rule 1103 of the 1992 Regulations, in cases for which 
+specific provision has not been made, the Corporation can proceed 
+under Rule 274 of 1982 Pension Rules. By impugned judgment, the 
+High Court accepted the contention of the Corporation and said 
+that though there is no specific provision in the 1992 Regulations 
+for institution of the departmental proceedings post superannuation, 
+however, instituting proceedings against the retired employee, with 
+the aid of Rule 27 of the 1982 Pension Rules can be done in terms 
+of Rule 110 of 1992 Regulations. On the question of withholding 
+the retiral benefits, since his service was not pensionable, it was 
+concluded, as per Rule 9(37) of 1982 Pension Rules, ‘pension’ 
+includes ‘gratuity’ and hence, the Corporation was entitled to withhold 
+only gratuity and no other retiral benefits like provident fund, leave 
+encashment and insurance. Lastly, considering the remedy of appeal 
+in the 1992 Regulations, the High Court refrained to delve into the 
+merit and disposed the writ petition granting liberty to the appellant to 
+challenge the order of the disciplinary authority before the appellate 
+authority. Hence, the present appeal. 
+ARGUMENTS OF THE APPELLANT AND THE RESPONDENTS
+10.	 Mr. Varun V. Solshe, learned counsel for the appellant submits 
+that the Corporation at the very inception lacked the jurisdiction 
+to institute the departmental proceedings. Rule 110 of the 1992 
+Regulations deals the contingencies for which a specific provision in 
+the Regulations has not been made. It is in the nature of residuary 
+clause (or mere a referral clause), which equips the Corporation to 
+regulate the matters as far as possible alike retired ‘employees’ of 
+Government of Maharashtra. It does not confer jurisdiction to make 
+out a new case for carrying out departmental enquiry against retired 
+employees of the corporation.
+3	
+Application of Rules, Regulations, and Orders of the Government of Maharashtra. 
+4	
+Right of Government to withhold or withdraw pension. 
+
+[2026] 2 S.C.R. 
+37
+Kadirkhan Ahmedkhan Pathan v.  
+The Maharashtra State Warehousing Corporation & Ors.
+11.	 It is further submitted that, the Rule 27 of the 1982 Pension Rules 
+does not come to the aid, for the reason that as per clause (b), 
+if departmental proceedings had not been instituted while the 
+government servant was in service before his retirement, or during his 
+re-employment, it could not have been instituted without the sanction 
+of the Government, which was not secured at appropriate level. 
+12.	 Per contra, Mr. Ravindra Keshavrao Adsure, learned counsel for 
+the respondent, submitted that in compliance of the order passed 
+by the High Court, an amount of Rs. 1,89,548/- qua other retiral 
+benefits except gratuity was already returned to the appellant vide 
+cheque dated 22.02.2021, which was accepted by the appellant. In 
+this view, estoppel is operative against him to challenge the order 
+of the High Court. 
+13.	 On the issue of jurisdiction to institute the departmental enquiry, it is 
+urged that such objection was never raised before the Corporation 
+or at any stage of enquiry or proceedings. Further, Rule 110 of the 
+1992 Regulations in specific terms stipulate, all matters for which 
+no specific provision has been provided, they shall be regulated as 
+far as possible in the same manner as in the case of the employees 
+of the Government of Maharashtra. The 1982 Pension Rules are 
+applicable to the employees of Government of Maharashtra and 
+as per Rule 27, the Corporation has the right alike Government to 
+withhold or withdraw the pension of an employee for the financial 
+loss caused to the Corporation during his tenure.
+14.	 Insofar as requirement of prior sanction of the State Government 
+as contemplated under Rule 27(2)(b)(i) of 1982 Pension Rules for 
+instituting departmental proceedings is concerned, it is said, 1992 
+Regulations were drafted by the Corporation and sent to the State 
+Government vide letter dated 04.03.1990 for approval. The State 
+Government had granted approval to the same vide letter dated 
+31.03.1990, whereafter the Regulations were published in the 
+Maharashtra State Gazette Part-IVC dated 02.01.1992. Therefore, 
+once the State Government had granted approval then it shall include 
+sanction for exercising power under Rule 27 of the 1982 Pension Rules. 
+APPRECIATION OF ARGUMENTS
+15.	 Learned counsel for the parties are heard at length and records are 
+perused. The question that falls for our consideration is ‘whether in 
+
+38
+[2026] 2 S.C.R.
+Supreme Court Reports
+absence of any provision in the 1992 Regulations for institution of 
+departmental proceedings against a superannuated employee, the 
+Corporation could have proceeded against the appellant applying 
+Rule 27(I)(2)(b)(i) of the 1982 Pension Rules? In case enquiry is 
+instituted after retirement of appellant, whether the Corporation had 
+the jurisdiction to continue such enquiry and impose punishment, 
+withholding the retiral benefits and direct recovery?’
+16.	 Since both the questions are inter-linked, they are taken up together 
+for discussion and answered simultaneously. Before adverting to 
+the submissions of parties, it is necessary to refer the relevant 
+Regulations, which are reproduced as thus:-
+Rule 110 of 1992 Regulations – 
+“Application of Rules, Regulations, and Orders of 
+the Government of Maharashtra – All matters for 
+which specific provisions have not been made in these 
+Regulations shall, as far as possible and to such extent as 
+may be considered as appropriate by the Corporation, be 
+regulated in the same manner as in the case of employees 
+of the Government of Maharashtra.”
+A bare perusal of above, it reveals, in all such cases for which there 
+is no specific provision contained in the Regulations, the Corporation 
+as far as possible and to such an extent, as may be considered 
+appropriate by it, regulate such cases in the same manner as in 
+the case of employees of the Government of Maharashtra. In other 
+words, it is in the nature of miscellaneous provision, incorporated 
+in the Regulations with an intent to cover such cases on which the 
+Regulations are silent. If Corporation considers it appropriate to adopt 
+and to apply the Service Rules as applicable to the employees of 
+Government of Maharashtra, they are at liberty to do so.
+17.	 Rule 27 of the 1982 Pension Rules – 
+27. Right of Government to withhold or withdraw 
+pension 
+(I) Government may, by order in writing, withhold or 
+withdraw a pension or any part of it, whether permanently 
+or for a specified period, and also order the recovery 
+from such pension, the whole or part of any pecuniary 
+loss caused to Government, if, in any departmental or 
+
+[2026] 2 S.C.R. 
+39
+Kadirkhan Ahmedkhan Pathan v.  
+The Maharashtra State Warehousing Corporation & Ors.
+judicial proceedings, the pensioner is found guilty of 
+grave misconduct or negligence during the period of his 
+service including service rendered upon re- employment 
+after retirement: 
+Provided that the Maharashtra Public Service Commission 
+shall be consulted before any final orders are passed in 
+respect of officers holding posts within their purview: 
+Provided further that where a part of pension is withheld 
+or withdrawn, the amount of remaining pension shall not 
+be reduced below the minimum fixed by Government.
+(2) (a) The departmental proceedings referred to in sub-rule 
+(1), if instituted while the Government servant was in service 
+whether before his retirement or during his re- employment, 
+shall, after the final retirement of the Government servant, 
+be deemed to be proceedings under this rule and shall be 
+continued and concluded by the authority by which they 
+were commenced in the same manner as if the Government 
+servant had continued in service. 
+(b) The departmental proceedings, if not instituted while 
+the Government servant was in service, whether before 
+his retirement or during his re-employment – 
+(i) shall not be instituted save with the sanction of the 
+Government, 
+(ii) shall not be in respect of any event which took place 
+more than four years before such institution, and 
+(iii) shall be conducted by such authority and at such place 
+as the Government may direct and in accordance with the 
+procedure applicable to the departmental proceedings in 
+which an order of dismissal from service could be made 
+in relation to the Government servant during his service.
+(3) No judicial proceedings, if not instituted while the 
+Government servant was in service, whether before his 
+retirement or during his re-employment, shall be instituted 
+in respect of a cause of action which arose or in respect 
+of an event which took place, more than four years before 
+such institution. 
+
+40
+[2026] 2 S.C.R.
+Supreme Court Reports
+(4) In the case of a Government servant who has retired 
+on attaining the age of Superannuation or otherwise and 
+against whom any departmental or judicial proceedings 
+are instituted or where departmental proceedings are 
+continued under sub-rule (2), a provisional pension as 
+provided in rule 130 shall be sanctioned.
+xx
+xx
+xx
+On reading of the above, it is luculent that the Government has the 
+right to withhold or withdraw the pension or any part thereof for a 
+limited period or for the period as it deemed fit or recover the loss, if 
+any, on account of grave misconduct or negligence of the pensioner 
+during his employment or upon re-employment after retirement, after 
+consultation with the Public Service Commission. While doing so, in 
+case of withholding or withdrawing the pension, remaining pension 
+shall not be reduced to the threshold fixed by the Government. 
+18.	 In case the departmental proceedings have not been instituted while 
+government servant was in service or before his retirement or during 
+his re-employment, and the Government wishes to institute the 
+proceedings, it may be instituted with the sanction of the Government. 
+It is also made clear that the institution of any proceeding after 
+retirement can be for a cause which took place within four years prior 
+to the institution. Similarly, if the proceedings are already instituted, 
+but have not culminated, they can be continued in the same pace and 
+manner as specified in Rule 27(1). After institution of the proceedings, 
+if the government servant attains the age of superannuation and the 
+proceedings are continued under sub-rule (2), a provisional pension 
+as provided in Rule 130 shall be sanctioned. 
+19.	 On appreciation of Rule 27(b), it can safely be observed that in cases 
+where the departmental proceedings were instituted post-retirement 
+without obtaining sanction of the government till culmination as 
+specified in the rules and simultaneously if the cause of action of 
+such proceedings arose prior to four years of date of institution, such 
+proceedings could not have been instituted or continued. Therefore, 
+the provision is benevolent in nature, as it regulates the State’s 
+discretion to institute or continue departmental proceedings.
+20.	 As referred above, in particular Rule 110, which appears to be a 
+miscellaneous provision and residuary in nature. The adoption of 1982 
+
+[2026] 2 S.C.R. 
+41
+Kadirkhan Ahmedkhan Pathan v.  
+The Maharashtra State Warehousing Corporation & Ors.
+Pension Rules in Rule 110 of 1992 Regulations is limited, when there 
+is no specific provision and if the Corporation considers it appropriate 
+to apply 1982 Pensions Rules, the same can be made applicable 
+for the purpose of regulation of the employees of the Corporation 
+alike the employees of the Government of Maharashtra. Therefore, 
+1982 Pension Rules do not have ipso facto application until they 
+have been either adopted or applied by a conscious decision taken 
+at appropriate level. 
+21.	 On appreciation of the facts of the present case, it is undisputed 
+that the appellant stood retired on 31.08.2008. The first show cause 
+notice dated 18.08.2009 was served on him approximately after 11 
+months from the date of his superannuation asking explanation with 
+respect to the financial losses occurred during his tenure as Centre 
+Head. It is the specific case of the appellant that the Corporation 
+lacks jurisdiction to institute the departmental proceedings against 
+him in absence of any provision in 1992 Regulations. Per contra, the 
+Corporation has tried to make out a case on the anvil of Rule 110, 
+laying much emphasis on the fact that it empowers the Corporation 
+to deal with the employees of the Corporation alike the cases of 
+employees of Government of Maharashtra in absence of any specific 
+provision. Therefore, the case of the appellant ought to be dealt 
+under 1982 Pension Rules, and accordingly punishment order was 
+passed against him, directing recovery. 
+22.	 In such factual backdrop, when the matter posted for hearing on 
+11.11.2025, certain queries cropped up and in the proceedings, a 
+detailed order was passed, which is reproduced as thus:-
+“1. During hearing, learned counsel for the petitioner 
+referring to Clause 110 of the Maharashtra State 
+Warehousing Corporation (Staff) Service Regulations (For 
+short, the ‘Regulations’) contended that applicability of 
+the Rules, Regulations and orders of the Government of 
+Maharashtra is not ipso facto. The said fact finds support 
+from the Maharashtra Civil Services (Pension) Rules, 
+1982 (for short, the ‘Pension Rules’) which are made 
+applicable against him in particular clause 27(I)(2)(b)(i) of 
+the Pension Rules. It is further contended by him that by 
+way of implication of Rules 27(4), those Rules would be 
+applicable to those employees who are getting pension. 
+
+42
+[2026] 2 S.C.R.
+Supreme Court Reports
+In such circumstances, the interpretation as made by the 
+High Court is not justified. 
+2. Per contra, learned counsel for the respondent referring 
+to the findings as recorded by the High Court submits that 
+the Pension Rules have rightly been made applicable in 
+the facts of the case. 
+3. After hearing for some time, it is put forth to the respondent 
+that in furtherance to Clause 110 of the Regulations, any 
+decision has been taken by the Corporation indicating 
+the applicability of the Pension Rules and, in particular, 
+to initiate and continue the departmental enquiry which 
+was not absolute under the Pension Rules and is subject 
+to approval by the Government. 
+4. Learned counsel for the respondent prays for and is 
+granted a week’s time to ascertain the said fact and to 
+revert on the same. 
+5. List on 18.11.2025 immediately after the fresh 
+miscellaneous matters.”
+23.	 In reply, the Corporation filed additional affidavit dated 15.11.2025, 
+stating as thus:-
+“7. With regard to two queries specifically raised by this 
+Hon’ble Court at the time of hearing on 11.11.2025, I submit 
+on the basis of record available with MSWC as under:-
+a. Regulation 110 of Maharashtra State Warehousing 
+Corporation (Staff) Service Regulations, 1992 contemplates 
+that all matters, for which specific provisions have not 
+been made under those Regulations of 1992, shall as far 
+as possible and to such an extent as may be considered 
+appropriate by the Corporation, be regulated in the same 
+manner as in the case of employees of Government of 
+Maharashtra by various Rules, Regulations, Orders of 
+Government of Maharashtra. 
+Perusal of MSWC’s record so far, though show that there 
+is no specific order, circular, either at the instance of MD 
+and/or Board of Directors of MSWC for adoption and 
+applicability of Rule 27 of MCS (Pension) Rules, 1982, 
+
+[2026] 2 S.C.R. 
+43
+Kadirkhan Ahmedkhan Pathan v.  
+The Maharashtra State Warehousing Corporation & Ors.
+but with utmost respect and accountability, it is submitted 
+that wording in Regulation 110 does not contemplate any 
+specific Order/Circular for adoption and applicability of Rule 
+27 of MCS (Pension) Rules, 1982. But admittedly, MSWC 
+all along has been consistently resorting to, applying and 
+adopting Rule 27 of MCS (Pension) Rules, 1982 while 
+taking action against delinquent employee who has retired. 
+xx
+xx
+xx
+b. Further, with regard to issue of sanction of the State 
+Government before instituting enquiry as contemplated 
+under Rule 27(2)(b)(i) of MCS (Pension) Rules, 1982, it 
+is submitted that 
+(i) Regulations were drafted by MSWC and vide letter 
+dated 04.03.1990 sent to State Government for approval. 
+(ii) State Government (Cooperation & Textile Department) 
+vide letter dated 31.03.1990 granted approval.
+(iii) Thereafter in Maharashtra Government Gazette Part 
+IVC (Page 29) dated 02.01.1992, those Regulations were 
+published.
+(iv) Then, Jt. MD vide Circular dated 10.07.1992 circulated 
+those Regulations for the knowledge of all the Officers 
+and Officers of MSWC. 
+(v) Thus, admittedly these Regulations came into force 
+w.e.f. 02.01.1992 i.e., the date of publication in Government 
+Gazette.
+Thus, once State Government has granted approval on 
+31.03.1990 to entire Regulations; inclusive of Regulation 
+110 then, it clearly means that for exercising power 
+under Rule 27(2)(b) of MCS (Pension) Rules, 1982, 
+State Government has already granted general sanction 
+on 31.03.1990 itself and more particularly when those 
+Regulations were published in Maharashtra Government 
+Gazette on 02.01.1992.
+xx
+xx
+xx
+
+44
+[2026] 2 S.C.R.
+Supreme Court Reports
+24.	 The perusal of the averments of additional affidavit, two things 
+are patently clear; first, that no resolution or order was passed 
+by the Corporation adopting or applying the 1982 Pension Rules 
+to the employees of the Corporation and the entire exercise was 
+being carried out based on general practice; second, even if it is 
+assumed that Rule 27(2)(b) was applicable in the case of appellant, 
+no document has been brought on record to show that mandate of 
+sanction as provided in the said sub rule was complied with. 
+25.	 In reference to the above fact guidance can be taken from a judgment 
+of ‘Girijan Cooperative Corporation Limited Andhra Pradesh Vs. 
+K. Satyanarayana Rao’5, wherein the issue arose regarding a case 
+of alleged financial irregularities with respect to year 1992-93, for 
+which disciplinary proceeding were initiated against the delinquent 
+employees in year 1999, i.e., one year prior to their retirement in 
+year 2000. The proceedings were continued after the retirement 
+based on the circular dated 29.08.1998, whereby the Cooperative 
+Corporation in its Board’s resolution for adoption of the ‘Andhra 
+Pradesh Civil Service Rules’ and ‘Andhra Pradesh Fundamental 
+Rules’ to its employees whenever the GCC service rules of employees 
+are silent, conferred power to the MD to adopt the same. This Court 
+while interpreting the circular, opined that indeed MD had the power 
+to adopt, but no such adoption had been brought to the notice of the 
+Court, therefore, continuance of the enquiry/departmental proceedings 
+were not found to be valid. 
+26.	 It is pertinent to note that, in the present case, in furtherance to 
+Rule 110 of 1992 Regulations, no board decision/order/notification 
+adopting 1982 Pension Rules in toto for the employees of the 
+Corporation has been brought on record. Rule 110 is general in 
+nature and where specific provisions have not been made in the 
+said Regulations, then in the contingency, as far as possible and to 
+such extent as may be considered appropriate by Corporation, the 
+cases may be regulated in the manner as in the case of government 
+employees. In the context of the provision of Rule 27, as discussed, 
+it cannot be made applicable ipso facto until the Board of Directors 
+has taken a conscious decision specifying the circumstances and 
+making similar benevolent provision as made in 1982 Pension Rules; 
+5	
+(2010) 15 SCC 322
+
+[2026] 2 S.C.R. 
+45
+Kadirkhan Ahmedkhan Pathan v.  
+The Maharashtra State Warehousing Corporation & Ors.
+or having sanction of the Government as required under Rule 27(2)
+(b)(i) for instituting or continuing the proceedings in the contingency 
+as specified applying the Regulations. 
+27.	 Further, the clarification given by the Corporation in its additional 
+affidavit regarding sanction that once the 1992 Regulations 
+were granted approval by the State Government vide letter 
+dated 31.03.1990, ‘general sanction’ was accorded for instituting 
+departmental proceedings under Rule 27(2)(b)(i) of the 1982 Pension 
+Rules, is devoid of any discernable logic. The usage of the word 
+‘shall’ in Rule 27(2)(b)(i) implies that the requirement of sanction 
+from the Government prior to institution of departmental enquiry is 
+mandatory in nature for each case. Such mandatory safeguard is 
+intended to prevent institution of unwarranted proceedings against 
+the superannuated employees. Therefore, such mandate cannot be 
+diluted or by-passed by the Corporation under the pretext of general 
+sanction or general practice, hence, stand as taken and the argument 
+put forth by respondents are repelled. 
+28.	 At this juncture, it is apposite to refer the judgment in ‘Bhagirathi 
+Jena Vs. Board of Directors, O.S.F.C. and Others’6, wherein this 
+Court while dealing the issue of initiation of departmental enquiry, in 
+absence of specific provision and its continuance after retirement, 
+had observed as thus:-
+“7. In view of the absence of such a provision in the 
+abovesaid regulations, it must be held that the Corporation 
+had no legal authority to make any reduction in the retiral 
+benefits of the appellant. There is also no provision for 
+conducting a disciplinary enquiry after retirement of the 
+appellant and nor any provision stating that in case 
+misconduct is established, a deduction could be made 
+from retiral benefits. Once the appellant had retired from 
+service on 30-6-1995, there was no authority vested in 
+the Corporation for continuing the departmental enquiry 
+even for the purpose of imposing any reduction in the 
+retiral benefits payable to the appellant. In the absence 
+of such an authority, it must be held that the enquiry had 
+lapsed and the appellant was entitled to full retiral benefits 
+on retirement.”
+6	
+(1999) 3 SCC 666
+
+46
+[2026] 2 S.C.R.
+Supreme Court Reports
+29.	 In ‘Anant R. Kulkarni Vs. Y.P. Education Society and Others’7, 
+this Court inter-alia dealing with a similar question as to under what 
+circumstances enquiry can be conducted against the delinquent 
+employee who has retired on reaching the age of superannuation, 
+observed as thus:-
+30.	 After analyzing Rule 110 of 1992 Regulations and Rule 27 of 1982 
+Pension Rules and also considering the averments made in additional 
+affidavit filed as directed on 11.11.2025, the Corporation was unable 
+to produce a conscious decision of the Board regarding adoption of 
+Pension Rules and the circumstances explaining the situation to apply 
+the same rules as applicable to the employees of the Government 
+of Maharashtra to the employees of the Corporation in the matter 
+of institution and continuance of the disciplinary proceedings post 
+retirement. In light of the above discussions and in view of the 
+judgments referred hereinabove, the irresistible conclusion can 
+be drawn that the Corporation had no jurisdiction to institute the 
+departmental proceedings against the appellant for the alleged 
+misconduct and to direct recovery against him applying 1982 Pension 
+Rules. As such the questions as posed hereinabove are answered 
+in favour of the appellant against the Corporation. 
+31.	 Accordingly, the present appeal is allowed and the impugned order 
+passed by the High Court is set-aside. The impugned departmental 
+proceedings against the appellant are also hereby quashed, and 
+the Corporation is directed to release all the retiral benefits to the 
+appellant within a period of eight weeks. The recovery, if any, made 
+from the appellant in the interregnum, shall also be refunded within 
+the period as specified. 
+32.	 Pending application(s), if any, shall stand disposed-of. 
+Result of the case: Appeal allowed.
+†Headnotes prepared by: Ankit Gyan
+7	
+(2013) 6 SCC 515

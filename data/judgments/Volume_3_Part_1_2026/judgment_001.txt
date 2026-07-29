@@ -1,0 +1,1121 @@
+[2026] 3 S.C.R. 1 : 2026 INSC 116
+M/s Eminent Colonizers Private Limited
+v.
+Rajasthan Housing Board and Ors.
+(Civil Appeal No. 753 of 2026)
+04 February 2026
+[J.B. Pardiwala and K.V. Viswanathan,* JJ.]
+Issue for Consideration
+Issue arose for consideration whether dispute with regard to the 
+existence and validity of Clause 23 of the Contract Agreement 
+clause could have been raised before the arbitrator; that the 
+appointment of the arbitrator was during SBP & Co’s case regime 
+and before the legislative amendments which came into effect 
+from 23.10.2015, were the courts below justified in setting aside 
+the award by holding that the clause 23 of the contract was not 
+an arbitration agreement.
+Headnotes†
+Arbitration and Conciliation Act, 1996 – s.11 – Appointment of 
+arbitrator – Validity of arbitration clause – Contract agreement 
+containing dispute resolution clause – Dispute between the 
+parties regarding non-payment of escalation cost – Application 
+u/s.11 by the appellant-contractor – Allowed by the Single 
+judge and arbitrator was appointed – Respondent-Housing 
+Board accepted the order and it attained finality – Single 
+Judge order was before the introduction of s.11(6A) of the 
+1996 Act – Arbitrator allowed the claim of the appellant and 
+objection as to validity of the arbitration clause, was held to 
+be unsustainable – Respondents then filed s. 34 application 
+to set aside the award on the ground of non-existence of an 
+arbitration clause, the Clause 23 of the Agreement did not 
+have the character of an arbitration clause – Commercial Court 
+held that the order of s.11 Court did not have precedential 
+value and the order appointing arbitrator was not binding 
+in nature, also the arbitrator faulted for not deciding on the 
+existence of the arbitration agreement – In appeal, the High 
+Court upheld the order of Commercial Court that clause 23 
+was not an arbitration clause – Correctness:
+* Author
+
+2
+[2026] 3 S.C.R.
+Supreme Court Reports
+Held: Single Judge, when he entertained s.11 application and 
+interpreted a contractual document had jurisdiction to do so 
+u/s.11 – Right or wrong, that decision should bind – Respondents 
+did not carry the order appointing an arbitrator in appeal – In 
+view thereof, the holding in SBP’s case squarely applies and the 
+respondents could not have challenged the existence and validity 
+of the arbitration clause before the arbitrator – Order appointing the 
+Arbitrator read with the law laid down in SBP’s case that not only 
+will the parties be bound before the Arbitrator with regard to the 
+finding on existence and validity of the arbitration agreement they 
+will also be bound during the subsequent stages of the proceedings 
+which would include the s.34 application stage, the s.37 appeal 
+stage and before this Court, clearly operates as a res judicata, as 
+regards the existence of and validity of the arbitration agreement 
+between the parties – Commercial Court missed the conceptual 
+distinction between “Precedent” and “Res judicata” and thus, fell 
+into an error – Commercial Court and the High Court erred in going 
+into the existence and validity of clause 23 and pronouncing that 
+the said clause was not an arbitration clause – Judgment of the 
+High Court set aside – Matter remitted to the Commercial Court. 
+[Paras 29-32]
+Jurisprudence – Precedent and Res Judiciata – Distinction:
+Held: Decision between two parties which sets out a principle of 
+law will operate as a precedent for disputes between two other 
+parties too – Precedent operates in rem – In contrast, res judicata 
+operates in personam between the same parties either in the later 
+stage of the same litigation between them or in a different litigation 
+between them. [Para 24]
+Case Law Cited
+SBP & Co. v. Patel Engineering Limited & Anr. [2005] Supp. 4 
+SCR 688 : (2005) 8 SCC 618 – followed.
+State of West Bengal v. Sarkar & Sarkar (2018) 12 SCC 736; In 
+re Interplay Between Arbitration Agreements under Arbitration and 
+Conciliation Act, 1996 & Stamp Act, 1899 [2023] 15 SCR 1081 : 
+(2024) 6 SCC 1; State of Rajasthan v. Nemi Chand Mahela and 
+Others [2019] 18 SCR 995 : (2019) 14 SCC 179; Canara Bank v. 
+N.G. Subbaraya Setty and Another [2018] 3 SCR 884 : (2018) 16 
+SCC 228 – referred to.
+
+[2026] 3 S.C.R. 
+3
+M/s Eminent Colonizers Private Limited v.  
+Rajasthan Housing Board and Ors.
+Mohammed Arif Contractor v. State of Rajasthan & Ors., S.B. 
+Arbitration No.90/2012; M/s Marudhar Construction v. Rajasthan 
+Housing Board & Ors., S.B. Arbitration Application No.132/2014 – 
+referred to.
+Books and Periodicals Cited
+Salmond on Jurisprudence P.J. Fitzgerald (12th Edition) page 
+141 – referred to.
+List of Acts
+Arbitration and Conciliation Act, 1996; Arbitration and Conciliation 
+(Amendment) Act, 2015.
+List of Keywords
+Appointment of arbitrator; Arbitration agreement; Arbitration 
+clause; Res judicata; Precedent; Construction business; Non-
+payment of escalation cost; Validity of arbitration clause; Precedent 
+operates in rem; Res judicata operates in personam; Contract 
+Agreement clause; SBP & Co. vs. Patel Engineering Limited & 
+Anr’s case.
+Case Arising From
+CIVIL APPELLATE JURISDICTION: Civil Appeal No. 
+753 of 2026
+From the Judgment and Order dated 20.02.2020 of the High 
+Court of Judicature for Rajasthan at Jaipur in DBCMA No. 2435 
+of 2019
+With
+Civil Appeal No. 754 of 2026
+Appearances for Parties
+Advs. for the Appellant(s):
+Akshat Gupta, Prakhar Saunakiya, Pranav Jain, Ms. Sakshi 
+Tikmany, Ms. Yoothica Pallavi.
+Advs. for the Respondent(s):
+K. L. Janjani, Kailash J. Kashyap, Pankaj Kumar Singh, Ms. Archla.
+
+4
+[2026] 3 S.C.R.
+Supreme Court Reports
+Judgment / Order of the Supreme Court
+Judgment
+K.V. Viswanathan, J.
+1.	
+Leave granted.
+2.	
+The issues that arise in both the appeals are common and they revolve 
+around the interpretation of Clause 23 of the Contract Agreement 
+and, more particularly, the question as to whether a dispute with 
+regard to the existence and validity of the said clause could have 
+been raised before the arbitrator?
+3.	
+The Arbitration and Conciliation (Amendment) Act, 2015 did not apply 
+to the arbitral proceedings concerned in these matters. This aspect 
+of the matter has been dealt with in detail hereinbelow. 
+FACTS IN CIVIL APPEAL ARISING OUT OF SLP(C) NO.8299 OF 
+2021: -
+4.	
+The present appeal calls in question the correctness of the judgment 
+and order dated 20.02.2020 of the High Court of Judicature for 
+Rajasthan, Bench at Jaipur in D.B. Civil Miscellaneous Application 
+No. 2435 of 2019. 
+5.	
+On 08.07.2009, the appellant, a sole proprietorship concern, 
+engaged in the supply and construction business was awarded the 
+construction work for the structure of 40 HIG-1 houses (High-Income 
+Group) and 10 HIG-2 Flats (Stilt + 10 Storey) at Sector-29, Pratap 
+Nagar, Jaipur, Rajasthan by the respondent. A contract agreement 
+bearing No.11/2009-10 for a total value of Rs. 5,27,00,070/- on a 
+lump sum basis was entered into and the work was to be completed 
+in 12 months’ time. It is the claim of the appellant that the work was 
+completed before the stipulated 12 months’ deadline for a lower 
+cost of Rs.4,67,72,922/-. The dispute pertained to non-payment 
+of Rs.18,95,123/- towards escalation cost under Clause 45 of the 
+agreement with regard to prices, of labour and material.
+6.	
+According to the appellant, since the respondents failed to pay the 
+disputed amount or to alternatively constitute an empowered Standing 
+Committee to adjudicate the dispute in accordance with Clause 23 
+
+[2026] 3 S.C.R. 
+5
+M/s Eminent Colonizers Private Limited v.  
+Rajasthan Housing Board and Ors.
+of the agreement, despite the appellant’s application and payment 
+of fee, a Section 11 Application came to be filed in the High Court.
+7.	
+Clause 23 reads as under: -
+“Clause-23. Standing Committee for settlement of disputes: 
+If any question, difference or objection, whatsoever shall 
+arise in any way, in connection with or arising out of this 
+instrument, or the meaning of operation of any part thereof, 
+or the  right duties or liabilities of either party then, save 
+in so far as the decision of any such matter, as herein 
+before provided has been otherwise provided for and 
+whether it has been finally decided accordingly, or whether 
+the contract should be terminated, or has been rightly 
+terminated and as regards the rights or obligations of the 
+parties as the result of such termination, shall be referred 
+for decision to the empowered Standing Committee, which 
+would consist of the followings:
+i)	
+Administrative Secretary concerned
+ii)	
+Finance Secretary or his nominee, not below the 
+rank of Dy.Secretary and/or Chief Accounts Officer.
+iii)	
+Law Secretary or his nominee, not below the rank 
+of Joint Legal Remembrancer.
+iv)	
+Chief Engineer-cum-Additional Secretary of the 
+concerned department.
+v)	
+Chief Engineer concerned (Member Secretary)
+The Engineer-in-Charge on receipt of application alongwith 
+non refundable prescribed fee, (the fee would be two 
+percent of the amount in dispute, not exceeding Rs.One 
+Lac) from the Contractor shall refer the disputes to the 
+Committee within a period of one month from the date of 
+receipt of application.
+Procedure and Application for referring cases or settlement 
+by the Standing Committee shall be as given in Form 
+RPWA 90.”
+8.	
+A learned Single Judge allowed the Section 11 Application and 
+appointed a retired High Court Judge, Hon’ble Mr. Justice J.R. Goyal, 
+as the sole arbitrator on the following reasoning:-
+
+6
+[2026] 3 S.C.R.
+Supreme Court Reports
+“Counsel for applicant submits that although the non-
+applicants have constituted the Standing Committee but the 
+same being not in terms of Cl.23 of the contract agreement, 
+the applicant raised objections regarding constitution of 
+the committee and that makes the applicant entitled to get 
+the matter referred to the independent Arbitrator.
+Reply to the application has been filed and counsel for 
+non-applicants submits that for resolving the dispute 
+between the Contractor and Rajasthan Housing Board, a 
+committee of five officers of Rajasthan Housing Board has 
+been constituted in terms of Cl.23 of the contract agreement 
+and, therefore, the application is not maintainable and 
+deserves to be dismissed.
+Indisputably, the Committee constituted by Rajasthan 
+Housing Boad, was not in terms of Cl.23 of the contract 
+agreement executed between the parties and it is also not in 
+dispute that this court has territorial jurisdiction to entertain 
+the present application and that certainly seizes the power 
+of the non-applicants and it is within the jurisdiction of this 
+court and the Chief Justice or the Designated Judge to 
+hold jurisdiction to consider the application for appointment 
+of Arbitrator u/S.11(6) of the Act, 1996.
+Consequently, the instant application succeeds & is 
+hereby allowed and this court considers it appropriate to 
+appoint Hon’ble Mr. Justice J.R. Goyal (Retd.), T-1-10, 
+Paliwal Park, New Sanghi Farm, Tonk Road, Jaipur as 
+sole Arbitrator to resolve the arbitral dispute. The cost of 
+arbitration & fee of Arbitrator shall be determined in terms 
+of the arbitration manual.”
+This order was accepted by the respondents and it attained finality. 
+It is crucial to note that the order of the learned Single Judge was 
+dated 23.05.2014 which is before the introduction of Section 11(6A) 
+in the Arbitration and Conciliation Act, 1996.
+9.	
+Section 11(6) which governed the appointment procedure before the 
+23.10.2025 amendments and Section 11(6A) which was brought in 
+by the 2015 amendment are both extracted hereinbelow:-
+
+[2026] 3 S.C.R. 
+7
+M/s Eminent Colonizers Private Limited v.  
+Rajasthan Housing Board and Ors.
+“11 (6): Where, under an appointment procedure agreed 
+upon by the parties.–
+(a) A party fails to act as required under that 
+procedure; or
+(b) the parties, or the two appointed arbitrators, fail 
+to reach an agreement expected of them under that 
+procedure; or
+(c) a person, including an institution, fails to perform 
+any function entrusted to him or it under that 
+procedure.
+a party may request the Chief Justice or any person 
+or institution designated by him to take the necessary 
+measure, unless the agreement on the appointment 
+procedure provides other means for securing the 
+appointment.”
+w.e.f. 23.10.2015
+11(6A): The Supreme Court or, as the case may be, the 
+High Court, while considering any application under sub-
+section (4) or sub-section (5) or sub-section (6), shall, 
+notwithstanding any judgment, decree or order of any 
+Court, confine to the examination of the existence of 
+an arbitration agreement.”
+(Emphasis supplied)
+AWARD: -
+10.	 The learned Arbitrator entered upon the reference and, on 15.09.2015, 
+allowed the claim of the appellant to the tune of Rs. 17,10,624.70/- 
+along with interest @ 9% per annum from 13.09.2014 till the date of 
+realization. Dealing with the objection with regard to the validity of the 
+arbitration clause, the learned Arbitrator held that, since no appeal 
+was filed against the order appointing the arbitrator, the objection 
+was not sustainable. The Arbitrator relied upon the judgment of this 
+Court in SBP & Co. vs. Patel Engineering Limited & Anr.1.
+1	
+(2005) 8 SCC 618
+
+8
+[2026] 3 S.C.R.
+Supreme Court Reports
+ORDER OF THE SECTION 34 COURT: -
+11.	 The respondents filed a Section 34-Application before the Commercial 
+Court No.3, Jaipur seeking to set aside the award. The challenge was 
+pivoted on the point of the non-existence of an arbitration clause, the 
+argument being that Clause 23 of the Agreement did not have the 
+character of an arbitration clause. The Commercial Court accepted 
+the submission and on the finding that the order of the Section 11 
+Court does not have precedential value, held that the order appointing 
+arbitrator was not binding in nature. The Court further held that the 
+order appointing the arbitrator did not pronounce any opinion on 
+the availability or otherwise of the arbitration agreement in Clause 
+23 and as such it proceeded on the basis that the point had been 
+kept open to be decided by the Arbitrator. It faulted the Arbitrator for 
+not deciding the point of the existence of the arbitration agreement.
+12.	 The Court relied on two judgments of the Rajasthan High Court in 
+Mohammed Arif Contractor Vs. State of Rajasthan & Ors.2 and 
+M/s Marudhar Construction Vs. Rajasthan Housing Board & 
+Ors.3 to hold that Clause 23 of the agreement was not an arbitration 
+clause. So holding, the Commercial Court set aside the award. 
+APPEAL BEFORE THE HIGH COURT: -
+13.	 The appellant carried the matter in appeal to the High Court. The 
+High Court, while upholding the order of the Commercial Court, 
+maintained that Clause 23 was not an arbitration clause. Aggrieved, 
+the appellant is before us.
+CONTENTIONS OF THE PARTIES: -
+14.	 We have heard Mr. Akshat Gupta, learned Counsel for the appellant 
+and Mr. Kailash J. Kashyap, learned Counsel for the respondents, who 
+ably presented their respective points of view. The learned counsel 
+for the appellant contends that the arbitrator was appointed during 
+the SBP and Co. (supra) regime and before the incorporation of 
+the legislative amendments which came into effect from 23.10.2015. 
+Learned counsel submitted that the execution of the contract was 
+2	
+S.B. Arbitration No.90/2012
+3	
+S.B. Arbitration Application No.132/2014
+
+[2026] 3 S.C.R. 
+9
+M/s Eminent Colonizers Private Limited v.  
+Rajasthan Housing Board and Ors.
+on 08.07.2009 and the Section 11 order was dated 23.05.2014 and 
+the arbitral award was passed on 15.09.2015. Learned counsel, by 
+relying on SBP and Co. (supra), submits that under the said regime, 
+the Section 11 court was obliged to determine the “existence” as 
+well as “validity” of an arbitration agreement before passing an order 
+appointing the arbitrator. Learned counsel contrasted the situation 
+with the introduction of Section 11(6A) w.e.f. 23.10.2015 where 
+only the Section 11 court is obliged to determine the existence of 
+arbitration agreement [Section 11(6A) though deleted, the deletion 
+has not yet been notified].
+15.	 Learned counsel submitted that when the Section 11 court appointed 
+the arbitrator, proceeding on the basis that Clause 23 is an arbitration 
+clause and when the said order was accepted by the respondents, 
+the respondents have waived their right to object to the validity of 
+the arbitration clause. Reliance was placed on Section 4 of the A&C 
+Act, 1996.
+16.	 In response, the learned counsel for the respondents contended 
+by referring to the decision of the Commercial Court that an order 
+under Section 11 could not have precedential value and in any event 
+there is no decision on the existence and validity of the arbitration 
+agreement in the order appointing the arbitrator and, hence, the 
+said question was available to be decided by the arbitral tribunal.
+17.	 We have carefully considered the submissions of the learned counsels 
+for the parties and perused the written submissions.
+QUESTION FOR CONSIDERATION:-
+18.	 The question that arises for consideration is considering that the 
+appointment of the arbitrator in this case was in SBP & Co. (supra) 
+regime and before the legislative amendments which came into 
+effect from 23.10.2015, were the courts below justified in setting 
+aside the award by holding that the Clause 23 of the contract was 
+not an arbitration agreement?
+ANALYSIS AND CONCLUSION:-
+19.	 In view of the categoric holding by the Seven-Judge Bench in SBP 
+(supra), we have no hesitation in holding that the Section 34 court 
+erred in going into the existence and validity of Clause 23. The 
+
+10
+[2026] 3 S.C.R.
+Supreme Court Reports
+appointment of the Arbitrator happened prior to the amendments 
+to the Arbitration Act which came into effect from 23.10.2015. The 
+introduction of Section 11(6A) brought a paradigm shift in the scope 
+of jurisdiction of the Section 11 court. Post the amendment, the only 
+enquiry is about the existence of the arbitration clause. That is very 
+well settled.
+20.	 However, the present case arose during the SBP (supra) regime. 
+It will be useful to extract relevant passages from SBP (supra) to 
+understand the scope of the Section 11 court. 
+“8. We will first consider the question, as we see it. On 
+a plain understanding of the relevant provisions of the 
+Act, it is seen that in a case where there is an arbitration 
+agreement, a dispute has arisen and one of the parties 
+had invoked the agreed procedure for appointment of an 
+arbitrator and the other party has not cooperated, the 
+party seeking an arbitration, could approach the Chief 
+Justice of the High Court if it is an internal arbitration or 
+of the Supreme Court if it is an international arbitration 
+to have an arbitrator or Arbitral Tribunal appointed. The 
+Chief Justice, when so requested, could appoint 
+an arbitrator or Arbitral Tribunal depending on the 
+nature of the agreement between the parties and after 
+satisfying himself that the conditions for appointment 
+of an arbitrator under sub-section (6) of Section 11 
+do exist. The Chief Justice could designate another 
+person or institution to take the necessary measures. 
+The Chief Justice has also to have the qualification of 
+the arbitrators in mind before choosing the arbitrator. 
+An Arbitral Tribunal so constituted, in terms of Section 
+16 of the Act, has the right to decide whether it has 
+jurisdiction to proceed with the arbitration, whether 
+there was any agreement between the parties and the 
+other matters referred to therein.
+9. Normally, any tribunal or authority conferred with a power 
+to act under a statute, has the jurisdiction to satisfy itself 
+that the conditions for the exercise of that power existed 
+and that the case calls for the exercise of that power. Such 
+an adjudication relating to its own jurisdiction which could 
+be called a decision on jurisdictional facts, is not generally 
+
+[2026] 3 S.C.R. 
+11
+M/s Eminent Colonizers Private Limited v.  
+Rajasthan Housing Board and Ors.
+final, unless it is made so by the Act constituting the tribunal. 
+Here, sub-section (7) of Section 11 has given a finality to 
+the decisions taken by the Chief Justice or any person or 
+institution designated by him in respect of matters falling 
+under sub-sections (4), (5) and (6) of Section 11. Once 
+a statute creates an authority, confers on it power to 
+adjudicate and makes its decision final on matters to 
+be decided by it, normally, that decision cannot be 
+said to be a purely administrative decision. It is really 
+a decision on its own jurisdiction for the exercise of 
+the power conferred by the statute or to perform the 
+duties imposed by the statute. Unless the authority 
+satisfies itself that the conditions for exercise of its 
+power exist, it could not accede to a request made 
+to it for the exercise of the conferred power. While 
+exercising the power or performing the duty under Section 
+11(6) of the Act, the Chief Justice has to consider whether 
+the conditions laid down by the section for the exercise 
+of that power or the performance of that duty exist. 
+Therefore, unaided by authorities and going by general 
+principles, it appears to us that while functioning 
+under Section 11(6) of the Act, a Chief Justice or the 
+person or institution designated by him, is bound to 
+decide whether he has jurisdiction, whether there is 
+an arbitration agreement, whether the applicant before 
+him is a party, whether the conditions for exercise of 
+the power have been fulfilled, and if an arbitrator is 
+to be appointed, who is the fit person, in terms of the 
+provision. Section 11(7) makes his decision on the 
+matters entrusted to him, final.
+12. …… We are inclined to the view that the decision 
+of the Chief Justice on the issue of jurisdiction and 
+the existence of a valid arbitration agreement would 
+be binding on the parties when the matter goes to 
+the Arbitral Tribunal and at subsequent stages of the 
+proceeding except in an appeal in the Supreme Court 
+in the case of the decision being by the Chief Justice 
+of the High Court or by a Judge of the High Court 
+designated by him.
+
+12
+[2026] 3 S.C.R.
+Supreme Court Reports
+20. …… But where the jurisdictional issues are decided 
+under these sections, before a reference is made, Section 
+16 cannot be held to empower the Arbitral Tribunal to 
+ignore the decision given by the judicial authority or the 
+Chief Justice before the reference to it was made. The 
+competence to decide does not enable the Arbitral Tribunal 
+to get over the finality conferred on an order passed prior 
+to its entering upon the reference by the very statute that 
+creates it. That is the position arising out of Section 11(7) 
+of the Act read with Section 16 thereof. The finality given 
+to the order of the Chief Justice on the matters within his 
+competence under Section 11 of the Act are incapable of 
+being reopened before the Arbitral Tribunal. In Konkan 
+Rly. what is considered is only the fact that under Section 
+16, the Arbitral Tribunal has the right to rule on its own 
+jurisdiction and any objection, with respect to the existence 
+or validity of the arbitration agreement. What is the impact 
+of Section 11(7) of the Act on the Arbitral Tribunal 
+constituted by an order under Section 11(6) of the Act, 
+was not considered. Obviously, this was because of 
+the view taken in that decision that the Chief Justice 
+is not expected to decide anything while entertaining 
+a request under Section 11(6) of the Act and is only 
+performing an administrative function in appointing 
+an Arbitral Tribunal. Once it is held that there is an 
+adjudicatory function entrusted to the Chief Justice 
+by the Act, obviously, the right of the Arbitral Tribunal 
+to go behind the order passed by the Chief Justice 
+would take another hue and would be controlled by 
+Section 11(7) of the Act.
+25. … … While constituting an Arbitral Tribunal, on the 
+scheme of the Act, the Chief Justice has to consider 
+whether he as the Chief Justice has jurisdiction 
+in relation to the contract, whether there was an 
+arbitration agreement in terms of Section 7 of the Act 
+and whether the person before him with the request, 
+is a party to the arbitration agreement. On coming 
+to a conclusion on these aspects, he has to enquire 
+whether the conditions for exercise of his power under 
+
+[2026] 3 S.C.R. 
+13
+M/s Eminent Colonizers Private Limited v.  
+Rajasthan Housing Board and Ors.
+Section 11(6) of the Act exist in the case and only 
+on being satisfied in that behalf, could he appoint 
+an arbitrator or an Arbitral Tribunal on the basis of 
+the request. It is difficult to say that when one of the 
+parties raises an objection that there is no arbitration 
+agreement, raises an objection that the person who 
+has come forward with a request is not a party to the 
+arbitration agreement, the Chief Justice can come to 
+a conclusion on those objections without following 
+an adjudicatory process. Can he constitute an Arbitral 
+Tribunal, without considering these questions? If he 
+can do so, why should such a function be entrusted 
+to a high judicial authority like the Chief Justice. 
+Similarly, when the party raises an objection that the 
+conditions for exercise of the power under Section 
+11(6) of the Act are not fulfilled and the Chief Justice 
+comes to the conclusion that they have been fulfilled, 
+it is difficult to say that he was not adjudicating on a 
+dispute between the parties and was merely passing 
+an administrative order. It is also not correct to say that 
+by the mere constitution of an Arbitral Tribunal the rights 
+of the parties are not affected. Dragging a party to an 
+arbitration when there existed no arbitration agreement 
+or when there existed no arbitrable dispute, can certainly 
+affect the right of that party, and, even on monetary terms, 
+impose on him a serious liability for meeting the expenses 
+of the arbitration, even if it be the preliminary expenses 
+and his objection is upheld by the Arbitral Tribunal. 
+Therefore, it is not possible to accept the position 
+that no adjudication is involved in the constitution of 
+an Arbitral Tribunal.
+30. … … We also feel that adequate attention was not 
+paid to the requirement of the Chief Justice having to 
+decide that there is an arbitration agreement in terms of 
+Section 7 of the Act before he could exercise his power 
+under Section 11(6) of the Act and its implication. The 
+aspect, whether there was an arbitration agreement, 
+was not merely a jurisdictional fact for commencing 
+the arbitration itself, but it was also a jurisdictional 
+
+14
+[2026] 3 S.C.R.
+Supreme Court Reports
+fact for appointing an arbitrator on a motion under 
+Section 11(6) of the Act, was not kept in view. A Chief 
+Justice could appoint an arbitrator in exercise of his 
+power only if there existed an arbitration agreement 
+and without holding that there was an agreement, it 
+would not be open to him to appoint an arbitrator 
+saying that he was appointing an arbitrator since he 
+has been moved in that behalf and the applicant before 
+him asserts that there is an arbitration agreement. 
+Acceptance of such an argument, with great respect, 
+would reduce the high judicial authority entrusted with 
+the power to appoint an arbitrator, an automaton and 
+subservient to the Arbitral Tribunal which he himself 
+brings into existence. ……
+39. It is necessary to define what exactly the Chief 
+Justice, approached with an application under Section 
+11 of the Act, is to decide at that stage. Obviously, 
+he has to decide his own jurisdiction in the sense 
+whether the party making the motion has approached 
+the right High Court. He has to decide whether there 
+is an arbitration agreement, as defined in the Act and 
+whether the person who has made the request before 
+him, is a party to such an agreement. It is necessary to 
+indicate that he can also decide the question whether 
+the claim was a dead one; or a long-barred claim 
+that was sought to be resurrected and whether the 
+parties have concluded the transaction by recording 
+satisfaction of their mutual rights and obligations or 
+by receiving the final payment without objection……
+47 (i) The power exercised by the Chief Justice of the High 
+Court or the Chief Justice of India under Section 11(6) of 
+the Act is not an administrative power. It is a judicial power.
+(iv) The Chief Justice or the designated Judge will have 
+the right to decide the preliminary aspects as indicated 
+in the earlier part of this judgment. These will be his own 
+jurisdiction to entertain the request, the existence of a 
+valid arbitration agreement, the existence or otherwise of 
+a live claim, the existence of the condition for the exercise 
+
+[2026] 3 S.C.R. 
+15
+M/s Eminent Colonizers Private Limited v.  
+Rajasthan Housing Board and Ors.
+of his power and on the qualifications of the arbitrator or 
+arbitrators. The Chief Justice or the designated Judge 
+would be entitled to seek the opinion of an institution in 
+the matter of nominating an arbitrator qualified in terms 
+of Section 11(8) of the Act if the need arises but the order 
+appointing the arbitrator could only be that of the Chief 
+Justice or the designated Judge.
+(vii) Since an order passed by the Chief Justice of the 
+High Court or by the designated Judge of that Court is 
+a judicial order, an appeal will lie against that order only 
+under Article 136 of the Constitution to the Supreme Court.”
+(Emphasis supplied)
+21.	 This principle was reiterated in State of West Bengal vs. Sarkar 
+& Sarkar4.
+“8. It was the vehement contention of the learned counsel 
+for the appellant based on a series of judgments rendered 
+by this Court that Clause 12 (extracted above) was not an 
+arbitral clause and that the arbitrator as well as the High 
+Court had erred in determining the same.
+9. The learned counsel for the respondent Sarkar & Sarkar 
+contested the claim of the appellant. It was submitted that 
+the appellant could not be permitted even to raise the 
+instant plea so as to assail the order passed either by the 
+arbitrator (on 15-1-2004) or by the High Court (on 16-5-
+2006). The instant submission of the learned counsel for 
+the respondent was premised on the judgment rendered 
+by this Court in SBP & Co. v. Patel Engg. Ltd. Our pointed 
+attention was drawn to the conclusions drawn by the 
+Constitution Bench in the above judgment in para 20. Para 
+20 is reproduced below: (SCC pp. 649-50)
+“20. Section 16 is said to be the recognition of the principle 
+of Kompetenz-Kompetenz.  The fact that the Arbitral 
+Tribunal has the competence to rule on its own jurisdiction 
+and to define the contours of its jurisdiction, only means 
+4	
+(2018) 12 SCC 736
+
+16
+[2026] 3 S.C.R.
+Supreme Court Reports
+that when such issues arise before it, the Tribunal can, and 
+possibly, ought to decide them. This can happen when the 
+parties have gone to the Arbitral Tribunal without recourse 
+to Section 8 or 11 of the Act. But where the jurisdictional 
+issues are decided under these sections, before a reference 
+is made, Section 16 cannot be held to empower the Arbitral 
+Tribunal to ignore the decision given by the judicial authority 
+or the Chief Justice before the reference to it was made. 
+The competence to decide does not enable the Arbitral 
+Tribunal to get over the finality conferred on an order 
+passed prior to its entering upon the reference by the very 
+statute that creates it. That is the position arising out of 
+Section 11(7) of the Act read with Section 16 thereof. 
+The finality given to the order of the Chief Justice on 
+the matters within his competence under Section 11 
+of the Act are incapable of being reopened before the 
+Arbitral Tribunal. In Konkan Railway what is considered is 
+only the fact that under Section 16, the Arbitral Tribunal has 
+the right to rule on its own jurisdiction and any objection, 
+with respect to the existence or validity of the arbitration 
+agreement. What is the impact of Section 11(7) of the 
+Act on the Arbitral Tribunal constituted by an order under 
+Section 11(6) of the Act, was not considered. Obviously, 
+this was because of the view taken in that decision that 
+the Chief Justice is not expected to decide anything while 
+entertaining a request under Section 11(6) of the Act and 
+is only performing an administrative function in appointing 
+an Arbitral Tribunal.  Once it is held that there is an 
+adjudicatory function entrusted to the Chief Justice 
+by the Act, obviously, the right of the Arbitral Tribunal 
+to go behind the order passed by the Chief Justice 
+would take another hue and would be controlled by 
+Section 11(7) of the Act.”
+10.  It was the submission of the learned counsel for 
+the respondent that proceedings could not have been 
+entertained by the arbitrator under Section 16 of the 
+Arbitration Act in the present controversy because by 
+the orders of the High Court dated 24-5-2002 and 26-9-
+2002 (extracted above), the appointment of the arbitrator 
+
+[2026] 3 S.C.R. 
+17
+M/s Eminent Colonizers Private Limited v.  
+Rajasthan Housing Board and Ors.
+was made in exercise of the powers vested in the High 
+Court under Section 11 of the Arbitration Act. The factual 
+position depicted hereinabove as also the orders referred to 
+hereinabove, leave no room for doubt that Justice (Retired) 
+S.S. Ganguly was actually appointed as an arbitrator by 
+the High Court in exercise of the powers vested in the 
+High Court under Section 11 of the Arbitration Act. That 
+being the position, the learned counsel for the respondent 
+is fully justified in her submission that the said order could 
+not be tested by the arbitrator while considering the claim 
+raised by the appellant State of West Bengal under Section 
+16 of the Arbitration Act. Thus viewed, irrespective of 
+whether Clause 12 extracted hereinabove postulated 
+the adjudication of dispute between the parties through 
+an arbitrator, it is now not open to the appellant before 
+this Court to raise a challenge to the order passed by 
+the High Court appointing an arbitrator.” 
+(emphasis supplied)
+22.	 As held in SBP (supra), a Section 11 court was bound to decide 
+whether there was an arbitration agreement and further that such a 
+finding on the existence of a valid arbitration agreement would be 
+binding on the parties when the matter goes to the Arbitral Tribunal 
+and at subsequent stages of the proceedings. The only exception 
+being when the order appointing the Arbitrator is challenged before 
+this Court. The highlighted portion of SBP (supra), as extracted above, 
+puts this matter beyond any controversy. In the present case, the 
+order appointing the Arbitrator attained finality with no challenge being 
+thrown. The respondents accepted the order and did not challenge 
+the appointment in this Court. We have extracted the findings of the 
+order appointing the Arbitrator. The parties proceeded on the basis 
+that Clause 23 was an arbitration clause and in this scenario, the 
+only conclusion possible is that though not very categoric there is 
+an implied holding in the order appointing the Arbitrator about the 
+existence and validity of the arbitration agreement. For if it were not 
+so, the appointment could not have been and would not have been 
+made. The fact that the respondents accepted the order and did not 
+challenge it only puts the matter beyond any pale of controversy. The 
+further finding of the Commercial Court in the Section 34 application 
+
+18
+[2026] 3 S.C.R.
+Supreme Court Reports
+that the order of the Section 11 court did not have any precedential 
+value and hence the order will not be binding is in the teeth of the 
+judgment in SBP (supra).
+LEGAL POSITION FROM 23.10.2015: -
+23.	 The scenario would have been totally different if the 2015 
+(Amendment) Act had applied to the arbitral proceedings. The 
+scope of the inquiry has been clarified in In re Interplay Between 
+Arbitration Agreements under Arbitration and Conciliation Act, 
+1996 & Stamp Act, 18995, in the following terms : -
+“164. The 2015 Amendment Act has laid down different 
+parameters for judicial review under Section 8 and 
+Section 11. Where Section 8 requires the Referral 
+Court to look into the prima facie existence of a valid 
+arbitration agreement, Section 11 confines the Court’s 
+jurisdiction to the examination of the existence of 
+an arbitration agreement. Although the object and 
+purpose behind both Sections 8 and 11 is to compel 
+parties to abide by their contractual understanding, the 
+scope of power of the Referral Courts under the said 
+provisions is intended to be different. The same is also 
+evident from the fact that Section 37 of the Arbitration 
+Act allows an appeal from the order of an Arbitral 
+Tribunal refusing to refer the parties to arbitration 
+under Section 8, but not from Section 11. Thus, the 
+2015 Amendment Act has legislatively overruled the 
+dictum of Patel Engg. [SBP & Co. v. Patel Engg. Ltd., 
+(2005) 8 SCC 618] where it was held that Section 8 and 
+Section 11 are complementary in nature. Accordingly, 
+the two provisions cannot be read as laying down a 
+similar standard.
+165. The legislature confined the scope of reference 
+under Section 11(6-A) to the examination of the 
+existence of an arbitration agreement. The use of the 
+term “examination” in itself connotes that the scope 
+of the power is limited to a prima facie determination. 
+5	
+(2024) 6 SCC 1
+
+[2026] 3 S.C.R. 
+19
+M/s Eminent Colonizers Private Limited v.  
+Rajasthan Housing Board and Ors.
+Since the Arbitration Act is a self-contained code, the 
+requirement of “existence” of an arbitration agreement 
+draws effect from Section 7 of the Arbitration Act. In 
+Duro Felguera [Duro Felguera, S.A. v. Gangavaram 
+Port Ltd., (2017) 9 SCC 729, this Court held that the 
+Referral Courts only need to consider one aspect to 
+determine the existence of an arbitration agreement — 
+whether the underlying contract contains an arbitration 
+agreement which provides for arbitration pertaining to 
+the disputes which have arisen between the parties to 
+the agreement. Therefore, the scope of examination 
+under Section 11(6-A) should be confined to the 
+existence of an arbitration agreement on the basis 
+of Section 7. Similarly, the validity of an arbitration 
+agreement, in view of Section 7, should be restricted 
+to the requirement of formal validity such as the 
+requirement that the agreement be in writing. This 
+interpretation also gives true effect to the doctrine 
+of competence-competence by leaving the issue of 
+substantive existence and validity of an arbitration 
+agreement to be decided by Arbitral Tribunal under 
+Section 16. We accordingly clarify the position of law 
+laid down in Vidya Drolia [Vidya Drolia v. Durga Trading 
+Corpn., (2021) 2 SCC 1 in the context of Section 8 and 
+Section 11 of the Arbitration Act.
+167. Section 11(6-A) uses the expression “examination 
+of the existence of an arbitration agreement”. The 
+purport of using the word “examination” connotes 
+that the legislature intends that the Referral Court 
+has to inspect or scrutinise the dealings between the 
+parties for the existence of an arbitration agreement. 
+Moreover, the expression “examination” does not 
+connote or imply a laborious or contested inquiry. [ P. 
+Ramanatha Aiyar, The Law Lexicon (2nd Edn., 1997) 
+666.] On the other hand, Section 16 provides that the 
+Arbitral Tribunal can “rule” on its jurisdiction, including 
+the existence and validity of an arbitration agreement. 
+A “ruling” connotes adjudication of disputes after 
+admitting evidence from the parties. Therefore, it 
+
+20
+[2026] 3 S.C.R.
+Supreme Court Reports
+is evident that the Referral Court is only required 
+to examine the existence of arbitration agreements, 
+whereas the Arbitral Tribunal ought to rule on its 
+jurisdiction, including the issues pertaining to the 
+existence and validity of an arbitration agreement. A 
+similar view was adopted by this Court in Shin-Etsu 
+Chemical Co. Ltd. v. Aksh Optifibre Ltd., (2005) 7 SCC 
+234].
+169. When the Referral Court renders a prima facie opinion, 
+neither the Arbitral Tribunal, nor the Court enforcing the 
+arbitral award will be bound by such a prima facie view. 
+If a prima facie view as to the existence of an arbitration 
+agreement is taken by the Referral Court, it still allows 
+the Arbitral Tribunal to examine the issue in depth. Such 
+a legal approach will help the Referral Court in weeding 
+out prima facie non-existent arbitration agreements. It will 
+also protect the jurisdictional competence of the Arbitral 
+Tribunals to decide on issues pertaining to the existence 
+and validity of an arbitration agreement.”
+[Emphasis supplied]
+The above is set out only to bring out the contrast. Section 26 of the 
+2015 Amendment Act also made this very explicit.
+ “26. Act not to apply to pending arbitral proceedings.– 
+Nothing contained in this Act shall apply to the arbitral 
+proceedings commenced, in accordance with the provisions 
+of Section 21 of the principal Act, before the commencement 
+of this Act unless the parties otherwise agree but this Act 
+shall apply in relation to arbitral proceedings commenced 
+on or after the date of commencement of this Act”
+PRECEDENT AND RES JUDICATA – DISTINCTION: -
+24.	 There is a clear conceptual distinction between precedent and res 
+judicata. Salmond on Jurisprudence P.J. Fitzgerald (12th Edition) page 
+141 states “a judicial precedent speaks in England with authority; it is 
+not merely evidence of the law but a source of it, and the courts are 
+bound to follow the law that is so established”. A decision between two 
+parties which sets out a principle of law will operate as a precedent 
+
+[2026] 3 S.C.R. 
+21
+M/s Eminent Colonizers Private Limited v.  
+Rajasthan Housing Board and Ors.
+for disputes between two other parties too. A precedent operates in 
+rem. In contrast, a res judicata operates in personam between the 
+same parties either in the later stage of the same litigation between 
+them or in a different litigation between them. That is the essential 
+distinction between the two. 
+25.	 This Court in State of Rajasthan vs. Nemi Chand Mahela and 
+Others6, held as under:- 
+“11. The learned counsel for the petitioners had drawn 
+our attention to para 22 of the decision in  Manmohan 
+Sharma case [Manmohan Sharma v. State of Rajasthan, 
+(2014) 5 SCC 782 which refers to the case of one Danveer 
+Singh whose writ petition had been allowed [Danveer 
+Singh  v.  Rural Development & Panchyati Raj Deptt., 
+WP (C) No. 2200 of 2000 sub nom Jayanti Sharma v. Rural 
+Development & Panchyati Raj Deptt., WP (C) No. 1646 
+of 2000, order dated 26-2-2001 (Raj)] and the order 
+had attained finality as it was not challenged before the 
+Division Bench or before the Supreme Court. Termination of 
+services in the case of Danveer Singh, it was accordingly 
+held, was not justified and in accordance with law. The 
+reasoning given in paras 22 and 23 in Manmohan Sharma 
+case [Manmohan Sharma v. State of Rajasthan, (2014) 
+5 SCC 782 relating to the case of Danveer Singh would 
+reflect the difference between the doctrine of res judicata 
+and law of precedent. Res judicata operates in personam 
+i.e. the matter in issue between the same parties in the 
+former litigation, while law of precedent operates in rem i.e. 
+the law once settled is binding on all under the jurisdiction 
+of the High Court and the Supreme Court. Res judicata 
+binds the parties to the proceedings for the reason that 
+there should be an end to the litigation and therefore, 
+subsequent proceeding inter se parties to the litigation is 
+barred. Therefore, law of res judicata concerns the same 
+matter, while law of precedent concerns application of 
+law in a similar issue. In res judicata, the correctness of 
+the decision is normally immaterial and it does not matter 
+6	
+(2019) 14 SCC 179
+
+22
+[2026] 3 S.C.R.
+Supreme Court Reports
+whether the previous decision was right or wrong, unless 
+the erroneous determination relates to the jurisdictional 
+matter of that body. [See Makhija Construction & Engg. (P) 
+Ltd. v. Indore Development Authority, (2005) 6 SCC 304] ]”
+26.	 The Commercial Court to hold against the appellant relied on two 
+judgments of the Rajasthan High Court, namely, Mohammed Arif 
+Contractor (supra) and M/s Marudhar Construction (supra). 
+The finding of the Commercial Court was that in Mohammed Arif 
+(supra) (judgment dated 08.04.2015) a learned single judge, while 
+adjudicating a Section 11 Application, held an identical Clause 23 to 
+be not an arbitration clause. M/s Marudhar Construction (supra) 
+was a short order dated 06.05.2016 in a Section 11 Application which 
+followed Mohammed Arif (supra).
+27.	 The said judgments will not enure to the support of the respondents. 
+In the present case, while adjudicating a Section 11 Application a 
+learned single judge, who had jurisdiction, interpreted the contractual 
+document and appointed an arbitrator. We have already held 
+hereinabove that in the said order though the finding is not categoric, 
+there is an implied holding about the existence and validity of the 
+arbitration agreement. As held in Nemi Chand (supra) the correctness 
+of the decision is immaterial and it did not matter whether the previous 
+decision was right or wrong unless their erroneous determination 
+relates to the jurisdiction of the body.
+28.	 In an erudite judgment, speaking for this Court Rohinton Fali Nariman, 
+J. in Canara Bank vs. N.G. Subbaraya Setty and Another7, 
+summarised the principles thus:-
+“34. Given the conspectus of authorities that have been 
+referred to by us hereinabove, the law on the subject may 
+be stated as follows:
+34.1. The general rule is that all issues that arise directly 
+and substantially in a former suit or proceeding between 
+the same parties are res judicata in a subsequent suit 
+or proceeding between the same parties. These would 
+include issues of fact, mixed questions of fact and law, 
+and issues of law.
+7	
+(2018) 16 SCC 228
+
+[2026] 3 S.C.R. 
+23
+M/s Eminent Colonizers Private Limited v.  
+Rajasthan Housing Board and Ors.
+34.2. To this general proposition of law, there are certain 
+exceptions when it comes to issues of law:
+34.2.1.  Where an issue of law decided between the 
+same parties in a former suit or proceeding relates to the 
+jurisdiction of the court, an erroneous decision in the former 
+suit or proceeding is not res judicata in a subsequent suit 
+or proceeding between the same parties, even where the 
+issue raised in the second suit or proceeding is directly and 
+substantially the same as that raised in the former suit or 
+proceeding. This follows from a reading of Section 11 of the 
+Code of Civil Procedure itself, for the Court which decides 
+the suit has to be a court competent to try such suit. When 
+read with Explanation I to Section 11, it is obvious that 
+both the former as well as the subsequent suit need to be 
+decided in courts competent to try such suits, for the “former 
+suit” can be a suit instituted after the first suit, but which 
+has been decided prior to the suit which was instituted 
+earlier. An erroneous decision as to the jurisdiction of a 
+court cannot clothe that court with jurisdiction where it has 
+none. Obviously, a civil court cannot send a person to jail 
+for an offence committed under the Penal Code. If it does 
+so, such a judgment would not bind a Magistrate and/or 
+Sessions Court in a subsequent proceeding between the 
+same parties, where the Magistrate sentences the same 
+person for the same offence under the Penal Code. Equally, 
+a civil court cannot decide a suit between a landlord and a 
+tenant arising out of the rights claimed under a Rent Act, 
+where the Rent Act clothes a special court with jurisdiction 
+to decide such suits. As an example, under Section 28 
+of the Bombay Rent Act, 1947, the Small Cause Court 
+has exclusive jurisdiction to hear and decide proceedings 
+between a landlord and a tenant in respect of rights which 
+arise out of the Bombay Rent Act, and no other court has 
+jurisdiction to embark upon the same. In this case, even 
+though the civil court, in the absence of the statutory bar 
+created by the Rent Act, would have jurisdiction to decide 
+such suits, it is the statutory bar created by the Rent Act 
+that must be given effect to as a matter of public policy. 
+[See, Natraj Studios (P) Ltd. v. Navrang Studios at SCR 
+p. 482]. An erroneous decision clothing the civil court with 
+
+24
+[2026] 3 S.C.R.
+Supreme Court Reports
+jurisdiction to embark upon a suit filed by a landlord against 
+a tenant, in respect of rights claimed under the Bombay 
+Rent Act, would, therefore, not operate as res judicata 
+in a subsequent suit filed before the Small Cause Court 
+between the same parties in respect of the same matter 
+directly and substantially in issue in the former suit.
+34.2.2. An issue of law which arises between the same 
+parties in a subsequent suit or proceeding is not res 
+judicata if, by an erroneous decision given on a statutory 
+prohibition in the former suit or proceeding, the statutory 
+prohibition is not given effect to. This is despite the fact that 
+the matter in issue between the parties may be the same 
+as that directly and substantially in issue in the previous 
+suit or proceeding. This is for the reason that in such 
+cases, the rights of the parties are not the only matter for 
+consideration (as is the case of an erroneous interpretation 
+of a statute inter partes), as the public policy contained in 
+the statutory prohibition cannot be set at naught. This is 
+for the same reason as that contained in matters which 
+pertain to issues of law that raise jurisdictional questions. 
+We have seen how, in Natraj Studios, it is the public policy 
+of the statutory prohibition contained in Section 28 of the 
+Bombay Rent Act that has to be given effect to. Likewise, 
+the public policy contained in other statutory prohibitions, 
+which need not necessarily go to jurisdiction of a court, 
+must equally be given effect to, as otherwise special 
+principles of law are fastened upon parties when special 
+considerations relating to public policy mandate that this 
+cannot be done.
+34.3. Another exception to this general rule follows from 
+the matter in issue being an issue of law different from 
+that in the previous suit or proceeding. This can happen 
+when the issue of law in the second suit or proceeding 
+is based on different facts from the matter directly and 
+substantially in issue in the first suit or proceeding. Equally, 
+where the law is altered by a competent authority since the 
+earlier decision, the matter in issue in the subsequent suit 
+or proceeding is not the same as in the previous suit or 
+proceeding, because the law to be interpreted is different.”
+
+[2026] 3 S.C.R. 
+25
+M/s Eminent Colonizers Private Limited v.  
+Rajasthan Housing Board and Ors.
+29.	 The learned single judge, in the present case, when he entertained 
+a Section 11 Application and interpreted a contractual document had 
+jurisdiction to do so under Section 11. Right or wrong, that decision 
+should bind. The respondents did not carry the order appointing an 
+arbitrator in appeal. In view of the same, the holding in SBP (supra), 
+squarely applies and on the present facts the respondents could not 
+have challenged the existence and validity of the arbitration clause 
+before the arbitrator. For the very same reason, the judgments 
+in Mohammed Arif Contractor (supra) and M/s Marudhar 
+Construction (supra) can have no application to the present facts.
+30.	 In the present case, the order appointing the Arbitrator read with the 
+law laid down in SBP (supra), clearly operates as a res judicata, 
+insofar as the existence of and validity of the arbitration agreement 
+between the parties is concerned. In the SBP (supra) regime, this 
+was the legal position.
+31.	 SBP (supra) also puts the matter beyond any controversy by 
+holding that not only will the parties be bound before the Arbitrator 
+with regard to the finding on existence and validity of the arbitration 
+agreement they will also be bound during the subsequent stages of 
+the proceedings which will include the Section 34 application stage, 
+the Section 37 appeal stage and before this Court. The Commercial 
+Court had missed the conceptual distinction between “Precedent” 
+and “Res judicata” and consequently fell into an error.
+CONCLUSION AND DIRECTIONS: -
+32.	 In view of what we have held hereinabove, the Commercial Court 
+and the High Court clearly erred in going into the existence and 
+validity of Clause 23 and pronouncing that the said clause was not 
+an arbitration clause. We, accordingly, set aside the judgment of the 
+High Court dated 20.02.2020 in D.B. Civil Miscellaneous Appeal No. 
+2435 of 2019. The appeal stands allowed. The result will be that the 
+proceedings before the Commercial Court in Arbitration Case No. 
+221 of 2018 will stand set aside and the matter is remitted to the 
+Commercial Court, Judge No.3, Jaipur for hearing Arbitration Case 
+No. 221 of 2018 on grounds other than what has been concluded 
+hereinabove. We say so for the reason that while allowing the Section 
+34 application on the ground that Section 23 was not an arbitration 
+clause, the Commercial Court recorded that the other objections 
+
+26
+[2026] 3 S.C.R.
+Supreme Court Reports
+were not considered. It is only fair that the matter should be remitted 
+for consideration of the other objections. Considering the fact that 
+the Award is of the year 2015, we direct the Commercial Court No. 
+3 to dispose of Arbitration Case No. 221 of 2018 within a period of 
+three months from the date of receipt of this judgment. Parties to 
+bear their own costs.
+FACTS IN CIVIL APPEAL ARISING OUT OF SPECIAL LEAVE 
+PETITION (CIVIL) NO. 8331 of 2021:-
+33.	 Leave granted.
+34.	 On 11.10.2007, the appellant was awarded work by the respondents 
+for construction of the structure of 180 LIG skeleton flats (stilt + 10 
+storey) at Sector 29, Pratap Nagar, Sanganer, Jaipur, Rajasthan and 
+entered into a contract agreement bearing No. 207/2007-08. The 
+contract was for a lump sum value of Rs.4,58,05,217.45. The date 
+of commencement was agreed to be 20.10.2007 and completion 
+was 19.07.2008. Additional work to the tune of Rs. 64,01,689/- was 
+awarded. The appellant raised an Escalation Bill amounting to 
+Rs.55,77,080/- under Clause 45 of the Agreement in order to recover 
+the prices of labour and material which had arisen during the period 
+of completion of the construction work. Since the Escalation Bill was 
+not paid and also penalty levied of Rs.2.5 lakhs was not refunded 
+and claiming that the respondents failed to constitute an empowered 
+Standing Committee under Clause 23 of the Agreement, a Section 
+11 application came to be filed. By an order of 23.05.2014, a learned 
+Single Judge held that since indisputably the Committee constituted 
+was not in terms of Clause 23, appointed Mr. Justice Anoop Chand 
+Goyal (Retd.) as the sole Arbitrator. The sole Arbitrator entered upon 
+the reference and passed an Award on 25.02.2016 directing refund 
+of Rs. 2.50 lakhs as penalty and awarding escalation charge to 
+the tune of Rs.5,09,468/-. Further interest @ 10% from 13.08.2010 
+was awarded. Even though the Award was passed on 25.02.2016, 
+the arbitral proceedings commenced before the commencement of 
+the Amendment Act of 2015. Before the Arbitrator, the respondents 
+contended that Clause 23 of the Agreement was not an arbitration 
+clause. The arbitrator held that since the Section 11 application 
+stood allowed, the Arbitral Tribunal cannot sit over the order of the 
+High Court. 
+
+[2026] 3 S.C.R. 
+27
+M/s Eminent Colonizers Private Limited v.  
+Rajasthan Housing Board and Ors.
+35.	 The respondents filed a Section 34 application challenging the 
+award. The Commercial Court, by relying on the judgments of 
+the Rajasthan High Court in Mohd. Arif Contractor (Supra) and 
+Marudhar Construction (Supra) held that Clause 23 was not an 
+arbitration clause. In appeal before the High Court, the findings of 
+the Commercial Court were confirmed. 
+36.	 Our reasoning and conclusion in Civil Appeal arising out of Special 
+Leave Petition (C) No. 8299 of 2021 fully applies to the present 
+set of facts. Appling the same reasoning, the appeal would stand 
+allowed. The order of the High Court dated 20.02.2020 in D.B. 
+Civil Miscellaneous Appeal No. 796 of 2019 stands set aside. 
+The consequence will be that the matter will stand remitted to the 
+Commercial Court, Judge No.3, Jaipur in hearing Arbitration Case 
+No. 114 of 2018 on grounds other than what has been concluded 
+hereinabove. We say so for the reason that while allowing the Section 
+34 application on the ground that Section 23 was not an arbitration 
+clause, the Commercial Court recorded that the other objections are 
+not considered. In view of our holding hereinabove, it is only fair that 
+the matter should be remitted for consideration of other objections. 
+Considering the fact that the Award is of the year 2016, we direct 
+the Commercial Court No.3 to dispose of Arbitration Case No. 114 
+of 2018 within a period of three months from the date of receipt of 
+this judgment. Parties to bear their own costs.
+37.	 Both the appeals are disposed of in the above terms.
+Result of the case: Appeals disposed of.
+†Headnotes prepared by: Nidhi Jain
