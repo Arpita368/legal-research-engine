@@ -1,0 +1,10 @@
+pdfplumber
+import os
+import re
+import sys
+import json
+import glob
+import argparse
+import requests
+bs4
+BeautifulSoup
