@@ -1,0 +1,6 @@
+⚠ Attempted to load C:\Users\ADITYA KANDLE\Downloads\legal-research-engine\frontend\node_modules\next\next-swc-fallback\@next\swc-win32-x64-msvc\next-swc.win32-x64-msvc.node, but it was not installed
+⚠ Attempted to load @next/swc-win32-x64-msvc, but it was not installed
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: EPERM: operation not permitted, rename 'C:\Users\ADITYA KANDLE\Downloads\legal-research-engine\frontend\.next\dev\cache\webpack\client-development\6.pack.gz_' -> 'C:\Users\ADITYA KANDLE\Downloads\legal-research-engine\frontend\.next\dev\cache\webpack\client-development\6.pack.gz'
+⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
