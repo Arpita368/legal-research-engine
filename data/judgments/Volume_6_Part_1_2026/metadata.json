@@ -16,7 +16,9 @@
         "end_page": 177,
         "page_count": 171,
         "txt_file": "judgment_001.txt",
-        "json_file": "judgment_001.json"
+        "json_file": "judgment_001.json",
+        "chunks_file": "chunks_001.json",
+        "total_chunks": 142
     },
     {
         "case_id": "002",
@@ -36,7 +38,9 @@
         "end_page": 224,
         "page_count": 47,
         "txt_file": "judgment_002.txt",
-        "json_file": "judgment_002.json"
+        "json_file": "judgment_002.json",
+        "chunks_file": "chunks_002.json",
+        "total_chunks": 42
     },
     {
         "case_id": "003",
@@ -56,7 +60,9 @@
         "end_page": 236,
         "page_count": 12,
         "txt_file": "judgment_003.txt",
-        "json_file": "judgment_003.json"
+        "json_file": "judgment_003.json",
+        "chunks_file": "chunks_003.json",
+        "total_chunks": 10
     },
     {
         "case_id": "004",
@@ -76,7 +82,9 @@
         "end_page": 246,
         "page_count": 10,
         "txt_file": "judgment_004.txt",
-        "json_file": "judgment_004.json"
+        "json_file": "judgment_004.json",
+        "chunks_file": "chunks_004.json",
+        "total_chunks": 9
     },
     {
         "case_id": "005",
@@ -96,7 +104,9 @@
         "end_page": 268,
         "page_count": 22,
         "txt_file": "judgment_005.txt",
-        "json_file": "judgment_005.json"
+        "json_file": "judgment_005.json",
+        "chunks_file": "chunks_005.json",
+        "total_chunks": 19
     },
     {
         "case_id": "006",
@@ -115,7 +125,9 @@
         "end_page": 288,
         "page_count": 20,
         "txt_file": "judgment_006.txt",
-        "json_file": "judgment_006.json"
+        "json_file": "judgment_006.json",
+        "chunks_file": "chunks_006.json",
+        "total_chunks": 18
     },
     {
         "case_id": "007",
@@ -134,7 +146,9 @@
         "end_page": 299,
         "page_count": 11,
         "txt_file": "judgment_007.txt",
-        "json_file": "judgment_007.json"
+        "json_file": "judgment_007.json",
+        "chunks_file": "chunks_007.json",
+        "total_chunks": 10
     },
     {
         "case_id": "008",
@@ -153,6 +167,8 @@
         "end_page": 318,
         "page_count": 19,
         "txt_file": "judgment_008.txt",
-        "json_file": "judgment_008.json"
+        "json_file": "judgment_008.json",
+        "chunks_file": "chunks_008.json",
+        "total_chunks": 16
     }
 ]

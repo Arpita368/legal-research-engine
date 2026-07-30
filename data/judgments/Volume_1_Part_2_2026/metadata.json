@@ -16,7 +16,9 @@
         "end_page": 35,
         "page_count": 29,
         "txt_file": "judgment_001.txt",
-        "json_file": "judgment_001.json"
+        "json_file": "judgment_001.json",
+        "chunks_file": "chunks_001.json",
+        "total_chunks": 24
     },
     {
         "case_id": "002",
@@ -35,7 +37,9 @@
         "end_page": 75,
         "page_count": 40,
         "txt_file": "judgment_002.txt",
-        "json_file": "judgment_002.json"
+        "json_file": "judgment_002.json",
+        "chunks_file": "chunks_002.json",
+        "total_chunks": 34
     },
     {
         "case_id": "003",
@@ -54,7 +58,9 @@
         "end_page": 98,
         "page_count": 23,
         "txt_file": "judgment_003.txt",
-        "json_file": "judgment_003.json"
+        "json_file": "judgment_003.json",
+        "chunks_file": "chunks_003.json",
+        "total_chunks": 21
     },
     {
         "case_id": "004",
@@ -74,7 +80,9 @@
         "end_page": 112,
         "page_count": 14,
         "txt_file": "judgment_004.txt",
-        "json_file": "judgment_004.json"
+        "json_file": "judgment_004.json",
+        "chunks_file": "chunks_004.json",
+        "total_chunks": 13
     },
     {
         "case_id": "005",
@@ -93,7 +101,9 @@
         "end_page": 127,
         "page_count": 15,
         "txt_file": "judgment_005.txt",
-        "json_file": "judgment_005.json"
+        "json_file": "judgment_005.json",
+        "chunks_file": "chunks_005.json",
+        "total_chunks": 13
     },
     {
         "case_id": "006",
@@ -112,7 +122,9 @@
         "end_page": 142,
         "page_count": 15,
         "txt_file": "judgment_006.txt",
-        "json_file": "judgment_006.json"
+        "json_file": "judgment_006.json",
+        "chunks_file": "chunks_006.json",
+        "total_chunks": 13
     },
     {
         "case_id": "007",
@@ -132,7 +144,9 @@
         "end_page": 170,
         "page_count": 28,
         "txt_file": "judgment_007.txt",
-        "json_file": "judgment_007.json"
+        "json_file": "judgment_007.json",
+        "chunks_file": "chunks_007.json",
+        "total_chunks": 26
     },
     {
         "case_id": "008",
@@ -151,7 +165,9 @@
         "end_page": 187,
         "page_count": 17,
         "txt_file": "judgment_008.txt",
-        "json_file": "judgment_008.json"
+        "json_file": "judgment_008.json",
+        "chunks_file": "chunks_008.json",
+        "total_chunks": 16
     },
     {
         "case_id": "009",
@@ -170,7 +186,9 @@
         "end_page": 207,
         "page_count": 20,
         "txt_file": "judgment_009.txt",
-        "json_file": "judgment_009.json"
+        "json_file": "judgment_009.json",
+        "chunks_file": "chunks_009.json",
+        "total_chunks": 17
     },
     {
         "case_id": "010",
@@ -189,7 +207,9 @@
         "end_page": 220,
         "page_count": 13,
         "txt_file": "judgment_010.txt",
-        "json_file": "judgment_010.json"
+        "json_file": "judgment_010.json",
+        "chunks_file": "chunks_010.json",
+        "total_chunks": 11
     },
     {
         "case_id": "011",
@@ -208,7 +228,9 @@
         "end_page": 283,
         "page_count": 63,
         "txt_file": "judgment_011.txt",
-        "json_file": "judgment_011.json"
+        "json_file": "judgment_011.json",
+        "chunks_file": "chunks_011.json",
+        "total_chunks": 55
     },
     {
         "case_id": "012",
@@ -227,7 +249,9 @@
         "end_page": 293,
         "page_count": 10,
         "txt_file": "judgment_012.txt",
-        "json_file": "judgment_012.json"
+        "json_file": "judgment_012.json",
+        "chunks_file": "chunks_012.json",
+        "total_chunks": 9
     },
     {
         "case_id": "013",
@@ -246,6 +270,8 @@
         "end_page": 314,
         "page_count": 21,
         "txt_file": "judgment_013.txt",
-        "json_file": "judgment_013.json"
+        "json_file": "judgment_013.json",
+        "chunks_file": "chunks_013.json",
+        "total_chunks": 15
     }
 ]
