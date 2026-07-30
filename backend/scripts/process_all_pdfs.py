@@ -3,6 +3,7 @@ from pathlib import Path
 
 from backend.preprocessing.judgment_splitter import JudgmentSplitter
 from backend.preprocessing.metadata_extractor import MetadataExtractor
+from backend.preprocessing.judgment_chunker import JudgmentChunker
 
 RAW_FOLDER = Path("data/raw")
 OUTPUT_ROOT = Path("data/judgments")
@@ -13,6 +14,7 @@ pdfs = sorted(RAW_FOLDER.glob("*.pdf"))
 
 splitter = JudgmentSplitter()
 extractor = MetadataExtractor()
+chunker = JudgmentChunker()
 
 total = 0
 
@@ -36,9 +38,11 @@ for pdf in pdfs:
 
         txt_name = f"judgment_{case_id}.txt"
         json_name = f"judgment_{case_id}.json"
+        chunks_name = f"chunks_{case_id}.json"
 
         txt_path = volume_folder / txt_name
         json_path = volume_folder / json_name
+        chunks_path = volume_folder / chunks_name
 
         text = judgment["text"]
 
@@ -47,6 +51,17 @@ for pdf in pdfs:
         # ---------------------------------
 
         meta = extractor.extract(text)
+
+        meta["case_id"] = case_id
+
+        # ---------------------------------
+        # Generate Token Chunks
+        # ---------------------------------
+
+        chunks = chunker.split(
+            text=text,
+            metadata=meta
+        )
 
         # ---------------------------------
         # Save TXT
@@ -58,7 +73,7 @@ for pdf in pdfs:
         )
 
         # ---------------------------------
-        # Save JSON
+        # Save Judgment JSON
         # ---------------------------------
 
         obj = {
@@ -91,6 +106,7 @@ for pdf in pdfs:
                 + 1,
 
             "text": text
+
         }
 
         with open(
@@ -101,6 +117,23 @@ for pdf in pdfs:
 
             json.dump(
                 obj,
+                f,
+                indent=4,
+                ensure_ascii=False
+            )
+
+        # ---------------------------------
+        # Save Chunk JSON
+        # ---------------------------------
+
+        with open(
+            chunks_path,
+            "w",
+            encoding="utf8"
+        ) as f:
+
+            json.dump(
+                chunks,
                 f,
                 indent=4,
                 ensure_ascii=False
@@ -141,7 +174,11 @@ for pdf in pdfs:
 
             "txt_file": txt_name,
 
-            "json_file": json_name
+            "json_file": json_name,
+
+            "chunks_file": chunks_name,
+
+            "total_chunks": len(chunks)
 
         })
 
