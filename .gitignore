@@ -1,1 +1,6 @@
+qdrant_storage/
+venv/
+__pycache__/
+*.pyc
+.vscode/
 plan.md

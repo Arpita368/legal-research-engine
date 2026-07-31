@@ -1,7 +1,8 @@
-pymupdf
-import os
-import re
-import sys
-import json
-import glob
-import argparse
+pymupdf>=1.23.0
+pdfplumber>=0.10.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+qdrant-client>=1.7.0
+sentence-transformers>=2.2.0
+numpy>=1.24.0,<2.0.0
+python-dotenv>=1.0.0
