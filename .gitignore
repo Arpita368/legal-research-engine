@@ -5,3 +5,8 @@ __pycache__/
 .vscode/
 plan.md
 qdrant_backup_*/
+plan.md
+
+.env
+.env.*
+!.env.example
