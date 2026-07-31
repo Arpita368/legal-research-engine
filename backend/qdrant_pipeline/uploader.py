@@ -1,3 +1,21 @@
+"""
+uploader.py - Upload legal document chunks to Qdrant
+
+Workflow:
+1. Find all JSON files in data directories
+2. Load chunks from each file
+3. Generate embeddings using SentenceTransformer
+4. Upload vectors with metadata to Qdrant in batches
+
+Usage:
+    from qdrant_pipeline.client import QdrantManager
+    from qdrant_pipeline.uploader import Uploader
+    
+    qdrant = QdrantManager()
+    uploader = Uploader(qdrant.client)
+    uploader.process()  # Finds and uploads all JSON files
+    qdrant.close()
+"""
 import json
 import os
 import glob

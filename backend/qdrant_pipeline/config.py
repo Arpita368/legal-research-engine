@@ -19,9 +19,12 @@ Settings:
 """
 QDRANT_HOST = "localhost"
 QDRANT_PORT = 6333
-COLLECTION_NAME = "legal_chunks"
-MODEL_NAME = "BAAI/bge-m3"
-VECTOR_SIZE = 1024
+COLLECTION_NAME = "legal_chunks_test"
+#MODEL_NAME = "BAAI/bge-m3"
+#VECTOR_SIZE = 1024
+# To (faster model):
+MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
+VECTOR_SIZE = 384
 BATCH_SIZE = 100
 DATA_PATHS = [
     "data/processed_statutes",
