@@ -4,6 +4,3 @@ __pycache__/
 *.pyc
 .vscode/
 plan.md
-qdrant_backup_*/
-*.mmap
-*.dat
